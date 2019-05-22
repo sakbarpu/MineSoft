@@ -1,0 +1,72 @@
+Project description;;;
+
+    The project is called MineSoft (short for Mining Software). 
+    The project deals with knowledge extraction from software repositories.
+    There are two techniques implemented here to extract knowledge from the code:
+
+        (1) SWordNet: Inferring semantically related words from software context, ESE Journal 2014
+        (2) VerbNet: Automatically Mining Software-Based,Semantically-Similar Words from Comment-Code Mappings, MSR 2013
+
+    Mainly you can extract pairs of semantically related words from the corpus (repositories)
+
+How to run this program;;;
+
+        This main script is the entry point for project. Usually called as:
+
+        python3.4 main.py [-h] -method method_name -input input_dir -output output_dir
+
+        -h, --help            show this help message and exit
+        -method method_name, --method method_name
+                            which method you want to use (either swordnet or verbnet)
+        -input input_dir, --input input_dir
+                            which directory is input (e.g. eclipse repo root path)
+        -output output_dir, --output output_dir
+                            which directory is output (i.e. where pairs will be stored)
+
+Prerequisite;;;
+
+	(1) Dependencies as defined in Gupta's POSSE:
+
+		1. Perl required 
+		   Tested on v5.14.2 
+
+		2.WordNet should be installed. For Linux just do ``apt install wordnet''.
+
+		Please provide the path to the WordNet binary in the script:
+
+		./POSSE/Scripts/getWordNetType.sh
+
+		Change line#2 
+
+		/usr/bin/wordnet $1 | grep "Information available for \(noun\|verb\|adj\|adv\) $1" | cut -d " " -f4
+
+		TO
+
+		<pathToWordNetBinary> $1 | grep "Information available for \(noun\|verb\|adj\|adv\) $1" | cut -d " " -f4
+
+	(2) Python 3 required 
+
+	(3) Following Python libraries needed:
+		
+		nltk
+		regex
+		string
+
+	(4) nltk stanford pos tagger need nltk internals to be pointed to java 1.8
+	
+		Find the line in the verbnet.py that says:
+		os.environ['JAVAHOME'] = "/usr/lib/jvm/java-1.8.0-openjdk-amd64/bin/java"
+	
+		And change the path to where your java 1.8 is residing
+
+What does the output look like;;;
+
+	The output is a csv file that has following columns:
+
+		term1, term2, number of contexts, context1, context2, context3, ...
+
+	term1 = the first term in the pair of related terms
+	term2 = the second term in the pair of related terms
+	number of contexts = in how many occurrences these terms term1 and term2 are found to be similar
+	context1, context2, context3, ... = comma separated pair of contexts in which term1 appeared and term2 appeared
+

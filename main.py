@@ -32,19 +32,8 @@ How to run this script;;;
 __author__ = ["Shayan Ali Akbar"]
 __email__ =  ["sakbar@purdue.edu"]
 
-import sys, os
+import sys 
 import argparse
-import glob
-import fnmatch
-import nltk
-import regex
-import concepts
-import string
-import pickle
-import csv
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 
 from swordnet import *
 from verbnet import *
