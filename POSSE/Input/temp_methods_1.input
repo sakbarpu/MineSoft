@@ -1,0 +1,732 @@
+getSimpleIdentifier () | get simple identifier
+unregisterAdapters (IAdapterFactory factory) | unregister adapters
+canonicalize () | canonicalize
+canonicalize () | canonicalize
+collapseParentReferences () | collapse parent references
+collapseParentReferences () | collapse parent references
+collapseSlashes (String path) | collapse slashes
+computeSegments (String path) | compute segments
+encodeSegment (String string, StringBuffer buf) | encode segment
+initialize (String deviceString, String path) | initialize
+beginTask (String name, int totalWork) | begin task
+beginTask (String name, int totalWork) | begin task
+getContentFilters () | get content filters
+getContentFilters () | get content filters
+getContentFilters () | get content filters
+getType () | get type
+getType () | get type
+getType () | get type
+isExported () | is exported
+getPackagePrefixes () | get package prefixes
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+initializeDefaultPluginPreferences () | initialize default plugin preferences
+isDebugging () | is debugging
+isDebugging () | is debugging
+setDebugging (boolean value) | set debugging
+setDebugging (boolean value) | set debugging
+setDebugging (boolean value) | set debugging
+shutdown () | shutdown
+shutdown () | shutdown
+shutdown () | shutdown
+shutdown () | shutdown
+shutdown () | shutdown
+shutdown () | shutdown
+shutdown () | shutdown
+shutdown () | shutdown
+startup () | startup
+startup () | startup
+startup () | startup
+startup () | startup
+startup () | startup
+startup () | startup
+startup () | startup
+startup () | startup
+startup () | startup
+start (BundleContext context) | start
+start (BundleContext context) | start
+start (BundleContext context) | start
+start (BundleContext context) | start
+start (BundleContext context) | start
+start (BundleContext context) | start
+start (BundleContext context) | start
+start (BundleContext context) | start
+start (BundleContext context) | start
+start (BundleContext context) | start
+initializeDescriptor (String symbolicName) | initialize descriptor
+stop (BundleContext context) | stop
+stop (BundleContext context) | stop
+stop (BundleContext context) | stop
+stop (BundleContext context) | stop
+stop (BundleContext context) | stop
+stop (BundleContext context) | stop
+stop (BundleContext context) | stop
+stop (BundleContext context) | stop
+getResolvedVersionIdentifier () | get resolved version identifier
+getResolvedVersionIdentifier () | get resolved version identifier
+getResolvedVersionIdentifier () | get resolved version identifier
+getVersionIdentifier () | get version identifier
+getVersionIdentifier () | get version identifier
+getVersionIdentifier () | get version identifier
+isExported () | is exported
+isExported () | is exported
+isExported () | is exported
+isMatchedAsGreaterOrEqual () | is matched as greater or equal
+isMatchedAsGreaterOrEqual () | is matched as greater or equal
+isMatchedAsGreaterOrEqual () | is matched as greater or equal
+isMatchedAsGreaterOrEqual () | is matched as greater or equal
+isMatchedAsCompatible () | is matched as compatible
+isMatchedAsCompatible () | is matched as compatible
+isMatchedAsCompatible () | is matched as compatible
+isMatchedAsCompatible () | is matched as compatible
+isMatchedAsEquivalent () | is matched as equivalent
+isMatchedAsEquivalent () | is matched as equivalent
+isMatchedAsEquivalent () | is matched as equivalent
+isMatchedAsEquivalent () | is matched as equivalent
+isMatchedAsPerfect () | is matched as perfect
+isMatchedAsPerfect () | is matched as perfect
+isMatchedAsPerfect () | is matched as perfect
+isMatchedAsPerfect () | is matched as perfect
+isMatchedAsExact () | is matched as exact
+isMatchedAsExact () | is matched as exact
+isMatchedAsExact () | is matched as exact
+isMatchedAsExact () | is matched as exact
+isOptional () | is optional
+getExtension (String extensionName) | get extension
+getExtensionPoint (String extensionPointId) | get extension point
+getInstallURL () | get install url
+getLabel () | get label
+getPlugin () | get plugin
+getPlugin () | get plugin
+getPluginClassLoader () | get plugin class loader
+getPluginClassLoader () | get plugin class loader
+getPluginClassLoader () | get plugin class loader
+getPluginClassLoader () | get plugin class loader
+getPluginClassLoader () | get plugin class loader
+getPluginClassLoader () | get plugin class loader
+getPluginClassLoader () | get plugin class loader
+getPluginClassLoader () | get plugin class loader
+getPluginClassLoader () | get plugin class loader
+getPluginClassLoader () | get plugin class loader
+getPluginPrerequisites () | get plugin prerequisites
+getPluginPrerequisites () | get plugin prerequisites
+getPluginPrerequisites () | get plugin prerequisites
+getProviderName () | get provider name
+getResourceBundle () | get resource bundle
+getResourceBundle () | get resource bundle
+getResourceString (String value) | get resource string
+getResourceString (String value) | get resource string
+getResourceString (String value) | get resource string
+getResourceString (String value) | get resource string
+getResourceString (String value, ResourceBundle resourceBundle) | get resource string
+getResourceString (String value, ResourceBundle resourceBundle) | get resource string
+getResourceString (String value, ResourceBundle resourceBundle) | get resource string
+getRuntimeLibraries () | get runtime libraries
+getRuntimeLibraries () | get runtime libraries
+getRuntimeLibraries () | get runtime libraries
+getVersionIdentifier () | get version identifier
+find (IPath path) | find
+find (IPath path, Map override) | find
+find (IPath path, Map override) | find
+find (IPath path, Map override) | find
+find (IPath path, Map override) | find
+getAdapter (Class adapter) | get adapter
+run (Object args) | run
+getException () | get exception
+getMessage () | get message
+isMultiStatus () | is multi status
+matches (int severityMask) | matches
+getConfigurationElements () | get configuration elements
+getSimpleIdentifier () | get simple identifier
+getSimpleIdentifier () | get simple identifier
+setCode (int code) | set code
+setException (Throwable exception) | set exception
+setMessage (String message) | set message
+setPlugin (String pluginId) | set plugin
+setSeverity (int severity) | set severity
+setSeverity (int severity) | set severity
+equals (Object obj) | equals
+toString () | to string
+addPropertyChangeListener (IPropertyChangeListener listener) | add property change listener
+addPropertyChangeListener (IPropertyChangeListener listener) | add property change listener
+addPropertyChangeListener (IPropertyChangeListener listener) | add property change listener
+removePropertyChangeListener (IPropertyChangeListener listener) | remove property change listener
+removePropertyChangeListener (IPropertyChangeListener listener) | remove property change listener
+firePropertyChangeEvent (String name, Object oldValue, Object newValue) | fire property change event
+getBoolean (String name) | get boolean
+setValue (String name, boolean value) | set value
+setValue (String name, boolean value) | set value
+getDefaultBoolean (String name) | get default boolean
+setDefault (String name, boolean value) | set default
+setDefault (String name, boolean value) | set default
+setDefault (String name, boolean value) | set default
+getDouble (String name) | get double
+getDouble (String name) | get double
+setValue (String name, double value) | set value
+setValue (String name, double value) | set value
+setValue (String name, double value) | set value
+getDefaultDouble (String name) | get default double
+getDefaultDouble (String name) | get default double
+setDefault (String name, double value) | set default
+setDefault (String name, double value) | set default
+setDefault (String name, double value) | set default
+setDefault (String name, double value) | set default
+convertToDouble (String rawPropertyValue, double defaultValue) | convert to double
+getFloat (String name) | get float
+getFloat (String name) | get float
+setValue (String name, float value) | set value
+setValue (String name, float value) | set value
+setValue (String name, float value) | set value
+getDefaultFloat (String name) | get default float
+getDefaultFloat (String name) | get default float
+setDefault (String name, float value) | set default
+setDefault (String name, float value) | set default
+setDefault (String name, float value) | set default
+setDefault (String name, float value) | set default
+convertToFloat (String rawPropertyValue, float defaultValue) | convert to float
+getInt (String name) | get int
+setValue (String name, int value) | set value
+setValue (String name, int value) | set value
+getDefaultInt (String name) | get default int
+setDefault (String name, int value) | set default
+setDefault (String name, int value) | set default
+setDefault (String name, int value) | set default
+convertToInt (String rawPropertyValue, int defaultValue) | convert to int
+getLong (String name) | get long
+setValue (String name, long value) | set value
+setValue (String name, long value) | set value
+getDefaultLong (String name) | get default long
+setDefault (String name, long value) | set default
+setDefault (String name, long value) | set default
+setDefault (String name, long value) | set default
+convertToLong (String rawPropertyValue, long defaultValue) | convert to long
+getString (String name) | get string
+setValue (String name, String value) | set value
+setValue (String name, String value) | set value
+getDefaultString (String name) | get default string
+setDefault (String name, String value) | set default
+setDefault (String name, String value) | set default
+setDefault (String name, String value) | set default
+setToDefault (String name) | set to default
+setToDefault (String name) | set to default
+setToDefault (String name) | set to default
+store (OutputStream out, String header) | store
+store (OutputStream out, String header) | store
+store (OutputStream out, String header) | store
+load (InputStream in) | load
+load (InputStream in) | load
+load (InputStream in) | load
+load (InputStream in) | load
+getIdentifier () | get identifier
+getVersion () | get version
+getVersion () | get version
+beginTask (String name, int totalWork) | begin task
+done () | done
+internalWorked (double work) | internal worked
+setCanceled (boolean value) | set canceled
+setTaskName (String name) | set task name
+subTask (String name) | sub task
+subTask (String name) | sub task
+worked (int work) | worked
+worked (int work) | worked
+addFileExtension (String extension) | add file extension
+addFileExtension (String extension) | add file extension
+addFileExtension (String extension) | add file extension
+append (String path) | append
+append (String path) | append
+append (IPath path) | append
+equals (Object obj) | equals
+equals (Object obj) | equals
+equals (Object obj) | equals
+getDevice () | get device
+getFileExtension () | get file extension
+getFileExtension () | get file extension
+hasTrailingSeparator () | has trailing separator
+isAbsolute () | is absolute
+isAbsolute () | is absolute
+isPrefixOf (IPath anotherPath) | is prefix of
+isPrefixOf (IPath anotherPath) | is prefix of
+isPrefixOf (IPath anotherPath) | is prefix of
+isRoot () | is root
+isRoot () | is root
+isValidSegment (String segment) | is valid segment
+isValidSegment (String segment) | is valid segment
+makeAbsolute () | make absolute
+makeRelative () | make relative
+removeFileExtension () | remove file extension
+removeFileExtension () | remove file extension
+removeFirstSegments (int count) | remove first segments
+removeLastSegments (int count) | remove last segments
+segmentCount () | segment count
+toOSString () | to os string
+toOSString () | to os string
+toPortableString () | to portable string
+toPortableString () | to portable string
+toString () | to string
+toString () | to string
+uptoSegment (int count) | upto segment
+uptoSegment (int count) | upto segment
+logging (IStatus status, String plugin) | logging
+logging (IStatus status, String plugin) | logging
+addRegistryChangeListener (IRegistryChangeListener listener, String namespace) | add registry change listener
+addRegistryChangeListener (IRegistryChangeListener listener, String namespace) | add registry change listener
+addRegistryChangeListener (IRegistryChangeListener listener, String namespace) | add registry change listener
+addRegistryChangeListener (IRegistryChangeListener listener, String namespace) | add registry change listener
+addRegistryChangeListener (IRegistryChangeListener listener) | add registry change listener
+addRegistryChangeListener (IRegistryChangeListener listener) | add registry change listener
+removeRegistryChangeListener (IRegistryChangeListener listener) | remove registry change listener
+removeRegistryChangeListener (IRegistryChangeListener listener) | remove registry change listener
+add (IStatus status) | add
+addAll (IStatus status) | add all
+merge (IStatus status) | merge
+merge (IStatus status) | merge
+merge (IStatus status) | merge
+addLogListener (ILogListener listener) | add log listener
+addLogListener (ILogListener listener) | add log listener
+log (IStatus status) | log
+removeLogListener (ILogListener listener) | remove log listener
+removeLogListener (ILogListener listener) | remove log listener
+addRun (long elapsed, String contextName) | add run
+reset () | reset
+startRun () | start run
+startRun () | start run
+startRun (String contextName) | start run
+toString () | to string
+registryChanged (IRegistryChangeEvent event) | registry changed
+registryChanged (IRegistryChangeEvent event) | registry changed
+registryChanged (IRegistryChangeEvent event) | registry changed
+setBlocked (IStatus reason) | set blocked
+clearBlocked () | clear blocked
+handleException (Throwable exception) | handle exception
+run () | run
+createExecutableExtension (String propertyName) | create executable extension
+getAttribute (String name) | get attribute
+getAttribute (String name) | get attribute
+getAttribute (String name) | get attribute
+getAttributeAsIs (String name) | get attribute as is
+getAttributeAsIs (String name) | get attribute as is
+getAttributeAsIs (String name) | get attribute as is
+getAttributeNames () | get attribute names
+getAttributeNames () | get attribute names
+getAttributeNames () | get attribute names
+getChildren () | get children
+getName () | get name
+getName () | get name
+getName () | get name
+getValue () | get value
+getValue () | get value
+getValue () | get value
+getValueAsIs () | get value as is
+getValueAsIs () | get value as is
+getValueAsIs () | get value as is
+getValueAsIs () | get value as is
+setInitializationData (IConfigurationElement config, String propertyName, Object data) | set initialization data
+setInitializationData (IConfigurationElement config, String propertyName, Object data) | set initialization data
+setInitializationData (IConfigurationElement config, String propertyName, Object data) | set initialization data
+setInitializationData (IConfigurationElement config, String propertyName, Object data) | set initialization data
+setInitializationData (IConfigurationElement config, String propertyName, Object data) | set initialization data
+setInitializationData (IConfigurationElement config, String propertyName, Object data) | set initialization data
+setInitializationData (IConfigurationElement config, String propertyName, Object data) | set initialization data
+setInitializationData (IConfigurationElement config, String propertyName, Object data) | set initialization data
+setInitializationData (IConfigurationElement config, String propertyName, Object data) | set initialization data
+printStackTrace () | print stack trace
+printStackTrace (PrintStream output) | print stack trace
+printStackTrace (PrintWriter output) | print stack trace
+equals (Object object) | equals
+equals (Object object) | equals
+isGreaterOrEqualTo (PluginVersionIdentifier id) | is greater or equal to
+isCompatibleWith (PluginVersionIdentifier id) | is compatible with
+isCompatibleWith (PluginVersionIdentifier id) | is compatible with
+isEquivalentTo (PluginVersionIdentifier id) | is equivalent to
+isEquivalentTo (PluginVersionIdentifier id) | is equivalent to
+isPerfect (PluginVersionIdentifier id) | is perfect
+isGreaterThan (PluginVersionIdentifier id) | is greater than
+toString () | to string
+toString () | to string
+getPluginDescriptor (String pluginId) | get plugin descriptor
+getPluginDescriptor (String pluginId, PluginVersionIdentifier version) | get plugin descriptor
+getPluginDescriptors () | get plugin descriptors
+getPluginDescriptors (String pluginId) | get plugin descriptors
+addJobChangeListener (IJobChangeListener listener) | add job change listener
+addJobChangeListener (IJobChangeListener listener) | add job change listener
+beginRule (ISchedulingRule rule, IProgressMonitor monitor) | begin rule
+beginRule (ISchedulingRule rule, IProgressMonitor monitor) | begin rule
+beginRule (ISchedulingRule rule, IProgressMonitor monitor) | begin rule
+beginRule (ISchedulingRule rule, IProgressMonitor monitor) | begin rule
+beginRule (ISchedulingRule rule, IProgressMonitor monitor) | begin rule
+beginRule (ISchedulingRule rule, IProgressMonitor monitor) | begin rule
+cancel (Object family) | cancel
+cancel (Object family) | cancel
+cancel (Object family) | cancel
+cancel (Object family) | cancel
+createProgressGroup () | create progress group
+createProgressGroup () | create progress group
+createProgressGroup () | create progress group
+endRule (ISchedulingRule rule) | end rule
+endRule (ISchedulingRule rule) | end rule
+endRule (ISchedulingRule rule) | end rule
+isIdle () | is idle
+join (Object family, IProgressMonitor monitor) | join
+join (Object family, IProgressMonitor monitor) | join
+join (Object family, IProgressMonitor monitor) | join
+newLock () | new lock
+newLock () | new lock
+removeJobChangeListener (IJobChangeListener listener) | remove job change listener
+removeJobChangeListener (IJobChangeListener listener) | remove job change listener
+resume (ISchedulingRule rule) | resume
+resume () | resume
+setLockListener (LockListener listener) | set lock listener
+setLockListener (LockListener listener) | set lock listener
+setProgressProvider (ProgressProvider provider) | set progress provider
+suspend () | suspend
+suspend () | suspend
+suspend () | suspend
+suspend () | suspend
+suspend (ISchedulingRule rule, IProgressMonitor monitor) | suspend
+suspend (ISchedulingRule rule, IProgressMonitor monitor) | suspend
+suspend (ISchedulingRule rule, IProgressMonitor monitor) | suspend
+suspend (ISchedulingRule rule, IProgressMonitor monitor) | suspend
+suspend (ISchedulingRule rule, IProgressMonitor monitor) | suspend
+suspend (ISchedulingRule rule, IProgressMonitor monitor) | suspend
+suspend (ISchedulingRule rule, IProgressMonitor monitor) | suspend
+suspend (ISchedulingRule rule, IProgressMonitor monitor) | suspend
+sleep (Object family) | sleep
+sleep (Object family) | sleep
+sleep (Object family) | sleep
+sleep (Object family) | sleep
+transferRule (ISchedulingRule rule, Thread destinationThread) | transfer rule
+transferRule (ISchedulingRule rule, Thread destinationThread) | transfer rule
+wakeUp (Object family) | wake up
+getDelay () | get delay
+getDelay () | get delay
+getResult () | get result
+contains (ISchedulingRule rule) | contains
+contains (ISchedulingRule rule) | contains
+contains (ISchedulingRule rule) | contains
+contains (ISchedulingRule rule) | contains
+contains (ISchedulingRule rule) | contains
+contains (ISchedulingRule rule) | contains
+contains (ISchedulingRule rule) | contains
+acquire (long delay) | acquire
+acquire (long delay) | acquire
+acquire () | acquire
+acquire () | acquire
+release () | release
+release () | release
+createProgressGroup () | create progress group
+aboutToWait (Thread lockOwner) | about to wait
+aboutToRelease () | about to release
+toString () | to string
+belongsTo (Object family) | belongs to
+belongsTo (Object family) | belongs to
+setProperty (QualifiedName key, Object value) | set property
+setProperty (QualifiedName key, Object value) | set property
+shouldRun () | should run
+aboutToRun (IJobChangeEvent event) | about to run
+aboutToRun (IJobChangeEvent event) | about to run
+scheduled (IJobChangeEvent event) | scheduled
+describe (Reader contents, IContentDescription description) | describe
+isRequested (QualifiedName key) | is requested
+setProperty (QualifiedName key, Object value) | set property
+addFileSpec (String fileSpec, int type) | add file spec
+addFileSpec (String fileSpec, int type) | add file spec
+getFileSpecs (int type) | get file specs
+getId () | get id
+removeFileSpec (String fileSpec, int type) | remove file spec
+setDefaultCharset (String userCharset) | set default charset
+getDefaultDescription () | get default description
+getDescriptionFor (InputStream contents, QualifiedName[] options) | get description for
+getDescriptionFor (InputStream contents, QualifiedName[] options) | get description for
+getDescriptionFor (Reader contents, QualifiedName[] options) | get description for
+getDescriptionFor (Reader contents, QualifiedName[] options) | get description for
+getFileSpecs (int type) | get file specs
+getFileSpecs (int type) | get file specs
+getId () | get id
+isKindOf (IContentType another) | is kind of
+findContentTypeFor (InputStream contents, String fileName) | find content type for
+findContentTypesFor (InputStream contents, String fileName) | find content types for
+getDescriptionFor (InputStream contents, String fileName, QualifiedName[] options) | get description for
+getDescriptionFor (InputStream contents, String fileName, QualifiedName[] options) | get description for
+getDescriptionFor (Reader contents, String fileName, QualifiedName[] options) | get description for
+getDescriptionFor (Reader contents, String fileName, QualifiedName[] options) | get description for
+addContentTypeChangeListener (IContentTypeChangeListener listener) | add content type change listener
+removeContentTypeChangeListener (IContentTypeChangeListener listener) | remove content type change listener
+describe (InputStream contents, IContentDescription description) | describe
+registerObject (IExtension extension, Object object, int referenceType) | register object
+registerObject (IExtension extension, Object object, int referenceType) | register object
+unregisterObject (IExtension extension, Object object) | unregister object
+unregisterObject (IExtension extension, Object object) | unregister object
+getObjects (IExtension extension) | get objects
+close () | close
+preApply (IEclipsePreferences node) | pre apply
+visit (IEclipsePreferences node) | visit
+getScopes () | get scopes
+getScopes () | get scopes
+getMapping (String scope) | get mapping
+getMapping (String scope) | get mapping
+getMapping (String scope) | get mapping
+getMapping (String scope) | get mapping
+getMapping (String scope) | get mapping
+create (IEclipsePreferences parent, String name) | create
+create (IEclipsePreferences parent, String name) | create
+get (String key, String defaultValue, Preferences[] nodes) | get
+getBoolean (String qualifier, String key, boolean defaultValue, IScopeContext[] contexts) | get boolean
+getByteArray (String qualifier, String key, byte[] defaultValue, IScopeContext[] contexts) | get byte array
+getDouble (String qualifier, String key, double defaultValue, IScopeContext[] contexts) | get double
+getFloat (String qualifier, String key, float defaultValue, IScopeContext[] contexts) | get float
+getInt (String qualifier, String key, int defaultValue, IScopeContext[] contexts) | get int
+getLong (String qualifier, String key, long defaultValue, IScopeContext[] contexts) | get long
+getString (String qualifier, String key, String defaultValue, IScopeContext[] contexts) | get string
+exportPreferences (IEclipsePreferences node, OutputStream output, String[] excludesList) | export preferences
+exportPreferences (IEclipsePreferences node, OutputStream output, String[] excludesList) | export preferences
+exportPreferences (IEclipsePreferences node, OutputStream output, String[] excludesList) | export preferences
+exportPreferences (IEclipsePreferences node, OutputStream output, String[] excludesList) | export preferences
+exportPreferences (IEclipsePreferences node, OutputStream output, String[] excludesList) | export preferences
+importPreferences (InputStream input) | import preferences
+importPreferences (InputStream input) | import preferences
+importPreferences (InputStream input) | import preferences
+applyPreferences (IExportedPreferences preferences) | apply preferences
+readPreferences (InputStream input) | read preferences
+readPreferences (InputStream input) | read preferences
+readPreferences (InputStream input) | read preferences
+setDefaultLookupOrder (String qualifier, String key, String[] order) | set default lookup order
+setDefaultLookupOrder (String qualifier, String key, String[] order) | set default lookup order
+exportPreferences (IEclipsePreferences node, IPreferenceFilter[] filters, OutputStream output) | export preferences
+exportPreferences (IEclipsePreferences node, IPreferenceFilter[] filters, OutputStream output) | export preferences
+exportPreferences (IEclipsePreferences node, IPreferenceFilter[] filters, OutputStream output) | export preferences
+applyPreferences (IEclipsePreferences node, IPreferenceFilter[] filters) | apply preferences
+applyPreferences (IEclipsePreferences node, IPreferenceFilter[] filters) | apply preferences
+getNode () | get node
+getKey () | get key
+addNodeChangeListener (INodeChangeListener listener) | add node change listener
+removeNodeChangeListener (INodeChangeListener listener) | remove node change listener
+addPreferenceChangeListener (IPreferenceChangeListener listener) | add preference change listener
+removePreferenceChangeListener (IPreferenceChangeListener listener) | remove preference change listener
+removeNode () | remove node
+node (String path) | node
+accept (IPreferenceNodeVisitor visitor) | accept
+getName () | get name
+getNode (String qualifier) | get node
+getNode (String qualifier) | get node
+getNode (String qualifier) | get node
+illegalPop (ISchedulingRule rule) | illegal pop
+illegalPush (ISchedulingRule pushRule, ISchedulingRule baseRule) | illegal push
+waitStart (IProgressMonitor monitor, InternalJob blockingJob) | wait start
+waitStart (IProgressMonitor monitor, InternalJob blockingJob) | wait start
+addCycleThreads (ArrayList deadlockedThreads, Thread next) | add cycle threads
+addCycleThreads (ArrayList deadlockedThreads, Thread next) | add cycle threads
+blockingThreads (Thread current) | blocking threads
+ownsRealLocks (Thread owner) | owns real locks
+ownsRuleLocks (Thread owner) | owns rule locks
+reduceGraph (int row, ISchedulingRule lock) | reduce graph
+resizeGraph () | resize graph
+resizeGraph () | resize graph
+resolutionCandidate (Thread[] candidates) | resolution candidate
+resolutionCandidate (Thread[] candidates) | resolution candidate
+setToWait (Thread owner, ISchedulingRule lock, boolean suspend) | set to wait
+setToWait (Thread owner, ISchedulingRule lock, boolean suspend) | set to wait
+toDebugString () | to debug string
+clear () | clear
+enqueue (InternalJob newEntry) | enqueue
+remove (InternalJob toRemove) | remove
+resort (InternalJob entry) | resort
+resort (InternalJob entry) | resort
+enqueue (Object element) | enqueue
+decrement (int index) | decrement
+remove (Object o) | remove
+remove (Object o) | remove
+doAcquire (Semaphore semaphore, long delay) | do acquire
+forceRelease () | force release
+setDepth (int newDepth) | set depth
+toString () | to string
+cancel (InternalJob job) | cancel
+doShutdown () | do shutdown
+doShutdown () | do shutdown
+runNow (InternalJob job) | run now
+runNow (InternalJob job) | run now
+select (List members, Object family, InternalJob firstJob, int stateMask) | select
+setPriority (InternalJob job, int newPriority) | set priority
+sleep (InternalJob job) | sleep
+sleepHint () | sleep hint
+validateRule (ISchedulingRule rule) | validate rule
+endJob (InternalJob job, IStatus result) | end job
+resume () | resume
+handleInternalError (Throwable t) | handle internal error
+isEmpty () | is empty
+doNotify (final IListenerDoit doit, final IJobChangeEvent event) | do notify
+getTarget () | get target
+getTarget () | get target
+buildCatalog () | build catalog
+applyPreferences () | apply preferences
+registerFileAssociation (IConfigurationElement fileAssociationElement) | register file association
+getDirectlyAssociated (final ContentTypeCatalog catalog, final String fileSpec, final int typeMask) | get directly associated
+resolveEntity (String publicId, String systemId) | resolve entity
+resolveEntity (String publicId, String systemId) | resolve entity
+applyPolicy (final IContentTypeManager.ISelectionPolicy policy, final IContentType[] candidates, final boolean fileName, final boolean contents) | apply policy
+ensureValid (ContentType type) | ensure valid
+getDirectlyAssociated (String text, int typeMask) | get directly associated
+getDirectlyAssociated (String text, int typeMask) | get directly associated
+getDirectlyAssociated (String text, int typeMask) | get directly associated
+organize () | organize
+selectMatchingByName (final IScopeContext context, Collection source, final Collection existing, final String fileSpecText, final int fileSpecType) | select matching by name
+rewind () | rewind
+ensureExtraInformationType () | ensure extra information type
+ensureExtraInformationType () | ensure extra information type
+error (IStatus error) | error
+fixRenamedExtensionPoints (Extension[] extensions) | fix renamed extension points
+add (Contribution element) | add
+add (Contribution element) | add
+concatArrays (Object a, Object b) | concat arrays
+addExtensionPoint (int extPoint) | add extension point
+addExtensionPoint (int extPoint) | add extension point
+fireRegistryChangeEvent () | fire registry change event
+recordChange (ExtensionPoint extPoint, int extension, int kind) | record change
+recordChange (ExtensionPoint extPoint, int[] extensions, int kind) | record change
+remove (long removedBundleId) | remove
+remove (long removedBundleId) | remove
+clearRegistryCache () | clear registry cache
+add (Object obj, int referenceType) | add
+remove (Object obj) | remove
+setNext (IEntry next) | set next
+indexFor (int hash) | index for
+purge () | purge
+purge () | purge
+purge () | purge
+put (int key, Object value) | put
+remove (int key) | remove
+resize () | resize
+add (KeyedElement element) | add
+expand () | expand
+rehashTo (int anIndex) | rehash to
+getBundleModel (Bundle bundle) | get bundle model
+addLogListener (ILogListener listener) | add log listener
+addLogListener (ILogListener listener) | add log listener
+log (final IStatus status) | log
+removeLogListener (ILogListener listener) | remove log listener
+removeLogListener (ILogListener listener) | remove log listener
+logError () | log error
+addAuthorizationInfo (URL serverUrl, String realm, String authScheme, Map info) | add authorization info
+addAuthorizationInfo (URL serverUrl, String realm, String authScheme, Map info) | add authorization info
+addProtectionSpace (URL resourceUrl, String realm) | add protection space
+addProtectionSpace (URL resourceUrl, String realm) | add protection space
+flushAuthorizationInfo (URL serverUrl, String realm, String authScheme) | flush authorization info
+flushAuthorizationInfo (URL serverUrl, String realm, String authScheme) | flush authorization info
+getAuthorizationInfo (URL serverUrl, String realm, String authScheme) | get authorization info
+save () | save
+getLog (Bundle bundle) | get log
+getPreferenceTranslator (String uniqueIdentifier, String basePrefFileName) | get preference translator
+getPreferenceTranslator (String uniqueIdentifier, String basePrefFileName) | get preference translator
+getPreferenceTranslator (String uniqueIdentifier, String basePrefFileName) | get preference translator
+getPreferenceTranslator (String uniqueIdentifier, String basePrefFileName) | get preference translator
+log (final IStatus status) | log
+log (final IStatus status) | log
+start (BundleContext runtimeContext) | start
+installPlatformURLSupport () | install platform url support
+grow () | grow
+toHashMap () | to hash map
+getListeners () | get listeners
+addFactoriesFor (String typeName, Map table) | add factories for
+addFactoriesFor (String typeName, Map table) | add factories for
+computeClassOrder (Class adaptable, Collection classes) | compute class order
+computeClassOrder (Class adaptable, Collection classes) | compute class order
+getAdapter (Object adaptable, String adapterType, boolean force) | get adapter
+registerFactoryProxies () | register factory proxies
+convertToProperties (Properties result, String prefix) | convert to properties
+create (IEclipsePreferences nodeParent, String nodeName) | create
+get (String key, String defaultValue) | get
+getChild (String key, Plugin context, boolean create) | get child
+getChildren (boolean create) | get children
+getFloat (String key, float defaultValue) | get float
+getInt (String key, int defaultValue) | get int
+putByteArray (String key, byte[] value) | put byte array
+putFloat (String key, float value) | put float
+putInt (String key, int value) | put int
+putLong (String key, long value) | put long
+remove (String key) | remove
+shareStrings (StringPool pool) | share strings
+applyBundleDefaults () | apply bundle defaults
+applyBundleDefaults () | apply bundle defaults
+applyCommandLineDefaults () | apply command line defaults
+applyDefaults (String id, Properties defaultValues, Properties translations) | apply defaults
+applyRuntimeDefaults () | apply runtime defaults
+applyRuntimeDefaults () | apply runtime defaults
+applyRuntimeDefaults () | apply runtime defaults
+applyProductDefaults () | apply product defaults
+applyProductDefaults () | apply product defaults
+applyProductDefaults () | apply product defaults
+getNode (String qualifier) | get node
+grow () | grow
+addPropertyChangeListener (IPropertyChangeListener listener) | add property change listener
+addPropertyChangeListener (IPropertyChangeListener listener) | add property change listener
+removePropertyChangeListener (IPropertyChangeListener listener) | remove property change listener
+removePropertyChangeListener (IPropertyChangeListener listener) | remove property change listener
+getDefault (String key, Object obj) | get default
+setValue (String name, boolean value) | set value
+setDefault (String name, boolean value) | set default
+setDefault (String name, boolean value) | set default
+getDouble (String name) | get double
+setValue (String name, double value) | set value
+setValue (String name, double value) | set value
+getDefaultDouble (String name) | get default double
+setDefault (String name, double value) | set default
+setDefault (String name, double value) | set default
+setDefault (String name, double value) | set default
+getFloat (String name) | get float
+setValue (String name, float value) | set value
+setValue (String name, float value) | set value
+getDefaultFloat (String name) | get default float
+setDefault (String name, float value) | set default
+setDefault (String name, float value) | set default
+setDefault (String name, float value) | set default
+setValue (String name, int value) | set value
+setDefault (String name, int value) | set default
+setDefault (String name, int value) | set default
+setValue (String name, long value) | set value
+setDefault (String name, long value) | set default
+setDefault (String name, long value) | set default
+setValue (String name, String value) | set value
+setDefault (String name, String value) | set default
+setDefault (String name, String value) | set default
+setToDefault (String name) | set to default
+setToDefault (String name) | set to default
+flush () | flush
+load (InputStream in) | load
+store (OutputStream out, String header) | store
+convertToProperties () | convert to properties
+loadLegacy () | load legacy
+initializeChildren () | initialize children
+initializeChildren () | initialize children
+scopeAdded (IConfigurationElement element) | scope added
+addModifyListener (IConfigurationElement element) | add modify listener
+scopeRemoved (String key) | scope removed
+convertFromLegacy (Properties properties) | convert from legacy
+convertFromLegacy (Properties properties) | convert from legacy
+convertFromProperties (Properties properties) | convert from properties
+convertToProperties (IEclipsePreferences preferences, final String[] excludesList) | convert to properties
+exportPreferences (IEclipsePreferences node, OutputStream output, String[] excludesList) | export preferences
+get (String key, String defaultValue, Preferences[] nodes) | get
+getBoolean (String qualifier, String key, boolean defaultValue, IScopeContext[] scopes) | get boolean
+getByteArray (String qualifier, String key, byte[] defaultValue, IScopeContext[] scopes) | get byte array
+getDouble (String qualifier, String key, double defaultValue, IScopeContext[] scopes) | get double
+getFloat (String qualifier, String key, float defaultValue, IScopeContext[] scopes) | get float
+getInt (String qualifier, String key, int defaultValue, IScopeContext[] scopes) | get int
+getLong (String qualifier, String key, long defaultValue, IScopeContext[] scopes) | get long
+isLegacy (Properties properties) | is legacy
+isLegacy (Properties properties) | is legacy
+internalExport (IEclipsePreferences node, IPreferenceFilter filters[], OutputStream output) | internal export
+internalExport (IEclipsePreferences node, IPreferenceFilter filters[], OutputStream output) | internal export
+internalApply (IEclipsePreferences tree, IPreferenceFilter[] filters) | internal apply
+firePreApplyEvent (IEclipsePreferences tree) | fire pre apply event
+decodeDigit (byte data) | decode digit
+add (String string) | add
+getSavedStringCount () | get saved string count
+getSavedStringCount () | get saved string count
