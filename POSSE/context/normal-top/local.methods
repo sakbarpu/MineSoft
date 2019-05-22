@@ -1,0 +1,206 @@
+ArrayList<QString;> getLocals() | get locals
+boolean areCallbacksLocalToHibernateTransactions() | are callbacks local to hibernate transactions
+boolean changeLocale(QLocale;) | change locale
+boolean changeLocale(QLocale;Z) | change locale
+boolean determineLocal() | determine local
+boolean getLocalBoolean(QString;Z) | get local boolean
+boolean getLocallyPredictive() | get locally predictive
+boolean hasLocalisedMessageText(QString;) | has localised message text
+boolean hasLocalKey([B) | has local key
+boolean isAbsoluteLocalName(String name) | is absolute local name
+boolean isCurrentLocale(QLocale;) | is current locale
+boolean isLANLocal() | is lan local
+boolean isLocal() | is local
+boolean isLocalAddress() | is local address
+boolean isLocalComplete() | is local complete
+boolean isLocalEjbRef(String viewType, JavaClass refClass) | is local ejb ref
+boolean isOrHasBeenLocal() | is or has been local
+boolean keyExistsForDefaultLocale(QString;) | key exists for default locale
+boolean setLocalPath(QString;) | set local path
+boolean stopLocalKernel(boolean closingApp, boolean preserveWindows) | stop local kernel
+boolean usesLocalFilePerTable() | uses local file per table
+boolean usesLocalFiles() | uses local files
+Building getLocalBuilding(QBuilding;) | get local building
+byte[] diversifyKeyLocal([BI) | diversify key local
+byte isLANLocalAddress(QInetAddress;) | is lan local address
+byte isLANLocalAddress(QInetSocketAddress;) | is lan local address
+byte isLANLocalAddress(QString;) | is lan local address
+byte[] readLocalisableString(QSimpleXMLParserDocumentNode;) | read local is able string
+ChargeLocal createNewChargeLocal(ChargeInfo info) | create new charge local
+Class getRootElement(String namespaceUri, String localName) | get root element
+Class getRootElement(String uri, String local) | get root element
+ClassifierSplitModel localModel() | local model
+DHTNetworkPosition getBestLocalPosition() | get best local position
+DHTNetworkPosition getLocalPosition() | get local position
+DHTNetworkPosition[] getLocalPositions() | get local positions
+DHTPluginContact getLocalAddress() | get local address
+DHTPluginValue getLocalValue([B) | get local value
+DHTRouterContact getLocalContact() | get local contact
+DHTTransportContact getLocalContact() | get local contact
+DHTTransportValue getLocalValue([B) | get local value
+DistributedDatabaseContact getLocalContact() | get local contact
+double[] localDistributionForInstance(QInstance;QIndexes;) | local distribution for instance
+double LocalTime(D) | local time
+double sIB_local_MI(QMatrix;[D) | s ib local mi
+FromElement findJoinByPathLocal(QString;) | find join by path local
+InetAddress getLocalAddress() | get local address
+InetAddress getLocalHost() | get local host
+InputStream resolveInLocalNamespace(QString;) | resolve in local namespace
+int allocLocal() | alloc local
+int getLocalBlockRef(QNode;) | get local block ref
+int getLocalBlockRegister(QNode;) | get local block register
+int getLocalColumnCount() | get local column count
+int getLocalKeyCount() | get local key count
+int getLocalPort() | get local port
+int getLocalSize() | get local size
+int toLocal(I) | to local
+java.lang.String getLocalFileName() | get local file name
+java.lang.String ____jaxb_ri____getLocalName() |    jaxb ri    get local name
+java.util.Locale getLocale() | get locale
+java.util.Locale getLocaleFromString(QString;) | get locale from string
+JScrollBar getLocalitySB() | get locality sb
+List getSupportedLocale() | get supported locale
+Locale getCurrentLocale() | get current locale
+Locale getLocale() | get locale
+Locale getLocale(I) | get locale
+Locale getLocale(QString;) | get locale
+Locale[] getLocales() | get locales
+LocaleResourceFilesDialog getLocaleFilesDialog() | get locale files dialog
+Locale setLocale(QLocale;) | set locale
+LocaleUtil getLocaleUtil() | get locale util
+LocaleUtilities getLocaleUtilities() | get locale utilities
+long getLastIncomingNonLocalConnectionTime() | get last incoming non local connection time
+long getLastNonLocalConnectionTime() | get last non local connection time
+long getLocalLong(QString;J) | get local long
+long getLocalTemplateID() | get local template id
+Name getLocalName() | get local name
+NbtAddress getLocalHost() | get local host
+Node createUseLocal(QNode;) | create use local
+NodeList getElementsByTagNameNS(String namespaceURI, String localName) | get elements by tag name ns
+Object convert(Object data, Locale locale) | convert
+Object _fixupLocal() | fixup local
+Object getLocalId() | get local id
+Object getThreadLocal(QObject;) | get thread local
+Object _lookupLocally(Name name) | lookup locally
+Object _setLocal() | set local
+org.hsqldb.lib.Iterator getLocalesIterator() | get locales iterator
+PAffineTransform getLocalToGlobalTransform(PAffineTransform dest) | get local to global transform
+Player getLocalPlayer() | get local player
+PluginInterface getLocalPluginInterface(QClass;QString;) | get local plugin interface
+Query setLocale(IQLocale;) | set locale
+Query setLocale(QString;QLocale;) | set locale
+RPObject _lookupLocal(J) | lookup local
+RPObject _lookupLocal(QObject;) | lookup local
+short getNewWordLocal() | get new word local
+short getNewWordPairLocal() | get new word pair local
+State createChildState(String localName) | create child state
+String formatBitCountToKiBEtcLocalImpl(JZZIZ) | format bit count to ki b etc local impl
+String formatDownloadStatusDefaultLocale(QDownloadManager;) | format download status default locale
+String getCurrentElementLocal() | get current element local
+String getCurrentLocaleID() | get current locale id
+String getDefaultLocaleString(QString;) | get default locale string
+String getFormatPattern(String className, String pattern, Locale locale) | get format pattern
+String getLocal() | get local
+String getLocalConnectionStatus() | get local connection status
+String getLocaleHelpPath() | get locale help path
+String getLocaleName(QString;QString;) | get locale name
+String getLocaleString() | get locale string
+String getLocalHost() | get local host
+String getLocalIpAddress() | get local ip address
+String getLocalisedMessageText(QString;) | get localised message text
+String getLocalisedMessageText(QString;[QString;) | get localised message text
+String getLocalisedName(QTOTorrent;) | get localised name
+String getLocalizedLabelText(QUserPreferences;QClass<*>;QString;[QObject;) | get localized label text
+String getLocalizedMessage() | get localized message
+String getLocalizedName() | get localized name
+String getLocalizedString(QClass<*>;QString;[QObject;) | get localized string
+String getLocalKey() | get local key
+String getLocalName() | get local name
+String getLocalPath() | get local path
+String getLocalString(QString;) | get local string
+String getMessage(String code, Object args, Locale locale) | get message
+String getUnsubstitutedLocalizedReferenceText(String uri, String language) | get unsubstituted localized reference text
+String[] listLocalInetAddressNames() | list local inet address names
+String localise(QString;) | localise
+String locallyPredictiveTipText() | locally predictive tip text
+String resolveLocalizationKey(QString;) | resolve localization key
+String toLocale_helper(DI) | to locale helper
+String transformLocalArgument(QString;) | transform local argument
+Variable addLocal(Type type) | add local
+void addLocalConnection(QString;QBasicConnection;) | add local connection
+void addLocallyPredictive(QBitSet;) | add locally predictive
+void addLocal(QConsoleInput;QString;QString;ZZ) | add local
+void checkLocaleChange() | check locale change
+void cleanLocalDir(QString;) | clean local dir
+void cleanLocalDir(QString;QString;) | clean local dir
+void closeCurrentLocalTab() | close current local tab
+void defineLocal() | define local
+void defineLocalValue() | define local value
+void deleteLocal() | delete local
+void GateChunker(String localdir) | gate chunker
+void getLocalTransformations(QElement;) | get local transformations
+void informLocalAddress(QString;) | inform local address
+void integrateLocalisedMessageBundle(QProperties;) | integrate localised message bundle
+void integrateLocalisedMessageBundle(QResourceBundle;) | integrate localised message bundle
+void integrateLocalisedMessageBundle(QString;) | integrate localised message bundle
+void LinkLocalFile() | link local file
+void load(Locale locale, String pkg) | load
+void LocaleAdapter(QLocale;) | locale adapter
+void localNaiveBayes(QIndexes;) | local naive bayes
+void localUpdate() | local update
+void notifyLocalSynchsAfterTransactionCompletion(I) | notify local synchs after transaction completion
+void notifyLocalSynchsBeforeTransactionCompletion() | notify local synchs before transaction completion
+void parseLocale() | parse locale
+void printLocals() | print locals
+void processElement(String namespaceUri, String localName, String qualifiedName, Attributes attributes, boolean isStart) | process element
+void putThreadLocal(QObject;QObject;) | put thread local
+void registerLocal(QString;QString;) | register local
+void releaseLocal(I) | release local
+void releaseWordLocal(S) | release word local
+void releaseWordpairLocal(S) | release word pair local
+void removeThreadLocal(QObject;) | remove thread local
+void revertToDefaultLocale() | revert to default locale
+void revertToParentFromLeaveAttribute(String uri, String local, String qname) | revert to parent from leave attribute
+void setCollationAsLocale() | set collation as locale
+void setCurrentLocale(QLocale;) | set current locale
+void setCurrentLocale(QString;) | set current locale
+void setCurrentLocale(QString;QString;) | set current locale
+void setDisplayformatlocalekey(String string) | set display format locale key
+void setLocalBoolean(QString;Z) | set local boolean
+void setLocalComplete(Z) | set local complete
+void setLocalContact() | set local contact
+void setLocaleFilesDialog(QLocaleResourceFilesDialog;) | set locale files dialog
+void setLocale(Qjava.util.Locale;) | set locale
+void setLocale(QLocale;) | set locale
+void setLocale(QString;) | set locale
+void setLocalFileName(Qjava.lang.String;) | set local file name
+void setLocalHoster(QLocalHoster;) | set local hoster
+void setLocalisedMessage(QString;) | set localised message
+void setLocalisedMessages([QString;) | set localised messages
+void setLocalisedTitle(QString;) | set localised title
+void setLocalizedName(QString;) | set localized name
+void setLocalLong(QString;J) | set local long
+void setLocallyPredictive(Z) | set locally predictive
+void setLocalPlayer(QPlayer;) | set local player
+void setLocal(QString;) | set local
+void setLocalString(QString;QString;) | set local string
+void setLocalUpdateCheckSecs(I) | set local update check secs
+void setLocalVarTable(LocalVarTableAttr lvar) | set local var table
+void setLocal(Z) | set local
+void setStateToLocal() | set state to local
+void setSystemLocal() | set system local
+void setUseLocalCoordinates(boolean useLocalCoordinates) | set use local coordinates
+void testLocaleSpecificFormat() | test locale specific format
+void testLocalWorkingCopyAndCvsrootModuleAreMutuallyExclusive() | test local working copy and cvsroot module are mutually exclusive
+void updateDefaultLocale() | update default locale
+void updateJMenuItemReportLocaleText() | update j menu item report locale text
+void updateLocalContact(QDHTTransportContact;) | update local contact
+void updateLocalDir() | update local dir
+void updateLocale(QLocaleUtilities;) | update locale
+void updateLocal(QSet;IQMap;) | update local
+void visitLocalVariableTableAttrInfo(ClassFile classFile, MethodInfo methodInfo, CodeAttrInfo codeAttrInfo, LocalVariableTableAttrInfo localVariableTableAttrInfo) | visit local variable table attr info
+void visitLocalVariableTypeInfo(Clazz clazz, Method method, CodeAttribute codeAttribute, LocalVariableTypeInfo localVariableTypeInfo) | visit local variable type info
+void writeLocalHeader(ZipMember zmember) | write local header
+void writeLocalisableTag(QString;[B) | write local is able tag
+void XXXtestWatchLocalVarsFromInnerClass() | xxx test watch local vars from inner class
+XSNotation getNotation(String localName) | get notation

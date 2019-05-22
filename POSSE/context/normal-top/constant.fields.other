@@ -1,0 +1,4 @@
+boolean isFixedConstantValueList | is fixed constant value list
+double[] itsConstantList | its constant list
+int itsConstantListSize | its constant list size
+org.mozilla.classfile.ConstantPool itsConstantPool | its constant pool

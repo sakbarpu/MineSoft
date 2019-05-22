@@ -1,0 +1,302 @@
+ArrayList<QItemT;> getDocuments() | get documents
+ArrayList<QItemT;> getDocumentsInBin(QString;) | get documents in bin
+AttributeSet getDocStyle(QString;) | get doc style
+BibtexEntry getBibtexEntryFromDocumentInformation(QPDDocumentInformation;) | get bibtex entry from document information
+boolean getSearchAllDocuments() | get search all documents
+boolean hasModifiedDocuments() | has modified documents
+boolean hasModifiedDocuments(QList<QOpenDefinitionsDocument;>;) | has modified documents
+boolean _hasOneEmptyDocument() | has one empty document
+boolean hasOutOfSyncDocuments() | has out of sync documents
+boolean hasOutOfSyncDocuments(QList<QOpenDefinitionsDocument;>;) | has out of sync documents
+boolean hasUntitledDocuments() | has untitled documents
+boolean isIsDocDirty() | is is doc dirty
+boolean selectDocumentAt(II) | select document at
+boolean showDocument(QURL;) | show document
+ConcreteOpenDefDoc _createOpenDefinitionsDocument(QFile;) | create open definitions document
+ConcreteOpenDefDoc _createOpenDefinitionsDocument(QNullFile;) | create open definitions document
+Configuration addDocument(QDocument;) | add document
+ConsoleDocument getConsoleDoc() | get console doc
+ConsoleDocument getConsoleDocument() | get console document
+Container getDocCollectionWidget() | get doc collection widget
+DataSource getDataSource(Document doc, String id) | get data source
+DefinitionsDocument _createDefaultTypedDocument() | create default typed document
+DefinitionsDocument createNewDocument() | create new document
+DefinitionsDocument getDocument() | get document
+DefinitionsDocument makeDocument() | make document
+DJDocument getDJDocument() | get dj document
+DocFile docFileFromGetter(QDocumentInfoGetter;) | doc file from getter
+DocumentCache getDocumentCache() | get document cache
+Document createDocument(QString;) | create document
+Document createDocument(QString;QString;QString;) | create document
+Document createNewDocument() | create new document
+Document documentFrom(QInputSource;) | document from
+Document documentFrom(QInputStream;) | document from
+Document documentFrom(QString;) | document from
+Document getDefaultDocument() | get default document
+Document getDocument() | get document
+Document getDocument(IQString;) | get document
+Document getDocument(QFile;) | get document
+Document getDocument(QString;) | get document
+Document getDocument(QString;QString;QString;) | get document
+DocumentIterator getDocumentIterator() | get document iterator
+DocumentListener[] getDocumentListeners() | get document listeners
+DocumentManager getDocumentManager() | get document manager
+Document newDocument() | new document
+Document newDocument(QString;QString;) | new document
+DocumentStructurePanel getDocumentStructurePanel() | get document structure panel
+double probOfDocGivenClass(QInstance;I) | prob of doc given class
+File _getFileFromDocument(QOpenDefinitionsDocument;QFileSaveSelector;) | get file from document
+FindResult _findNextInDoc(QOpenDefinitionsDocument;IIZ) | find next in doc
+FindResult _findNextInDocSegment(QOpenDefinitionsDocument;II) | find next in doc segment
+FindResult _findNextInDocSegment(QOpenDefinitionsDocument;IIZZ) | find next in doc segment
+FindResult _findNextInOtherDocs(QOpenDefinitionsDocument;II) | find next in other docs
+Font getDefaultDocListFont() | get default doc list font
+HashMap<QOpenDefinitionsDocument;QDocumentInfoGetter;> gatherProjectDocInfo() | gather project doc info
+IDocumentImpl buildDocument(URL aUrl) | build document
+IDocumentNavigator<QOpenDefinitionsDocument;> getDocumentNavigator() | get document navigator
+INavigatorItem getIDoc() | get i doc
+InputStream getDocumentStream() | get document stream
+int clickDockIcon(III) | click dock icon
+int compareDocumentOrder(QTask;QTask;) | compare document order
+int convertInstancewoDocNorm(QInstance;QFastVector;) | convert instance wo doc norm
+InteractionsDJDocument createDefaultDocument() | create default document
+InteractionsDJDocument getDocumentAdapter() | get document adapter
+InteractionsDJDocument getSwingConsoleDocument() | get swing console document
+InteractionsDJDocument getSwingInteractionsDocument() | get swing interactions document
+InteractionsDocument getDocument() | get document
+InteractionsDocument getInteractionsDocument() | get interactions document
+int getCurrentLinefromDoc() | get current line from doc
+int getDocumentCount() | get document count
+int getDocumentLength() | get document length
+int getDocumentSelectedCount() | get document selected count
+int getNumDocuments() | get num documents
+int insertDoc(QItemT;) | insert doc
+int openDocProc(III) | open doc proc
+int _processAllInCurrentDoc(QRunnable1<QFindResult;>;) | process all in current doc
+int _replaceAllInCurrentDoc() | replace all in current doc
+ItemT removeDocument(QItemT;) | remove document
+IView getViewByDockingView(Qnet.infonode.docking.View;) | get view by docking view
+java.awt.Container getDocCollectionWidget() | get doc collection widget
+java.lang.String getDocumentation() | get documentation
+java.util.List getOpenedNodesDocumentStructure() | get opened nodes document structure
+java.util.List<QItemT;> getSelectedDocuments() | get selected documents
+JPanel _mainDocumentSelector() | main document selector
+LeafNode<QItemT;> getNodeForDoc(QItemT;) | get node for doc
+List<QHelpDocument;> searchInHelpDocuments(QURL;[QString;) | search in help documents
+List<QOpenDefinitionsDocument;> getAuxiliaryDocuments() | get auxiliary documents
+List<QOpenDefinitionsDocument;> getNonProjectDocuments() | get non project documents
+List<QOpenDefinitionsDocument;> getOpenDefinitionsDocuments() | get open definitions documents
+List<QOpenDefinitionsDocument;> getProjectDocuments() | get project documents
+List<QOpenDefinitionsDocument;> getSortedOpenDefinitionsDocuments() | get sorted open definitions documents
+Locator getDocumentLocator() | get document locator
+net.infonode.docking.View getDockingView(QIView;) | get docking view
+net.infonode.docking.View makeDockingView(QIView;) | make docking view
+OpenDefinitionsDocument getActiveDocument() | get active document
+OpenDefinitionsDocument getDocument() | get document
+OpenDefinitionsDocument getDocumentForFile(QFile;) | get document for file
+OpenDefinitionsDocument getFirstDoc() | get first doc
+OpenDefinitionsDocument getNextDocHelper(QOpenDefinitionsDocument;) | get next doc helper
+OpenDefinitionsDocument getNextDocument(QOpenDefinitionsDocument;) | get next document
+OpenDefinitionsDocument getODDForDocument(QAbstractDocumentInterface;) | get odd for document
+OpenDefinitionsDocument getOpenDefDoc() | get open def doc
+OpenDefinitionsDocument getOpenDefDocument() | get open def document
+OpenDefinitionsDocument _getOpenDoc() | get open doc
+OpenDefinitionsDocument getOpenDocument() | get open document
+OpenDefinitionsDocument _getOpenDocument(QFile;) | get open document
+OpenDefinitionsDocument[] getOpenDocuments() | get open documents
+OpenDefinitionsDocument getPrevDocHelper(QOpenDefinitionsDocument;) | get prev doc helper
+OpenDefinitionsDocument getPrevDocument(QOpenDefinitionsDocument;) | get prev document
+OpenDefinitionsDocument preloadDocument(QLocation;) | preload document
+OpenDefinitionsDocument setupDocument(QString;) | setup document
+Pageable setUpDocument(QSingleDisplayModel;Z) | set up document
+SelectedTag getNormalizeDocLength() | get normalize doc length
+Set<QOpenDefinitionsDocument;> getDocuments() | get documents
+Set<QURL;> getReferencedDocuments() | get referenced documents
+SimpleXMLParserDocumentFactory getSimpleXMLParserDocumentFactory() | get simple xml parser document factory
+String encodeDocFileAbsolute(QDocFile;QString;) | encode doc file absolute
+String encodeDocFile(QDocFile;QString;Z) | encode doc file
+String encodeDocFileRelative(QDocFile;QString;) | encode doc file relative
+String getDocDir() | get doc dir
+String getDocPath() | get doc path
+String getDocText(II) | get doc text
+String getDocType() | get doc type
+String getDocumentation() | get documentation
+String getPackageNameFromDocument() | get package name from document
+String getUserDocumentsDir() | get user documents dir
+String getValue(Document document, String nodeName) | get value
+String normalizeDocLengthTipText() | normalize doc length tip text
+SwingDocument getJUnitDocument() | get j unit document
+SwingDocument getSwingDocument() | get swing document
+SyntaxDocument getDocument() | get document
+T newDocumentRegion(QOpenDefinitionsDocument;II) | new document region
+Variant GetDocPointer() | get doc pointer
+Variant RestoreDocumentation(Variant Merge, Variant Purge) | restore documentation
+void addComponentListenerToOpenDocumentsList(QComponentListener;) | add component listener to open documents list
+void addDocToClassPath(QOpenDefinitionsDocument;) | add doc to class path
+void addDocToNavigator(QOpenDefinitionsDocument;) | add doc to navigator
+void addDocumentClosedListener(QDocumentClosedListener;) | add document closed listener
+void addDocument(IndexWriter writer, String id, String text) | add document
+void addDocumentListener(QDocumentListener;) | add document listener
+void addDocument(QDocument;) | add document
+void addDocument(QItemT;) | add document
+void addDocument(QItemT;QString;) | add document
+void _addDocumentStyles() | add document styles
+void addReferencedDocument(QString;) | add referenced document
+void addStylesToDocument(QStyledDocument;) | add styles to document
+void addToRecentDocuments(QDocument;) | add to recent documents
+void assertActiveDocument(QOpenDefinitionsDocument;) | assert active document
+void _assertDocumentContents(QDJDocument;QString;QString;) | assert document contents
+void _assertDocumentEmpty(QDJDocument;QString;) | assert document empty
+void _assertNumOpenDocs(I) | assert num open docs
+void assertNumOpenDocs(I) | assert num open docs
+void _attemptSaveAllDocuments() | attempt save all documents
+void bufferSkip(int doc) | buffer skip
+void changeDocumentText(QString;QOpenDefinitionsDocument;) | change document text
+void closeDocument(QOpenDefinitionsDocument;) | close document
+void ConcreteOpenDefDoc(QFile;) | concrete open def doc
+void ConcreteOpenDefDoc(QFile;QFile;J) | concrete open def doc
+void ConcreteOpenDefDoc(QNullFile;) | concrete open def doc
+void createDocIndexedSQL(String sectionName, String doc, int sort_type) | create doc indexed sql
+void _docAppend(QConsoleDocument;QString;QString;) | doc append
+void DocFileListVisitor(QString;) | doc file list visitor
+void DocFilePropertyVisitor(QString;) | doc file property visitor
+void DocksPanel(QEuropePanel;) | docks panel
+void DocManager(QDDReconstructor;Z) | doc manager
+void doctypeDecl(QString;QString;QString;) | doctype decl
+void DocumentationAction(QController;) | documentation action
+void document_end(Z) | document end
+void document_home(Z) | document home
+void documentNotFound(QOpenDefinitionsDocument;QFile;) | document not found
+void documentReset() | document reset
+void documentReturns(MethodDoc doc) | document returns
+void drawVoidDoc(QGraphics2D;) | draw void doc
+void endDocument() | end document
+void exportOpenDocumentSpreadsheet(QFile;QBibtexDatabase;QSet<QString;>;) | export open document spreadsheet
+void exportOpenDocumentSpreadsheetXML(QFile;QBibtexDatabase;QSet<QString;>;) | export open document spreadsheet xml
+void forDocumentation() | for documentation
+void handleAlreadyOpenDocument(QOpenDefinitionsDocument;) | handle already open document
+void HelpDocument(QURL;[QString;) | help document
+void hideRecentDocFrame() | hide recent doc frame
+void importRtfDocument(Reader documentSource) | import rtf document
+void installActiveDocument() | install active document
+void _installNewDocumentListener(QOpenDefinitionsDocument;) | install new document listener
+void javadocDocument(QOpenDefinitionsDocument;QFileSaveSelector;) | javadoc document
+void junitDocs(QList<QOpenDefinitionsDocument;>;) | junit docs
+void junitOpenDefDocs(QList<QOpenDefinitionsDocument;>;Z) | junit open def docs
+void lexerSpec(String doc) | lexer spec
+void loadDocument() | load document
+void loadDocument1(QNode;QFile;) | load document 1
+void loadDocument2(QNode;QPluginManager;) | load document 2
+void loadDocument(QPluginManager;QFile;) | load document
+void nextRecentDoc() | next recent doc
+void normalizeDocument() | normalize document
+void openDocument(QDocument;) | open document
+void openDocument(QGanttProject;QUIFacade;QDocument;Z) | open document
+void openDocument(QURL;) | open document
+void openStartupDocument(QDocument;) | open startup document
+void openStartupDocument(QString;) | open startup document
+void performDocking() | perform docking
+void pokeDocument(QOpenDefinitionsDocument;) | poke document
+void prevRecentDoc() | prev recent doc
+void _printDefDoc() | print def doc
+void _printDefDocPreview() | print def doc preview
+void _processDocs(QCollection<QOpenDefinitionsDocument;>;QRunnable1<QOpenDefinitionsDocument;>;) | process docs
+void processDocType() | process doc type
+void putPreparedDocument(int id, VariantKey documentKey, SaxBuffer content) | put prepared document
+void _rawJUnitOpenDefDocs(QList<QOpenDefinitionsDocument;>;Z) | raw j unit open def docs
+void recordDocEnd() | record doc end
+void recordDocStart() | record doc start
+void recordDoctypeDeclaration(QString;QString;QString;) | record doctype declaration
+void refreshActiveDocument() | refresh active document
+void refreshDocks() | refresh docks
+void refreshDocument(QItemT;QString;) | refresh document
+void removeDocumentClosedListener(QDocumentClosedListener;) | remove document closed listener
+void removeDocumentListener(QDocumentListener;) | remove document listener
+void restoreDocument(QDocument;) | restore document
+void saveDocInfo(QDefinitionsDocument;) | save doc info
+void scrollToDocumentAndOffset(QOpenDefinitionsDocument;IZ) | scroll to document and offset
+void scrollToDocumentAndOffset(QOpenDefinitionsDocument;IZZ) | scroll to document and offset
+void selectDocument(QItemT;) | select document
+void _setActiveDoc(QINavigatorItem;) | set active doc
+void setActiveDocument(QOpenDefinitionsDocument;) | set active document
+void setActiveFirstDocument() | set active first document
+void setActiveNextDocument() | set active next document
+void setActivePreviousDocument() | set active previous document
+void setDefaultDocument(QDocument;) | set default document
+void setDocBase(String docBase) | set doc base
+void setDocStatus(String DocStatus) | set doc status
+void setDocStyle(QString;QAttributeSet;) | set doc style
+void setDocText(QAbstractDJDocument;QString;) | set doc text
+void _setDocText(QString;) | set doc text
+void setDoctype(QString;) | set doctype
+void setDocType(QString;) | set doc type
+void setDocumentation(Qjava.lang.String;) | set documentation
+void setDocumentation(QString;) | set documentation
+void setDocument(Document theDocument) | set document
+void setDocument(IDocument doc) | set document
+void setDocument(InputStream input, String baseURL) | set document
+void setDocumentLocator(Locator locator) | set document locator
+void setDocumentLocator(QLocator;) | set document locator
+void setDocumentNavigator(QIDocumentNavigator<QOpenDefinitionsDocument;>;) | set document navigator
+void setDocument(QDocument;) | set document
+void setDocument(QOpenDefinitionsDocument;) | set document
+void setDocument(QSyntaxDocument;) | set document
+void setDocumentsMRU(QDocumentsMRU;) | set documents mru
+void setDocumentStructurePanel(QDocumentStructurePanel;) | set document structure panel
+void setFirstDoc(QOpenDefinitionsDocument;) | set first doc
+void setIsDocDirty(Z) | set is doc dirty
+void setNormalizeDocLength(QSelectedTag;) | set normalize doc length
+void setOpenDefDoc(QOpenDefinitionsDocument;) | set open def doc
+void setOpenedNodesDocumentStructure(Qjava.util.List;) | set opened nodes document structure
+void setSearchAllDocuments(Z) | set search all documents
+void setupDoc() | setup doc
+void setupDocs() | setup docs
+void showDocServIcon(boolean b) | show doc serv icon
+void showDocument(QString;) | show document
+void showDocument(QURL;) | show document
+void showDocumentWithSameNameExists(String title, File file) | show document with same name exists
+void SimpleXMLParserDocumentException(QString;) | simple xml parser document exception
+void SimpleXMLParserDocumentException(QThrowable;) | simple xml parser document exception
+void startDocument() | start document
+void storeOpenDocumentSpreadsheetFile(QFile;QInputStream;) | store open document spreadsheet file
+void testBasicDocOps() | test basic doc ops
+void testBrowserDocumentRegion() | test browser document region
+void testConstructDoclessErrors() | test construct doc less errors
+void testConstructManyDocsWithBoth() | test construct many docs with both
+void testConstructManyDocsWithLineNums() | test construct many docs with line nums
+void testConstructManyDocsWithoutLineNums() | test construct many docs without line nums
+void testConstructOneDocWithBoth() | test construct one doc with both
+void testConstructOneDocWithLineNums() | test construct one doc with line nums
+void testConstructOneDocWithoutLineNums() | test construct one doc without line nums
+void testCorrectInteractionsDocument() | test correct interactions document
+void testDocLocationAfterSwitch() | test doc location after switch
+void testDocStart() | test doc start
+void testDocumentPaneMemoryLeak() | test document pane memory leak
+void testDocumentSwitching() | test document switching
+void testDummyDocumentRegion() | test dummy document region
+void testErrorsInMultipleDocuments() | test errors in multiple documents
+void testGetDDocFromCache() | test get d doc from cache
+void testGetDefinitionsDocuments() | test get definitions documents
+void testGetDocumentForFile() | test get document for file
+void testGetDocumentsInBin() | test get documents in bin
+void testGetIndentOfCurrStmtEndOfDoc() | test get indent of curr stmt end of doc
+void testGetSelectedDocuments() | test get selected documents
+void testHasModifiedDocuments() | test has modified documents
+void testNewDocumentsInAndOutOfTheCache() | test new documents in and out of the cache
+void testNoDDocInCache() | test no d doc in cache
+void testNotInDocument() | test not in document
+void testOldDocumentsInAndOutOfTheCache() | test old documents in and out of the cache
+void TestOpenDoc(QDefinitionsDocument;) | test open doc
+void testRenameDocument() | test rename document
+void testSimpleDocumentRegion() | test simple document region
+void testStartOfDocument() | test start of document
+void testTasksAreInDocumentOrder() | test tasks are in document order
+void textDeleteDoc() | text delete doc
+void textInsertToDoc() | text insert to doc
+void _updateDocument(QString;Z) | update document
+void updateDocumentStructureTree(QJReportFrame;) | update document structure tree
+void updateFirstDocInSearch() | update first doc in search
+void updateOpenedDocumentsList() | update opened documents list
+void writeDocumentInformation(QPDDocument;QBibtexEntry;QBibtexDatabase;) | write document information
+void write(Writer out, Document doc, int pos, int len) | write
+XMLDocument getXMLDocument() | get xml document

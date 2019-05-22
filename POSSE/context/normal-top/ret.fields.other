@@ -1,0 +1,2 @@
+int Icode_RETSUB | icode ret sub
+int Icode_RETUNDEF | icode ret undef

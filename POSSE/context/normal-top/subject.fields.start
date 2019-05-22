@@ -1,0 +1,7 @@
+org.bouncycastle.asn1.DERBitString subjectUniqueId | subject unique id
+org.bouncycastle.asn1.DERObjectIdentifier SubjectAlternativeName | subject alternative name
+org.bouncycastle.asn1.DERObjectIdentifier SubjectDirectoryAttributes | subject directory attributes
+org.bouncycastle.asn1.DERObjectIdentifier SubjectInfoAccess | subject info access
+org.bouncycastle.asn1.DERObjectIdentifier SubjectKeyIdentifier | subject key identifier
+org.bouncycastle.asn1.x509.SubjectPublicKeyInfo subjectPKInfo | subject pk info
+org.bouncycastle.asn1.x509.SubjectPublicKeyInfo subjectPublicKeyInfo | subject public key info

@@ -1,0 +1,5 @@
+boolean javaPrimitiveWrap | java primitive wrap
+java.lang.Class[] primitives | primitives
+java.util.Map myModelObject2primitive | my model object 2 primitive
+net.sourceforge.ganttproject.chart.ChartHeaderImpl.PrimitivesBuilder myPrimitivesBuilder | my primitives builder
+net.sourceforge.ganttproject.chart.GraphicPrimitiveContainer myPrimitiveContainer | my primitive container

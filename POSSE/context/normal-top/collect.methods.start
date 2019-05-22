@@ -1,0 +1,20 @@
+boolean collectColumnName(QHashSet;) | collect column name
+File[] collectFiles(QString;QString;ZQCharacter;) | collect files
+List collectChildren(QAST;QFilterPredicate;) | collect children
+List collectSqlStrings() | collect sql strings
+Object[] collectIds() | collect ids
+SelectExpression[] collectSelectExpressions() | collect select expressions
+void collectAllColumnNames(QHashSet;) | collect all column names
+void collectAsteriskPos(QSelect;QIntKeyHashMap;) | collect asterisk pos
+void collectChildren(QList;QAST;QFilterPredicate;) | collect children
+void collectClassNames() | collect class names
+void collectClassNames(QFile;) | collect class names
+void collectColors(QHashSet;) | collect colors
+void collectExpressions(JRExpressionCollector collector) | collect expressions
+void collectFunctions_r(QDebuggableScript;QObjArray;) | collect functions r
+void collectInGroupByExpressions(QHsqlArrayList;) | collect in group by expressions
+void collectLabels(QNodeView;QHashMap;) | collect labels
+void collectNewChildDescriptors(Collection newChildDescriptors, Object object) | collect new child descriptors
+void collectParts(QList;QStringTokenizer;) | collect parts
+void collectParts(QList;QStringTokenizer;QString;) | collect parts
+void collectScriptOrFnNodes_r(QScriptOrFnNode;QObjArray;) | collect script or fn nodes r

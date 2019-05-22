@@ -1,0 +1,222 @@
+AppDataInt newAppDataInt(String application, String keyword, Integer value) | new app data int
+AuctionEntry newAuctionEntry(QString;) | new auction entry
+BibtexEntry newEntry(QBibtexEntryType;) | new entry
+boolean newHighScore(QPlayer;) | new high score
+CachedRow newCachedRow(QTable;[QObject;) | new cached row
+CharsetEncoder newEncoder() | new encoder
+Choice newOpChoice(String labels) | new op choice
+Clock newClock() | new clock
+Connection newConnection() | new connection
+Connection newConnection(String dURL, String dClassName, String dbName, String dbUser, String dbPassword) | new connection
+ConnectionProvider newConnectionProvider() | new connection provider
+ConnectionProvider newConnectionProvider(QProperties;) | new connection provider
+ConnectionProvider newConnectionProvider(QProperties;QMap;) | new connection provider
+Context newJndiContext(Node node) | new jndi context
+CoverTreeNode new_leaf(QInteger;) | new leaf
+CoverTreeNode new_node(QInteger;) | new node
+DatabaseInformation newDatabaseInformation(QDatabase;) | new database information
+Date newMonday() | new monday
+Date newSunday() | new sunday
+Delegator newInstance() | new instance
+Document newDocument() | new document
+Document newDocument(QString;QString;) | new document
+double newEnt(QDistribution;) | new ent
+ElementDecorator newElementDecorator(SchemaAnnotationOwner pParent, SchemaElement pElement, ParserData pParserData, Element pNode, Element pDecoratorNode) | new element decorator
+Element newConvert(QElement;) | new convert
+Element newElement(int id, int mapId, String type) | new element
+Element newTurn(QElement;) | new turn
+FarragoReposTxnContext newTxnContext() | new txn context
+FatBlock newFatBlock(II) | new fat block
+FemSortingStreamDef newBitmapSorter() | new bitmap sorter
+FileDisplay newFile(QFile;QFileDisplayManager;) | new file
+FileLocator newWith(QFileLocator;[QString;) | new with
+GanttCalendar newAdd(I) | new add
+GanttCalendar newFriday() | new friday
+GanttCalendar newSaturday() | new saturday
+GanttCalendar newSunday() | new sunday
+GanttCalendar newTuesday() | new tuesday
+GPNode newRootedTree(EvolutionState state, GPType type, int thread, GPNodeParent parent, GPFunctionSet set, int argposition, int requestedSize) | new rooted tree
+GPParser newParser() | new parser
+GPSaver newSaver() | new saver
+GraphicPrimitiveContainer newLayer() | new layer
+HsqlName newAutoName(QString;) | new auto name
+HsqlName newAutoName(QString;QString;) | new auto name
+HsqlName newHsqlName(QString;) | new hsql name
+HsqlName newHsqlName(QString;QString;Z) | new hsql name
+HsqlName newHsqlName(QString;Z) | new hsql name
+HsqlName newHsqlSystemObjectName(QString;) | new hsql system object name
+HsqlName newIndexHsqlName(QString;Z) | new index hsql name
+HsqlProperties newDefaultProperties(I) | new default properties
+HsqlSocketFactory newFactory(QString;) | new factory
+HumanResource newHumanResource() | new human resource
+IAnyTypeData newData() | new data
+IBond newBond(IAtom atom1, IAtom atom2, double order, int stereo) | new bond
+IdFunctionObject newIdFunction(QObject;IQString;IQScriptable;) | new id function
+Instances newCentersAfterSplit([D[DDQInstances;) | new centers after split
+Instances newCentersAfterSplit([ZQInstances;) | new centers after split
+int newClassSerialNumber() | new class serial number
+int newNIOBufferSize(I) | new nio buffer size
+IntValueHashMap newCommandSet() | new command set
+IScriptAlterTableAddPrimaryKey newScriptAlterTableAddPrimaryKey() | new script alter table add primary key
+Iterator newIterator() | new iterator
+IXOLElement newInvokeConstructor() | new invoke constructor
+java.awt.geom.Ellipse2D.Double newEllipse2D(DD) | new ellipse 2 d
+java.lang.Object newInstance(Qjava.lang.Class;) | new instance
+java.util.Random newRandom() | new random
+java.util.Random newRandom(I) | new random
+JCNewClass NewClass(JCExpression encl, List<JCExpression> typeargs, JCExpression clazz, List<JCExpression> args, JCClassDecl def) | new class
+JMenuItem _newCheckBoxMenuItem(QAction;) | new check box menu item
+Location newLocation(QGame;QString;) | new location
+LockFile newLockFileLock(QString;) | new lock file lock
+LockFile newLockFile(QString;) | new lock file
+LockFile newNIOLockFile() | new nio lock file
+Log newLog(QString;II) | new log
+MapAdapter newModel() | new model
+MindMap newMap() | new map
+MindMapNode newNode() | new node
+MindMapNode newNode(QObject;) | new node
+Node newInstance() | new instance
+Node newNode(QRow;IQTable;) | new node
+Node newNode(QRow;QRowInputInterface;IQTable;) | new node
+Node newNumber(D) | new number
+Node newString(IQString;) | new string
+Node newString(QString;) | new string
+Node newTarget() | new target
+NodeView newNodeView(QMindMapNode;QMapView;) | new node view
+Object newInstance() | new instance
+Object newInstance(I[QObject;) | new instance
+Object newInstanceOrNull(QClass;) | new instance or null
+Object newInstance(QClass;) | new instance
+Object newInstance([QClass;[QObject;) | new instance
+Object newInstance(QFile;QClass;) | new instance
+Object newInstance(QFile;QClass;[QFile;) | new instance
+Object newInstance([QObject;) | new instance
+Object newInterfaceProxy(QObject;QContextFactory;QInterfaceAdapter;QObject;QScriptable;) | new interface proxy
+Object newInterpreter() | new interpreter
+Object newObjectSpecial(QContext;QObject;[QObject;QScriptable;QScriptable;I) | new object special
+Object newSpecial(QContext;QObject;[QObject;QScriptable;I) | new special
+Object newWithSpecial(QContext;QScriptable;[QObject;) | new with special
+OneRRule newNominalRule(QAttribute;QInstances;[I) | new nominal rule
+OneRRule newNumericRule(QAttribute;QInstances;[I) | new numeric rule
+OneRRule newRule(QAttribute;QInstances;) | new rule
+OpenDefinitionsDocument newFile() | new file
+OpenDefinitionsDocument newFile(QFile;) | new file
+OpenDefinitionsDocument newTestCase(QString;ZZ) | new test case
+OPT_CompilerPhase newExecution(OPT_IR ir) | new execution
+PersistentObject newEmbeddedPersistentObject(PersistentObject master, String beanProperty) | new embedded persistent object
+ProjectResource newHumanResource() | new human resource
+Query newConnectedForwardPageQuery(String sql, long pageSize) | new connected forward page query
+Queue<TokenAggregate<A>> newInstance(Object parameters) | new instance
+Record newRecord() | new record
+Rectangle2D.Double newRectangle2D(DD) | new rectangle 2 d
+ResourceColumn newResourceColumn() | new resource column
+Result newExecuteDirectRequest(QString;) | new execute direct request
+Result newFreeStmtRequest(I) | new free stmt request
+Result newParameterDescriptionResult(I) | new parameter description result
+Result newPrepareResponse(IQResult;QResult;) | new prepare response
+Result newReleaseSavepointRequest(QString;) | new release savepoint request
+Result newRollbackToSavepointRequest(QString;) | new rollback to savepoint request
+Result newSessionAttributesResult() | new session attributes result
+Result newSetSavepointRequest(QString;) | new set savepoint request
+Result newSingleColumnResult(QString;I) | new single column result
+ResultObjectFactory newResultObjectFactory(QueryExpression stmt, boolean ignoreCache, Class resultClass, boolean useFetchPlan) | new result object factory
+Row newRow([QObject;) | new row
+ScopeProvider newScopeProvider(QScriptable;) | new scope provider
+Scriptable newArrayLiteral([QObject;[IQContext;QScriptable;) | new array literal
+Scriptable newArrayLiteral([QObject;QString;IQContext;QScriptable;) | new array literal
+Scriptable newArray(QScriptable;I) | new array
+Scriptable newArray(QScriptable;[QObject;) | new array
+Scriptable newCatchScope(QThrowable;QScriptable;QString;QContext;QScriptable;) | new catch scope
+Scriptable newObjectLiteral([QObject;[QObject;QContext;QScriptable;) | new object literal
+Scriptable newObject(QContext;QScriptable;QString;[QObject;) | new object
+Scriptable newObject(QObject;QContext;QScriptable;[QObject;) | new object
+Scriptable newObject(QScriptable;) | new object
+Scriptable newObject(QScriptable;QString;) | new object
+Scriptable newObject(QScriptable;QString;[QObject;) | new object
+ScriptReaderBase newScriptReader(QDatabase;QString;I) | new script reader
+ScriptWriterBase newScriptWriter(QDatabase;QString;ZZI) | new script writer
+Searcher newSearch(QString;) | new search
+Session newSession(IQString;QString;) | new session
+Session newSession(QDatabase;QUser;ZZ) | new session
+Session newSession(QString;QString;QString;QString;QHsqlProperties;) | new session
+Storage newScaledRAFile(QDatabase;QString;ZIQString;QString;) | new scaled ra file
+StringExaminer newExaminer(QString;) | new examiner
+Struct newStruct() | new struct
+Symbol newSymbol(QString;I) | new symbol
+Symbol newSymbol(QString;III) | new symbol
+Symbol newSymbol(QString;IIIQObject;) | new symbol
+Symbol newSymbol(QString;IQLocation;QLocation;) | new symbol
+Symbol newSymbol(QString;IQLocation;QLocation;QObject;) | new symbol
+Symbol newSymbol(QString;IQObject;) | new symbol
+Symbol newSymbol(QString;IQSymbol;QSymbol;) | new symbol
+Symbol newSymbol(QString;IQSymbol;QSymbol;QObject;) | new symbol
+TableCellEditor newDateCellEditor() | new date cell editor
+TableColumnExt newTableColumnExt(I) | new table column ext
+Table newTable(IQString;ZQHsqlName;) | new table
+TableTuple newTuple(I) | new tuple
+TaskManager newInstance(QTaskContainmentHierarchyFacade.Factory;QTaskManagerConfig;) | new instance
+TaskManager newTaskManager() | new task manager
+Task newTask() | new task
+Term newVariable() | new variable
+Thread newThread(QRunnable;) | new thread
+Thread newThread(Runnable r) | new thread
+Timestamp newTimestamp() | new timestamp
+T newDocumentRegion(QOpenDefinitionsDocument;II) | new document region
+Token newToken(I) | new token
+TopicMapProvider newTopicMapProvider(Properties props) | new topic map provider
+Transformer newTransformer() | new transformer
+TreeItem newGroup() | new group
+TreeItem newGroup(QString;) | new group
+TreeItem newTracker(QTreeItem;QString;) | new tracker
+void newActivation([QString;) | new activation
+void newArray(QObject;QString;QClass;[I) | new array
+void newArray(QObject;QString;QClass;I) | new array
+void newColorAttribute(IQInstances;) | new color attribute
+void newColorChosen() | new color chosen
+void newColorSet() | new color set
+void newConnection() | new connection
+void NewDatabaseAction() | new database action
+void newDataFormat(QDataSetEvent;) | new data format
+void newData(II) | new data
+void newData(II[QIHex;) | new data
+void newDistribution(QInstances;) | new distribution
+void newEncryptedMap() | new encrypted map
+void NewEntryAction(QKeyStroke;) | new entry action
+void NewEntryAction(QString;) | new entry action
+void NewEntryAction(QString;QKeyStroke;) | new entry action
+void newEntryShowing(QBibtexEntry;) | new entry showing
+void new_estimators() | new estimators
+void newField() | new field
+void newFile(QString;) | new file
+void newFormat(D) | new format
+void newGame() | new game
+void newHome() | new home
+void newHuman(QHumanResource;) | new human
+void newMap() | new map
+void newMapModule(MindMap map, ModeController modeController) | new map module
+void newMapModule(QMindMap;) | new map module
+void newMap(QMindMap;) | new map
+void newMessage(QChatMessage;) | new message
+void newMessage(QVuzeBuddy;QChatMessage;) | new message
+void newMethod() | new method
+void newObject() | new object
+void newPage() | new page
+void newParameter() | new parameter
+void newProcessingInstruction(QString;QReader;) | new processing instruction
+void _newProject() | new project
+void newProject() | new project
+void newQPoint(int xpos, int ypos) | new q point
+void newRelayServerPayLoad(QVuzeBuddy;QString;QMap;J) | new relay server pay load
+void new_rhs() | new rhs
+void newRound(I) | new round
+void newStore(J) | new store
+void NewStringAction(QStringDialog;) | new string action
+void NewSubDatabaseAction() | new sub database action
+void NewTabProperty(QString;) | new tab property
+void NewTabProperty(QString;QString;) | new tab property
+void newTab(QJContactListItem;) | new tab
+void NewTaskColorOption() | new task color option
+void newTurn() | new turn
+void newVariable() | new variable
+void newWordAction() | new word action
+XMLCatalog newCatalog() | new catalog

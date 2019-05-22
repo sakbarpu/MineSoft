@@ -1,0 +1,14 @@
+CONS AEJarReader(QString;) | ae jar reader
+CONS AEJarSigner2(QString;QString;QString;) | ae jar signer 2
+CONS CookieJar() | cookie jar
+CONS JarBuilder(QFile;) | jar builder
+CONS JarBuilder(QFile;QFile;) | jar builder
+CONS JarBuilder(QFile;QManifest;) | jar builder
+CONS JarJDKToolsLibrary(QFile;QFullVersion;QCompilerInterface;QDebugger;QJavadocModel;) | jar jdk tools library
+CONS JarOptionsDialog(QMainFrame;) | jar options dialog
+CONS JarResources(QString;) | jar resources
+CONS JJarClassLoader() | j jar class loader
+CONS JJarClassLoader(Qjava.lang.ClassLoader;) | j jar class loader
+CONS JJarClassLoader(QString;Z) | j jar class loader
+CONS ScaledRAFileInJar(QString;) | scaled ra file in jar
+CONS UpdateJarPatcher(QInputStream;QInputStream;QOutputStream;QLoggerChannel;) | update jar patcher

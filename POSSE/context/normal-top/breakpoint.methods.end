@@ -1,0 +1,9 @@
+boolean toggleBreakpoint(QOpenDefinitionsDocument;IIZ) | toggle breakpoint
+Breakpoint getBreakpoint(IQString;) | get breakpoint
+DebugBreakpointData parseBreakpoint(QSExp;QString;) | parse breakpoint
+void debuggerToggleBreakpoint() | debugger toggle breakpoint
+void enableDisableBreakpoint() | enable disable breakpoint
+void reachedBreakpoint(QBreakpointRequest;) | reached breakpoint
+void removeBreakpoint(QBreakpoint;) | remove breakpoint
+void setBreakpoint(QBreakpoint;) | set breakpoint
+void XXXtestStepIntoOverBreakpoint() | xxx test step into over breakpoint

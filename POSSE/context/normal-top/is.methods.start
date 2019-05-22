@@ -1,0 +1,1983 @@
+boolean is2DArea() | is 2 d area
+boolean isAbbreviatedName(QString;) | is abbreviated name
+boolean isAbilityValue() | is ability value
+boolean isAbsolute() | is absolute
+boolean isAbsoluteDefaultCover(QDirectory;QString;) | is absolute default cover
+boolean isAbsoluteLocalName(String name) | is absolute local name
+boolean isAbsolutePath(QString;) | is absolute path
+boolean isAbstract() | is abstract
+Boolean isAbstract() | is abstract
+boolean isAbstractClass(QClass;) | is abstract class
+boolean isAbstractUnionTable() | is abstract union table
+boolean isAccept() | is accept
+boolean isAcceptable() | is acceptable
+boolean isAcceptable(QString;QContentType;) | is acceptable
+boolean isAccessible(QHsqlName;) | is accessible
+boolean isAccessible(QHsqlName;I) | is accessible
+boolean isAccessible(QString;) | is accessible
+boolean isAccessibleTable(QTable;) | is accessible table
+boolean is_action() | is action
+boolean isAction() | is action
+boolean isActionAvailable(int action) | is action available
+boolean isActionNecessary(QParserResult;) | is action necessary
+boolean isActive() | is active
+boolean isActive(I) | is active
+boolean isActive(QDownload;) | is active
+boolean isADayOff(QDate;) | is a day off
+boolean isADayOff(QGanttCalendar;) | is a day off
+boolean isAdd() | is add
+boolean isAddBuddyMode() | is add buddy mode
+boolean isAddedFile() | is added file
+boolean isAddedFile(I) | is added file
+boolean isAddedFile(QFile;) | is added file
+boolean isAdEnabledContent(QDownloadManager;) | is ad enabled content
+boolean isAdHoc() | is ad hoc
+boolean isAdjacent(QTile;) | is adjacent
+boolean isAdjacentToMapEdge(QTile;) | is adjacent to map edge
+boolean isAdmin() | is admin
+boolean isAdminDirect() | is admin direct
+boolean isAd(QString;) | is ad
+boolean isAffectedByAngelECM(QEntity;QCoords;QCoords;) | is affected by angel ecm
+boolean isAffectedByECM(QEntity;QCoords;QCoords;) | is affected by ecm
+boolean isAffectedByEnabledFilters(QSessionImplementor;) | is affected by enabled filters
+boolean isAffectedBy(QMap;) | is affected by
+boolean isAfterLast() | is after last
+boolean isAfterTransactionRelease() | is after transaction release
+boolean isAggregate() | is aggregate
+boolean isAggregate(I) | is aggregate
+boolean isAggressiveRelease() | is aggressive release
+boolean isAggressiveReleaseNoTransactionCheck() | is aggressive release no transaction check
+boolean isAI() | is ai
+boolean isAimingAtLocation() | is aiming at location
+boolean isALeaf() | is a leaf
+boolean isAlias(QString;) | is alias
+boolean isAlias(String alias) | is alias
+boolean isAlignmentLeft() | is alignment left
+boolean isAlive() | is alive
+boolean isAlive(J) | is alive
+boolean isAllFalse([Z) | is all false
+boolean isAllNegative([I) | is all negative
+boolean isAllNull([QObject;I) | is all null
+boolean isAllowDuplicates() | is allow duplicates
+boolean isAllowMemberExprAsFunctionName() | is allow member expr as function name
+boolean isAllowNulls() | is allow nulls
+boolean isAllowProxyCreation() | is allow proxy creation
+boolean isAllPlayersReadyToLaunch() | is all players ready to launch
+boolean isAllPropertyFetch() | is all property fetch
+boolean isAllTrue([Z) | is all true
+boolean isAlpha(C) | is alpha
+boolean isAlpha(I) | is alpha
+boolean isAlphaLower(C) | is alpha lower
+boolean isAlphaLower(QString;) | is alpha lower
+boolean isAlphaNumeric(C) | is alpha numeric
+boolean isAlpha(QString;) | is alpha
+boolean isAlphaUpper(C) | is alpha upper
+boolean isAlphaUpper(QString;) | is alpha upper
+boolean isAlreadyOnHighSea() | is already on high sea
+boolean isAlreadyOpen(QFile;) | is already open
+boolean isAlreadyPresent(QModeController;QString;QMindMapNode;QCollection;) | is already present
+boolean isAlteration() | is alteration
+boolean isAlternateUniqueKey() | is alternate unique key
+boolean isAltGrDown() | is alt gr down
+boolean isAlwaysHookPaintListener() | is always hook paint listener
+boolean isAmmoUsable() | is ammo usable
+boolean isAmpere() | is ampere
+boolean isAncestorOf(QFile;QFile;) | is ancestor of
+boolean isAncestor(QFile;QFile;) | is ancestor
+boolean isANewPageSequence() | is a new page sequence
+boolean isAnonymous() | is anonymous
+boolean isAnonymousClass(QClass<*>;) | is anonymous class
+boolean _isAnonymousInnerClass(II) | is anonymous inner class
+boolean isAnsi() | is ansi
+boolean isAnyCollectionProperty(QString;) | is any collection property
+boolean isAnyDeviceRefreshing() | is any device refreshing
+boolean isAnyType() | is any type
+boolean isAPart() | is a part
+boolean isApplet() | is applet
+boolean isApplicableDownload(QDownloadManager;) | is applicable download
+boolean isApplicationVersionSuperiorTo(QString;) | is application version superior to
+boolean isArc(QBayesNet;II) | is arc
+boolean isAreaCenterPointAt(FFF) | is area center point at
+boolean isAreaEffect() | is area effect
+boolean isAreaVisible() | is area visible
+boolean isArff(QString;) | is arff
+boolean isArithmeticNode(QNode;) | is arithmetic node
+boolean isArray() | is array
+boolean isArrayObject(QObject;) | is array object
+boolean isArray(String refString) | is array
+boolean isArrayType() | is array type
+boolean isArtOverTrees() | is art over trees
+boolean isAscending() | is ascending
+boolean isAscending(I) | is ascending
+boolean isAsciiDigit(C) | is ascii digit
+boolean isASkip(OutputFileEntry entry) | is a skip
+boolean isAssaultDropInProgress() | is assault drop in progress
+boolean isAsSibling() | is as sibling
+boolean isAssignableFrom(QSchema;) | is assignable from
+boolean isAssignable(QObject;) | is assignable
+boolean isAssignmentVisible(QResourceAssignment;) | is assignment visible
+boolean isAssociationFetch() | is association fetch
+boolean isAssociationType() | is association type
+boolean isAttackerCover() | is attacker cover
+boolean isAttribute() | is attribute
+boolean isAttributeCapability() | is attribute capability
+boolean isAtWar() | is at war
+boolean isAuthFail() | is auth fail
+boolean isAutoAlpha() | is auto alpha
+boolean isAutoCommit() | is auto commit
+boolean isAutoCreateSchema() | is auto create schema
+boolean isAutoDownload() | is auto download
+boolean isAutoDropSchema() | is auto drop schema
+boolean isAutoEject() | is auto eject
+boolean isAutoImport() | is auto import
+Boolean isAutoIncrement() | is auto increment
+boolean isAutoIncrement(I) | is auto increment
+boolean isAutomatic() | is automatic
+boolean isAutoMode() | is auto mode
+boolean isAutoReleaseAndAllowManual() | is auto release and allow manual
+boolean isAutoRetransmit() | is auto retransmit
+boolean isAutoSpeedActive(QGlobalManager;) | is auto speed active
+boolean isAutoSpeedDefaultClassic() | is auto speed default classic
+boolean isAutoUpdateSchema() | is auto update schema
+boolean isAutoUploadAvailable(QAzureusCore;) | is auto upload available
+boolean isAutoValidateSchema() | is auto validate schema
+boolean isAuxiliaryFile() | is auxiliary file
+boolean isAuxiliaryFile(QFile;) | is auxiliary file
+boolean isAvailable() | is available
+boolean isAvailableFontFamily(QString;) | is available font family
+boolean isAvailableTo(QPlayer;) | is available to
+boolean isAveragable() | is averagable
+boolean isAverage(I) | is average
+boolean isAZ2UI() | is az 2 ui
+boolean isAZ3Avail() | is az 3 avail
+boolean isAzStyle(QString;) | is az style
+boolean isAZTracker(QURL;) | is az tracker
+boolean isAzureusDomain(QString;) | is azureus domain
+boolean isAzureusIP(QString;) | is azureus ip
+boolean isBackFaceShown() | is back face shown
+boolean isBackRef() | is back ref
+boolean isBadVersion(QString;QString;) | is bad version
+boolean isBag(QCollectionPersister;) | is bag
+boolean isBarrycenter() | is barrycenter
+boolean isBaseLanguage() | is base language
+boolean isBasicPropertyAccessor() | is basic property accessor
+boolean isBatchable() | is batchable
+boolean isBatchLoadable() | is batch loadable
+boolean isBeforeFirst() | is before first
+boolean isBestRowIdentifiersStrict() | is best row identifiers strict
+boolean isBidOn() | is bid on
+boolean isBigEndian() | is big endian
+boolean isBigger(QContext;QScriptable;QObject;QObject;QObject;[QObject;) | is bigger
+boolean isBilan() | is bilan
+boolean isBlankWhenNull() | is blank when null
+boolean isBlockCommentEnd() | is block comment end
+boolean isBlockCommentStart() | is block comment start
+boolean isBlocking() | is blocking
+boolean isBold() | is bold
+boolean isBOL(I) | is bol
+boolean isBoolean(I) | is boolean
+boolean isBoolean(QString;) | is boolean
+boolean isBorderOpaque() | is border opaque
+boolean isBottomLeftPointAt(FFF) | is bottom left point at
+boolean isBottomRightPointAt(FFF) | is bottom right point at
+boolean isBoundToWall() | is bound to wall
+boolean isBreakPoint(I) | is break point
+boolean isBreak(QString;) | is break
+boolean isBreakTarget() | is break target
+boolean isBreedable() | is breed able
+boolean isBucketEntry() | is bucket entry
+boolean isBuildingMaterial() | is building material
+boolean isBuiltin() | is builtin
+boolean isBuiltIn() | is built in
+boolean isBuiltin(QClass;) | is builtin
+boolean isBuiltin(QString;) | is builtin
+boolean isBurning() | is burning
+boolean isBusy() | is busy
+boolean is_BYTE_COMP_Data(QSampleModel;) | is byte comp data
+boolean isCA() | is ca
+boolean isCacheable() | is cacheable
+boolean isCacheValid(I) | is cache valid
+boolean isCacheValid([QObject;) | is cache valid
+boolean isCallable() | is callable
+boolean isCallable(QElement;) | is callable
+boolean isCallable(QElement;Z) | is callable
+boolean isCancelled2() | is cancelled 2
+boolean isCanon() | is canon
+boolean isCapital() | is capital
+boolean isCaretVisible() | is caret visible
+boolean isCarrier() | is carrier
+boolean isCarrier(QUnitType;) | is carrier
+boolean isCarrying(QTransportable;) | is carrying
+boolean isCaseSensitive() | is case sensitive
+Boolean isCaseSensitive() | is case sensitive
+boolean isCaseSensitive(I) | is case sensitive
+Boolean isCaseSensitive(I) | is case sensitive
+boolean isCaseSensitive(int column) | is case sensitive
+boolean isCatalogAtStart() | is catalog at start
+boolean isCData() | is c data
+boolean isCeilingVisible() | is ceiling visible
+boolean isCellEditable(I) | is cell editable
+boolean isCellEditable(II) | is cell editable
+boolean isCellEditable(int row, int col) | is cell editable
+boolean isCellEditable(int row, int columnNo) | is cell editable
+boolean isCellEditable(QEventObject;) | is cell editable
+boolean isCellEditable(Qjava.util.EventObject;) | is cell editable
+boolean isCellEditable(QObject;I) | is cell editable
+boolean isCenterLabels() | is center labels
+boolean isChameleon() | is chameleon
+boolean isChangeCellFG() | is change cell fg
+boolean isChangeFG() | is change fg
+boolean isChangePbm() | is change pbm
+boolean isChangeRowFG() | is change row fg
+boolean isChanging() | is changing
+boolean isCharacterType(I) | is character type
+boolean isCharClass(QMacros;) | is char class
+boolean isCharging() | is charging
+boolean isChar(I) | is char
+boolean isChatWindowVisible() | is chat window visible
+boolean isChecking() | is checking
+boolean isCheckingForNewAds() | is checking for new ads
+boolean isCheckSum() | is check sum
+boolean isChildComponentInvisible(QComponent;) | is child component invisible
+boolean isChildGroup(QString;) | is child group
+boolean isChildNodeType(Node node) | is child node type
+boolean isChildOf(QNodeView;) | is child of
+boolean isChokedByMe() | is choked by me
+boolean isChoking() | is choking
+boolean isChokingMe() | is choking me
+boolean isClaimable() | is claim able
+boolean isClan() | is clan
+boolean isClanArmor() | is clan armor
+boolean isClass() | is class
+boolean isClassCapability() | is class capability
+boolean isClassFile(QFile;) | is class file
+boolean isClassic() | is classic
+boolean isClassIndex(I) | is class index
+boolean isClassname(QString;) | is classname
+boolean isClassOrInterfaceWord(IZ) | is class or interface word
+boolean isClassOrSuperclassJoin(QJoin;) | is class or superclass join
+boolean isClassOrSuperclassTable(I) | is class or superclass table
+boolean isClassOrSuperclassTable(QTable;) | is class or superclass table
+boolean isClearingMinefield() | is clearing minefield
+boolean isClientOptionsDialogShowing() | is client options dialog showing
+boolean isClipboardEmpty() | is clipboard empty
+boolean isClockwise() | is clockwise
+boolean isClone() | is clone
+boolean isCloseable() | is closeable
+boolean isClosedBrace() | is closed brace
+boolean isClosePath() | is close path
+boolean isClosePending() | is close pending
+boolean isClosing() | is closing
+boolean isCockpit(J) | is cockpit
+boolean isCollection() | is collection
+boolean isCollectionAlias(QString;) | is collection alias
+boolean isCollectionDirtyCheckNecessary(QEntityPersister;QStatus;) | is collection dirty check necessary
+boolean isCollectionJoin() | is collection join
+boolean isCollectionOfValuesOrComponents() | is collection of values or components
+boolean isCollectionPropertyMethod() | is collection property method
+boolean isCollectionProperty(QString;) | is collection property
+boolean isCollectionSnapshotValid(QPersistentCollection;) | is collection snapshot valid
+boolean isCollectionType() | is collection type
+boolean isColonist() | is colonist
+boolean isColonizeable() | is colonizeable
+boolean isColonyCenterTile() | is colony center tile
+boolean isColumn() | is column
+boolean isColumnShown(QTableColumn;) | is column shown
+boolean isColumnVisible(Qorg.gudy.azureus2.plugins.ui.tables.TableColumn;) | is column visible
+boolean isColumnVisible(QTableColumn;) | is column visible
+boolean isCombinableWith(QHandle;) | is combinable with
+boolean isCommentOpen(QString;I) | is comment open
+boolean isCommentStart() | is comment start
+boolean isCommentStart(QString;I) | is comment start
+boolean isCompactableOperation() | is compact able operation
+boolean isCompare(I) | is compare
+boolean isCompatibleValue(QObject;) | is compatible value
+boolean isCompatibleWith(QEquipmentType;) | is compatible with
+boolean isCompiledQueryEqual(ForwardQueryResult qc) | is compiled query equal
+boolean isCompileSelectedOnly() | is compile selected only
+boolean isCompilingView() | is compiling view
+boolean isComplete() | is complete
+boolean isComplete(I) | is complete
+boolean isComplete(J) | is complete
+boolean isCompleteLine() | is complete line
+boolean isComplete(QDownload;) | is complete
+boolean isComplete(Z) | is complete
+boolean isComponentType() | is component type
+boolean isComponentVisible(QString;) | is component visible
+boolean isComposite() | is composite
+boolean isConceptBridge(String strURI) | is concept bridge
+boolean isConditional() | is conditional
+boolean isConditionalIndependent(II[II) | is conditional independent
+boolean isConfigurable() | is configurable
+boolean isConfigValid() | is config valid
+boolean isConfTestingLimits() | is conf testing limits
+boolean isConnectedToPeer(QPeerItem;) | is connected to peer
+boolean isConnectedToSession() | is connected to session
+boolean isConnectorsVisible() | is connectors visible
+boolean isConnectToDecorator() | is connect to decorator
+boolean isConstant() | is constant
+boolean isConstraint() | is constraint
+boolean isConstructedFrom(QTimeUnit;) | is constructed from
+boolean isConstructor() | is constructor
+boolean isConsumer(ImageConsumer ic) | is consumer
+boolean isContact() | is contact
+boolean isContainedBy(QInstance;) | is contained by
+boolean isContentDRM(QTOTorrent;) | is content drm
+boolean isContentProgressive(QTOTorrent;) | is content progressive
+boolean isContent(QTorrent;Z) | is content
+boolean isContent(QTOTorrent;Z) | is content
+boolean isContinuationConstructor(QIdFunctionObject;) | is continuation constructor
+boolean isContinuationException() | is continuation exception
+boolean isContinuous() | is continuous
+boolean isCoordinator() | is coordinator
+boolean isCoreAvailable() | is core available
+boolean isCoreFileLoader(QString;) | is core file loader
+boolean isCoreFileSaver(QString;) | is core file saver
+boolean isCorrect() | is correct
+boolean isCorrectTagName(QString;) | is correct tag name
+boolean isCorrelatedSubselect() | is correlated subselect
+boolean isCorrelation() | is correlation
+boolean isCoupledFieldSet(QString;QBibtexEntry;QBibtexDatabase;) | is coupled field set
+boolean isCover(QInstance;) | is cover
+boolean isCpuTime() | is cpu time
+boolean isCreatedTorrent(QTOTorrent;) | is created torrent
+boolean isCreatingSO() | is creating so
+boolean isCritical() | is critical
+boolean isCriticalPathOn() | is critical path on
+boolean isCryptoOK() | is crypto ok
+boolean isCtor() | is ctor
+boolean isCumulative() | is cumulative
+boolean isCurrency(I) | is currency
+boolean isCurrent() | is current
+boolean _isCurrentBraceMatchable() | is current brace matchable
+boolean isCurrentLocale(QLocale;) | is current locale
+boolean isCurrentlyPrinting() | is currently printing
+boolean isCurrentPlayer(QPlayer;) | is current player
+boolean isCurrentRegionFirst() | is current region first
+boolean isCurrentRegionLast() | is current region last
+boolean isCurrentThread() | is current thread
+boolean isCurrentTimestampSelectStringCallable() | is current timestamp select string callable
+boolean isCursiva() | is cursiva
+boolean _isCursorAfterPrompt() | is cursor after prompt
+boolean isCursorScrollable() | is cursor scrollable
+boolean isCursorScrollSensitive() | is cursor scroll sensitive
+boolean isCustom() | is custom
+boolean isCustomDeleteAllCallable() | is custom delete all callable
+boolean isCustomDeleteCallable() | is custom delete callable
+boolean isCustomInsertCallable() | is custom insert callable
+boolean isCustomUpdateCallable() | is custom update callable
+boolean isCutoff() | is cutoff
+boolean isCVSVersion() | is cvs version
+boolean isCVSVersion(QString;) | is cvs version
+boolean isDamageRedraw() | is damage redraw
+boolean isDanger() | is danger
+boolean isData() | is data
+boolean isDatabaseGeneratedTimestamp(QType;) | is database generated timestamp
+boolean isDataDefinitionImplicitCommit() | is data definition implicit commit
+boolean isDataProtSeparate() | is data prot separate
+boolean isDataReadOnly() | is data read only
+Boolean isDataSourceDescending() | is data source descending
+boolean isDataValid(Vector invalidProperties) | is data valid
+boolean isDate() | is date
+boolean isDateAttribute(EOAttribute eoattribute) | is date attribute
+boolean isDatetimeType(I) | is datetime type
+boolean isDateTimeType(QType;) | is date time type
+boolean isDead() | is dead
+boolean isDeadNote() | is dead note
+boolean isDebianPackageList(String path) | is debian package list
+boolean isDebug() | is debug
+boolean isDebuggerReady() | is debugger ready
+boolean isDefault() | is default
+boolean isDefaultFetchMode(QFetchMode;) | is default fetch mode
+boolean isDefaultFont() | is default font
+boolean isDefaultLazy() | is default lazy
+boolean isDefaultQueryRange(Attribute attr) | is default query range
+boolean isDefaultValue(QString;) | is default value
+boolean isDefensiveUnit() | is defensive unit
+boolean isDefinedOnSubclass(I) | is defined on subclass
+boolean isDefinitelyWritable(I) | is definitely writable
+boolean _isDelegatedKey(QString;) | is delegated key
+boolean isDelete() | is delete
+boolean isDeleteAllCallable() | is delete all callable
+boolean isDeleteCallable() | is delete callable
+boolean isDeleteCallable(I) | is delete callable
+boolean isDelimiter(C) | is delimiter
+boolean isDelimiter_Postcondition(char chr, boolean RESULT) | is delimiter postcondition
+boolean isDependentOf(QTaskFigure;) | is dependent of
+boolean isDeploymentComplete() | is deployment complete
+boolean isDereferencedBySubclassProperty() | is dereferenced by subclass property
+boolean isDereferencedBySuperclassOrSubclassProperty() | is dereferenced by superclass or subclass property
+boolean isDereferencedBySuperclassProperty() | is dereferenced by superclass property
+boolean isDescDataSource() | is desc data source
+boolean isDescendantOf(QMindMapNode;) | is descendant of
+boolean isDescendant(QFile;QFile;) | is descendant
+boolean isDescending() | is descending
+boolean isDesignValid() | is design valid
+boolean isDifferentDownloadLocation(QFile;) | is different download location
+boolean isDifferentTorrentLocation(QFile;) | is different torrent location
+boolean isDiggable() | is diggable
+boolean isDigit(C) | is digit
+boolean isDirect() | is direct
+boolean isDirectChild(QAST;QAST;) | is direct child
+boolean isDirectInvocable() | is direct invocable
+boolean isDirectlyAccessible() | is directly accessible
+boolean isDirectlyAccessible(QObject;I) | is directly accessible
+boolean isDirectory() | is directory
+boolean isDirty() | is dirty
+boolean isDirtyCheckable() | is dirty checkable
+boolean isDirtyCheckable(Z) | is dirty checkable
+boolean isDirtyCheckHandledByInterceptor() | is dirty check handled by interceptor
+boolean isDirtyCheckPossible() | is dirty check possible
+boolean isDirty(QObject;) | is dirty
+boolean isDirty(QObject;QObject;QSessionImplementor;) | is dirty
+boolean isDirty(QObject;QObject;[ZQSessionImplementor;) | is dirty
+boolean isDiscoverable() | is discoverable
+boolean isDiscriminatorFormula() | is discriminator formula
+boolean isDiscriminatorInsertable() | is discriminator insertable
+boolean isDiscriminatorValueNotNull() | is discriminator value not null
+boolean isDiscriminatorValueNull() | is discriminator value null
+boolean isDisplayable() | is displayable
+boolean isDisplayableField(QString;) | is displayable field
+boolean isDistinct() | is distinct
+boolean isDividerBorderVisible() | is divider border visible
+boolean isDomain(QString;QString;) | is domain
+boolean isDone() | is done
+boolean isDone(I) | is done
+boolean isDone(QString;) | is done
+boolean isDontHandleEvent() | is dont handle event
+boolean isDoorOrWindow() | is door or window
+boolean isDorecreate() | is do recreate
+boolean isDoremove() | is do remove
+boolean isDotNode(QAST;) | is dot node
+boolean isDotQuadIP(QString;) | is dot quad ip
+boolean isDoubleEscape() | is double escape
+boolean isDoubleEscapeSequence() | is double escape sequence
+boolean isDoubleQuote() | is double quote
+boolean isDoupdate() | is do update
+boolean isDown() | is down
+boolean isDownloadable() | is downloadable
+boolean isDownloadComplete(Z) | is download complete
+boolean isDownloadConfidenceAbsolute() | is download confidence absolute
+boolean isDownloadConfidenceLow() | is download confidence low
+boolean isDownloading() | is downloading
+boolean isDownloadMode() | is download mode
+boolean isDownloadPossible() | is download possible
+boolean isDownloadUnlimitedMode() | is download unlimited mode
+boolean isDownMove() | is down move
+boolean isDragAcceptable(QDropTargetDragEvent;) | is drag acceptable
+boolean isDRM() | is drm
+boolean isDrop() | is drop
+boolean isDropAcceptable(QDropTargetDropEvent;) | is drop acceptable
+boolean isDue() | is due
+boolean isDumping() | is dumping
+boolean isDuplicateAssociation(QString;[QString;) | is duplicate association
+boolean isDuplicateAssociation(QString;[QString;QAssociationType;) | is duplicate association
+boolean isDuplicate(QBibtexEntry;QBibtexEntry;) | is duplicate
+boolean isDutch() | is dutch
+boolean isDynamic() | is dynamic
+boolean isDynamicInsert() | is dynamic insert
+boolean isDynamicUpdate() | is dynamic update
+boolean isEdge(Object edge) | is edge
+boolean isEditable() | is editable
+boolean isEditablePoints() | is editable points
+boolean isEditMode() | is edit mode
+boolean isEffectiveBindAddress(QInetAddress;) | is effective bind address
+boolean isElement(I) | is element
+boolean isElevationValid(IQIHex;) | is elevation valid
+boolean isEligibleForFiring() | is eligible for firing
+boolean isEligibleFor(I) | is eligible for
+boolean isEligibleForMovement() | is eligible for movement
+boolean isEligibleForOffboard() | is eligible for offboard
+boolean isEligibleForPhysical() | is eligible for physical
+boolean isEligibleForTargetingPhase() | is eligible for targeting phase
+boolean isEmailDisplayOnly() | is email display only
+boolean isEmbeddedInXML() | is embedded in xml
+boolean isEMMActive() | is emm active
+boolean isEmpty() | is empty
+boolean isEmptyBeat() | is empty beat
+boolean isEmptyNode(QNode;) | is empty node
+boolean isEmpty(QSession;) | is empty
+boolean isEmpty(QString;) | is empty
+boolean _isEmptySelection() | is empty selection
+boolean isEmptyString(QString;) | is empty string
+boolean isEnabledForCurrentMode(QWidget;) | is enabled for current mode
+boolean isEnabledNot(QCapability;) | is enabled not
+boolean isEnableTabViews() | is enable tab views
+boolean isEncodable(QObject;) | is encodable
+boolean isEndOfStream() | is end of stream
+boolean isEndTag(QString;) | is end tag
+boolean isEndVisible() | is end visible
+boolean isEndVisible(I) | is end visible
+boolean isEnemyIn(QIGame;IQCoords;Z) | is enemy in
+boolean isEnemyIn(QIGame;IQCoords;ZI) | is enemy in
+boolean isEnemyOf(QEntity;) | is enemy of
+boolean isEnemyOf(QPlayer;) | is enemy of
+boolean isEntity() | is entity
+boolean isEntityAlias(QString;) | is entity alias
+boolean isEntityType() | is entity type
+boolean isEntryFor(QObject;) | is entry for
+boolean isEOFAction(QObject;) | is eof action
+boolean isEOF(I) | is eof
+boolean isEquality() | is equality
+boolean isEqual(Priority toCompare) | is equal
+boolean isEqual(QObject;QObject;) | is equal
+boolean isEqual(QObject;QObject;QEntityMode;) | is equal
+boolean isEqual(QObject;QObject;QEntityMode;QSessionFactoryImplementor;) | is equal
+boolean isEqual(QSubset;) | is equal
+boolean isEquals([B[B) | is equals
+boolean isEquals([C[C) | is equals
+boolean isEquals([QObject;[QObject;) | is equals
+boolean isEqual(Token tk, Term term) | is equal
+boolean isEquivalent([II) | is equivalent
+boolean isEquivalent(int col, int type) | is equivalent
+boolean isEquivalent(QTable;[IQTable;[I) | is equivalent
+boolean isEquivalentToBetweenPredicate() | is equivalent to between predicate
+boolean isEquivalentToBetweenPredicateAugmentedWithLike() | is equivalent to between predicate augmented with like
+boolean isEquivalentToEqualsPredicate() | is equivalent to equals predicate
+boolean isEquivalentToFalsePredicate() | is equivalent to false predicate
+boolean isEquivalentToNotNullPredicate() | is equivalent to not null predicate
+boolean isEquiv(QAction;) | is equiv
+boolean isError() | is error
+boolean isErrorIcon() | is error icon
+boolean isEscapedDoubleQuote() | is escaped double quote
+boolean isEscapedSingleQuote() | is escaped single quote
+boolean isEuropean() | is european
+boolean isEvalFunction(QObject;) | is eval function
+boolean isEventSource() | is event source
+boolean isEverHittable() | is ever hittable
+boolean isExact() | is exact
+boolean isExcludedFile(QFile;) | is excluded file
+boolean isExecutable(DrawingView aView) | is executable
+boolean isExistsInDatabase() | is exists in database
+boolean isExiting() | is exiting
+boolean isExpectingCollectionIndex() | is expecting collection index
+boolean isExpert() | is expert
+boolean isExplicit() | is explicit
+boolean isExplicitIdInsertion() | is explicit id insertion
+boolean isExplicitlyHidden(QTask;) | is explicitly hidden
+boolean isExplicitPolymorphism() | is explicit polymorphism
+boolean isExplicitVersionInsertion() | is explicit version insertion
+boolean isExploredBy(QPlayer;) | is explored by
+boolean isExplosive() | is explosive
+boolean isExporting() | is exporting
+boolean isExtendedAdvancedSearchMode() | is extended advanced search mode
+boolean isExtensionListInDescription() | is extension list in description
+boolean isExternal() | is external
+boolean isExternalAddress(QInetAddress;) | is external address
+boolean isExternalEntity(QString;) | is external entity
+boolean isExtraLazy() | is extra lazy
+boolean isExtremeValue(QInstance;) | is extreme value
+boolean isExtremeValue(QInstance;I) | is extreme value
+boolean isFailing() | is failing
+boolean isFallDamage() | is fall damage
+boolean isFetch() | is fetch
+boolean isField() | is field
+boolean isFile() | is file
+boolean isFileBasedDatabaseType(QString;) | is file based database type
+boolean isFileDestinationIsItself(QSaveLocationChange;) | is file destination is itself
+boolean isFileElement(QFile;) | is file element
+boolean isFileInArchive(QString;) | is file in archive
+boolean isFilesInJar() | is files in jar
+boolean isFilesReadOnly() | is files read only
+boolean isFileTorrent(QFile;QShell;QString;) | is file torrent
+boolean isFileValid(File file) | is file valid
+boolean isFilter() | is filter
+boolean isFinal() | is final
+boolean isFinalClass(QClass;) | is final class
+boolean isFindingClub() | is finding club
+boolean isFinishSelectionOK() | is finish selection ok
+boolean isFiringFromArmAlready(QIGame;IQEntity;I) | is firing from arm already
+boolean isFirst() | is first
+boolean isFirstBatchDone() | is first batch done
+boolean isFirstFile() | is first file
+boolean isFirstPage(QString;) | is first page
+boolean isFirstPriority() | is first priority
+boolean isFirstPriority(QDownload;IIQStringBuffer;) | is first priority
+boolean isFirstStep() | is first step
+boolean isFirstSubNetBit() | is first sub net bit
+boolean isFixedConditional() | is fixed conditional
+boolean isFixedConstant() | is fixed constant
+boolean isFixedDelay(QObject;) | is fixed delay
+Boolean isFixedPrecisionScale() | is fixed precision scale
+boolean isFixedRate(QObject;) | is fixed rate
+boolean isFloatColumnFooter() | is float column footer
+boolean isFloorVisible() | is floor visible
+boolean isFlushing() | is flushing
+boolean isFlushModeNever() | is flush mode never
+boolean isFocalPlaneResolutionUnitAvailable() | is focal plane resolution unit available
+boolean isFocusable() | is focusable
+boolean isFocusTraversable() | is focus traversable
+boolean isFoodType() | is food type
+boolean isFootActuator(J) | is foot actuator
+boolean isForceActive() | is force active
+boolean isForceDiscriminator() | is force discriminator
+boolean isForceStart() | is force start
+boolean isForceStartable(QDownloadManager;) | is force startable
+boolean isForceVictory() | is force victory
+boolean isFormatSql() | is format sql
+boolean isFormula() | is formula
+boolean isFoundInParent(QString;QObject;QEntityPersister;QCollectionPersister;QObject;) | is found in parent
+boolean isFractionalMetrics() | is fractional metrics
+boolean isFreeBSD() | is free bsd
+boolean isFree(QBuildingType;) | is free
+boolean isFromElementAlias(QString;) | is from element alias
+boolean isFromFront() | is from front
+boolean isFromLeft() | is from left
+boolean isFromOrJoinFragment() | is from or join fragment
+boolean isFrontGrid() | is front grid
+boolean isFull() | is full
+boolean isFullRank() | is full rank
+boolean isFullyAllocatable() | is fully allocatable
+boolean isFullyVisible() | is fully visible
+boolean isFullyVisible(QAvatarWidget;) | is fully visible
+boolean isFunction() | is function
+boolean isFunctionName(QString;) | is function name
+boolean isFunctionOrKeyword(QString;QString;QDialect;QSQLFunctionRegistry;) | is function or keyword
+boolean isFurnitureSortedPropertyBackwardCompatible(QHomePieceOfFurniture.SortableProperty;) | is furniture sorted property backward compatible
+boolean isFurnitureViewedFromTop() | is furniture viewed from top
+boolean isFusion() | is fusion
+boolean isFusionEngine(J) | is fusion engine
+boolean isGap() | is gap
+boolean isGaussian() | is gaussian
+boolean isGenerateDebugInfo() | is generate debug info
+boolean isGeneratedScript() | is generated script
+boolean isGeneratedScript(QString;) | is generated script
+boolean isGeneratingDebug() | is generating debug
+boolean isGeneratingIntermediateEvents() | is generating intermediate events
+boolean isGeneratingSource() | is generating source
+boolean _isGenericCompiler() | is generic compiler
+boolean isGettable(J) | is get table
+boolean isGetThis(QString;) | is get this
+boolean isGhost() | is ghost
+boolean isGhostNote() | is ghost note
+boolean isGlobalTransferBarShown() | is global transfer bar shown
+boolean isGrant() | is grant
+boolean isGrantee(QString;) | is grantee
+boolean isGrappleAttacker() | is grapple attacker
+boolean isGreater(int val) | is greater
+boolean isGreater(QSaturatedMode;) | is greater
+boolean isGreater(QSpeedLimitConfidence;) | is greater
+boolean isGridVisible() | is grid visible
+boolean isGroupAddress() | is group address
+boolean isGroupHit() | is group hit
+boolean isGrouping() | is grouping
+boolean isGuiEventThread() | is gui event thread
+boolean isGyro(J) | is gyro
+boolean isGZipFile(QString;) | is g zip file
+boolean isHaltOnError() | is halt on error
+boolean isHandActuator(J) | is hand actuator
+boolean isHandledType(Class type) | is handled type
+boolean isHandler(int type) | is handler
+boolean isHasJustStood() | is has just stood
+boolean isHeadless() | is headless
+boolean isHeld() | is held
+boolean isHexBuildable(QIHex;) | is hex buildable
+boolean isHidden() | is hidden
+boolean isHiddenFile(File f) | is hidden file
+boolean isHide() | is hide
+boolean isHierachic(QString;) | is hierach ic
+boolean isHighBidder() | is high bidder
+boolean isHighDutch(QAuctionEntry;) | is high dutch
+boolean isHighlightWithInvisibleEdge() | is highlight with invisible edge
+boolean isHighQuality() | is high quality
+boolean isHit() | is hit
+boolean isHit(II) | is hit
+boolean isHit(QPoint;QDimension;) | is hit
+boolean isHittable() | is hittable
+boolean isHitTest() | is hit test
+boolean isHomeOwner() | is home owner
+boolean isHomogeneous(QInstances;) | is homogeneous
+boolean isHorizontal() | is horizontal
+boolean isHosting(QURL;) | is hosting
+boolean isHover() | is hover
+boolean isHover(I) | is hover
+boolean isHtml() | is html
+boolean isHullDown() | is hull down
+boolean isHuman() | is human
+boolean isHumanPlayersLeft() | is human players left
+boolean isIA5String(QString;) | is ia 5 string
+boolean isIconColumn(I) | is icon column
+boolean isID([B) | is id
+boolean is_id_char(C) | is id char
+boolean isIdentical(Object value1, Object value2) | is identical
+boolean isIdentifierAssignedByInsert() | is identifier assigned by insert
+boolean isIdentifierChar(C) | is identifier char
+boolean isIdentifier(QString;QDialect;) | is identifier
+boolean isIdentity() | is identity
+boolean isIdentityColumn(QDialect;) | is identity column
+boolean isIdle() | is idle
+boolean is_id_start(C) | is id start
+boolean isIgniting() | is ign it ing
+boolean isIgnore() | is ignore
+boolean isIgnoreCase() | is ignore case
+boolean isIgnoreNotFound() | is ignore not found
+boolean isIgnorePagination() | is ignore pagination
+boolean isIgnoreUnknownTypes() | is ignore unknown types
+boolean isIgnoringEvents() | is ignoring events
+boolean isIlluminationModelSet() | is illumination model set
+boolean isImmobile() | is immobile
+boolean isImmutable(QString;) | is immutable
+boolean isImpliedInFromClause() | is implied in from clause
+boolean isIn() | is in
+boolean isINarcedBy(I) | is i narced by
+boolean isINarcedWith(J) | is i narced with
+boolean isInArchive() | is in archive
+boolean isInArc(QCoords;IQCoords;I) | is in arc
+boolean isInArc(QIGame;IIQTargetable;) | is in arc
+boolean isInBuilding(QIGame;IQCoords;) | is in building
+boolean isInBuilding(QIGame;QEntity;) | is in building
+boolean isInBuilding(QIGame;QEntity;QCoords;) | is in building
+boolean isInCache(QString;) | is in cache
+boolean isInCategory(QDownloadManager;QCategory;) | is in category
+boolean isIncludedIn(QRule;) | is included in
+boolean isInclude_non_active_rows() | is include non active rows
+boolean isIncludeSubclasses() | is include subclasses
+boolean isIncoming() | is incoming
+boolean isInConflict() | is in conflict
+boolean isIncremental() | is incremental
+boolean isInCurrentCategory(QDownloadManager;) | is in current category
+boolean isInCurrentPerspective() | is in current perspective
+boolean isInDebugMode() | is in debug mode
+boolean isInDefaultDownloadDir(QDownloadManager;) | is in default download dir
+boolean isInDefaultSaveDir() | is in default save dir
+boolean isInDefaultSaveDir(QDownload;) | is in default save dir
+boolean isIndeterminate() | is indeterminate
+boolean isIndexFK(QIndex;) | is index fk
+boolean isIndexingMutable() | is indexing mutable
+Boolean isIndexNonUnique(I) | is index non unique
+boolean isIndexUnique(QIndex;) | is index unique
+boolean isIndian() | is indian
+boolean isIndirectCRL() | is indirect crl
+boolean isInEndGameMode() | is in end game mode
+boolean isInErrorState() | is in error state
+boolean isInEurope() | is in europe
+boolean isInfernoBurning(QCoords;) | is inferno burning
+boolean isInfernoFire() | is inferno fire
+boolean isInfinity() | is infinity
+boolean isInfo() | is info
+boolean isInFollowLinkRegion(D) | is in follow link region
+boolean isInformedAlive() | is informed alive
+boolean isInGame() | is in game
+boolean isInGroup(QString;) | is in group
+boolean isInGroup(QVisualItem;QString;) | is in group
+boolean isInIncludedPackage(QString;) | is in included package
+boolean isInit() | is init
+boolean isInitialAnchorRandom() | is initial anchor random
+boolean isInitialisationComplete() | is initialisation complete
+boolean isInitialisationThread() | is initialisation thread
+boolean isInitialising() | is initialising
+boolean isInitializing() | is initializing
+boolean isInitialzedCollection(Object entityInstance, String fieldName) | is initialzed collection
+boolean isInitiator() | is initiator
+boolean isInitOnStartup() | is init on startup
+boolean isInList(QBeanInstance;QVector;) | is in list
+boolean isInManagedState(QObject;QEventSource;) | is in managed state
+boolean isInMap(II) | is in map
+boolean isInMemory() | is in memory
+boolean isInPeriod(Timestamp date) | is in period
+boolean isInplaceEdit() | is in place edit
+boolean isInProcessDatabaseType(QString;) | is in process database type
+boolean isInProgress() | is in progress
+boolean isInProgress(I) | is in progress
+boolean isIn(QCoords;) | is in
+boolean isInRange(D) | is in range
+boolean isInRange(I) | is in range
+boolean isInRange(QInetAddress;QString;[BZ) | is in range
+boolean isInRange(QString;) | is in range
+boolean isInRange(QString;QString;[B) | is in range
+boolean isInRange(QString;QString;[BZ) | is in range
+boolean isInSameBuilding(QIGame;QEntity;QTargetable;) | is in same building
+boolean isInScriptTag() | is in script tag
+boolean isInsertable() | is insertable
+boolean isInsertCallable() | is insert callable
+boolean isInsertCallable(I) | is insert callable
+boolean isInsertMode() | is insert mode
+boolean isInside(QPoint;) | is inside
+boolean isInstance(QObject;) | is instance
+boolean isInstance(QObject;QEntityMode;) | is instance
+boolean isIn(String firstPart, String start, String end) | is in
+boolean isInteger() | is integer
+boolean isIntegerType(QClass;) | is integer type
+boolean isIntegral() | is integral
+boolean isIntegral(QString;) | is integral
+boolean isIntegral(QType;) | is integral
+boolean isInteractive() | is interactive
+boolean isInteractive(I) | is interactive
+boolean isInteresting() | is interesting
+boolean isInteresting(I) | is interesting
+boolean isIntersectedBy(DDDD) | is intersected by
+boolean isIntersecting(OrthoShape val) | is intersecting
+boolean isIntervalNonWorking(QGanttCalendar;QGanttCalendar;QGPCalendar;) | is interval non working
+boolean is_INT_PACK_BYTE_COMP(QSampleModel;QSampleModel;) | is int pack byte comp
+boolean is_INT_PACK_COMP(QSampleModel;) | is int pack comp
+boolean is_INT_PACK_Data(QSampleModel;Z) | is int pack data
+boolean is_INT_PACK(QColorModel;) | is int pack
+boolean isInUse() | is in use
+boolean isInvalid() | is invalid
+boolean isInvalidFormatter() | is invalid formatter
+boolean isInverse() | is inverse
+boolean isInverseCollection() | is inverse collection
+boolean isInverseCollectionNoOrphanDelete() | is inverse collection no orphan delete
+boolean isInverseOneToManyOrNoOrphanDelete() | is inverse one to many or no orphan delete
+boolean isInverseSubclassTable(I) | is inverse subclass table
+boolean isInverseTable(I) | is inverse table
+boolean isInVerticalRegion(DD) | is in vertical region
+boolean isInvisibleAndCanRefresh() | is invisible and can refresh
+boolean isIPOverride() | is ip override
+boolean isIPv4() | is ipv 4
+boolean isIsDocDirty() | is is doc dirty
+boolean isIsForPrompting() | is is for prompting
+boolean isIsLazy() | is is lazy
+boolean isIsLeft() | is is left
+boolean isIsPluginBase() | is is plugin base
+boolean isIsPrintInFirstWholeBand() | is is print in first whole band
+boolean isIsPrintRepeatedValues() | is is print repeated values
+boolean isIsPrintWhenDetailOverflows() | is is print when detail overflows
+boolean isIsRemoveLineWhenBlank() | is is remove line when blank
+boolean isIsReprintHeaderOnEachPage() | is is reprint header on each page
+boolean isIsResetPageNumber() | is is reset page number
+boolean isIsStartNewColumn() | is is start new column
+boolean isIsStartNewPage() | is is start new page
+boolean isIsStyledText() | is is styled text
+boolean isIsSummaryNewPage() | is is summary new page
+boolean isIsTitleNewPage() | is is title new page
+boolean isIsUsingCache() | is is using cache
+boolean isItalic() | is italic
+boolean isItemActive(QJContactListItem;) | is item active
+boolean isItemActive(Qorg.planetamessenger.plugin.JContactListItem;) | is item active
+boolean isItemForce() | is item force
+boolean isItemPartOfBasePlan(QSelectable;) | is item part of base plan
+boolean isItemTextAt(QSelectable;QString;QTextStyle;FFFFF) | is item text at
+boolean isItemTextBold(QSelectable;QTextStyle;) | is item text bold
+boolean isItemTextItalic(QSelectable;QTextStyle;) | is item text italic
+boolean isJAREntry() | is jar entry
+boolean isJarFile(QFile;) | is jar file
+boolean isJar(QString;) | is jar
+boolean isJava5OrSuperior() | is java 5 or superior
+boolean isJava6() | is java 6
+boolean isJavaIdentifier(QString;) | is java identifier
+boolean isJavaPrimitiveWrap() | is java primitive wrap
+boolean isJavaVersionSuperiorTo(QString;) | is java version superior to
+boolean isJavaWebStartInstance() | is java web start instance
+boolean isJdbcBatchVersionedData() | is jdbc batch versioned data
+boolean isJDBCConnection() | is jdbc connection
+boolean isJoinable(IQSet;QString;[QString;QAssociationType;I) | is joinable
+boolean isJoinedAtEndOfWallAtEnd() | is joined at end of wall at end
+boolean isJoinedAtEndOfWallAtStart() | is joined at end of wall at start
+boolean isJoinedAtStartOfWallAtEnd() | is joined at start of wall at end
+boolean isJoinedAtStartOfWallAtStart() | is joined at start of wall at start
+boolean isJoinedFetchEnabledInMapping(QFetchMode;QAssociationType;) | is joined fetch enabled in mapping
+boolean isJoinedSubclass() | is joined subclass
+boolean isJoin(QString;) | is join
+boolean isJpaStyle() | is jpa style
+boolean isJRobinHeader() | is j robin header
+boolean isJSFormatChar(I) | is js format char
+boolean isJSLineTerminator(I) | is js line terminator
+boolean isJSSpace(I) | is js space
+boolean isJumping() | is jumping
+boolean isJumpJet(J) | is jump jet
+boolean _isJUnitTest(QClass<*>;) | is j unit test
+boolean isKeepInMemory() | is keep in memory
+boolean isKey() | is key
+boolean isKeyInCache(QResultProducer;[QObject;) | is key in cache
+boolean isKeyInTable(QString;QResultProducer;[QObject;) | is key in table
+boolean isKeyWordMatchCase(QString;) | is key word match case
+boolean isKeyword(QString;) | is keyword
+boolean isKeyWord(QString;) | is key word
+boolean _isknownMessageType(I) | is known message type
+boolean isKnownName(QString;) | is known name
+boolean isKoblitz() | is kob li tz
+boolean isKOML(QString;) | is koml
+boolean isKoThisRound() | is ko this round
+boolean isLabel() | is label
+boolean isLabelBeforeTextField() | is label before text field
+boolean isLabelPartOfBasePlan(QLabel;) | is label part of base plan
+boolean isLabelUnique(QString;) | is label unique
+boolean isLANAddress(QInetAddress;) | is lan address
+boolean isLand() | is land
+boolean isLandWithinDistance(III) | is land within distance
+boolean isLANLocal() | is lan local
+boolean isLarge() | is large
+boolean isLast() | is last
+boolean isLastPage(QString;) | is last page
+boolean isLastStep() | is last step
+boolean isLayingMines() | is laying mines
+boolean isLayoutComplete() | is layout complete
+boolean isLazy() | is lazy
+boolean isLazyPropertiesCacheable() | is lazy properties cacheable
+boolean isLeaf() | is leaf
+boolean isLeaf(QObject;) | is leaf
+boolean IsLeapYear(I) | is leap year
+boolean isLeft() | is left
+boolean isLeft(QNode;) | is left
+boolean isLeftToRight() | is left to right
+boolean isLegal() | is legal
+boolean isLegalDeployment(QCoords;QPlayer;) | is legal deployment
+boolean isLegalEndPos() | is legal end pos
+boolean isLegal(II) | is legal
+boolean isLegal(IIZ) | is legal
+boolean isLegalPosition(int row, int column) | is legal position
+boolean isLegal(QString;) | is legal
+boolean isLensMode() | is lens mode
+boolean isLessThan(CollectionType collType) | is less than
+boolean isLifecycleImplementor() | is lifecycle implementor
+boolean isLifeSupport(J) | is life support
+boolean isLineComment() | is line comment
+boolean isLineTerm(C) | is line term
+boolean isLink() | is link
+boolean isLinkable(QPropertyMetaInformation;) | is linkable
+boolean isLinux() | is linux
+boolean isList() | is list
+boolean isListState() | is list state
+boolean isLiveOnEntry(I) | is live on entry
+boolean isLoadableThisTurn() | is loadable this turn
+boolean isLoadedAtStartup() | is loaded at startup
+boolean isLoadingBuiltin() | is loading builtin
+boolean isLoadOnStartup() | is load on startup
+boolean isLocal() | is local
+boolean isLocalAddress() | is local address
+boolean isLocalComplete() | is local complete
+boolean isLocalEjbRef(String viewType, JavaClass refClass) | is local ejb ref
+boolean isLocationBad(I) | is location bad
+boolean isLocationBurning(I) | is location burning
+boolean isLock() | is lock
+boolean isLog() | is log
+boolean isLoggable() | is loggable
+boolean isLoggable(QLogRecord;) | is loggable
+boolean isLoggedIn() | is logged in
+boolean isLogicalExpression(DefaultMutableTreeNode node) | is logical expression
+boolean isLogToStdout() | is log to stdout
+boolean isLookAction() | is look action
+boolean isLookupByNaturalKey() | is lookup by natural key
+boolean isLoopback() | is loopback
+boolean isLoopback(QString;) | is loopback
+boolean isLooping(QTaskDependency;) | is looping
+boolean isLooping(QTaskDependency;QSet;) | is looping
+boolean isLowerArmActuator(J) | is lower arm actuator
+boolean isLowerLegActuator(J) | is lower leg actuator
+boolean isLowNoise() | is low noise
+boolean isLowPriority() | is low priority
+boolean isMac() | is mac
+boolean isMacAddress(QString;) | is mac address
+boolean isMacOS() | is mac os
+boolean isMacOSX() | is mac osx
+boolean isMacOSXLeopardOrSuperior() | is mac osx leopard or superior
+boolean isMacPlatform() | is mac platform
+boolean IsMailerRunning() | is mailer running
+boolean isMainlineStyle(QString;) | is mainline style
+boolean isMajor() | is major
+boolean isMakingDfa() | is making dfa
+boolean isManagingFocus() | is managing focus
+boolean isMandatory() | is mandatory
+boolean isManipulationStatement() | is manipulation statement
+boolean isManual() | is manual
+boolean isManualFlushMode(QFlushMode;) | is manual flush mode
+boolean isManyToMany() | is many to many
+boolean isManyToManyRoot(QJoinable;) | is many to many root
+boolean isManyToManyWith(QOuterJoinableAssociation;) | is many to many with
+boolean isMap() | is map
+boolean isMapEditor() | is map editor
+boolean isMapNearBottom(I) | is map near bottom
+boolean isMapNearLeft(II) | is map near left
+boolean isMapNearRight(II) | is map near right
+boolean isMapNearTop(I) | is map near top
+boolean isMarkedForRollback(I) | is marked for rollback
+boolean isMarkedForRollback(Qjavax.transaction.Transaction;) | is marked for rollback
+boolean isMasonTag() | is mason tag
+boolean isMatchable() | is matchable
+boolean isMatchesNull() | is matches null
+boolean isMatch(QBrace;) | is match
+boolean isMatch(QEntity;) | is match
+boolean isMatch(QX;QPredictiveInputModel<QX;>;) | is match
+boolean isMaxWidthAuto() | is max width auto
+boolean isMe() | is me
+boolean isMean(I) | is mean
+boolean isMech() | is mech
+boolean isMemberClass(QClass<*>;) | is member class
+boolean isMentionedIn(QAttribute;QTest;) | is mentioned in
+boolean isMergeable() | is mergeable
+boolean isMethod() | is method
+boolean isMethodDifferent(Method_info oldMethod, Method_info newMethod) | is method different
+boolean isMethodOf(QMethod;) | is method of
+boolean isMethodValid(int method) | is method valid
+boolean isMiddlePointAt(FFF) | is middle point at
+boolean isMilestone() | is milestone
+boolean isMilitaryEquipment() | is military equipment
+boolean isMilitaryGoods() | is military goods
+boolean isMine() | is mine
+boolean isMinimalPutsEnabledByDefault() | is minimal puts enabled by default
+boolean isMinWidthAuto() | is min width auto
+boolean isMissing() | is missing
+boolean isMissingAt(II) | is missing at
+boolean isMissing(I) | is missing
+boolean isMissing(QAttribute;) | is missing
+boolean isMissingSparse(I) | is missing sparse
+boolean isMissingValue(D) | is missing value
+boolean isMixedTech() | is mixed tech
+boolean isModifiable() | is modifiable
+boolean isModificationState() | is modification state
+boolean isModifiedSinceSave() | is modified since save
+boolean isMonitoring() | is monitoring
+boolean isMonoFile() | is mono file
+boolean isMonotone(QInstances;) | is monotone
+boolean isMouseOver() | is mouse over
+boolean isMouseOver(QPoint;QDimension;) | is mouse over
+boolean isMovable() | is movable
+boolean isMoveable() | is moveable
+boolean isMoveableDown(QDownloadManager;) | is moveable down
+boolean isMoveableUp(QDownloadManager;) | is moveable up
+boolean isMoveLegal() | is move legal
+boolean isMovementHit() | is movement hit
+boolean isMovementHitPending() | is movement hit pending
+boolean isMovementPossible(QIGame;QCoords;I) | is movement possible
+boolean isMoveWithShell() | is move with shell
+boolean isMovingUnits() | is moving units
+boolean isMultiline() | is multiline
+boolean isMultiLine() | is multi line
+boolean isMultiPartResource() | is multi part resource
+boolean isMultipleCharBrace() | is multiple char brace
+boolean isMultipleSelection() | is multiple selection
+boolean isMultiSelection() | is multi selection
+boolean isMultiTable() | is multi table
+boolean isMultiTrackView() | is multi track view
+boolean isMultiYear(I) | is multi year
+boolean isMutable() | is mutable
+boolean isMutualAttack() | is mutual attack
+boolean isMyTurn() | is my turn
+boolean isNameCenterPointAt(FFF) | is name center point at
+boolean isNamedCurve() | is named curve
+boolean isNamedParameter(QString;) | is named parameter
+boolean isName(QString;) | is name
+boolean isNameVisible() | is name visible
+boolean isNarcedBy(I) | is narced by
+boolean isNATHealthy() | is nat healthy
+boolean isNativeLookAndFeel() | is native look and feel
+boolean isNativeSheet() | is native sheet
+boolean isNATStatusBad() | is nat status bad
+boolean isNatural() | is natural
+boolean isNaturalIdentifier() | is natural identifier
+boolean isNaturalKeyLookup() | is natural key lookup
+boolean isNaval() | is naval
+boolean isNeedsAuth() | is needs auth
+boolean isNeedsCheck() | is needs check
+boolean isNestedThrowable(QThrowable;) | is nested throwable
+boolean isNestedTransaction() | is nested transaction
+boolean isNew() | is new
+boolean isNewBatch() | is new batch
+boolean isNewer(QObject;) | is newer
+boolean isNewInstall() | is new install
+boolean isNewline() | is newline
+boolean isNewSentence() | is new sentence
+boolean isNewTurn() | is new turn
+boolean isNewVersion() | is new version
+boolean isNewWorldGoodsType() | is new world goods type
+boolean isNewWorldLuxuryType() | is new world luxury type
+boolean isNextPlayerInNewTurn() | is next player in new turn
+boolean isNextToSelf(QMap.Position;) | is next to self
+boolean isNextToWater(QMap.Position;) | is next to water
+boolean isNoCover() | is no cover
+boolean isNoDelay() | is no delay
+boolean isNominal() | is nominal
+boolean isNominal(I) | is nominal
+boolean isNoMultiplePlay() | is no multiple play
+boolean isNonActiveMode() | is non active mode
+boolean isNonDNSName(QString;) | is non dns name
+boolean isNonLeft(IIII[D) | is non left
+boolean isNonQualifiedPropertyRef(QAST;) | is non qualified property ref
+boolean isNonsingular() | is nonsingular
+boolean is_non_term() | is non term
+boolean isNonWorkingDay(QDate;) | is non working day
+boolean isNonWrappableField(QString;) | is non wrappable field
+boolean isNormalizeData() | is normalize data
+boolean isNorth(II) | is north
+boolean isNoSystemExit() | is no system exit
+boolean isNoTaskBar() | is no task bar
+boolean isNotation(QString;) | is notation
+boolean isNoteBeat() | is note beat
+boolean isNotEmpty(QString;) | is not empty
+boolean isNotTabu(QOperation;) | is not tabu
+boolean isNotTransient(QString;QObject;QBoolean;QSessionImplementor;) | is not transient
+boolean isNull() | is null
+boolean isNullable() | is nullable
+boolean isNullableSubclassTable(I) | is nullable subclass table
+boolean isNullableTable(I) | is nullable table
+boolean isNullAt(II) | is null at
+boolean isNullifiable(QString;QObject;) | is nullifiable
+boolean isNullifiable(ZQSessionImplementor;) | is nullifiable
+boolean isNull(Object newValue) | is null
+boolean isNull([QObject;) | is null
+boolean isNull([QObject;[I) | is null
+boolean isNull(QObject;QSessionImplementor;) | is null
+boolean isNumberOnly(QString;) | is number only
+boolean isNumber(QString;) | is number
+boolean isNumberType(I) | is number type
+boolean isNumberVar(I) | is number var
+boolean isNumeric() | is numeric
+boolean isNumericAt(I) | is numeric at
+boolean isNumeric(C) | is numeric
+boolean isNumeric(QString;) | is numeric
+boolean isNumericString(QString;) | is numeric string
+boolean isNumericType(QClass;) | is numeric type
+boolean _isNum(QString;) | is num
+boolean isObscuredRecipient(QString;) | is obscured recipient
+boolean isObserver() | is observer
+boolean isObsolete() | is obsolete
+boolean isOffBoard() | is off board
+boolean isOffboardPlayable() | is offboard playable
+boolean isOffComponent(QMouseEvent;) | is off component
+boolean isOffensiveUnit() | is offensive unit
+boolean isOffline() | is offline
+boolean isOk() | is ok
+boolean isOK() | is ok
+boolean isOkay() | is okay
+boolean isOk(I) | is ok
+boolean isOlder(QObject;) | is older
+boolean isOmni() | is omni
+boolean isOn() | is on
+boolean isOnAdvancedView() | is on advanced view
+boolean isOnBlacklist(QString;) | is on blacklist
+boolean isOnBorder(QPointDouble;) | is on border
+boolean isOnBorder(QPointInt;) | is on border
+boolean isOnCarrier() | is on carrier
+boolean isOnCloseRelease() | is on close release
+boolean isOneLeftSideOfRoot() | is one left side of root
+boolean isOneToMany() | is one to many
+boolean isOneToOne() | is one to one
+boolean isOneUse() | is one use
+boolean isOnFire() | is on fire
+boolean isOnline(Z) | is online
+boolean isOnlyDown() | is only down
+boolean isOnlyPavement() | is only pavement
+boolean isOnlySelectedItem() | is only selected item
+boolean isOnlyUp() | is only up
+boolean isOnSameSheet(QCoords;) | is on same sheet
+boolean isOnTransportList(QTransportable;) | is on transport list
+boolean isOpaque() | is opaque
+boolean isOpen() | is open
+boolean isOpenBrace() | is open brace
+boolean isOpenComment() | is open comment
+boolean isOpen(QObject;) | is open
+boolean isOperational() | is operational
+boolean isOperator(C) | is operator
+boolean isOpticalDensitySet() | is optical density set
+boolean isOpticsOutputs() | is optics outputs
+boolean isOptimisticUnchoke() | is optimistic unchoke
+boolean isOptional() | is optional
+boolean isOptional(QString;) | is optional
+boolean isOptionExist(CliOption option) | is option exist
+boolean isOr(DefaultMutableTreeNode node) | is or
+boolean isOrHasBeenLocal() | is or has been local
+boolean isOSX() | is osx
+boolean isOtherCapability() | is other capability
+boolean isOurContent() | is our content
+boolean isOurDownloadManager(QDownloadManager;) | is our download manager
+boolean isOurDownload(QDownloadManager;) | is our download
+boolean isOurThread(QThread;) | is our thread
+boolean isOutbid() | is out bid
+boolean isOutgoing() | is outgoing
+boolean isOutlier(QInstance;) | is outlier
+boolean isOutlier(QInstance;I) | is outlier
+boolean isOutOfDate(QTurn;) | is out of date
+boolean isOutOfGame(I) | is out of game
+boolean isOutOfGame(QEntity;) | is out of game
+boolean isOutOfMemory() | is out of memory
+boolean isOutputNeuron(int i) | is output neuron
+boolean isOver() | is over
+boolean isOverButton(QMouseEvent;) | is over button
+boolean isOverlapping() | is overlapping
+boolean isOverridden() | is overridden
+boolean isOverview() | is overview
+boolean isOverwriteOrgTrx() | is overwrite org trx
+Boolean isOwnUnderline() | is own underline
+boolean isPacific() | is pacific
+boolean isPackageWord(I) | is package word
+boolean isPageLoading() | is page loading
+boolean isPaintable() | is paintable
+boolean isParam() | is param
+boolean isParamArray() | is param array
+boolean isParameter(I) | is parameter
+boolean isParamList() | is param list
+boolean isParamObject() | is param object
+boolean isParam(QAST;) | is param
+boolean isParentOf(QNodeView;) | is parent of
+boolean isPartialChosen() | is partial chosen
+boolean isPartialContent() | is partial content
+boolean isPartialData() | is partial data
+boolean isPassive() | is passive
+boolean isPassword() | is password
+boolean isPassword(QObject;) | is password
+boolean isPastDanger() | is past danger
+boolean isPathEditable(Qjavax.swing.tree.TreePath;) | is path editable
+boolean isPavementStep() | is pavement step
+boolean isPeerSourceEnabledByDefault(QString;) | is peer source enabled by default
+boolean isPendingDump() | is pending dump
+boolean isPercentageInUse() | is percentage in use
+boolean isPerfectMatch(QX;QPredictiveInputModel<QX;>;) | is perfect match
+boolean isPeriodic(QObject;) | is periodic
+boolean isPermanent() | is permanent
+boolean isPermanentFailure() | is permanent failure
+boolean isPermanentlyUnavailable() | is permanently unavailable
+boolean isPersistent() | is persistent
+boolean isPersistent(PersistenceCapable pc) | is persistent
+boolean isPhasePlayable(I) | is phase playable
+boolean isPhysicalConstraint() | is physical constraint
+boolean isPhysicalTable() | is physical table
+boolean isPieceAvailable(I) | is piece available
+boolean isPieceOfFurnitureNameValid() | is piece of furniture name valid
+boolean isPieceOfFurniturePartOfBasePlan(QHomePieceOfFurniture;) | is piece of furniture part of base plan
+boolean isPlain() | is plain
+boolean isPlasticLaf() | is plastic laf
+boolean isPlasticLaf(QString;) | is plastic laf
+boolean isPlasticWindowsAvailable() | is plastic windows available
+boolean isPlatform() | is platform
+boolean isPlatformContent() | is platform content
+boolean isPlatformContent(QObject;) | is platform content
+boolean isPlatformHost(QString;) | is platform host
+boolean isPlatformTracker(QTorrent;) | is platform tracker
+boolean isPlatformTracker(QTOTorrent;) | is platform tracker
+boolean isPlatoon() | is platoon
+boolean isPlayable() | is playable
+boolean isPlayerVictor(I) | is player victor
+boolean isPlayerVictor(QPlayer;) | is player victor
+boolean isPlaying() | is playing
+boolean isPlaylist(QString;) | is playlist
+boolean isPMML(QDocument;) | is pm ml
+boolean isPointAt(FFF) | is point at
+boolean isPointInImage(II) | is point in image
+boolean isPointLightNode() | is point light node
+boolean isPolymorphic() | is polymorphic
+boolean _isPositiveResult() | is positive result
+boolean isPosixManditoryFileLock() | is posix manditory file lock
+boolean isPossibleID() | is possible id
+boolean isPossible(QIGame;) | is possible
+boolean isPossible(QIGame;IQTargetable;QSearchlightAttackAction;) | is possible
+boolean isPossibleSpoofClient(QString;) | is possible spoof client
+boolean isPossiblyClassName(QString;QString;) | is possibly class name
+boolean isPostponedAutosaveFound() | is postponed autosave found
+boolean isPotentiallySeedingOnly() | is potentially seeding only
+boolean isPreferredWidthAuto() | is preferred width auto
+boolean isPrefix(JMLObjectSequence s2) | is prefix
+boolean isPrefixUrl(QString;QString;) | is prefix url
+boolean isPresent() | is present
+boolean isPrevious() | is previous
+boolean isPrevStepOnPavement() | is prev step on pavement
+boolean isPrimaryKey() | is primary key
+boolean isPrimitiveArray() | is primitive array
+boolean isPrimitiveArray(QClass;) | is primitive array
+boolean isPrimitiveEquals(Message o) | is primitive equals
+boolean isPrimitive(QClass;) | is primitive
+boolean isPrintable(C) | is printable
+boolean isPrintableString(QString;) | is printable string
+boolean isPrintHeader() | is print header
+boolean isPrintHeaderEachPage() | is print header each page
+boolean isPrinting() | is printing
+boolean isPriority() | is priority
+boolean isPrivate() | is private
+boolean isProcessing() | is processing
+boolean isProcessingLog() | is processing log
+boolean isProcessingScript() | is processing script
+boolean isProduction() | is production
+boolean isProgressiveAvailable() | is progressive available
+boolean isProjectActive() | is project active
+boolean isProjectBoundariesOptionOn() | is project boundaries option on
+boolean isProjectTask() | is project task
+boolean isProjectTaskOrContainsProjectTask(QTask;) | is project task or contains project task
+boolean isProne() | is prone
+boolean isPropertyNull(QEntityKey;QString;) | is property null
+boolean isPropertyOfTable(II) | is property of table
+boolean isPropertyTrue(QString;) | is property true
+boolean isPropertyTrue(QString;Z) | is property true
+boolean isProportional() | is proportional
+boolean isProtectedByAngelECM(QEntity;QCoords;QCoords;) | is protected by angel ecm
+boolean isProtectedByECM(QEntity;QCoords;QCoords;) | is protected by ecm
+boolean isProviderActive() | is provider active
+boolean isPseudoAddress(QString;) | is pseudo address
+boolean isPublic() | is public
+boolean isPublicHoliDay(QDate;) | is public holi day
+boolean isPublic(QClass;QMember;) | is public
+boolean isPublishComplete(QDownloadManager;) | is publish complete
+boolean isPullTitleFromIView() | is pull title from i view
+boolean isPushing() | is pushing
+boolean isPuttable(JQObject;QComparator;) | is put table
+boolean isQuadratic() | is quadratic
+boolean isQuasiMonotone(QInstances;QInstances;) | is quasi monotone
+boolean isQuote(QString;) | is quote
+boolean isRadial() | is radial
+boolean isRadial(QMultipleGradientPaint;) | is radial
+boolean isRan() | is ran
+boolean isRandom() | is random
+boolean isRapidfire() | is rapidfire
+boolean isRarestOverride() | is rarest override
+boolean isRawBuildingMaterial() | is raw building material
+boolean isRawMaterial() | is raw material
+boolean isReachable() | is reachable
+boolean isRead() | is read
+boolean isReader() | is reader
+boolean isReadOnly() | is read only
+Boolean isReadOnly() | is read only
+boolean isReadOnlyConnection(QConnection;) | is read only connection
+boolean isReadOnlyDatabaseFiles(QConnection;) | is read only database files
+boolean isReadOnlyDatabase(QConnection;) | is read only database
+boolean isReadOnly(I) | is read only
+boolean isReadOnly(int columnIndex) | is read only
+boolean isReadOnly(QString;) | is read only
+boolean isReadoutGraphicsVisible() | is readout graphics visible
+boolean isReadWrite() | is read write
+boolean isReady() | is ready
+boolean isReadyForSerialization() | is ready for serialization
+boolean isReadyForWrite(QEventWaiter;) | is ready for write
+boolean isRealImage(QImage;) | is real image
+boolean isReallyPrivate(QTOTorrent;) | is really private
+boolean isRealTimeTaskActive() | is real time task active
+boolean isRear() | is rear
+boolean isRecentAddress(QString;) | is recent address
+boolean isRecognizedFormat(QInputStream;) | is recognized format
+boolean isRecognizedFormat(QReader;) | is recognized format
+boolean isRecruitable() | is recruit able
+boolean isRectangular() | is rectangular
+boolean isRecursive() | is recursive
+boolean isRedirect() | is redirect
+boolean isRedlineOn() | is redline on
+boolean isRedundantMax(QInstance;) | is redundant max
+boolean isRedundant(QInstance;) | is redundant
+boolean isREF() | is ref
+boolean isRefCursorCall(PreparedStatement statement) | is ref cursor call
+boolean isReferenceToPrimaryKey() | is reference to primary key
+boolean isReferenceToPrimaryKey(QString;QEntityType;) | is reference to primary key
+boolean isReferentialIntegrity() | is referential integrity
+boolean isRefreshing() | is refreshing
+boolean isRegExp() | is reg exp
+boolean isRegExp(QScriptable;) | is reg exp
+boolean isRegistrationStillOpen() | is registration still open
+boolean isRegular() | is regular
+boolean isRegularIdentifier(QString;) | is regular identifier
+boolean isRelative(QString;) | is relative
+boolean isRelativeToFigureBounds() | is relative to figure bounds
+boolean isReleasedForever() | is released forever
+boolean isRemoteClosing() | is remote closing
+boolean isRemoteComplete() | is remote complete
+boolean isRemovable() | is removable
+boolean isRemove() | is remove
+boolean isRepairable() | is repairable
+boolean isRepairing() | is repairing
+boolean isRepeat() | is repeat
+boolean isReplacement() | is replacement
+boolean isReplay() | is replay
+boolean isReportCatalogs() | is report catalogs
+boolean isReportFontMode() | is report font mode
+boolean isReportingWarnings() | is reporting warnings
+boolean isRequestable() | is requestable
+boolean isRequestedSessionIdValid() | is requested session id valid
+boolean isReserve() | is reserve
+boolean isReservedKeywordAsIdentifier() | is reserved keyword as identifier
+boolean isReservedName() | is reserved name
+boolean isReservedName(QString;) | is reserved name
+boolean isReserveMet() | is reserve met
+boolean isReset() | is reset
+boolean isResetPageNumber() | is reset page number
+boolean isResizable() | is resizable
+boolean isResizeWithShell() | is resize with shell
+boolean isResponse() | is response
+boolean isRestarting() | is restarting
+boolean isRestartOnShutdown() | is restart on shutdown
+boolean isRestBeat() | is rest beat
+boolean isResult() | is result
+boolean isResumeDataComplete() | is resume data complete
+boolean isReturnableEntity() | is returnable entity
+boolean isReturnableEntity(QSelectExpression;) | is returnable entity
+boolean isREWhiteSpace(I) | is re white space
+boolean isRhinoRuntimeType(QClass;) | is rhino runtime type
+boolean isRight(QNode;) | is right
+boolean isRigid() | is rigid
+boolean isRiver() | is river
+boolean isRoad() | is road
+boolean isRole(QString;) | is role
+boolean isRollback(I) | is rollback
+boolean isRoot() | is root
+boolean isRootElement() | is root element
+boolean isRotationUp(QMouseWheelEvent;) | is rotation up
+boolean isRowName(I) | is row name
+boolean isRowUpdatePossible() | is row update possible
+boolean isRowVisible(QTableRowCore;) | is row visible
+boolean isRTA() | is rta
+boolean isRulersVisible() | is rulers visible
+boolean isRunning() | is running
+boolean isS() | is s
+boolean isSafeForReconnect() | is safe for reconnect
+boolean isSafeMultiSnipe(QAuctionEntry;QAuctionEntry;) | is safe multi snipe
+boolean isSafeToAdd(QAuctionEntry;) | is safe to add
+boolean isSalvage() | is salvage
+boolean isSameColor(QColor;QColor;) | is same color
+boolean isSameLocation(QForceItem;QForceItem;) | is same location
+boolean isSamePackage(String packageName, TypeSummary parentSummary) | is same package
+boolean isSame(QObject;QObject;QEntityMode;) | is same
+boolean isSameSession(QUploadSession;) | is same session
+boolean isSampling() | is sampling
+boolean isSavePassword() | is save password
+boolean isScalable() | is scalable
+boolean isScalar() | is scalar
+boolean isScalarSelect() | is scalar select
+boolean isSchemaDefintion() | is schema defintion
+boolean isSearchable(I) | is searchable
+boolean isSearchAll() | is search all
+boolean isSearchBackwards() | is search backwards
+boolean isSearchHit() | is search hit
+boolean isSearchSubDirectory() | is search sub directory
+boolean isSecondaryArcWeapon(I) | is secondary arc weapon
+boolean isSecure() | is secure
+boolean isSeeding() | is seeding
+boolean isSeedingOnly() | is seeding only
+boolean isSeedingOnlyUploadRate() | is seeding only upload rate
+boolean isSeeking() | is seeking
+boolean isSeenByEnemy() | is seen by enemy
+boolean isSelectable() | is selectable
+boolean isSelectableThisTurn() | is selectable this turn
+boolean isSelectBeforeUpdate() | is select before update
+boolean isSelectedAt(II) | is selected at
+boolean isSelectedBackup() | is selected backup
+boolean isSelectedChangeFileExt() | is selected change file ext
+boolean isSelectedInGroup(QItemT;) | is selected in group
+boolean isSelectionRectangular() | is selection rectangular
+boolean isSelfAggregate() | is self aggregate
+boolean isSelfService() | is self service
+boolean isSeller() | is seller
+boolean isSelling() | is selling
+boolean isSensor(J) | is sensor
+boolean isSentMessagesFolder() | is sent messages folder
+boolean isSequence(QObject;) | is sequence
+boolean isSequentialAttIndexValid() | is sequential att index valid
+boolean isSequentialInstanceIndexValid() | is sequential instance index valid
+boolean isSequentialSelect() | is sequential select
+boolean isSerializable(QClass;) | is serializable
+boolean isSerializable(QString;) | is serializable
+boolean isServer() | is server
+boolean isServerDB(QDatabase;) | is server db
+boolean isServerRunning() | is server running
+boolean isService() | is service
+boolean isSessionOnly() | is session only
+boolean isSet() | is set
+boolean isSetAllowincell() | is set allowincell
+boolean isSet(CashMargin field) | is set
+boolean isSet(ClOrdID field) | is set
+boolean isSetCommonStatus() | is set common status
+boolean isSetCountryOfIssue() | is set country of issue
+boolean isSetCreditRating() | is set credit rating
+boolean isSetDecimalPlaces() | is set decimal places
+boolean isSetDiscretionInst() | is set discretion inst
+boolean isSetDontBalanceTextColumns() | is set dont balance text columns
+boolean isSetEncodedAllocText() | is set encoded alloc text
+boolean isSet(EncodedSecurityDescLen field) | is set
+boolean isSetEncodedTextLen() | is set encoded text len
+boolean isSet(EventType field) | is set
+boolean isSetFutSettDate() | is set fut sett date
+boolean isSetGradientshapeok() | is set gradientshapeok
+boolean isSet(I) | is set
+boolean isSet(II) | is set
+boolean isSetLegInstrRegistry() | is set leg instr registry
+boolean isSetLegLastPx() | is set leg last px
+boolean isSet(LegSecurityAltID field) | is set
+boolean isSet(LegSecurityID field) | is set
+boolean isSet(LegSecuritySubType field) | is set
+boolean isSet(LongQty field) | is set
+boolean isSetNestedPartyIDSource() | is set nested party id source
+boolean isSet(QuoteType field) | is set
+boolean isSet(RoundLot field) | is set
+boolean isSet(SecondaryOrderID field) | is set
+boolean isSetShowEmpty() | is set show empty
+boolean isSetTabIndex() | is set tab index
+boolean isSettleable() | is settle able
+boolean isSet(UnderlyingSecuritySubType field) | is set
+boolean isSet(UnderlyingSecurityType field) | is set
+boolean isSet(UnderlyingSymbol field) | is set
+boolean isSetUnderlyingSymbolSfx() | is set underlying symbol sfx
+boolean isSetYieldType() | is set yield type
+boolean isShadowStyle(QString;) | is shadow style
+boolean isShallow() | is shallow
+boolean isShallowQuery() | is shallow query
+boolean isShareable() | is shareable
+boolean isSharedAlready() | is shared already
+boolean isShareMode() | is share mode
+boolean isSharingToolsAmongProjects() | is sharing tools among projects
+boolean isSharpnessSet() | is sharpness set
+boolean isSheet(int i) | is sheet
+boolean isShield() | is shield
+boolean isShiftJIS() | is shift jis
+boolean isShippingOverridden() | is shipping overridden
+boolean isShortCut(QString;) | is short cut
+boolean isShowable() | is showable
+boolean isShowAsSheet() | is show as sheet
+boolean isShowClassNames() | is show class names
+boolean isShowCloseTicks() | is show close ticks
+boolean isShowCompleteIncomplete() | is show complete incomplete
+boolean isShowCoreDistances() | is show core distances
+boolean isShowFPS() | is show fps
+boolean isShowGrid() | is show grid
+boolean isShowIcon() | is show icon
+boolean isShowing() | is showing
+boolean isShowingEditor() | is showing editor
+boolean isShowingEmpty() | is showing empty
+boolean isShowingFilterSearch() | is showing filter search
+boolean isShowingFloatSearch() | is showing float search
+boolean isShowingSubPanel() | is showing sub panel
+boolean isShowLabels() | is show labels
+boolean isShowLegend() | is show legend
+boolean isShowLines() | is show lines
+boolean isShown() | is shown
+boolean isShowOpenTicks() | is show open ticks
+boolean isShowOptionDialogSynchronize(QString;QString;) | is show option dialog synchronize
+boolean isShowPublic() | is show public
+boolean isShowReachabilityDistances() | is show reachability distances
+boolean isShowShapes() | is show shapes
+boolean isShowSplashScreen() | is show splash screen
+boolean isShowText() | is show text
+boolean isShowTickLabels() | is show tick labels
+boolean isShowTickMarks() | is show tick marks
+boolean isShowVolume() | is show volume
+boolean isShutdown() | is shutdown
+boolean isShutDown() | is shut down
+boolean isSiblingOf(QNodeView;) | is sibling of
+boolean isSignificance(I) | is significance
+boolean isSignificant() | is significant
+boolean isSilent() | is silent
+boolean isSimilarIn(QExpression;II) | is similar in
+boolean isSimpleTorrent() | is simple torrent
+boolean isSimpleValue() | is simple value
+boolean isSingleplayer() | is single player
+boolean isSingleQuote() | is single quote
+boolean isSingleRowLoader() | is single row loader
+boolean isSingleTile(II) | is single tile
+boolean isSingleton() | is singleton
+boolean isSingletonTag(QString;) | is singleton tag
+boolean isSingleUnitField() | is single unit field
+boolean isSingular() | is singular
+boolean isSlash() | is slash
+boolean isSliding() | is sliding
+boolean isSmooth() | is smooth
+boolean isSnapshotEmpty(QPersistentCollection;) | is snapshot empty
+boolean isSnapshotEmpty(QSerializable;) | is snapshot empty
+boolean isSnapToGrid() | is snap to grid
+boolean isSnipeValid() | is snipe valid
+boolean isSolaris() | is solaris
+boolean isSolid() | is solid
+boolean isSortAscending() | is sort ascending
+boolean isSorting() | is sorting
+boolean isSortReverse() | is sort reverse
+boolean isSortValueLive() | is sort value live
+boolean isSOTrx() | is so trx
+boolean isSourceFile() | is source file
+boolean isSPD() | is spd
+boolean isSpecialProperty(QString;) | is special property
+boolean isSplit() | is split
+boolean isSplitable() | is splitable
+boolean isSplittingStatements() | is splitting statements
+boolean isSpotting() | is spotting
+boolean isSpreadable() | is spreadable
+boolean isSpringForce() | is spring force
+boolean isSquare() | is square
+boolean isSquare(I) | is square
+boolean isSSL() | is ssl
+boolean isStackEmpty() | is stack empty
+boolean isStackingViolation() | is stacking violation
+boolean isStalledPendingLoad() | is stalled pending load
+boolean isStandalone() | is standalone
+boolean isStandard() | is standard
+boolean isStandardCover(QString;) | is standard cover
+boolean isStandardField(QString;) | is standard field
+boolean isStar() | is star
+boolean isStartable(QDownloadManager;) | is startable
+boolean isStartBoundary() | is start boundary
+boolean isStartingPositionTooClose(QMap;IIQList<QInteger;>;) | is starting position too close
+boolean isStartLimitTestFlagSet() | is start limit test flag set
+boolean isStartNewColumn() | is start new column
+boolean isStartNewPage() | is start new page
+boolean _isStartOfComment(QString;I) | is start of comment
+boolean isStartOfWorkingPaper() | is start of working paper
+boolean isStartTask() | is start task
+boolean isStartupComplete() | is startup complete
+boolean isStartVisible() | is start visible
+boolean isStartVisible(I) | is start visible
+boolean isStateless() | is stateless
+boolean isStateSeeding() | is state seeding
+boolean isStatic() | is static
+boolean isStdDev(I) | is std dev
+boolean isStealthActive() | is stealth active
+boolean isStereo() | is stereo
+boolean isSticky() | is sticky
+boolean isStillBurning() | is still burning
+boolean isStillValid() | is still valid
+boolean isStopable(QDownloadManager;) | is stopable
+boolean isStopPlaying() | is stop playing
+boolean isStopword(QString;) | is stopword
+boolean isStorable() | is storable
+boolean isStoredAs() | is stored as
+boolean isStoredFileAccess() | is stored file access
+boolean isStreamableFilter() | is streamable filter
+boolean isStreamElement(Qjava.lang.String;) | is stream element
+boolean isStretchWithOverflow() | is stretch with overflow
+boolean isStrict() | is strict
+boolean isStrictJPAQLCompliance() | is strict jpaql compliance
+boolean isStrikeTrought() | is strike trought
+boolean isString() | is string
+boolean isString(QString;) | is string
+boolean isStruct() | is struct
+boolean isStructureOnly() | is structure only
+boolean isStuck() | is stuck
+boolean isSubclassEntityName(QString;) | is subclass entity name
+boolean isSubclassPropertyNullable(I) | is subclass property nullable
+boolean isSubclass(QClass;QClass;) | is subclass
+boolean isSubclass(QString;QString;) | is subclass
+boolean isSubclassTableLazy(I) | is subclass table lazy
+boolean isSubclassTableSequentialSelect(I) | is subclass table sequential select
+boolean isSubquery() | is subquery
+boolean isSubQuery() | is sub query
+boolean isSubselect() | is subselect
+boolean isSubselectLoadable() | is subselect loadable
+boolean isSubsequenceOf(QInstances;) | is subsequence of
+boolean is_subset_of(Qlalr_item_set;) | is subset of
+boolean is_subset_of(Qsymbol_set;) | is subset of
+boolean is_subset_of(Qterminal_set;) | is subset of
+boolean isSubtreeChild(QAST;QAST;) | is subtree child
+boolean isSuccess() | is success
+boolean isSuccessful() | is successful
+boolean isSufferingEMI() | is suffering emi
+boolean isSummary() | is summary
+boolean isSummaryOnNewPage() | is summary on new page
+boolean isSuperclassProperty(QString;) | is superclass property
+boolean isSuperSeeding() | is super seeding
+boolean isSuperSeedMode() | is super seed mode
+boolean is_superset_of(Qlalr_item_set;) | is superset of
+boolean is_superset_of(Qsymbol_set;) | is superset of
+boolean is_superset_of(Qterminal_set;) | is superset of
+boolean isSupertask() | is super task
+boolean isSuppliedConnection() | is supplied connection
+Boolean isSupportedAsPCol() | is supported as p col
+Boolean isSupportedAsTCol() | is supported as t col
+boolean isSupportedLookAndFeel() | is supported look and feel
+boolean isSupportedLookAndFeel(QJLookAndFeelInfo;) | is supported look and feel
+boolean isSupportedType(QTransferData;) | is supported type
+boolean isSupportEmailAccount(int emailAccountID, CVDal cvdal) | is support email account
+boolean _isSuspendedWithFrames(QThreadReference;) | is suspended with frames
+boolean isSwarmingMissiles() | is swarming missiles
+boolean isSymlink(QString;) | is symlink
+boolean isSymmetric() | is symmetric
+boolean isSynchronizeReportName() | is synchronize report name
+boolean isSynchronizing() | is synchronizing
+boolean isSynchronous() | is synchronous
+boolean isSyntaxException() | is syntax exception
+boolean isSys() | is sys
+boolean isSystemSchema(QHsqlName;) | is system schema
+boolean isSystemTable(QString;) | is system table
+boolean isT() | is t
+boolean isTableColumn(I) | is table column
+boolean isTableFocus() | is table focus
+boolean isTable(QObject;) | is table
+boolean isTank() | is tank
+boolean isTargetable() | is targetable
+boolean isTargetCover() | is target cover
+boolean isTargetOfDirectCall() | is target of direct call
+boolean isTargetOfDisplacementAttack() | is target of displacement attack
+boolean isTarget(QTile;QUnit;QEquipmentType;) | is target
+boolean isTarget(StateObject obj) | is target
+boolean isTargetValidForSeekAndDestroy(QUnit;QUnit;) | is target valid for seek and destroy
+boolean isTaskRunning() | is task running
+boolean isTaskSchedulable(SchedulableTask task) | is task schedulable
+boolean isTaxonomy() | is taxonomy
+boolean isTCP() | is tcp
+boolean isTemp() | is temp
+boolean isTerminal() | is terminal
+boolean isTestInProgress() | is test in progress
+boolean isText() | is text
+boolean isTextDown() | is text down
+boolean isTextOnly() | is text only
+boolean isTextUp() | is text up
+boolean isTextureNameValid() | is texture name valid
+boolean isTextureNode() | is texture node
+boolean isThere() | is there
+boolean isThetaStyle() | is theta style
+boolean isThisStepBackwards() | is this step backwards
+boolean isThisThreadSWT() | is this thread swt
+boolean isThroughFrontHex(QIGame;IQEntity;) | is through front hex
+boolean isTieNote() | is tie note
+boolean isTimedOut(J) | is timed out
+boolean isTimeToRefresh() | is time to refresh
+boolean isTipShowing() | is tip showing
+boolean isTitleOnNewPage() | is title on new page
+boolean isTls() | is tls
+boolean isTooDeep(I) | is too deep
+boolean isTooLarge(QString;) | is too large
+boolean isToolkitTrueColor(QComponent;) | is toolkit true color
+boolean isTooManyCollections() | is too many collections
+boolean isTopLeftPointAt(FFF) | is top left point at
+boolean isTopLevel() | is top level
+boolean isTopLiteral() | is top literal
+boolean isTopRightPointAt(FFF) | is top right point at
+boolean isTorrentDownloading(QHashWrapper;) | is torrent downloading
+boolean isTorrentFile(QString;) | is torrent file
+boolean isTorrentResumeDataComplete(QDownloadManagerState;) | is torrent resume data complete
+boolean isTorrentResumeDataComplete(QDownloadManagerState;QMap;) | is torrent resume data complete
+boolean isTorrentRunning(QHashWrapper;) | is torrent running
+boolean isTotal() | is total
+boolean isTrace() | is trace
+boolean isTrackedAsMenu() | is tracked as menu
+boolean isTrackerScrapeUrlValid() | is tracker scrape url valid
+boolean isTrackUnicity() | is track unicity
+boolean isTradeGoods() | is trade goods
+boolean isTraining() | is training
+boolean isTranformInProgress() | is tranform in progress
+boolean isTransactionAware() | is transaction aware
+boolean isTransactionInProgress() | is transaction in progress
+boolean isTransactionInProgress(Qjavax.transaction.Transaction;) | is transaction in progress
+boolean isTransactionInProgress(QJDBCContext;QContext;QTransaction;) | is transaction in progress
+boolean isTransactionInProgress(QSessionFactoryImplementor;) | is transaction in progress
+boolean isTransactionSessionOpen(QUnit;QSettlement;) | is transaction session open
+boolean isTransferAvailable() | is transfer available
+boolean isTransient() | is transient
+Boolean isTransient(QObject;) | is transient
+Boolean isTransient(QObject;QSessionImplementor;) | is transient
+boolean isTransient(QString;QObject;QBoolean;QSessionImplementor;) | is transient
+boolean isTranslation(QAffineTransform;) | is translation
+boolean isTrapezoidal() | is trapezoidal
+boolean isTraversable(QFile;) | is traversable
+boolean isTrinomial() | is trinomial
+boolean isTrooperActive(I) | is trooper active
+boolean isTrue() | is true
+boolean isTrustedObject(Object obj) | is trusted object
+boolean isTTFFont(QString;) | is ttf font
+boolean isTurning() | is turning
+boolean isTurnSkippable() | is turn skippable
+boolean isTypeAscii() | is type ascii
+boolean isTypeEqual(QExpression;) | is type equal
+boolean _isType(QString;) | is type
+boolean isType(QString;) | is type
+boolean isUDPProbeOK(QURL;) | is udp probe ok
+boolean isUnaryFunction(C) | is unary function
+boolean isUnchokable(QPEPeerTransport;Z) | is unchokable
+boolean isUnconscious() | is unconscious
+boolean isUndead() | is undead
+boolean isUndefineSymbol() | is undefine symbol
+boolean isUnderline() | is underline
+boolean isUnderLinux() | is under linux
+boolean isUnderRepair() | is under repair
+boolean isUnderStringSizeLimit(QString;) | is under string size limit
+boolean isUnderUtfEncodingLimit(QString;) | is under utf encoding limit
+boolean isUnderWindows() | is under windows
+boolean isUndoable() | is undoable
+boolean isUndoAction() | is undo action
+boolean isUnico() | is unico
+boolean isUnicode() | is unicode
+boolean isUniform() | is uniform
+boolean isUnInstrumentable(CtClass cc) | is un instrumentable
+boolean isUnique() | is unique
+boolean isUniqueColor() | is unique color
+boolean isUnix() | is unix
+boolean isUnjammingRAC() | is unjamming rac
+boolean isUnknown() | is unknown
+boolean isUnloadable() | is unloadable
+boolean isUnloadedThisTurn() | is unloaded this turn
+boolean isUnlockable(QSoftLock;QLockable;) | is unlock able
+boolean isUnparsedEntity(QString;) | is unparsed entity
+Boolean isUnsignedAttribute() | is unsigned attribute
+Boolean isUnsignedAttribute(I) | is unsigned attribute
+boolean isUntitledAndEmpty() | is untitled and empty
+boolean isUnwrap() | is unwrap
+boolean isUnwrapProxy() | is unwrap proxy
+boolean isUp() | is up
+boolean isUpdateable() | is updateable
+boolean isUpdateCallable() | is update callable
+boolean isUpdateCallable(I) | is update callable
+boolean isUpdateCount() | is update count
+boolean isUpdatedExternally() | is updated externally
+boolean isUpdateDM(QDownloadManager;) | is update dm
+boolean isUpdateNecessary(QFlushEntityEvent;) | is update necessary
+boolean isUpdateNecessary(QFlushEntityEvent;Z) | is update necessary
+boolean isUpdating() | is updating
+boolean isUploadBandwidthUsageHigh() | is upload bandwidth usage high
+boolean isUploadConfidenceAbsolute() | is upload confidence absolute
+boolean isUploadConfidenceLow() | is upload confidence low
+boolean isUploadOnly() | is upload only
+boolean isUpToDate() | is up to date
+boolean isUpToDate(QSet;QLong;) | is up to date
+boolean isURI(QString;) | is uri
+boolean isUrl(QString;) | is url
+boolean isURL(QString;) | is url
+boolean isURL(QString;Z) | is url
+boolean isUrlString(QString;) | is url string
+boolean isUseConnection() | is use connection
+boolean isUseCustomTrim() | is use custom trim
+boolean isUsedForDown() | is used for down
+boolean isUsedForHitArea() | is used for hit area
+boolean isUsedForOver() | is used for over
+boolean isUsedForUp() | is used for up
+boolean isUsedThisRound() | is used this round
+boolean isUseDynamicScope() | is use dynamic scope
+boolean isUseK2Prior() | is use k 2 prior
+boolean isUserActive(QString;) | is user active
+boolean isUserDefinedProperty(QString;) | is user defined property
+boolean isUseReportVirtualizer() | is use report virtualizer
+boolean isUserInRole(String arg0) | is user in role
+boolean isUserLaunch() | is user launch
+boolean isUserMessage() | is user message
+boolean isUserPassword(String password) | is user password
+boolean isUseVariant1() | is use variant 1
+boolean isUsingCurrentFilesDirectoryForCompiles() | is using current files directory for compiles
+boolean isUsingManAce() | is using man ace
+boolean isUsingMASC() | is using masc
+boolean isUsingMultiLineExpressions() | is using multi line expressions
+boolean isUsingSpotlight() | is using spotlight
+boolean isUsingSubCommand() | is using sub command
+boolean isUsingSystemLAF() | is using system laf
+boolean isUTF8() | is utf 8
+boolean isValid() | is valid
+boolean isValidAddress(EmailAddress address) | is valid address
+boolean isValidAlterativeSequence(I) | is valid alterative sequence
+boolean isValidatableImplementor() | is validatable implementor
+boolean isValidationMode(HttpServletRequest request) | is validation mode
+boolean isValidClass(I) | is valid class
+boolean isValidClassname(QString;) | is valid classname
+boolean isValidClassname(QString;QString;) | is valid classname
+boolean isValidCode(C) | is valid code
+boolean isValidConsolFun(QString;) | is valid consol fun
+boolean isValidContentType(Element element) | is valid content type
+boolean isValidDisplacement(QIGame;IQCoords;I) | is valid displacement
+boolean isValidDisplacement(QIGame;IQCoords;QCoords;) | is valid displacement
+boolean isValidDnsName(QString;) | is valid dns name
+boolean isValidDsType(QString;) | is valid ds type
+boolean isValidEngine() | is valid engine
+boolean isValidEntity(QEntity;QIGame;) | is valid entity
+boolean isValidFileName(QFile;QString;) | is valid file name
+boolean isValidFormat() | is valid format
+boolean isValidForMRU() | is valid for mru
+boolean isValidGrePath(QFile;) | is valid gre path
+boolean isValidIdentifierName(QString;) | is valid identifier name
+boolean isValidIdentifier(QString;) | is valid identifier
+boolean isValid(II) | is valid
+boolean isValid(IIII) | is valid
+boolean isValidIPv4(QString;) | is valid ipv 4
+boolean isValidIPv6(QString;) | is valid ipv 6
+boolean isValid(IQEntity;QIGame;) | is valid
+boolean isValid(IQIGame;) | is valid
+boolean isValidLanguageVersion(I) | is valid language version
+boolean isValidMission(QPlayer;QPlayer;) | is valid mission
+boolean isValidOptimizationLevel(I) | is valid optimization level
+boolean isValid(QAIUnit;) | is valid
+boolean isValid(QForceItem;) | is valid
+boolean isValid(QMapping;) | is valid
+boolean isValid(QPosition;) | is valid
+boolean isValid(QPosition;II) | is valid
+boolean isValid(QString;) | is valid
+boolean isValidRange(QString;) | is valid range
+boolean isValidRow(I) | is valid row
+boolean isValidSecondaryFacing(I) | is valid secondary facing
+boolean isValidSequence(QBrowserMessage;) | is valid sequence
+boolean isValidTag() | is valid tag
+boolean isValidTree() | is valid tree
+boolean isValidUserType(QString;) | is valid user type
+boolean isValidValue(QObject;) | is valid value
+boolean isValidVersionFormat(QString;) | is valid version format
+boolean isValue(Object obj) | is value
+boolean isValuePresent(QString;) | is value present
+boolean isValuesTableAvailable() | is values table available
+boolean is_value_type(I) | is value type
+boolean isVarArgsConstructor() | is var args constructor
+boolean isVarArgsMethod() | is var args method
+boolean isVariable(QString;) | is variable
+boolean isVerbose() | is verbose
+boolean isVerifyConstructable() | is verify constructable
+boolean isVersionable() | is versionable
+boolean isVersionCheckDataValid(I) | is version check data valid
+boolean isVersionECMA1() | is version ecma 1
+boolean isVersionPropertyInsertable() | is version property insertable
+boolean isVertical() | is vertical
+boolean isVeryfirstFile(QFile;) | is very first file
+boolean isVibroblade() | is vibroblade
+boolean isView() | is view
+boolean isViewScrollbars() | is view scrollbars
+boolean isVirtual() | is virtual
+boolean _isVisible() | is visible
+boolean isVisible() | is visible
+boolean isVisible(I) | is visible
+boolean isVisible(Object cell) | is visible
+boolean isVisible(QDefaultMutableTreeNode;) | is visible
+boolean isVisible(QTask;) | is visible
+boolean isVisibleToEnemy() | is visible to enemy
+boolean isVisibleTo(QPlayer;) | is visible to
+boolean isVisibleToTLW() | is visible to tlw
+boolean isWaitIcon() | is wait icon
+boolean isWarning() | is warning
+boolean isWater() | is water
+boolean isWeakKey([BI) | is weak key
+boolean isWeakKey([BII) | is weak key
+boolean isWeaponBlockedAt(IZ) | is weapon blocked at
+boolean isWebPasswordHTTPSOnly() | is web password https only
+boolean isWeek() | is week
+boolean isWeekend(QDate;) | is weekend
+boolean isWest(II) | is west
+boolean isWhiteSpace() | is white space
+boolean is_white_space(I) | is white space
+boolean isWhitespace(QString;) | is whitespace
+boolean isWindows() | is windows
+boolean isWindowsPlatform() | is windows platform
+boolean isWINS(QInetAddress;) | is wins
+boolean isWithFunction(QObject;) | is with function
+boolean isWord(C) | is word
+boolean isWord(I) | is word
+boolean isWorkForREF() | is work for ref
+boolean isWorkgroup0() | is workgroup 0
+boolean isWorking() | is working
+boolean isWorkingTime() | is working time
+boolean isWrapperInstance(QClass;QObject;) | is wrapper instance
+boolean isWrapper(QObject;) | is wrapper
+boolean isWritable() | is writable
+boolean isWritable(I) | is writable
+boolean isWriteable() | is writeable
+boolean isWriteableField(QString;) | is writeable field
+boolean isWriter() | is writer
+boolean isWritten() | is written
+boolean isWritten(I) | is written
+boolean isWritten(II) | is written
+boolean isWrittenToThisSession() | is written to this session
+boolean isXIncludeAware() | is x include aware
+boolean isXMLAttribute() | is xml attribute
+boolean isXmlAvailable() | is xml available
+boolean isXMLElement() | is xml element
+boolean isXMLName(QContext;QObject;) | is xml name
+boolean isXMLValid(QString;) | is xml valid
+boolean isXOdd() | is x odd
+boolean isZero() | is zero
+boolean isZeroBit(I) | is zero bit
+boolean isZipFile(QString;) | is zip file
+boolean isZipName(QString;) | is zip name
+boolean isZoomOverItem() | is zoom over item
+byte isLANLocalAddress(QInetAddress;) | is lan local address
+byte isLANLocalAddress(QInetSocketAddress;) | is lan local address
+byte isLANLocalAddress(QString;) | is lan local address
+Collection isStartable(ExtTransitionLocal toTrans, ExtActivityLocal act) | is startable
+Criterion isEmpty() | is empty
+Criterion isEmpty(QString;) | is empty
+Criterion isNotEmpty() | is not empty
+Criterion isNotEmpty(QString;) | is not empty
+Criterion isNotNull() | is not null
+Criterion isNotNull(QString;) | is not null
+Criterion isNull() | is null
+Criterion isNull(QString;) | is null
+freemind.main.Tools.BooleanHolder isLeft() | is left
+int isADayOffInWeek(QDate;) | is a day off in week
+int isAlwaysDefinedBoolean(QNode;) | is always defined boolean
+int isBuddy(QPeer;) | is buddy
+int isNullable(I) | is nullable
+int isType() | is type
+IStatus isDeletable() | is deletable
+long isReadyForRead(QEventWaiter;) | is ready for read
+Object isInRange(J) | is in range
+Object isInRange(QInetAddress;) | is in range
+Object isInRange(QString;) | is in range
+String isState() | is state
+Tools.BooleanHolder isLeft() | is left
+void isConfigValid(Z) | is config valid
+void isIconVisible() | is icon visible
+void isIconVisible(Z) | is icon visible
+void isMerging(Z) | is merging
+void isort([I[F) | is ort
+void isRemovable() | is removable
+void isValidHelper(I[I) | is valid helper
+void isWon(I) | is won

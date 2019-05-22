@@ -1,0 +1,4 @@
+boolean dontHandleEvent | dont handle event
+int RESERVED_FILE_HANDLE_COUNT | reserved file handle count
+org.hsqldb.lib.HashMap bundleHandleMap | bundle handle map
+org.jhotdraw.draw.Handle secondaryHandleOwner | secondary handle owner

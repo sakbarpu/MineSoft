@@ -1,0 +1,3 @@
+int MAKE_EXECUTABLE | make executable
+java.util.Set executableExtensions | executable extensions
+javax.swing.JCheckBox _makeExecutable | make executable

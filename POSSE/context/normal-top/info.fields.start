@@ -1,0 +1,19 @@
+byte[] info_hash | info hash
+byte[] infohash | info hash
+int INFO_AUTOCOMMIT | info autocommit
+int INFO_CONNECTION_READONLY | info connection readonly
+int INFO_DATABASE | info database
+int INFO_DATABASE_READONLY | info database readonly
+int INFO_ISOLATION | info isolation
+int INFO_MESSAGE_HEIGHT | info message height
+int INFO_MESSAGE_WIDTH | info message width
+int INFO_SESSION_ID | info session id
+int INFO_USER | info user
+java.lang.String info_hash | info hash
+java.lang.String[] infoTags | info tags
+java.lang.String info_url | info url
+java.lang.String infoURL | info url
+java.util.Map infoByClass | info by class
+java.util.Map infoByName | info by name
+java.util.Map info_map | info map
+javax.swing.JLabel _infoLabel | info label

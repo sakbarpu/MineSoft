@@ -1,0 +1,22 @@
+boolean getMajorityClass() | get majority class
+boolean isMajor() | is major
+boolean showMajorGridX() | show major grid x
+boolean showMajorGridY() | show major grid y
+boolean support(int major, int minor) | support
+Color getMajorGridColor() | get major grid color
+double[] distributionForInstanceMajorityVoting(QInstance;) | distribution for instance majority voting
+int getDatabaseMajorVersion() | get database major version
+int getDatabaseMajorVersion(QDatabaseMetaData;) | get database major version
+int getDriverMajorVersion() | get driver major version
+int getJabrefMajorVersion() | get jabref major version
+int getJDBCMajorVersion() | get jdbc major version
+int getMajorVersion() | get major version
+long getMajorGridWidth() | get major grid width
+String getMajorVersion() | get major version
+String majorityClassTipText() | majority class tip text
+void setJabrefMajorVersion(I) | set jabref major version
+void setMajorGridColor(QColor;) | set major grid color
+void setMajorGridX(Z) | set major grid x
+void setMajorGridY(Z) | set major grid y
+void setMajorityClass(Z) | set majority class
+void setMajorMinorVersions() | set major minor versions

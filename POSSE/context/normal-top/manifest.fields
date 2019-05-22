@@ -1,0 +1,2 @@
+edu.rice.cs.util.swing.FileSelectorComponent _manifestFileSelector | manifest file selector
+java.lang.String MANIFEST_NAME | manifest name

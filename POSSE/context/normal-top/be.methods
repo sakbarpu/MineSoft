@@ -1,0 +1,448 @@
+ActionForm getBean(String id, String scope) | get bean
+Archive findBestArchive(JJJQArrayList;) | find best archive
+ArrayList getBestOfFiles() | get best of files
+ArrayList getBestOfFiles(Z) | get best of files
+ArrayList getGlobalBestofPlaylist() | get global best of playlist
+Beacon getBeacon() | get beacon
+BeanConnection createBeanConnection(IIQString;Z) | create bean connection
+BeanContext getBeanContext() | get bean context
+BeanContextServices getSourceAsBeanContextServices() | get source as bean context services
+BeanDescriptor getBeanDescriptor() | get bean descriptor
+BenchmarkCurveName getBenchmarkCurveName() | get benchmark curve name
+BezierFigure getBezierFigure() | get bezier figure
+BezierPath fitBezierCurve(QBezierPath;D) | fit bezier curve
+BezierPath getBezierPath() | get bezier path
+BezierPath.Node getBezierNode() | get bezier node
+BibtexEntry bestFit(QEntrySorter;QEntrySorter;I) | best fit
+BitSet getBestGroup() | get best group
+BitSet getBestGroupOfSize(I) | get best group of size
+boolean agentTokenHasBeenSet() | agent token has been set
+boolean[] attsTestedBelow() | atts tested below
+boolean beforeFirst() | before first
+boolean betterThan(MetaDataEditor other) | better than
+boolean canBeAggregatedWith(QDiskAccessRequestImpl;) | can be aggregated with
+boolean canBeBuilt() | can be built
+boolean canBeEquippedWith(QEquipmentType;) | can be equipped with
+boolean canBeInAggregate() | can be in aggregate
+boolean canBeInGroupBy() | can be in group by
+boolean canBeInOrderBy() | can be in order by
+boolean canBePrintable(QString;) | can be printable
+boolean canBeProjectTask(QTask;QTaskContainmentHierarchyFacade;) | can be project task
+boolean canBeStudent(QUnit;) | can be student
+boolean canBeStudent(QUnitType;QUnitType;) | can be student
+boolean canBeTaught() | can be taught
+boolean checkBest() | check best
+boolean checkNewBetaVersion(QBox<QString;>;QBox<QDate;>;) | check new beta version
+boolean delGlobalOutArtefactBean(String pArtName, String pType, long pIdSuperAct) | del global out artefact bean
+boolean findCharInStmtBeforePos(CI) | find char in stmt before pos
+boolean getUseBetterEncoding() | get use better encoding
+boolean getUseTiVoBeacon() | get use ti vo beacon
+boolean hasBeats() | has beats
+boolean hasBeenAlive() | has been alive
+boolean hasBeenAttackedByPrivateers() | has been attacked by private ers
+boolean hasBeenSentTo(QDHTTransportContact;) | has been sent to
+boolean hasSelectBeforeUpdate() | has select before update
+boolean hexCouldBeCliff(QIBoard;QCoords;) | hex could be cliff
+boolean implementsIHostServiceForBean() | implements i host service for bean
+boolean isBeforeFirst() | is before first
+boolean isBestRowIdentifiersStrict() | is best row identifiers strict
+boolean isEmptyBeat() | is empty beat
+boolean isEquivalentToBetweenPredicate() | is equivalent to between predicate
+boolean isEquivalentToBetweenPredicateAugmentedWithLike() | is equivalent to between predicate augmented with like
+boolean isLabelBeforeTextField() | is label before text field
+boolean isNoteBeat() | is note beat
+boolean isOrHasBeenLocal() | is or has been local
+boolean isRestBeat() | is rest beat
+boolean isSelectBeforeUpdate() | is select before update
+boolean knownToBeBad(QPeer;) | known to be bad
+boolean knownToBeOK(QPeer;) | known to be ok
+boolean onlyWhiteSpaceBeforeCurrent() | only white space before current
+boolean requiresPluginInitCompleteBeforeStartedEvent() | requires plugin init complete before started event
+boolean shouldBeHidden() | should be hidden
+boolean skipBefore(QString;) | skip before
+boolean supportsGroupByBeyondSelect() | supports group by beyond select
+boolean supportsIfExistsBeforeTableName() | supports if exists before table name
+boolean theBodyShouldBeEvaluatedAgain() | the body should be evaluated again
+boolean visitCollectionsBeforeSave(QObject;QSerializable;[QObject;[QType;QEventSource;) | visit collections before save
+byte[] getBencodedData() | get bencoded data
+char BeginToken() | begin token
+Class getBeanType(String bean) | get bean type
+Classifier getBestClassifier() | get best classifier
+Component.BaselineResizeBehavior getBaselineResizeBehavior(QJComponent;) | get baseline resize behavior
+Component getComponentBefore(Container root, Component current) | get component before
+Component getComponentBefore(QContainer;QComponent;) | get component before
+Criterion between(QObject;QObject;) | between
+Criterion between(QString;QObject;QObject;) | between
+Currency getBestBidValue(QAuctionEntry;) | get best bid value
+Date getNotBefore() | get not before
+DERGeneralizedTime getNotBefore() | get not before
+DERGeneralizedTime getNotBeforeTime() | get not before time
+DHTNetworkPosition getBestLocalPosition() | get best local position
+DirectByteBuffer convertPayloadToBencodedByteStream(QMap;B) | convert payload to bencoded byte stream
+double calculateDistanceBetweenTwoAtoms(IAtom atom1, IAtom atom2) | calculate distance between two atoms
+double dec_doublebe([BI) | dec double be
+double getBestCommitteeErrorEstimate() | get best committee error estimate
+double getBestCommitteeLLEstimate() | get best committee ll estimate
+double getBestMerit() | get best merit
+double getBeta() | get beta
+Double getBottomSideBearingAsDouble() | get bottom side bearing as double
+double getWeightTrimBeta() | get weight trim beta
+double incompleteBeta(DDD) | incomplete beta
+double incompleteBetaFraction1(DDD) | incomplete beta fraction 1
+double incompleteBetaFraction2(DDD) | incomplete beta fraction 2
+double v2DistanceBetween2Points(QPoint2D.Double;QPoint2D.Double;) | v 2 distance between 2 points
+EasyDate getNotBefore() | get not before
+EAttribute getBehaviorType_Description() | get behavior type description
+Element writeBeanConnection(QElement;QObject;QString;) | write bean connection
+Element writeBeanInstance(QElement;QObject;QString;) | write bean instance
+Element writeBeanLoader(QElement;QObject;QString;) | write bean loader
+Element writeBeanSaver(QElement;QObject;QString;) | write bean saver
+Element writeBeanVisual(QElement;QObject;QString;) | write bean visual
+Element writeMetaBean(QElement;QObject;QString;) | write meta bean
+Expression parseBetweenPredicate(QExpression;) | parse between predicate
+File appendSuffixBeforeExtension(QFile;QString;) | append suffix before extension
+Filter getBestFilter() | get best filter
+float dec_floatbe([BI) | dec float be
+GAAttack bestAttack(QMoveOption;) | best attack
+GAAttack bestAttack(QMoveOption;QCEntity;I) | best attack
+GenericPost getPostsWithCreationBetween(Calendar fromDate, Calendar toDate, LimUser limUser) | get posts with creation between
+GoodsType getBestGoodsToProduce(QTile;) | get best goods to produce
+GoodsType getBestGoodsType() | get best goods type
+GP4Beat nextBeat(Qjava.util.List;II) | next beat
+GP4Beat readBeat() | read beat
+GP4BendPoint readBendPoint() | read bend point
+GP4Bend readBend() | read bend
+GP4Duration minDurationOfBeats() | min duration of beats
+GP4EffectsOnBeat readEffectsOnBeat() | read effects on beat
+GP4EffectsOnBeat readEffectsOnBeat(QGP3EffectsOnBeat;) | read effects on beat
+ImageIcon getBellIcon() | get bell icon
+IMBelief getBelief(String name) | get belief
+InputStream bestSource(QClassLoader;QString;) | best source
+int AddInstanceToBestCluster(QInstance;) | add instance to best cluster
+int begin() | begin
+int bestMove(II) | best move
+int calculateWidthOfBeat(QGP4Beat;) | calculate width of beat
+int choseBestLimit(QSpeedManagerLimitEstimate;IQSpeedLimitConfidence;) | chose best limit
+int dec_uint32be([BI) | dec uint 32 be
+int enc_doublebe(D[BI) | enc double be
+int enc_floatbe(F[BI) | enc float be
+int enc_uint16be(S[BI) | enc uint 16 be
+int enc_uint32be(I[BI) | enc uint 32 be
+int enc_uint64be(J[BI) | enc uint 64 be
+int estimateUnitsBetween(JJI) | estimate units between
+int generateRandomIntBetween(II) | generate random int between
+int getBeat() | get beat
+int getBegin() | get begin
+int getBeginColumn() | get begin column
+int getBeginLine() | get begin line
+int _getBeginLinePos() | get begin line pos
+int getBehavior() | get behavior
+int getBells() | get bells
+int getBellsProductionNextTurn() | get bells production next turn
+int getBellUpkeep() | get bell upkeep
+int getBend() | get bend
+int getBenefit() | get benefit
+int getBestClassifierIndex() | get best classifier index
+int getBestCommitteeChunkSize() | get best committee chunk size
+int getBestCommitteeSize() | get best committee size
+int getBestIteration([DI) | get best iteration
+int[] getBestRowIdentifiers() | get best row identifiers
+int getIncomeBeforeTaxes() | get income before taxes
+int getIncomeBeforeTaxes(QGoodsType;) | get income before taxes
+int getIntelligentBeginLinePos(I) | get intelligent begin line pos
+int getLineBegin() | get line begin
+int getMissingPosValueBehavior() | get missing pos value behavior
+int getMissingPropertyBehavior() | get missing property behavior
+int getMovementBeforeSkidPSRModifier(I) | get movement before skid psr modifier
+int _getPositionBeforePrompt() | get position before prompt
+int getTotalBeats() | get total beats
+int getUnitsBetween(JJI) | get units between
+int getVisibleBegin() | get visible begin
+int MoveInstanceToBestCluster(QInstance;) | move instance to best cluster
+int numBeats() | num beats
+java.util.List getBeats() | get beats
+JPanel instantiateToolBarBean(ZQString;QString;) | instantiate tool bar bean
+JPanel instantiateToolBarMetaBean(QMetaBean;) | instantiate tool bar meta bean
+JPanel makeHolderPanelForToolBarBean(QString;QObject;ZQString;Z) | make holder panel for tool bar bean
+JRDataSource createBeanCollectionDatasource() | create bean collection datasource
+JSpinner getDaysBefore() | get days before
+KinsokuProperty addNewNoLineBreaksBefore() | add new no line breaks before
+LinkedList pickBestDownloadSessions(I) | pick best download sessions
+List findBestContacts(I) | find best contacts
+List findByC_C_C_P(long companyId, long classNameId, long classPK, boolean primary, int begin, int end) | find by c c c p
+List findByCreateTimeAndPriority(Integer subj, long begin, long end, int priority, PageInfo pageInfo) | find by create time and priority
+List findWithDynamicQuery(DynamicQueryInitializer queryInitializer, int begin, int end) | find with dynamic query
+List getBeats() | get beats
+long dec_uint64be([BI) | dec uint 64 be
+long getFireBefore() | get fire before
+Map convertBencodedByteStreamToPayload(QDirectByteBuffer;IQString;) | convert bencoded byte stream to payload
+Map exportToBencodedMap() | export to bencoded map
+MiscType createBeagleActiveProbe() | create beagle active probe
+ModelAndView update(HttpServletRequest request, HttpServletResponse response, CommandBean bean) | update
+Node addBeforeCurrent(QNode;QNode;QNode;QNode;) | add before current
+Node getChildBefore(QNode;) | get child before
+non_terminal dot_before_nt() | dot before nt
+Object getBean() | get bean
+Object getBean(String name) | get bean
+Object readBeanConnection(QElement;) | read bean connection
+Object readBeanInstance(QElement;) | read bean instance
+Object readBeanVisual(QElement;) | read bean visual
+Object readMetaBean(QElement;) | read meta bean
+OnBehalfOfCompID getOnBehalfOfCompID() | get on behalf of comp id
+Operation findBestArcToAdd(QBayesNet;QInstances;QOperation;) | find best arc to add
+Operation findBestArcToDelete(QBayesNet;QInstances;QOperation;) | find best arc to delete
+Operation findBestArcToReverse(QBayesNet;QInstances;QOperation;) | find best arc to reverse
+PersistentObject newEmbeddedPersistentObject(PersistentObject master, String beanProperty) | new embedded persistent object
+PhysicalOption getBestPhysicalAttack(QEntity;QEntity;QIGame;) | get best physical attack
+PhysicalOption getBestPhysical(QEntity;QIGame;) | get best physical
+Point2D.Double bezierII(I[QPoint2D.Double;D) | bezier ii
+Point2D.Double[] generateBezier([QPoint2D.Double;II[DQPoint2D.Double;QPoint2D.Double;) | generate bezier
+PointDouble determineBestInGrid(QGrid;QInstances;I) | determine best in grid
+PointDouble findBest() | find best
+ResultSet getBestRowIdentifier(QString;QString;QString;IZ) | get best row identifier
+ResultTransformer aliasToBean(QClass;) | alias to bean
+Runnable getBeep() | get beep
+short dec_uint16be([BI) | dec uint 16 be
+String accessModifiersAsShouldBe(IMethodInfo oldmth, IMethodInfo newmth) | access modifiers as should be
+String bestGuessEntityName(QObject;) | best guess entity name
+String betaTipText() | beta tip text
+String getBeginning() | get beginning
+String getBencodedString() | get bencoded string
+String[] getBestClassifierOptions() | get best classifier options
+String getContentBeforeContent(QString;) | get content before content
+String getModelMBeanClassName() | get model m bean class name
+String getUntBeleg(long vishandle) | get unt beleg
+String moveAndToBeginning(QString;) | move and to beginning
+String useBetterEncodingTipText() | use better encoding tip text
+String weightTrimBetaTipText() | weight trim beta tip text
+Subset getBestgen(QSubset;QBitSet;) | get be stgen
+Table SYSTEM_BESTROWIDENTIFIER() | system bestrowidentifier
+TileBlock[] getBestSplit() | get best split
+TileImprovementType findBestTileImprovementType(QTile;QGoodsType;) | find best tile improvement type
+Transaction beginTransaction() | begin transaction
+TransferData pickBestType([QTransferData;QTransferData;) | pick best type
+TriangleMesh bevelFacesAsGroup(double height, double width) | bevel faces as group
+TweekBean getBean(String name) | get bean
+Unit getBestTreasureTrain(QTile;) | get best treasure train
+UploadSession getNextBestSession(QLinkedList;) | get next best session
+Vector getBeanConnectionRelation(QMetaBean;) | get bean connection relation
+Vector getBeanInfoInputs() | get bean info inputs
+Vector getBeanInfoOutputs() | get bean info outputs
+Vector getBeanInfos(QVector;I) | get bean infos
+Vector getBeanInfoSubFlow() | get bean info sub flow
+Vector getBeanInstances() | get bean instances
+Vector getBeanInstancesForIDs(QVector;) | get bean instances for ids
+Vector getBeansInInputs() | get beans in inputs
+Vector getBeansInOutputs() | get beans in outputs
+Vector getBeansInSubFlow() | get beans in sub flow
+Vector getBeans(QVector;I) | get beans
+Vector getIDsForBeanInstances(QVector;) | get ids for bean instances
+void addAllBeansToContainer(QJComponent;) | add all beans to container
+void addBeanConnectionRelation(QMetaBean;QString;) | add bean connection relation
+void addBeanInstances(QVector;) | add bean instances
+void addBean(QJComponent;) | add bean
+void addBeans(Object beans) | add beans
+void addBefore(QObject;) | add before
+void addBeforeString(QAmmoType;QString;QString;) | add before string
+void addBells(I) | add bells
+void addChildBefore(QNode;QNode;) | add child before
+void addDownloadWillBeAddedListener(QDownloadWillBeAddedListener;) | add download will be added listener
+void addDownloadWillBeRemovedListener(QDownloadWillBeRemovedListener;) | add download will be removed listener
+void addDownloadWillBeRemovedListener(QGlobalManagerDownloadWillBeRemovedListener;) | add download will be removed listener
+void addHasBeenOpenedListener(QHasBeenOpenedListener;) | add has been opened listener
+void addMainFlagMustNotBePresent(String inFlagName, String inError) | add main flag must not be present
+void addToBegining() | add to begining
+void adjustBeginLineColumn(II) | adjust begin line column
+void afterTransactionBegin(QTransaction;) | after transaction begin
+void assertCompileBeforeJUnitCount(I) | assert compile before j unit count
+void assertSaveBeforeCompileCount(I) | assert save before compile count
+void assertSaveBeforeJavadocCount(I) | assert save before javadoc count
+void autoGenerateKeysBeforeSaving() | auto generate keys before saving
+void basicSetBezierPath(QBezierPath;) | basic set bezier path
+void beep() | beep
+void before() | before
+void beforeAdd(I) | before add
+void beforeAssemble(QSerializable;QSessionImplementor;) | before assemble
+void beforeAssemble([QSerializable;[QType;QSessionImplementor;) | before assemble
+void beforeClose() | before close
+void beforeColumnInit() | before column init
+void beforeCompletion() | before completion
+void beforeDetailEval() | before detail eval
+void beforeExecute(QThread;QRunnable;) | before execute
+void beforeExecutions() | before executions
+void beforeFetch() | before fetch
+void beforeFirst() | before first
+void beforeGroupInit(QString;) | before group init
+void beforeInitialize(QCollectionPersister;I) | before initialize
+void beforeLoad() | before load
+void beforePageInit() | before page init
+void beforePopup(QJPopupMenu;QMouseEvent;) | before popup
+void beforeProcessingGrid(I) | before processing grid
+void beforeProcessingTimeFrames() | before processing time frames
+void beforeQuit() | before quit
+void beforeRemove(I) | before remove
+void beforeReportInit() | before report init
+void beforeSelectClause() | before select clause
+void beforeTransactionCompletion(QTransaction;) | before transaction completion
+void beforeUISetup() | before ui setup
+void beforeUpdate() | before update
+void begin() | begin
+void beginChangeTaskEndInteraction(QMouseEvent;QTaskBoundaryChartItem;) | begin change task end interaction
+void beginChangeTaskProgressInteraction(QMouseEvent;QTaskProgressChartItem;) | begin change task progress interaction
+void beginChangeTaskStartInteraction(QMouseEvent;QTaskBoundaryChartItem;) | begin change task start interaction
+void begin_class(int version, int access, String className, Type superType, Type interfaces, String sourceFile) | begin class
+void beginCompoundEdit() | begin compound edit
+void beginConstruction() | begin construction
+void beginDataTransfer() | begin data transfer
+void beginDrawDependencyInteraction(QMouseEvent;QTaskRegularAreaChartItem;QGanttGraphicArea.MouseSupport;) | begin draw dependency interaction
+void beginEdit(QTextHolderFigure;) | begin edit
+void beginExceptionSpec(Token label) | begin exception spec
+void beginFunctionTemplate(QAST;QAST;) | begin function template
+void beginImportCiteSeerProgress() | begin import cite seer progress
+void _beginLazyCanonical() | begin lazy canonical
+void beginListeningTo(QDefinitionsPane;) | begin listening to
+void beginMoveTaskInteraction(QMouseEvent;QTask;) | begin move task interaction
+void beginMoveTaskInteractions(QMouseEvent;QList;) | begin move task interactions
+void beginMyTurn() | begin my turn
+void beginNestedTransaction() | begin nested transaction
+void beginNewClause() | begin new clause
+void begin(QString;I) | begin
+void beginRead() | begin read
+void beginRoot(String name) | begin root
+void beginScrollViewInteraction(QMouseEvent;) | begin scroll view interaction
+void beginSearch() | begin search
+void beginTag(String name, Object attrs) | begin tag
+void beginTask(QString;I) | begin task
+void beginToSave(QOutputStreamWriter;) | begin to save
+void beginTransfer() | begin transfer
+void BeginWordAction(QString;Z) | begin word action
+void betaLogPingMapperEstimates(QString;QSpeedManagerLimitEstimate;ZQSpeedManagerLimitEstimate;QPingSpaceMapper;QPingSpaceMapper;) | beta log ping mapper estimates
+void BufferedBEROctetStream([B) | buffered ber octet stream
+void calculateBestFitLine() | calculate best fit line
+void cascadeBeforeDelete(QEventSource;QEntityPersister;QObject;QEntityEntry;QSet;) | cascade before delete
+void cascadeBeforeSave(QEventSource;QEntityPersister;QObject;QObject;) | cascade before save
+void commaBetweenParameters(QString;) | comma between parameters
+void compileBeforeJUnit(QCompilerListener;) | compile before j unit
+void _ensureStartBeforeEnd(IIII) | ensure start before end
+void exploreBean(QDefaultMutableTreeNode;QString;QString;) | explore bean
+void exportToBencodedMap(QMap;) | export to bencoded map
+void findBestLeaf([D[QRuleNode;) | find best leaf
+void findBestModel() | find best model
+void findBestRegression() | find best regression
+void fireBeforeProcessingTimeFrames() | fire before processing time frames
+void firePopupMenuWillBecomeInvisible() | fire popup menu will become invisible
+void firePopupMenuWillBecomeVisible() | fire popup menu will become visible
+void flushBeginning() | flush beginning
+void GP3EffectsOnBeat() | gp 3 effects on beat
+void GP4EffectsOnBeatStats() | gp 4 effects on beat stats
+void GP4EffectsOnBeatStats(QGP4EffectsOnBeat;) | gp 4 effects on beat stats
+void imageBegin(III) | image begin
+void initStandardBean() | init standard bean
+void inject(BeanContext beanContext, Object instance) | inject
+void insertBeforeLastPrompt(QString;QString;) | insert before last prompt
+void insertBefore(QNode;) | insert before
+void insertBefore(String programName, int index, String text) | insert before
+void insertGapBetweenMultiCharBrace(I) | insert gap between multi char brace
+void installWindowListenerForSavingUserBeans() | install window listener for saving user beans
+void invokeMenuWillBeShownListeners(QObject;) | invoke menu will be shown listeners
+void jPopupMenuFieldsPopupMenuWillBecomeVisible(Qjavax.swing.event.PopupMenuEvent;) | j popup menu fields popup menu will become visible
+void jPopupMenuParametersPopupMenuWillBecomeVisible(Qjavax.swing.event.PopupMenuEvent;) | j popup menu parameters popup menu will become visible
+void jPopupMenuVariablesPopupMenuWillBecomeVisible(Qjavax.swing.event.PopupMenuEvent;) | j popup menu variables popup menu will become visible
+void menuWillBeShown(QMenuItem;QObject;) | menu will be shown
+void modifyIncomeBeforeTaxes(QGoodsType;I) | modify income before taxes
+void _notifyCompileBeforeJUnit(QCompilerListener;) | notify compile before j unit
+void notifyLocalSynchsBeforeTransactionCompletion() | notify local synchs before transaction completion
+void paintBeat(QGraphics;IQGP4Beat;QGP4Beat;QGP4Beat;QPaintedBeatInfo;) | paint beat
+void PaintedBeatInfo() | painted beat info
+void paintLoweredBevel(QComponent;QGraphics;IIII) | paint lowered bevel
+void peerMightBeBad(QPeer;) | peer might be bad
+void performAboutToBeHidden() | perform about to be hidden
+void performAboutToBeShown() | perform about to be shown
+void popupMenuWillBecomeInvisible(Qjavax.swing.event.PopupMenuEvent;) | popup menu will become invisible
+void popupMenuWillBecomeInvisible(QPopupMenuEvent;) | popup menu will become invisible
+void popupMenuWillBecomeVisible(Qjavax.swing.event.PopupMenuEvent;) | popup menu will become visible
+void popupMenuWillBecomeVisible(QPopupMenuEvent;) | popup menu will become visible
+void preventDragBeforeIndex(QJTable;II) | prevent drag before index
+void publishTiVoBeacon() | publish ti vo beacon
+void rebuildBeanConnections(QVector;QObject;) | rebuild bean connections
+void refreshBendpointEditPolicy() | refresh bendpoint edit policy
+void removeAllBeansFromContainer(QJComponent;) | remove all beans from container
+void removeBeanContextMembershipListener(BeanContextMembershipListener bcml) | remove bean context membership listener
+void removeBean(QJComponent;) | remove bean
+void removeDownloadWillBeAddedListener(QDownloadWillBeAddedListener;) | remove download will be added listener
+void removeDownloadWillBeRemovedListener(QDownloadWillBeRemovedListener;) | remove download will be removed listener
+void removeDownloadWillBeRemovedListener(QGlobalManagerDownloadWillBeRemovedListener;) | remove download will be removed listener
+void removeUserToolBarBeans(QVector;) | remove user tool bar beans
+void removeWBefore(int i) | remove w before
+void resetBehavior() | reset behavior
+void restoreBeans() | restore beans
+void _saveAllBeforeProceeding(QString;QBooleanOption;QString;) | save all before proceeding
+void saveBeforeCompile() | save before compile
+void saveBeforeJavadoc() | save before javadoc
+void searchForBestTest() | search for best test
+void searchForBestTest(QPredictionNode;QInstances;) | search for best test
+void searchForBestTestSingle() | search for best test single
+void searchForBestTestSingle(QPredictionNode;QInstances;QInstances;) | search for best test single
+void setBean(Class c) | set bean
+void setBeanConnection(QBeanConnection;QVector;) | set bean connection
+void setBeanContext(QBeanContext;) | set bean context
+void setBeanHome(BeanHome _home) | set bean home
+void setBeanInstances(QVector;QJComponent;) | set bean instances
+void setBeat(I) | set beat
+void setBeep(QRunnable;) | set beep
+void setBelowPX(I) | set below px
+void setBend(I) | set bend
+void setBendSensitivity(I) | set bend sensitivity
+void setBestRowIdentifiers() | set best row identifiers
+void setBeta(D) | set beta
+void setEmptyBeat(Z) | set empty beat
+void setIncomeBeforeTaxes(I) | set income before taxes
+void setMBeanServer(MBeanServer server) | set m bean server
+void setMigTnrBez(String s) | set mig tnr bez
+void setMissingPosValueBehavior(I) | set missing pos value behavior
+void setMissingPropertyBehavior(I) | set missing property behavior
+void setNotBefore(QDate;) | set not before
+void setRestBeat(Z) | set rest beat
+void setSelectBeforeUpdate(Z) | set select before update
+void setUseBetterEncoding(Z) | set use better encoding
+void setUseTiVoBeacon(Z) | set use ti vo beacon
+void setWeightTrimBeta(D) | set weight trim beta
+void shiftBeans(QBeanInstance;Z) | shift beans
+void skinBeforeComponents(QComposite;QObject;[QObject;) | skin before components
+void specialCasesBefore(QString;) | special cases before
+void testBackSlashBeforeDoubleEscape() | test back slash before double escape
+void testBeginningRnd() | test beginning rnd
+void testBetwixt() | test betwixt
+void testCannotEditBeforePrompt() | test cannot edit before prompt
+void testCommentedOutSlashStarBefore() | test commented out slash star before
+void testDeleteFileBeforeCloseAll() | test delete file before close all
+void testEscapeAtFrontBeforeKeyword() | test escape at front before keyword
+void testEscapeAtFrontBeforeNormal() | test escape at front before normal
+void testEscapeAtFrontBeforeQuote() | test escape at front before quote
+void testEscapeAtFrontBeforeWS() | test escape at front before ws
+void testGetIntelligentBeginLinePos() | test get intelligent begin line pos
+void testInsertBetweenDoubleEscape() | test insert between double escape
+void testInsertGapBeforeGap() | test insert gap before gap
+void testLeaveBe() | test leave be
+void testLeaveBeMidLine() | test leave be mid line
+void testLeftBeforePromptMovesToPrompt() | test left before prompt moves to prompt
+void testLineBeginsComment() | test line begins comment
+void testNullSafeHashCodeWithObjectBeingObjectArray() | test null safe hash code with object being object array
+void testPrevStmtSeveralLinesBeforeCurrLocation() | test prev stmt several lines before curr location
+void testRightBeforePromptMovesToEnd() | test right before prompt moves to end
+void testShouldBeAbleToReturnLastSuccessfulBuild() | test should be able to return last successful build
+void testSlashStarMidLineBefore() | test slash star mid line before
+void testStarSlashMidLineBefore() | test star slash mid line before
+void testStartOfStmtIgnoreWhiteSpaceAndCommentsInBetween() | test start of stmt ignore white space and comments in between
+void testStuffBefore() | test stuff before
+void textTopLevelInterfaceNameBeforeClassName() | text top level interface name before class name
+void updateAddTaxToBells() | update add tax to bells
+void updateBeanFieldsOnly(Persistable beanToUpdate) | update bean fields only
+void updateBestTimesChosen() | update best times chosen
+void userBeginTyping(Qorg.hn.sleek.jmml.Contact;) | user begin typing
+void waitCursorBegin() | wait cursor begin
+void writeBERBody(QInputStream;) | write ber body
+void writeBEREnd() | write ber end
+void writeBERHeader(I) | write ber header
+WeaponType createBABearhunterAC() | create ba bearhunter ac
+WeaponType createBATwinBearhunterAC() | create ba twin bearhunter ac

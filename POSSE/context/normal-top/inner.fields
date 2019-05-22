@@ -1,0 +1,13 @@
+double innerRadius | inner radius
+float innerWidth | inner width
+int INNER | inner
+int INNER_BUFFER_WIDTH | inner buffer width
+java.awt.Rectangle innerBounds | inner bounds
+java.lang.String INNER_CLASS_WITH_LOCAL_VARS | inner class with local vars
+java.lang.String innerSphere | inner sphere
+java.lang.String MONKEY_WITH_INNER_CLASS | monkey with inner class
+java.lang.String STATIC_INNER_TEST_TEXT | static inner test text
+java.lang.String T_INNER | t inner
+megamek.common.loaders.HMVTechType INNER_SPHERE | inner sphere
+megamek.common.loaders.TechType INNER_SPHERE | inner sphere
+org.jhotdraw.draw.AttributeKey<java.lang.Double> STROKE_INNER_WIDTH_FACTOR | stroke inner width factor

@@ -1,0 +1,10 @@
+boolean hasWarningMessage() | has warning message
+int addWarningForIp(QString;) | add warning for ip
+int getNbWarningForIp(QString;) | get nb warning for ip
+int getWarningCount() | get warning count
+String getWarningMessage() | get warning message
+String _getWarningText() | get warning text
+String _getWarningTitle() | get warning title
+void addIIOWriteWarningListener(IIOWriteWarningListener listener) | add iio write warning listener
+void showWarningMessageBox([QObject;QString;I) | show warning message box
+void showWarningMessage(QString;) | show warning message

@@ -1,0 +1,26 @@
+ConsoleDocument getConsoleDoc() | get console doc
+FindResult _findNextInDoc(QOpenDefinitionsDocument;IIZ) | find next in doc
+INavigatorItem getIDoc() | get i doc
+int getCurrentLinefromDoc() | get current line from doc
+int insertDoc(QItemT;) | insert doc
+int _processAllInCurrentDoc(QRunnable1<QFindResult;>;) | process all in current doc
+int _replaceAllInCurrentDoc() | replace all in current doc
+LeafNode<QItemT;> getNodeForDoc(QItemT;) | get node for doc
+OpenDefinitionsDocument getFirstDoc() | get first doc
+OpenDefinitionsDocument getOpenDefDoc() | get open def doc
+OpenDefinitionsDocument _getOpenDoc() | get open doc
+void ConcreteOpenDefDoc(QFile;) | concrete open def doc
+void ConcreteOpenDefDoc(QFile;QFile;J) | concrete open def doc
+void ConcreteOpenDefDoc(QNullFile;) | concrete open def doc
+void drawVoidDoc(QGraphics2D;) | draw void doc
+void nextRecentDoc() | next recent doc
+void prevRecentDoc() | prev recent doc
+void _printDefDoc() | print def doc
+void _setActiveDoc(QINavigatorItem;) | set active doc
+void setFirstDoc(QOpenDefinitionsDocument;) | set first doc
+void setOpenDefDoc(QOpenDefinitionsDocument;) | set open def doc
+void setupDoc() | setup doc
+void testGetIndentOfCurrStmtEndOfDoc() | test get indent of curr stmt end of doc
+void TestOpenDoc(QDefinitionsDocument;) | test open doc
+void textDeleteDoc() | text delete doc
+void textInsertToDoc() | text insert to doc

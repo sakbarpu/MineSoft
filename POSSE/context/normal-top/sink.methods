@@ -1,0 +1,30 @@
+boolean hasDoubleHeatSinks() | has double heat sinks
+boolean hasLaserHeatSinks() | has laser heat sinks
+boolean setUp(SinkThread sinkThread) | set up
+byte[] getPixelSink() | get pixel sink
+int getActiveSinks() | get active sinks
+int getActiveSinksNextRound() | get active sinks next round
+int getCountEngineHeatSinks() | get count engine heat sinks
+int getCountHeatSinks() | get count heat sinks
+int getNumberOfSinks() | get number of sinks
+int getNumberSinks() | get number sinks
+int getWeightHeatSinks() | get weight heat sinks
+int heatSinks() | heat sinks
+int integralHeatSinkCapacity() | integral heat sink capacity
+int sinksUnderwater() | sinks underwater
+MiscType createCLDoubleHeatSink() | create cl double heat sink
+MiscType createCLLaserHeatSink() | create cl laser heat sink
+MiscType createHeatSink() | create heat sink
+MiscType createIS1CompactHeatSink() | create is 1 compact heat sink
+MiscType createIS2CompactHeatSinks() | create is 2 compact heat sinks
+MiscType createISDoubleHeatSink() | create is double heat sink
+String getSink() | get sink
+String printWeightHeatSinks() | print weight heat sinks
+void addEngineSinks(IZ) | add engine sinks
+void addEngineSinks(IZZ) | add engine sinks
+void DataSink(QOutputStream;) | data sink
+void DataSink(QSaver;) | data sink
+void DataSink(QString;) | data sink
+void resolveSinkVees() | resolve sink ve es
+void setActiveSinksNextRound(I) | set active sinks next round
+void sinkShip(QUnit;QColony;QUnit;) | sink ship

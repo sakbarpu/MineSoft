@@ -1,0 +1,3 @@
+java.util.Hashtable fieldAndMethods | field and methods
+java.util.Hashtable staticFieldAndMethods | static field and methods
+org.mozilla.javascript.ObjArray itsMethods | its methods

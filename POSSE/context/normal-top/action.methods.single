@@ -1,0 +1,10 @@
+action_part action() | action
+boolean action(QEvent;QObject;) | action
+Object action(QContext;QScriptable;QScriptable;[QObject;I) | action
+void _action() | action
+void action() | action
+void action(CC) | action
+void action(CQString;) | action
+void action(Graphics g, Joueur joueur) | action
+void action(QString;C) | action
+void action(QString;QString;) | action

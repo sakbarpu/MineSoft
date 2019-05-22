@@ -1,0 +1,3 @@
+int CAST | cast
+int CASTORE | castore
+java.lang.String T_CAST | t cast

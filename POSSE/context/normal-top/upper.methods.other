@@ -1,0 +1,20 @@
+boolean getUpperCase() | get upper case
+boolean storesUpperCaseIdentifiers() | stores upper case identifiers
+boolean storesUpperCaseQuotedIdentifiers() | stores upper case quoted identifiers
+double getInterpolationParameterUpperBound() | get interpolation parameter upper bound
+double getUpperBound() | get upper bound
+double getUpperBoundMinSupport() | get upper bound min support
+double getUpperNumericBound() | get upper numeric bound
+double getUpperValue() | get upper value
+int calcUpperChildShift(QNodeView;QLinkedList;) | calc upper child shift
+int getUpperChildShift() | get upper child shift
+int getUpperSize() | get upper size
+String interpolationParameterUpperBoundTipText() | interpolation parameter upper bound tip text
+String toUpperCase(QString;) | to upper case
+String toUpperFirstLetter(QString;) | to upper first letter
+void setInterpolationParameterUpperBound(D) | set interpolation parameter upper bound
+void setRootUpperChildShift(II) | set root upper child shift
+void setUpperBoundMinSupport(D) | set upper bound min support
+void setUpperChildShift(I) | set upper child shift
+void setUpperSize(I) | set upper size
+void testToUpperCharFirst() | test to upper char first

@@ -1,0 +1,18 @@
+edu.rice.cs.util.docnavigation.IDocumentNavigator<edu.rice.cs.drjava.model.OpenDefinitionsDocument> _documentNavigator | document navigator
+int COMP_TYPE_V3_NAVIGATION | comp type v 3  navigation
+int NAVAL | naval
+java.awt.Color NAVAJO_WHITE | navajo white
+java.awt.Color NAVY | navy
+java.awt.Color NAVY_BLUE | navy blue
+java.lang.String NAVAL_STRING | naval string
+java.lang.String NAVIGATE_MENU | navigate menu
+java.lang.String VIEW_NAME_LOGICAL_NAVIGATION_BAR | view name logical navigation bar
+java.lang.String VIEW_NAME_PHYSICAL_NAVIGATION_BAR | view name physical navigation bar
+javax.swing.Action navigationNextMap | navigation next map
+javax.swing.Action navigationPreviousMap | navigation previous map
+javax.swing.JPanel _errorNavButtonsPanel | error nav buttons panel
+javax.swing.JPanel _errorNavPanel | error nav panel
+javax.swing.JPanel _navPane | nav pane
+megamek.client.ui.AWT.MechTileset.MechEntry default_naval | default naval
+megamek.client.ui.swing.MechTileset.MechEntry default_naval | default naval
+org.jajuk.ui.CDDBWizard.NavigationPanel jpNav | jp nav

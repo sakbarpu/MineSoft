@@ -1,0 +1,16 @@
+boolean az_exe_checked | az exe checked
+boolean checked | checked
+boolean checking_enabled | checking enabled
+boolean check_interrupted | check interrupted
+boolean last_mapping_check_failed | last mapping check failed
+boolean piece_checking_enabled | piece checking enabled
+byte NAT_CHECK_DISABLED | nat check disabled
+byte NAT_CHECK_FAILED | nat check failed
+byte NAT_CHECK_FAILED_AND_REPORTED | nat check failed and reported
+byte NAT_CHECK_INITIATED | nat check initiated
+int CHECK_REASON_DOWNLOADED | check reason downloaded
+java.lang.String COMMAND_CHECK_BUDDY_MANAGER_ENABLED | command check buddy manager enabled
+java.util.List asn_ips_checked | asn ips checked
+javax.swing.JCheckBox jCheckBoxPDFEmbedded | j check box pdf embedded
+javax.swing.JCheckBox jCheckBoxSplitAllowed | j check box split allowed
+long _lastCheckpointed | last checkpointed

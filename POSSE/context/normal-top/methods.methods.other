@@ -1,0 +1,4 @@
+ArrayList<[QString;> parseMethodsCalls(QString;) | parse methods calls
+boolean supportsResultSetPositionQueryMethodsOnForwardOnlyCursor() | supports result set position query methods on forward only cursor
+Hashtable getFieldAndMethodsObjects(QScriptable;QObject;Z) | get field and methods objects
+void proxyStateV5MethodsReply() | proxy state v 5 methods reply

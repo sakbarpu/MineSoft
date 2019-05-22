@@ -1,0 +1,1640 @@
+accessories.plugins.UnfoldAll hookInstance | hook instance
+boolean allow_empty_input | allow empty input
+boolean assumeInitiallyDown | assume initially down
+boolean attInWater | att in water
+boolean bCreateIndex | b create index
+boolean bDNDalwaysIncomplete | b dnd always incomplete
+boolean bDropIndex | b drop index
+boolean bGenerateIntermediateEvents | b generate intermediate events
+boolean bInit | b init
+boolean bInRefresh | b in refresh
+boolean bInRefreshAsync | b in refresh async
+boolean bInRefreshVisible | b in refresh visible
+boolean bInsert | b insert
+boolean bInteger | b integer
+boolean bInvalidByTrigger | b invalid by trigger
+boolean bReferentialIntegrity | b referential integrity
+boolean check_in_progress | check in progress
+boolean _classFileInSync | class file in sync
+boolean complete_included_ok | complete included ok
+boolean complete_recheck_in_progress | complete recheck in progress
+boolean deleteWhileInsert | delete while insert
+boolean direct_invoke | direct invoke
+boolean diskFreeInfoRefreshPending | disk free info refresh pending
+boolean diskFreeInfoRefreshRunning | disk free info refresh running
+boolean downloadingIndicator | downloading indicator
+boolean filesInJar | files in jar
+boolean _forceNewInstance | force new instance
+boolean FULL_INTF_PROBE | full intf probe
+boolean fully_initialise | fully initialise
+boolean generateDebugInfo | generate debug info
+boolean generate_intermediate_events | generate intermediate events
+boolean hadAdjustmentLastInterval | had adjustment last interval
+boolean has_Index | has index
+boolean has_received_initial_pex | has received initial pex
+boolean hasRowInfo | has row info
+boolean hasVarsInRegs | has vars in regs
+boolean in | in
+boolean includeCachedData | include cached data
+boolean includeLanPeersInReqLimiting | include lan peers in req limiting
+boolean includeMaxTech | include max tech
+boolean includeOnlyTemporaryContent | include only temporary content
+boolean include_well_known_lans | include well known lans
+boolean inCollectingMode | in collecting mode
+boolean incoming | incoming
+boolean _inCompoundEdit | in compound edit
+boolean incorrect | incorrect
+boolean inDanger | in danger
+boolean _indefiniteLength | indefinite length
+boolean _in_deleting | in deleting
+boolean _indentNonCode | indent non code
+boolean indestructable | indestructable
+boolean indexLastName | index last name
+boolean indexZip | index zip
+boolean inDirectCallFunction | in direct call function
+boolean indirectCRL | indirect crl
+boolean inEvent | in event
+boolean infernoFire | inferno fire
+boolean informed_alive | informed alive
+boolean init | init
+boolean init_complete | init complete
+boolean _initComplete | init complete
+boolean initComplete | init complete
+boolean initCtlScroll | init ctl scroll
+boolean initialisation_complete | initialisation complete
+boolean initialising | initialising
+boolean initializing | initializing
+boolean initiator | initiator
+boolean initLicense | init license
+boolean inlineIv | inline iv
+boolean inProgress | in progress
+boolean inputAsFile | input as file
+boolean insertMode | insert mode
+boolean insideInterruptLoop | inside interrupt loop
+boolean instantModeSwitch | instant mode switch
+boolean instant_notify | instant notify
+boolean _insurance_optional | insurance optional
+boolean integer | integer
+boolean _interactionDone | interaction done
+boolean interactive | interactive
+boolean interested_in_other_peer | interested in other peer
+boolean internal | internal
+boolean internal_rc4 | internal rc 4
+boolean inTitle | in title
+boolean _invalid | invalid
+boolean invert_threads | invert threads
+boolean invisible | invisible
+boolean isAutoIncrement | is auto increment
+boolean isDiggingIn | is digging in
+boolean is_inbound_connection | is inbound connection
+boolean isIndeterminate | is indeterminate
+boolean isInErrorState | is in error state
+boolean isInf | is inf
+boolean isInJoin | is in join
+boolean isInsert | is insert
+boolean isInteractive | is interactive
+boolean isInternal | is internal
+boolean isIntKey | is int key
+boolean isIntValue | is int value
+boolean isPercentageInUse | is percentage in use
+boolean isPrintInFirstWholeBand | is print in first whole band
+boolean isUnmarshalInProgress | is unmarshal in progress
+boolean itsInFunctionFlag | its in function flag
+boolean keep_alive_in_progress | keep alive in progress
+boolean latest_informed_force_start | latest informed force start
+boolean LOAD_PLUGINS_IN_OTHER_THREAD | load plugins in other thread
+boolean m_interactive | m interactive
+boolean mouseIn | mouse in
+boolean mousePressedInTextField | mouse pressed in text field
+boolean must_init_core | must init core
+boolean new_install | new install
+boolean other_peer_interested_in_me | other peer interested in me
+boolean paintInvalid | paint invalid
+boolean parameterUsedInNumberContext | parameter used in number context
+boolean paused_internally | paused internally
+boolean periodic_lookup_in_progress | periodic lookup in progress
+boolean publish_in_progress | publish in progress
+boolean refIntegrity | ref integrity
+boolean resizeIndicatorVisible | resize indicator visible
+boolean schedule_in_progress | schedule in progress
+boolean showCompleteIncomplete | show complete incomplete
+boolean SHOW_EXT_INFO | show ext info
+boolean showIndexDetails | show index details
+boolean skipIntervalAfterAdjustment | skip interval after adjustment
+boolean slideIn | slide in
+boolean storeOnInsert | store on insert
+boolean stuckInSwamp | stuck in swamp
+boolean targetInfantry | target infantry
+boolean targetInWater | target in water
+boolean terrainInvalid | terrain invalid
+boolean test_initiator | test initiator
+boolean _testInProgress | test in progress
+boolean undoOrRedoInProgress | undo or redo in progress
+boolean update_in_progress | update in progress
+boolean uploadingIndicator | uploading indicator
+boolean uploadingIndicatorSmall | uploading indicator small
+boolean useExtensionsInDescription | use extensions in description
+boolean use_incoming_router | use incoming router
+boolean _validationInProgress | validation in progress
+boolean _waitingForFirstInterpreter | waiting for first interpreter
+boolean was_incorrecte | was incorrecte
+byte ACT_INCOMING | act incoming
+byte[] BYTES_C_ID_INIT | bytes c id init
+byte[] BYTES_INSERT_INTO | bytes insert into
+byte CONSTANT_Integer | constant integer
+byte CONSTANT_InterfaceMethodref | constant interface methodref
+byte duplicate_peer_checker_index | duplicate peer checker index
+byte FLAG_INVALID | flag invalid
+byte FLAG_INVALID_END | flag invalid end
+byte FLAG_INVALID_START | flag invalid start
+byte[] ID_BT_INTERESTED_BYTES | id bt interested bytes
+byte[] info_hash | info hash
+byte[] infohash | info hash
+byte[] inputPad | input pad
+byte[] int_buffer | int buffer
+byte INTERNAL_FIRST | internal first
+byte INTERNAL_LAST | internal last
+byte INVALID | invalid
+byte[] inverse | inverse
+byte MESSAGE_VERSION_INITIAL | message version initial
+byte OP_GET_INT | op get int
+byte OP_GETINT | op get int
+byte OP_GETINT_INT | op get int int
+byte OP_LIMIT_INT | op limit int
+byte OP_POSITION_INT | op position int
+byte OP_PUTINT | op put int
+byte other_peer_interested_version | other peer interested version
+byte PEER_SOURCE_INCOMING | peer source incoming
+byte T_INT | t int
+char INDICATOR | indicator
+char input | input
+com.aelitis.azureus.core.AzureusCoreOperation initialisation_op | initialisation op
+com.aelitis.azureus.core.diskmanager.MemoryMappedFile.MemoryMapPool instance | instance
+com.aelitis.azureus.core.download.EnhancedDownloadManager.boostETAProvider.interventionHandler intervention_handler | intervention handler
+com.aelitis.azureus.core.instancemanager.AZInstance instance | instance
+com.aelitis.azureus.core.instancemanager.AZInstanceManager instance_manager | instance manager
+com.aelitis.azureus.core.instancemanager.AZInstance my_instance | my instance
+com.aelitis.azureus.core.instancemanager.impl.AZMyInstanceImpl my_instance | my instance
+com.aelitis.azureus.core.messenger.config.PlatformMetaSearchMessenger.templateInfo info | info
+com.aelitis.azureus.core.networkmanager.admin.impl.NetworkAdminSpeedTestSchedulerImpl instance | instance
+com.aelitis.azureus.core.networkmanager.impl.http.HTTPNetworkManager instance | instance
+com.aelitis.azureus.core.networkmanager.impl.IncomingConnectionManager incoming_manager | incoming manager
+com.aelitis.azureus.core.networkmanager.impl.IncomingMessageQueueImpl incoming_message_queue | incoming message queue
+com.aelitis.azureus.core.networkmanager.impl.tcp.IncomingSocketChannelManager http_incoming_manager | http incoming manager
+com.aelitis.azureus.core.networkmanager.impl.tcp.IncomingSocketChannelManager incoming_socketchannel_manager | incoming socket channel manager
+com.aelitis.azureus.core.networkmanager.impl.tcp.TCPNetworkManager instance | instance
+com.aelitis.azureus.core.networkmanager.impl.TransportCryptoManager instance | instance
+com.aelitis.azureus.core.networkmanager.impl.udp.UDPConnectionSet.SequenceGenerator in_seq_generator | in seq generator
+com.aelitis.azureus.core.networkmanager.IncomingMessageQueue incoming_message_queue | incoming message queue
+com.aelitis.azureus.core.networkmanager.NetworkManager instance | instance
+com.aelitis.azureus.core.peermanager.control.PeerControlInstance instance | instance
+com.aelitis.azureus.core.peermanager.messaging.bittorrent.ltep.LTDisabledExtensionMessage INSTANCE | instance
+com.aelitis.azureus.core.peermanager.messaging.MessageManager instance | instance
+com.aelitis.azureus.core.peermanager.nat.PeerNATInitiator initiator | initiator
+com.aelitis.azureus.core.peermanager.PeerManager instance | instance
+com.aelitis.azureus.core.peermanager.uploadslots.UploadSlotManager instance | instance
+com.aelitis.azureus.core.speedmanager.impl.v2.SMInstance instance | instance
+com.aelitis.azureus.core.util.bloom.BloomFilter incoming_bloom | incoming bloom
+com.aelitis.azureus.core.versioncheck.VersionCheckClient instance | instance
+com.aelitis.azureus.plugins.net.buddy.swt.BuddyPluginViewInstance current_instance | current instance
+com.aelitis.azureus.ui.common.table.TableColumnCore[] tableIncompleteItems | table incomplete items
+com.aelitis.azureus.ui.common.viewtitleinfo.ViewTitleInfo titleInfo | title info
+com.aelitis.azureus.ui.IUIIntializer initializer | initializer
+com.aelitis.azureus.ui.IUIIntializer uiInitializer | ui initializer
+com.aelitis.azureus.ui.selectedcontent.DownloadUrlInfo downloadInfo | download info
+com.aelitis.azureus.ui.swt.skin.SWTSkin instance | instance
+com.aelitis.azureus.ui.swt.skin.SWTSkinObjectText skinDetailInfo | skin detail info
+com.aelitis.azureus.ui.swt.UISkinnableManagerSWT instance | instance
+com.aelitis.azureus.ui.swt.utils.ImageLoader instance | instance
+com.aelitis.azureus.ui.swt.views.list.ListView.RowInfo bottomRowInfo | bottom row info
+com.aelitis.azureus.ui.swt.views.list.ListView.RowInfo topRowInfo | top row info
+com.aelitis.azureus.ui.swt.views.skin.sidebar.SideBarEntrySWT sideBarInfo | side bar info
+com.aelitis.azureus.ui.swt.views.skin.sidebar.SideBar instance | instance
+com.aelitis.azureus.ui.swt.views.skin.VuzeShareUtils instance | instance
+com.aelitis.azureus.ui.swt.views.skin.widgets.FriendsList inviteeList | invitee list
+com.aelitis.azureus.ui.UIFunctions instance | instance
+com.aelitis.azureus.util.DCAdManager instance | instance
+com.aelitis.azureus.util.ILoginInfoListener loginInfoListener | login info listener
+com.aelitis.azureus.util.LoginInfoManager INSTANCE | instance
+com.aelitis.azureus.util.LoginInfoManager loginInfoManager | login info manager
+com.eteks.sweethome3d.j3d.Component3DManager instance | instance
+com.eteks.sweethome3d.j3d.ModelManager instance | instance
+com.eteks.sweethome3d.j3d.TextureManager instance | instance
+com.eteks.sweethome3d.model.Camera initialCamera | initial camera
+com.eteks.sweethome3d.swing.IconManager instance | instance
+double INCHES | inches
+double INFANTRY_ARMOR | infantry armor
+double innerRadius | inner radius
+double lastIndex | last index
+edu.rice.cs.drjava.config.BooleanOption DEBUG_STEP_INTERPRETER | debug step interpreter
+edu.rice.cs.drjava.config.BooleanOption FIND_REPLACE_FOCUS_IN_DEFPANE | find replace focus in def pane
+edu.rice.cs.drjava.config.BooleanOption INTERACTIONS_EXIT_PROMPT | interactions exit prompt
+edu.rice.cs.drjava.config.BooleanOption INTERACTIONS_RESET_PROMPT | interactions reset prompt
+edu.rice.cs.drjava.config.BooleanOption STICKY_INTERACTIONS_DIRECTORY | sticky interactions directory
+edu.rice.cs.drjava.config.ColorOption INTERACTIONS_ERROR_COLOR | interactions error color
+edu.rice.cs.drjava.config.ColorOption SYSTEM_IN_COLOR | system in color
+edu.rice.cs.drjava.config.FileOption LAST_INTERACTIONS_DIRECTORY | last interactions directory
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_CLOSE_SYSTEM_IN | key close system in
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_DEBUG_STEP_INTO | key debug step into
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_LIFT_CURRENT_INTERACTION | key lift current interaction
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_PRINT_INTERACTIONS | key print interactions
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_RESET_INTERACTIONS | key reset interactions
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_VIEW_INTERACTIONS_CLASSPATH | key view interactions classpath
+edu.rice.cs.drjava.config.NonNegativeIntegerOption INDENT_LEVEL | indent level
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> INTERACTIONS_AUTO_IMPORT_CLASSES | interactions auto import classes
+edu.rice.cs.drjava.model.compiler.CompilerListener _clearInteractionsListener | clear interactions listener
+edu.rice.cs.drjava.model.debug.DebugThreadData _threadInPopup | thread in popup
+edu.rice.cs.drjava.model.definitions.indent.Indenter _indenter | indenter
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideBlockComment INSIDE_BLOCK_COMMENT | inside block comment
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideDoubleQuote INSIDE_DOUBLE_QUOTE | inside double quote
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideLineComment INSIDE_LINE_COMMENT | inside line comment
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideSingleQuote INSIDE_SINGLE_QUOTE | inside single quote
+edu.rice.cs.drjava.model.repl.DefaultInteractionsModel _interactionsModel | interactions model
+edu.rice.cs.drjava.model.repl.InputListener _inputListener | input listener
+edu.rice.cs.drjava.model.repl.InteractionsDJDocument _interactionsDJDocument | interactions dj document
+edu.rice.cs.drjava.model.repl.InteractionsDJDocument _interactionsDocument | interactions document
+edu.rice.cs.drjava.model.repl.InteractionsListener _interactionsListener | interactions listener
+edu.rice.cs.drjava.model.repl.InteractionsModelCallback _interactionsModel | interactions model
+edu.rice.cs.drjava.model.repl.newjvm.InterpreterJVMRemoteI _interpreter | interpreter
+edu.rice.cs.drjava.model.repl.newjvm.InterpretResult.BusyResult INSTANCE | instance
+edu.rice.cs.drjava.model.repl.newjvm.InterpretResult.NoValueResult INSTANCE | instance
+edu.rice.cs.drjava.ui.config.KeyStrokeOptionComponent.GetKeyDialog.InputField _inputField | input field
+edu.rice.cs.drjava.ui.DrJavaErrorHandler INSTANCE | instance
+edu.rice.cs.drjava.ui.DrJavaErrorWindow _singletonInstance | singleton instance
+edu.rice.cs.drjava.ui.InsertVariableDialog _insertVarDialog | insert var dialog
+edu.rice.cs.drjava.ui.InteractionsController _interactionsController | interactions controller
+edu.rice.cs.drjava.ui.InteractionsPane _interactionsPane | interactions pane
+edu.rice.cs.drjava.ui.predictive.PredictiveInputFrame.InfoSupplier<? super T>	_info | super t>	 info
+edu.rice.cs.util.JoinInputStream _combinedInputJoinedWithDebugStream | combined input joined with debug stream
+float[][] INDENTITY_ROTATION | indentity rotation
+float initial_error | initial error
+float innerWidth | inner width
+float invSqStepFloat | inv sq step float
+float myInitialDuration | my initial duration
+float myIntensity | my intensity
+float[] normalizedIntervals | normalized intervals
+freemind.common.JaxbTools instance | instance
+freemind.controller.actions.generated.instance.impl.runtime.GrammarInfo grammarInfo | grammar info
+freemind.controller.actions.generated.instance.impl.runtime.GrammarInfo[] grammarInfos | grammar infos
+freemind.modes.actions.ChangeArrowsInArrowLinkAction changeArrowsInArrowLinkAction | change arrows in arrow link action
+freemind.modes.HistoryInformation historyInformation | history information
+int addIndex | add index
+int ambienceIndex | ambience index
+int ANY_PING_INDEX | any ping index
+int ARTILLERY_INCOMING | artillery incoming
+int assaultDropInProgress | assault drop in progress
+int AT_INFORMATION | at information
+int AT_INTERNAL_GET | at internal get
+int AT_INTERNAL_PUT | at internal put
+int ATTRIBUTE_WITH_INVALID_VALUE | attribute with invalid value
+int autoCloseInMS | auto close in ms
+int BAD_BLOOM_INC | bad bloom inc
+int BAD_BLOOM_INITIAL | bad bloom initial
+int bad_down_in_progress_count | bad down in progress count
+int BAD_INDEX_CONSTRAINT_NAME | bad index constraint name
+int badPingInMilliSec | bad ping in milli sec
+int bad_up_in_progress_count | bad up in progress count
+int BANG_INCOMPLETE | bang incomplete
+int BASE_INFO_FLAGS | base info flags
+int BASE_ZOOM_INDEX | base zoom index
+int beginIndex | begin index
+int[] bestIndexForColumn | best index for column
+int BID_ERROR_CANT_SIGN_IN | bid error cant sign in
+int bigPageIncrement | big page increment
+int BINARY_LOADEDBYTESINTO | binary loaded bytes into
+int BLOOM_INCREASE | bloom increase
+int BUDDY_NETWORK_INBOUND | buddy network inbound
+int BUDDY_STATUS_CHECK_PERIOD_INC | buddy status check period inc
+int bufferIndex | buffer index
+int BUFFER_INSTRUCTIONS | buffer instructions
+int C3CompanyMasterIndex | c 3 company master index
+int cache_republish_interval | cache republish interval
+int CACHE_REPUBLISH_INTERVAL_DEFAULT | cache republish interval default
+int _cancelIndex | cancel index
+int CENTER_IN_BACKGROUND | center in background
+int CENTER_IN_BAND | center in band
+int CENTER_IN_BAND_H | center in band h
+int CENTER_IN_BAND_V | center in band v
+int CHECKBOXES_COLUMN_INDEX | checkboxes column index
+int childIndex | child index
+int chunk_index | chunk index
+int CLASS_CODE_INT | class code int
+int CLASS_INFANTRY | class infantry
+int CLEAR_NUMBER_INFANTRY | clear number infantry
+int CLEAR_NUMBER_INFANTRY_ACCIDENT | clear number infantry accident
+int CLOCK_INVISIBLE | clock invisible
+int[] colIndex | col index
+int COLOR_INCACHE | color inc ac he
+int colorIndex | color index
+int COLOR_INFO | color info
+int columnIndex | column index
+int COLUMN_IS_IN_CONSTRAINT | column is in constraint
+int COLUMN_IS_IN_INDEX | column is in index
+int COMMAND_ENTITY_VISIBILITY_INDICATOR | command entity visibility indicator
+int COMMAND_REROLL_INITIATIVE | command reroll initiative
+int controlPointIndex | control point index
+int _curIndex | cur index
+int currentAnimationIndex | current animation index
+int current_filter_index | current filter index
+int current_index | current index
+int _currentInteraction | current interaction
+int currentLineIndex | current line index
+int current_min_poll_interval | current min poll interval
+int currentPopupIndex | current popup index
+int current_request_index | current request index
+int _currentStrategyIndex | current strategy index
+int debug_seq_in_next | debug seq in next
+int DEFAULT_CHECK_INTERVAL_MINS | default check interval mins
+int defaultEventIndex | default event index
+int DEFAULT_INC_BY | default inc by
+int DEFAULT_INC_PER | default inc per
+int DEFAULT_INDENTATION | default indentation
+int defaultIndex | default index
+int DEFAULT_INITIAL_CAPACITY | default initial capacity
+int DEFAULT_MINIMUM_INITIAL_BUFFER_SECS_FOR_ETA | default minimum initial buffer secs for eta
+int defaultPropertyIndex | default property index
+int def_int | def int
+int DELAY_INTERVAL | delay interval
+int[] deletedIconListAsIntArray | deleted icon list as int array
+int deleteWhileInsertInterval | delete while insert interval
+int DIRECT_INJECT_PEER_MAX | direct inject peer max
+int directTargetIndex | direct target index
+int DIR_INCLUDE | dir include
+int DISK_INDEX | disk index
+int DOS_MIN_INTERVAL | dos min interval
+int DROP_FK_INDEX | drop fk index
+int DSV_INSERTCOL_MISMATCH | dsv insert col mismatch
+int DSV_RECIN_FAIL | dsv rec in fail
+int dugIn | dug in
+int DUG_IN_COMPLETE | dug in complete
+int DUG_IN_FORTIFYING1 | dug in fortifying 1
+int DUG_IN_FORTIFYING2 | dug in fortifying 2
+int DUG_IN_NONE | dug in none
+int DUG_IN_WORKING | dug in working
+int EDIT_COLUMN_INDEX | edit column index
+int _editIndex | edit index
+int ENTER_INTERRUPT | enter interrupt
+int entryIndex | entry index
+int ENUM_INIT_KEYS | enum init keys
+int ENUM_INIT_VALUES | enum init values
+int ERROR_IN_BINARY_SCRIPT_1 | error in binary script  1
+int ERROR_IN_BINARY_SCRIPT_2 | error in binary script  2
+int ERROR_IN_CONSTRAINT_COLUMN_LIST | error in constraint column list
+int _errorIndex | error index
+int ERROR_IN_SCRIPT_FILE | error in script file
+int EVAL_INLINE_SCRIPT | eval inline script
+int EVENT_AFTER_COLUMN_INIT | event after column init
+int EVENT_AFTER_GROUP_INIT | event after group init
+int EVENT_AFTER_PAGE_INIT | event after page init
+int EVENT_AFTER_REPORT_INIT | event after report init
+int EVENT_BEFORE_COLUMN_INIT | event before column init
+int EVENT_BEFORE_GROUP_INIT | event before group init
+int EVENT_BEFORE_PAGE_INIT | event before page init
+int EVENT_BEFORE_REPORT_INIT | event before report init
+int EVENT_INDENT | event indent
+int Expression_resolveTypeForIn2 | expression resolve type for in 2
+int fail_index | fail index
+int FAIL_INIT_DELAY | fail init delay
+int FAULTY_SCRAPE_RETRY_INTERVAL | faulty scrape retry interval
+int FIELD_BYTES_IN | field bytes in
+int FIELD_MSG_IN | field msg in
+int file_index | file index
+int firstindex | first index
+int FLAG_KEEP_URL_INFO | flag keep url info
+int FLAG_ROWINFO | flag row info
+int flatIndex | flat index
+int focusedTextFieldIndex | focused text field index
+int frameIndex | frame index
+int GANTT_INDEX | gantt index
+int GOOD_PING_INDEX | good ping index
+int goodPingInMilliSec | good ping in milli sec
+int GRADIENT_SIZE_INDEX | gradient size index
+int HALF_MAX_INT | half max int
+int highestDownloadIndex | highest download index
+int highestUploadIndex | highest upload index
+int HINT_ALIGN_FIT_IN_MONITOR | hint align fit in monitor
+int historyIndex | history index
+int HOURS_IN_DAY | hours in day
+int Icode_ELEM_INC_DEC | icode elem inc dec
+int Icode_INTNUMBER | icode int number
+int Icode_NAME_INC_DEC | icode name inc dec
+int Icode_PROP_INC_DEC | icode prop inc dec
+int Icode_REF_INC_DEC | icode ref inc dec
+int Icode_REG_IND1 | icode reg ind 1
+int Icode_REG_IND2 | icode reg ind 2
+int Icode_REG_IND4 | icode reg ind 4
+int Icode_REG_IND_C0 | icode reg ind c 0
+int Icode_REG_IND_C1 | icode reg ind c 1
+int Icode_REG_IND_C2 | icode reg ind c 2
+int Icode_REG_IND_C3 | icode reg ind c 3
+int Icode_REG_IND_C4 | icode reg ind c 4
+int Icode_REG_IND_C5 | icode reg ind c 5
+int Icode_VAR_INC_DEC | icode var inc dec
+int ICONINFORMATION | icon information
+int[] iconListAsIntArray | icon list as int array
+int Id_indexOf | id index of
+int Id_input | id input
+int Id_lastIndex | id last index
+int Id_lastIndexOf | id last index of
+int Id_parseInt | id parse int
+int iIndentWidth | i indent width
+int iIndex | i index
+int iInterval | i interval
+int imageIndexes | image indexes
+int[][] imColIndex | im col index
+int IN | in
+int inactiveFactor | inactive factor
+int inactiveTicks | inactive ticks
+int INADDRSZ | inaddrsz
+int inbound_connects | inbound connects
+int inbound_limit | inbound limit
+int INC | inc
+int[] incomplete | incomplete
+int INC_RATE_TIME | inc rate time
+int INCRDECR_PROP | incr decr prop
+int[] increases | increases
+int INCREASE_SPACE_H | increase space h
+int INCREASE_SPACE_V | increase space v
+int INCREASING | increasing
+int _increment | increment
+int INCREMENT | increment
+int incrementme | increment me
+int IND | ind
+int _indent | indent
+int INDENT | indent
+int INDENT_AMOUNT | indent amount
+int indentation | indentation
+int INDENT_GAP_PROP | indent gap prop
+int _indentLevel | indent level
+int indentStep | indent step
+int indentTabSize | indent tab size
+int INDENT_WARNING_THRESHOLD | indent warning threshold
+int _index | index
+int index | index
+int _Index | index
+int INDEX | index
+int indexAccess | index access
+int INDEX_ALREADY_EXISTS | index already exists
+int indexClass | index class
+int INDEX_COLOR_FADEDSTARTS | index color faded starts
+int INDEX_COLOR_NONEAVAIL | index color none avail
+int _indexCounter | index counter
+int indexDefaultValue | index default value
+int indexIsRange | index is range
+int INDEX_LEN | index len
+int indexLimit | index limit
+int indexLongNameFirst | index long name first
+int indexName | index name
+int INDEX_NOT_FOUND | index not found
+int INDEX_PING_BAD | index ping bad
+int INDEX_PING_GOOD | index ping good
+int INDEX_PING_NEUTRAL | index ping neutral
+int indexRangeHigh | index range high
+int indexRangeLow | index range low
+int INDEX_RESOURCE_EMAIL | index resource email
+int INDEX_RESOURCE_NAME | index resource name
+int INDEX_RESOURCE_PHONE | index resource phone
+int INDEX_RESOURCE_ROLE | index resource role
+int INDEX_RESOURCE_ROLE_TASK | index resource role task
+int indexType | index type
+int indexValues | index values
+int INDICATOR | indicator
+int[] indices | indices
+int indirect_data_size | indirect data size
+int INEG | ineg
+int INETSOCKETADDRESS_IPV4_SIZE | inet socket address ipv 4  size
+int INETSOCKETADDRESS_IPV6_SIZE | inet socket address ipv 6  size
+int INFANTRY | infantry
+int INF_FLAMER | inf flamer
+int inField | in field
+int INFINITY_AS_INT | infinity as int
+int INF_JUMP | inf jump
+int INF_LASER | inf laser
+int INF_LEG | inf leg
+int INF_LRM | inf lrm
+int INF_MG | inf mg
+int INFO | info
+int INFO_AUTOCOMMIT | info autocommit
+int INFO_CONNECTION_READONLY | info connection readonly
+int INFO_DATABASE | info database
+int INFO_DATABASE_READONLY | info database readonly
+int INFO_ISOLATION | info isolation
+int INFO_MESSAGE_HEIGHT | info message height
+int INFO_MESSAGE_WIDTH | info message width
+int INFORMATIVE | informative
+int INFO_SESSION_ID | info session id
+int INFO_USER | info user
+int INF_PLT_CLAN_MAX_MEN | inf plt clan max men
+int INF_PLT_JUMP_MAX_MEN | inf plt jump max men
+int INF_PLT_MAX_MEN | inf plt max men
+int INF_RIFLE | inf rifle
+int INF_SRM | inf srm
+int INF_UNKNOWN | inf unknown
+int INIT_BAD | init bad
+int INIT_CACHE_SIZE | init cache size
+int _initHScroll | init h scroll
+int INITIAL | initial
+int initialAlpha | initial alpha
+int INITIAL_BLOCKSIZE | initial blocksize
+int initialBV | initial bv
+int initialCapacity | initial capacity
+int INITIAL_DELAY | initial delay
+int INITIAL_FREE_POS | initial free pos
+int INITIAL_IDLE_AVERAGE | initial idle average
+int INITIAL_INDENT_PROP | initial indent prop
+int initialisation_state | initialisation state
+int INITIALIZING | initializing
+int INITIAL_LAST_SEQUENCE | initial last sequence
+int INITIAL_MAX_ICODE_LENGTH | initial max icode length
+int initialMaxNumberOfPanels | initial max number of panels
+int INITIAL_NUMBERTABLE_SIZE | initial number table size
+int INITIAL_STRINGTABLE_SIZE | initial string table size
+int INIT_IMMEDIATE | init immediate
+int initIOBufferSize | init io buffer size
+int INIT_OK | init ok
+int _initSelEnd | init sel end
+int _initSelStart | init sel start
+int INIT_UNKNOWN | init unknown
+int _initVScroll | init v scroll
+int INNER | inner
+int INNER_BUFFER_WIDTH | inner buffer width
+int INOUT | inout
+int INPUT | input
+int INPUTERR_EXITVAL | input err exit val
+int INPUTFILE_CLOSEFAIL | inputfile close fail
+int INPUT_MOVEDTOBUFFER | input moved tob uff er
+int INPUT_OK | input ok
+int INPUT_OK_CANCEL | input ok cancel
+int INPUTREADER_CLOSEFAIL | input reader close fail
+int INPUT_RETRY_CANCEL | input retry cancel
+int INPUT_RETRY_CANCEL_IGNORE | input retry cancel ignore
+int INPUTSTREAM_ERROR | inputstream error
+int input_type | input type
+int INPUT_YES_NO | input yes no
+int INPUT_YES_NO_CANCEL | input yes no cancel
+int IN_QUEUE | in queue
+int IN_SCHEMA_DEFINITION | in schema definition
+int INSENSITIVE | insensitive
+int insert | insert
+int INSERT | insert
+int INSERT_AFTER | insert after
+int INSERT_AFTER_ROW | insert after row
+int INSERT_BEFORE | insert before
+int INSERT_BEFORE_ROW | insert before row
+int INSERTION_PREPAREFAIL | insertion prepare fail
+int INSERT_SELECT | insert select
+int INSERT_STATEMENT | insert statement
+int INSERT_VALUES | insert values
+int INSERT_WITH_SCHEMA | insert with schema
+int insetBottom | inset bottom
+int insetLeft | inset left
+int insetRight | inset right
+int insetTop | inset top
+int instance_id | instance id
+int INSTANCEOF | instanceof
+int instances | instances
+int instructionCount | instruction count
+int instructionThreshold | instruction threshold
+int INT | int
+int INT_ACCESS_VIOLATION | int access violation
+int INT_CORE_INFO | int core info
+int INT_CORE_WARNING | int core warning
+int INT_DEFAULT | int default
+int INTEGER | integer
+int INTEGRATION_TIME_MAX | integration time max
+int INTEGRITY_CONSTRAINT_VIOLATION | integrity constraint violation
+int INTEGRITY_CONSTRAINT_VIOLATION_NOPARENT | integrity constraint violation no parent
+int interactionEndCount | interaction end count
+int interactionErrorCount | interaction error count
+int interactionIncompleteCount | interaction incomplete count
+int INTERACTIONS_TAB | interactions tab
+int interactionStartCount | interaction start count
+int interDistance | inter distance
+int INTERESTING_AVAIL_MAX | interesting avail max
+int INTERESTING_CHECK_PERIOD | interesting check period
+int INTERESTING_INIT_MIN_OTHERS | interesting init min others
+int INTERESTING_INIT_MIN_OURS | interesting init min ours
+int INTERESTING_INIT_RAND_OTHERS | interesting init rand others
+int INTERESTING_INIT_RAND_OURS | interesting init rand ours
+int interesting_pub_max | interesting pub max
+int INTERESTING_PUB_MAX_DEFAULT | interesting pub max default
+int INTEREST_OP | interest op
+int INTERMEDIATE_LEVEL | intermediate level
+int[] internal | internal
+int internal_content_stream_bps_increase_absolute | internal content stream bps increase absolute
+int internal_content_stream_bps_increase_ratio | internal content stream bps increase ratio
+int internalLoop | internal loop
+int internalType | internal type
+int interpreterChangedCount | interpreter changed count
+int interpreterExitedCount | interpreter exited count
+int[] interpreterLineData | interpreter line data
+int interpreterReadyCount | interpreter ready count
+int interpreterResetFailedCount | interpreter reset failed count
+int interpreterResettingCount | interpreter resetting count
+int INTERSECT | intersect
+int interval | interval
+int INTERVAL | interval
+int intervalCount | interval count
+int INTERVAL_GRAPHIC | interval graphic
+int INTERVAL_INVALID_ONLY | interval invalid only
+int INTERVAL_LIVE | interval live
+int INT_HTTP | int http
+int intKey | int key
+int intKeyOrValue | int key or value
+int[] intKeyTable | int key table
+int Int_max | int max
+int INTO | into
+int intoType | into type
+int INT_STORE_SIZE | int store size
+int INT_STR_OFFSET | int str offset
+int INT_STRUCTURE_OFFSET | int structure offset
+int INT_THREAD | int thread
+int intValue | int value
+int[] intValueTable | int value table
+int INVALID_CHARACTER_ENCODING | invalid character encoding
+int INVALID_COLLATION_NAME_NO_SUBCLASS | invalid collation name no subclass
+int INVALID_CONVERSION | invalid conversion
+int INVALID_ESCAPE | invalid escape
+int INVALID_FILE_ACCESS_CLASS | invalid file access class
+int INVALID_FUNCTION_ARGUMENT | invalid function argument
+int INVALID_GROUP_BY | invalid group by
+int INVALID_HAVING | invalid having
+int INVALID_IDENTIFIER | invalid identifier
+int INVALID_JDBC_ARGUMENT | invalid jdbc argument
+int INVALID_LIMIT | invalid limit
+int INVALID_LIMIT_EXPRESSION | invalid limit expression
+int INVALID_ORDER_BY | invalid order by
+int INVALID_ORDER_BY_IN_DISTINCT_SELECT | invalid order by in distinct select
+int INVALID_PREPARED_STATEMENT | invalid prepared statement
+int INVALID_SCHEMA_NAME_NO_SUBCLASS | invalid schema name no subclass
+int INVALID_SIZE_PRECISION | invalid size precision
+int INVALID_STORAGE_CLASS | invalid storage class
+int INVALID_TOP_EXPRESSION | invalid top expression
+int INVALID_TRANSACTION_STATE_NO_SUBCLASS | invalid transaction state no subclass
+int invertNegativeTerrain | invert negative terrain
+int invitationsSent | invitations sent
+int invite_mode | invite mode
+int INVOKEINTERFACE | invokeinterface
+int INVOKESPECIAL | invokespecial
+int INVOKESTATIC | invokestatic
+int INVOKEVIRTUAL | invokevirtual
+int IP_COUNT_BLOOM_SIZE_INCREASE_CHUNK | ip count bloom size increase chunk
+int itsEndNodeIndex | its end node index
+int itsIndex | its index
+int itsStartNodeIndex | its start node index
+int itsTopIndex | its top index
+int JAVA_INT_TYPE | java int type
+int JDBC_INVALID_BRI_SCOPE | jdbc invalid bri scope
+int joinedTableColumnIndex | joined table column index
+int keysIndex | keys index
+int lastBottomIndex | last bottom index
+int LAST_BRACE_INDEX | last brace index
+int _lastIndex | last index
+int lastIndex | last index
+int last_informed_state | last informed state
+int lastTopIndex | last top index
+int leftIndex | left index
+int[] listMDIndexCols | list md index cols
+int LOC_INFANTRY | loc infantry
+int LONG_EMPTY_INDEX_POS | long empty index pos
+int LT_INFORMATION | lt information
+int MAINLOOP_FIVE_SECOND_INTERVAL | mainloop five second interval
+int MAINLOOP_ONE_SECOND_INTERVAL | mainloop one second interval
+int MAINLOOP_SIXTY_SECOND_INTERVAL | mainloop sixty second interval
+int MAINLOOP_TEN_MINUTE_INTERVAL | mainloop ten minute interval
+int MAINLOOP_TEN_SECOND_INTERVAL | mainloop ten second interval
+int MAINLOOP_THIRTY_SECOND_INTERVAL | mainloop thirty second interval
+int MANIPULATOR_INDUSTRIAL_DRILL | manipulator industrial drill
+int map_index | map index
+int maximumInterpreterStackDepth | maximum interpreter stack depth
+int MAX_INCOMING_INITIAL_PACKET_SIZE | max incoming initial packet size
+int MAX_INCREMENT | max increment
+int maxIndicatorWidth | max indicator width
+int MAX_IN_MEM_READ_SIZE | max in mem read size
+int MAX_INSTANCE_ID | max instance id
+int MaxLenInZChoice | max len in z choice
+int maxMeshIndex | max mesh index
+int m_contentIndex | m content index
+int MEMORY_INDEX | memory index
+int message_in_bytes | message in bytes
+int message_in_count | message in count
+int MIN_ADDRESS_CHANGE_PERIOD_INIT_DEFAULT | min address change period init default
+int mIndent | m indent
+int MINIMUM_INITIAL_BUFFER_SECS | minimum initial buffer secs
+int minimum_initial_buffer_secs_for_eta | minimum initial buffer secs for eta
+int MIN_INCOMING_INITIAL_PACKET_SIZE | min incoming initial packet size
+int minInfLeftMargin | min inf left margin
+int minInfTopMargin | min inf top margin
+int[] m_ints | m ints
+int MINUTES_IN_HOUR | minutes in hour
+int MODE_INSERT | mode insert
+int MODE_INTERMEDIATE | mode intermediate
+int modelIndex | model index
+int MODE_OPT_IN | mode opt in
+int MSG_INFO | msg info
+int MSG_TYPE_INFO | msg type info
+int m_tokenIndex | m token index
+int myIndex | my index
+int mySelectedIndex | my selected index
+int myZoomStateIndex | my zoom state index
+int NATMAP_INIT_RETRY | nat map init retry
+int nestedOldTransIndex | nested old trans index
+int nextPEXSweepIndex | next pex sweep index
+int next_seed_piece_recheck_index | next seed piece recheck index
+int nextTokenIndex | next token index
+int NOHASH_RETRY_INTERVAL | no hash retry interval
+int[] normalIndices | normal indices
+int NOT_IN_AGGREGATE_OR_GROUP_BY | not in aggregate or group by
+int NOT_IN_QUEUE | not in queue
+int NULL_IN_VALUE_LIST | null in value list
+int numErrorInComplete | num error in complete
+int numIncomplete | num incomplete
+int numIntervalsBetweenCal | num intervals between cal
+int observerFieldOfViewInDegrees | observer field of view in degrees
+int OK_BLOOM_INC | ok bloom inc
+int OK_BLOOM_INITIAL | ok bloom initial
+int OP_INITIALISATION | op initialisation
+int original_republish_interval | original republish interval
+int ORIGINAL_REPUBLISH_INTERVAL_DEFAULT | original republish interval default
+int ORIGINAL_REPUBLISH_INTERVAL_GRACE | original republish interval grace
+int originator_instance_id | originator instance id
+int[] orig_internal | orig internal
+int otherAttackInfo | other attack info
+int pageIncrement | page increment
+int PARAM_IN | param in
+int PARAM_IN_OUT | param in out
+int PARAM_INT | param int
+int parenIndex | paren index
+int PB_INVERTED_BG_HEIGHT | pb inverted bg height
+int PB_INVERTED_X_OFFSET | pb inverted x offset
+int PEER_INJECT_GRACE_PERIOD | peer inject grace period
+int PEV_INITIALISATION_PROGRESS_PERCENT | pev initialisation progress percent
+int PEV_INITIALISATION_PROGRESS_TASK | pev initialisation progress task
+int PEV_INITIALISATION_UI_COMPLETES | pev initialisation ui completes
+int PEV_INITIAL_SHARING_COMPLETE | pev initial sharing complete
+int PHASE_INITIATIVE | phase initiative
+int PHASE_INITIATIVE_REPORT | phase initiative report
+int pieceIndex | piece index
+int[] pkColIndex | pk col index
+int planViewIndex | plan view index
+int PLVAR_SET_INCOMPLETE | pl var set incomplete
+int POINTER_INDEX | pointer index
+int POSITION_INVISIBLE | position invisible
+int PRECIOUS_CHECK_INTERVAL | precious check interval
+int PRIMARYINPUT_ACCESSFAIL | primary input access fail
+int PRINT_INTERVAL | print interval
+int probInvert | prob invert
+int procedureColumnIn | procedure column in
+int procedureColumnInOut | procedure column in out
+int _propertiesTabIndex | properties tab index
+int PS_INBOUND_1 | ps inbound  1
+int PS_INBOUND_2 | ps inbound  2
+int PS_INBOUND_3 | ps inbound  3
+int PS_INBOUND_4 | ps inbound  4
+int QuotedTextDatabaseRowInput_getField | quoted text database row input get field
+int QuotedTextDatabaseRowInput_getField2 | quoted text database row input get field 2
+int RAW_LEADIN | raw lead in
+int RCDATA_INLINE_EXTRAVARS | rcdata inline extra vars
+int RCDATA_INLINEURL_MISSING | rcdata inline url missing
+int RCDATA_INLINEUSERNAME_MISSING | rcdata inline username missing
+int READ_BUFFER_INCREMENT | read buffer increment
+int READ_BUFFER_INITIAL | read buffer initial
+int receive_last_inorder_alt_sequence | receive last in order alt sequence
+int receive_last_inorder_sequence | receive last in order sequence
+int receive_their_last_inorder_sequence | receive their last in order sequence
+int RECEIVE_UNACK_IN_SEQUENCE_LIMIT | receive unack in sequence limit
+int[][] refColIndex | ref col index
+int REFERENTIAL_INTEGRITY | referential integrity
+int REMOVE_IN_RETREAT | remove in retreat
+int REPORT_TYPE_INIT | report type init
+int RESOURCES_INDEX | resources index
+int RESULT_DOWNLOAD_INDEX | result download index
+int RESULT_UPLOAD_INDEX | result upload index
+int roomPointIndex | room point index
+int roundedInternalStructure | rounded internal structure
+int RT_INTERNAL_FRAGMENT | rt internal fragment
+int RT_INTERNAL_REPLY_CLOSE | rt internal reply close
+int RT_INTERNAL_REPLY_PING | rt internal reply ping
+int RT_INTERNAL_REQUEST_CLOSE | rt internal request close
+int RT_INTERNAL_REQUEST_PING | rt internal request ping
+int RT_TUNNEL_INBOUND | rt tunnel inbound
+int SCHEDULED_CLEANUP_INTERVAL | scheduled cleanup interval
+int scrape_incomplete | scrape incomplete
+int scratchIndex | scratch index
+int SCRIPTLET_IREPORT_INTERNAL_HANDLING | scriptlet ireport internal handling
+int _selectedIndex | selected index
+int SELECT_INTO | select into
+int SHIPPING_INSURANCE | shipping insurance
+int S_IN_ARRAY | s in array
+int S_IN_ERROR | s in error
+int S_IN_FINISHED_VALUE | s in finished value
+int S_INIT | s init
+int S_IN_OBJECT | s in object
+int SIZE_IN_BYTE | size in byte
+int SKIP_INDEXES_PROP | skip indexes prop
+int SPEED_CONTROL_INITIAL_DELAY | speed control initial delay
+int SPEED_INCREASE_GRACE_PERIOD | speed increase grace period
+int SQL_INITIAL | sql initial
+int SQL_INT | sql int
+int SQL_INTEGER | sql integer
+int SQL_INTERVAL | sql interval
+int SQL_INTERVAL_DAY | sql interval day
+int SQL_INTERVAL_DAY_TO_HOUR | sql interval day to hour
+int SQL_INTERVAL_DAY_TO_MINUTE | sql interval day to minute
+int SQL_INTERVAL_DAY_TO_SECOND | sql interval day to second
+int SQL_INTERVAL_HOUR | sql interval hour
+int SQL_INTERVAL_HOUR_TO_MINUTE | sql interval hour to minute
+int SQL_INTERVAL_HOUR_TO_SECOND | sql interval hour to second
+int SQL_INTERVAL_MINUTE | sql interval minute
+int SQL_INTERVAL_MINUTE_TO_SECOND | sql interval minute to second
+int SQL_INTERVAL_MONTH | sql interval month
+int SQL_INTERVAL_SECOND | sql interval second
+int SQL_INTERVAL_YEAR | sql interval year
+int SQL_INTERVAL_YEAR_TO_MONTH | sql interval year to month
+int startIndex | start index
+int STATE_INIT | state init
+int STATE_INITIALIZING | state initializing
+int STATE_NON_INIT | state non init
+int STATUS_INITALISING | status initalising
+int STATUS_INVALID_SEQUENCE | status invalid sequence
+int STEP_DIG_IN | step dig in
+int STEP_INTO | step into
+int ST_INITIALIZING | st initializing
+int STRINGS_COLUMN_INDEX | strings column index
+int SUBSYSTEM_INTERNAL | subsystem internal
+int SUCCESS_NO_INFO | success no info
+int SYSTEM_CACHEINFO | system cache info
+int SYSTEMCOLOR_INDEXSTART | system color index start
+int SYSTEM_INDEX | system index
+int SYSTEM_INDEXINFO | system index info
+int SYSTEM_SESSIONINFO | system session info
+int target_instance_id | target instance id
+int T_BA_INFERNO | t ba inferno
+int TEST_INBOUND | test inbound
+int TEST_INDENT_LEVEL | test indent level
+int TextDatabaseRowInput_getField | text database row input get field
+int TextDatabaseRowInput_getField2 | text database row input get field 2
+int TextDatabaseRowInput_getField3 | text database row input get field 3
+int[] textureCoordinateIndices | texture coordinate indices
+int THRASH_INF | thrash inf
+int thread_name_index | thread name index
+int TIMEOUT_CHECK_INTERVAL | timeout check interval
+int TIMEOUT_CHECK_INTERVAL_MS | timeout check interval ms
+int T_INARC | t in arc
+int TITLE_INDICATOR_TEXT | title indicator text
+int TITLE_INDICATOR_TEXT_TOOLTIP | title indicator text tooltip
+int tokenIndex | token index
+int TOK_INVALID | tok invalid
+int TORRENTS_INCOMPLETE | torrents incomplete
+int totalPointsInMap | total points in map
+int trace_index | trace index
+int TRACK_INTERVAL | track interval
+int TRY_TO_INSERT_NULL | try to insert null
+int TT_INDIRECT | tt indirect
+int turnIndex | turn index
+int TYPE_INARC_POD | type in arc pod
+int TYPE_INITIALIZE | type initialize
+int TYPE_SCROLL_INSENSITIVE | type scroll insensitive
+int TYPE_THUNDER_INFERNO | type thunder inferno
+int UCI_INSTALL | uci install
+int undoIndex | undo index
+int UNSUPPORTED_INTERNAL_OPERATION | unsupported internal operation
+int UPDATE_INTERVAL | update interval
+int userMinInterval | user min interval
+int USER_REQUEST_INFO | user request info
+int VALUE_SIZE_INC | value size inc
+int VAR_INFINITE | var infinite
+int VD_INDIRECT_SIZE | vd indirect size
+int vectorIndex | vector index
+int VER_INCOMING_PEER_SOURCE | ver incoming peer source
+int VERSION_INITIAL | version initial
+int[] vertexIndices | vertex indices
+int viewIndex | view index
+int VIOLATION_OF_UNIQUE_INDEX | violation of unique index
+int WMP_MINIMUM_INITIAL_BUFFER_SECS_FOR_ETA | wmp minimum initial buffer secs for eta
+int yy_buffer_index | yy buffer index
+int YY_E_INTERNAL | yy e internal
+int zeroKeyIndex | zero key index
+int zoomIndex | zoom index
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionAreaInitialExpression | j r text expression area initial expression
+it.businesslogic.ireport.gui.MainFrame mainInstance | main instance
+it.businesslogic.ireport.ProjectInfo projectInfo | project info
+java.awt.Button bNewInsert | b new insert
+java.awt.Button butDigIn | but dig in
+java.awt.Button rerollInitiativeB | reroll initiative b
+java.awt.Checkbox cCreateIndex | c create index
+java.awt.Checkbox cDropIndex | c drop index
+java.awt.Checkbox cInsert | c insert
+java.awt.Color INTERACTIONS_SYSTEM_ERR_COLOR | interactions system err color
+java.awt.Color INTERACTIONS_SYSTEM_IN_COLOR | interactions system in color
+java.awt.Color INTERACTIONS_SYSTEM_OUT_COLOR | interactions system out color
+java.awt.Color _sysInColor | sys in color
+java.awt.event.ActionListener INSERT_BREAK | insert break
+java.awt.event.ActionListener INSERT_CHAR | insert char
+java.awt.event.ActionListener INSERT_TAB | insert tab
+java.awt.geom.Area insideWallsAreaCache | inside walls area cache
+java.awt.geom.GeneralPath CAMERA_PITCH_ROTATION_INDICATOR | camera pitch rotation indicator
+java.awt.geom.GeneralPath FURNITURE_ELEVATION_INDICATOR | furniture elevation indicator
+java.awt.geom.GeneralPath FURNITURE_HEIGHT_INDICATOR | furniture height indicator
+java.awt.geom.GeneralPath FURNITURE_RESIZE_INDICATOR | furniture resize indicator
+java.awt.geom.GeneralPath FURNITURE_ROTATION_INDICATOR | furniture rotation indicator
+java.awt.geom.GeneralPath TEXT_LOCATION_INDICATOR | text location indicator
+java.awt.geom.GeneralPath WALL_AND_LINE_RESIZE_INDICATOR | wall and line resize indicator
+java.awt.geom.GeneralPath WALL_ORIENTATION_INDICATOR | wall orientation indicator
+java.awt.geom.Rectangle2D.Double invalidatedArea | invalidated area
+java.awt.Image artilleryIncoming | artillery incoming
+java.awt.Image infImage | inf image
+java.awt.Insets borderInsets | border insets
+java.awt.Insets imageInsets | image insets
+java.awt.Insets insets | insets
+java.awt.Insets nullInsets | null insets
+java.awt.Label labInvertNegative | lab invert negative
+java.awt.Label labPlayerInfo | lab player info
+java.awt.Label labProbInvert | lab prob invert
+java.awt.List lisPlayerInfo | lis player info
+java.awt.MenuItem viewZoomIn | view zoom in
+java.awt.Panel panPlayerInfo | pan player info
+java.awt.Panel pInsertButs | p insert buts
+java.awt.Point endInclination | end inclination
+java.awt.Point startInclination | start inclination
+java.awt.Polygon inStCentralTorso | in st central torso
+java.awt.Polygon inStLeftArm | in st left arm
+java.awt.Polygon inStLeftLeg | in st left leg
+java.awt.Polygon inStLeftTorso | in st left torso
+java.awt.Polygon inStRightArm | in st right arm
+java.awt.Polygon inStRightLeg | in st right leg
+java.awt.Polygon inStRightTorso | in st right torso
+java.awt.Polygon intStHead | int st head
+java.awt.Rectangle innerBounds | inner bounds
+java.awt.Rectangle invalidatedArea | invalidated area
+java.awt.Shape CAMERA_YAW_ROTATION_INDICATOR | camera yaw rotation indicator
+java.awt.Shape FURNITURE_ELEVATION_POINT_INDICATOR | furniture elevation point indicator
+java.awt.Shape FURNITURE_HEIGHT_POINT_INDICATOR | furniture height point indicator
+java.awt.Stroke INDICATOR_STROKE | indicator stroke
+java.awt.TextField inputField | input field
+java.awt.TextField tDestCreateIndex | t dest create index
+java.awt.TextField tDestDropIndex | t dest drop index
+java.awt.TextField tDestInsert | t dest insert
+java.awt.TextField texInvertNegative | tex invert negative
+java.awt.TextField texProbInvert | tex prob invert
+java.io.BufferedReader dataStreamIn | data stream in
+java.io.DataInputStream dataInput | data input
+java.io.DataInputStream dataStreamIn | data stream in
+java.io.DataInputStream in | in
+java.io.File input | input
+java.io.File install_dir | install dir
+java.io.InputStream _in | in
+java.io.InputStream in | in
+java.io.InputStream input_stream | input stream
+java.io.InputStream inStream | in stream
+java.io.ObjectInputStream in | in
+java.io.PipedInputStream _combinedInputStream | combined input stream
+java.io.PipedInputStream _debugInputStream | debug input stream
+java.io.PipedInputStream in | in
+java.io.PrintWriter inPipe | in pipe
+java.io.Reader in | in
+java.lang.Character FL_INCOMPLETE_RUNNING | fl incomplete running
+java.lang.Class IntegerClass | integer class
+java.lang.Class[] interfaces | interfaces
+java.lang.Float slopingWallHeightAtStart | sl op ing wall height at start
+java.lang.Integer angleInDegrees | angle in degrees
+java.lang.Integer _indentLevel | indent level
+java.lang.Integer indentLevel | indent level
+java.lang.Integer INT_COLUMNS_NO_NULLS | int columns no nulls
+java.lang.Integer INTEGER_0 | integer  0
+java.lang.Integer INTEGER_1 | integer  1
+java.lang.Integer INTEGER_ALL | integer all
+java.lang.Long MS_IN_DAY | ms in day
+java.lang.Long MS_IN_HOUR | ms in hour
+java.lang.Long MS_IN_MINUTE | ms in minute
+java.lang.Long MS_IN_MONTH | ms in month
+java.lang.Long MS_IN_SECOND | ms in second
+java.lang.Long MS_IN_WEEK | ms in week
+java.lang.Long MS_IN_YEAR | ms in year
+java.lang.Object COERCED_INTERFACE_KEY | coerced interface key
+java.lang.Object[] _indexParams | index params
+java.lang.Object initialiser_key | initialiser key
+java.lang.Object inputValue | input value
+java.lang.Object instance | instance
+java.lang.Object _interactionLock | interaction lock
+java.lang.Object interpreterSecurityDomain | interpreter security domain
+java.lang.Object interpreterStackInfo | interpreter stack info
+java.lang.Object lastInterpreterFrame | last interpreter frame
+java.lang.Object result_informed_data | result informed data
+java.lang.Object urlInfo | url info
+java.lang.reflect.Method _indexLocation | index location
+java.lang.reflect.Method Throwable_initCause | throwable init cause
+java.lang.Runnable _defaultInputCompletionCommand | default input completion command
+java.lang.Runnable _disableCloseSystemInMenuItemCommand | disable close system in menu item command
+java.lang.Runnable _inputCompletionCommand | input completion command
+java.lang.String ADD_INTERPRETER_SIG | add interpreter sig
+java.lang.String additional_info | additional info
+java.lang.String ARCHIVE_INDICATOR | archive indicator
+java.lang.String ARTILLERY_INCOMING_IMAGE_FILE | artillery incoming image file
+java.lang.String audit_insert_stmt | audit insert stmt
+java.lang.String BRI_SESSION_SCOPE_IN_LIST | bri session scope in list
+java.lang.String BRI_TEMPORARY_SCOPE_IN_LIST | bri temporary scope in list
+java.lang.String BRI_TRANSACTION_SCOPE_IN_LIST | bri transaction scope in list
+java.lang.String cardInteger | card integer
+java.lang.String CFG_INFOBAR | cfg info bar
+java.lang.String CFG_REFRESH_INACTIVE_FACTOR | cfg refresh inactive factor
+java.lang.String CFG_REFRESH_INTERVAL | cfg refresh interval
+java.lang.String CONFIG_MAX_INC | config max inc
+java.lang.String CONF_OPTIONS_INTRO_BEGIN | conf options intro begin
+java.lang.String CONF_OPTIONS_INTRO_LENGTH | conf options intro length
+java.lang.String CONF_STATE_INTRO | conf state intro
+java.lang.String CONF_TIP_OF_DAY_INDEX | conf tip of day index
+java.lang.String CORE_PARAM_BOOLEAN_SOCKS_PROXY_NO_INWARD_CONNECTION | core param boolean socks proxy no inward connection
+java.lang.String CORE_PARAM_INT_INCOMING_TCP_PORT | core param int incoming tcp port
+java.lang.String CORE_PARAM_INT_INCOMING_UDP_PORT | core param int incoming udp port
+java.lang.String CORE_PARAM_INT_MAX_ACTIVE | core param int max active
+java.lang.String CORE_PARAM_INT_MAX_ACTIVE_SEEDING | core param int max active seeding
+java.lang.String CORE_PARAM_INT_MAX_CONNECTIONS_GLOBAL | core param int max connections global
+java.lang.String CORE_PARAM_INT_MAX_CONNECTIONS_PER_TORRENT | core param int max connections per torrent
+java.lang.String CORE_PARAM_INT_MAX_DOWNLOADS | core param int max downloads
+java.lang.String CORE_PARAM_INT_MAX_DOWNLOAD_SPEED_KBYTES_PER_SEC | core param int max download speed kbytes per sec
+java.lang.String CORE_PARAM_INT_MAX_UPLOADS | core param int max uploads
+java.lang.String CORE_PARAM_INT_MAX_UPLOAD_SPEED_KBYTES_PER_SEC | core param int max upload speed kbytes per sec
+java.lang.String CORE_PARAM_INT_MAX_UPLOAD_SPEED_SEEDING_KBYTES_PER_SEC | core param int max upload speed seeding kbytes per sec
+java.lang.String CORE_PARAM_INT_MAX_UPLOADS_SEEDING | core param int max uploads seeding
+java.lang.String[] createIndexHelp | create index help
+java.lang.String current_indent_string | current indent string
+java.lang.String[] dropIndexHelp | drop index help
+java.lang.String eBayInsurance | e bay insurance
+java.lang.String eBayPayInstructions | e bay pay instructions
+java.lang.String _EndInclination | end inclination
+java.lang.String ERROR_INCOMPATIBLE_CLIENT | error incompatible client
+java.lang.String errorInCompleteTooltip | error in complete tooltip
+java.lang.String EXTPROCESS_FILE_NAME_INSIDE_JAR | ext process file name inside jar
+java.lang.String FILE_INFO_PERSPECTIVE | file info perspective
+java.lang.String FILE_PROTOCOL_INDICATOR | file protocol indicator
+java.lang.String FOO_PACKAGE_INSIDE_CLASS | foo package inside class
+java.lang.String FUNCTION_INIT_SIGNATURE | function init signature
+java.lang.String GUI_PARAM_INT_SWT_REFRESH_IN_MS | gui param int swt refresh in ms
+java.lang.String ICON_INFO | icon info
+java.lang.String ICON_INTRO | icon intro
+java.lang.String ICON_PERSPECTIVE_INFORMATION | icon perspective information
+java.lang.String IMG_INFORMATION | img information
+java.lang.String iname | iname
+java.lang.String incoming_handshake | incoming handshake
+java.lang.String INCORRECT_ARGUMENTS_MESSAGE | incorrect arguments message
+java.lang.String incrementerFactoryClass | incrementer factory class
+java.lang.String incrementFactoryClass | increment factory class
+java.lang.String incrementGroup | increment group
+java.lang.String incrementType | increment type
+java.lang.String indent | indent
+java.lang.String INDENT_KEYMAP_NAME | indent keymap name
+java.lang.String INDENT_STRING | indent string
+java.lang.String INDEX | index
+java.lang.String INDEX_PAGE | index page
+java.lang.String INFINITY_STRING | infinity string
+java.lang.String info | info
+java.lang.String info_hash | info hash
+java.lang.String INFORMATION_SCHEMA | information schema
+java.lang.String INFOS | infos
+java.lang.String[] infoTags | info tags
+java.lang.String info_url | info url
+java.lang.String infoURL | info url
+java.lang.String INF_STRING | inf string
+java.lang.String initialValueExpression | initial value expression
+java.lang.String inMethod | in method
+java.lang.String INNER_CLASS_WITH_LOCAL_VARS | inner class with local vars
+java.lang.String innerSphere | inner sphere
+java.lang.String IN_PROCESS_FILE_URL | in process file url
+java.lang.String input | input
+java.lang.String INPUT_BOX_STYLE | input box style
+java.lang.String INPUT_BOX_SYMBOL | input box symbol
+java.lang.String INPUT_ENTERED_NAME | input entered name
+java.lang.String INSERT_END_OF_STREAM | insert end of stream
+java.lang.String[] insertHelp | insert help
+java.lang.String INSERT_MENU | insert menu
+java.lang.String INSERT_NEWLINE_NAME | insert newline name
+java.lang.String insert_sql | insert sql
+java.lang.String _Instanciation | instanciation
+java.lang.String INTERACTION_SEPARATOR | interaction separator
+java.lang.String INTERFACE_PREFIX | interface prefix
+java.lang.String INTERNAL | internal
+java.lang.String internal_host | internal host
+java.lang.String internal_name | internal name
+java.lang.String internalName | internal name
+java.lang.String INTERNAL_PLUGIN_ID | internal plugin id
+java.lang.String internalType | internal type
+java.lang.String INTRODUCTION | introduction
+java.lang.String[] INTRO_PAGE | intro page
+java.lang.String INVALID_LOGIN_MSG | invalid login msg
+java.lang.String invalidReason | invalid reason
+java.lang.String INVALID_SETTING | invalid setting
+java.lang.String invitationMessage | invitation message
+java.lang.String ITEM_INDEX | item index
+java.lang.String JS_INDIVI_UPDATE_MSG_OP | js indivi update msg op
+java.lang.String last_id_info | last id info
+java.lang.String LISTENER_ID_INVITE | listener id invite
+java.lang.String LNF_INFONODE | lnf infonode
+java.lang.String LNF_INFONODE_CLASS | lnf infonode class
+java.lang.String LONGINUS_SQUAD | long in us squad
+java.lang.String LOS_MECH_IN_FIRST | los mech in first
+java.lang.String LOS_MECH_IN_SECOND | los mech in second
+java.lang.String ManagerItem_initializing | manager item initializing
+java.lang.String MAP_ZOOM_INDEX | map zoom index
+java.lang.String MECH_SELECTOR_INCLUDE_BV | mech selector include bv
+java.lang.String MECH_SELECTOR_INCLUDE_COST | mech selector include cost
+java.lang.String MECH_SELECTOR_INCLUDE_LEVEL | mech selector include level
+java.lang.String MECH_SELECTOR_INCLUDE_MODEL | mech selector include model
+java.lang.String MECH_SELECTOR_INCLUDE_NAME | mech selector include name
+java.lang.String MECH_SELECTOR_INCLUDE_TONS | mech selector include tons
+java.lang.String MECH_SELECTOR_INCLUDE_YEAR | mech selector include year
+java.lang.String MENU_ID_PLUGINS_INSTALL | menu id plugins install
+java.lang.String MODEL_INITIATED_PROPERTY_NAME | model initiated property name
+java.lang.String MONKEYTEST_INFINITE_TEXT | monkeytest infinite text
+java.lang.String MONKEY_WITH_INNER_CLASS | monkey with inner class
+java.lang.String MOVE_DIG_IN | move dig in
+java.lang.String MULTI_CLASSES_IN_FILE_TEXT | multi classes in file text
+java.lang.String NEW_INSTANCE_SIG | new instance sig
+java.lang.String OP_INVITE | op invite
+java.lang.String OP_INVITE_CONFIRM | op invite confirm
+java.lang.String OP_INVITE_CONFIRM_PARAM_MSG | op invite confirm param msg
+java.lang.String OP_INVITEES | op invitees
+java.lang.String OP_INVITEES_PARAM_BUDDIES | op invitees param buddies
+java.lang.String OP_INVITEES_PARAM_EMAILS | op invitees param emails
+java.lang.String OP_INVITEES_PARAM_NB_INVITEES | op invitees param nb invitees
+java.lang.String OP_INVITEES_UPDATE | op invitees update
+java.lang.String OP_INVITE_FRIEND | op invite friend
+java.lang.String OP_INVITE_FRIEND_PARAM_MESSAGE | op invite friend param message
+java.lang.String OP_NEW_INSTALL | op new install
+java.lang.String PATTERN_INTEGER | pattern integer
+java.lang.String PeerManager_status_finishedin | peer manager status finished in
+java.lang.String PEERSOURCE_INCOMING | peers our ce incoming
+java.lang.String PERSPECTIVE_NAME_INFO | perspective name info
+java.lang.String POLL_INTERVAL_PROPERTY | poll interval property
+java.lang.String PR_CACHE_REPUBLISH_INTERVAL | pr cache republish interval
+java.lang.String PR_MULTI_INSTANCE | pr multi instance
+java.lang.String PR_NETWORK_INTERFACES | pr network interfaces
+java.lang.String PR_ORIGINAL_REPUBLISH_INTERVAL | pr original republish interval
+java.lang.String PS_INCOMING | ps incoming
+java.lang.String RAW_LEADIN_MSG | raw lead in msg
+java.lang.String REGEXP_INIT_METHOD_NAME | regexp init method name
+java.lang.String REGEXP_INIT_METHOD_SIGNATURE | regexp init method signature
+java.lang.String result_input | result input
+java.lang.String runtime_gc_interval | runtime gc interval
+java.lang.String SALT_PRESENT_INDICATOR | salt present indicator
+java.lang.String sDestCreateIndex | s dest create index
+java.lang.String sDestDropIndex | s dest drop index
+java.lang.String sDestInsert | s dest insert
+java.lang.String SECTION_INTERFACE | section interface
+java.lang.String[] selected_interfaces | selected interfaces
+java.lang.String SETTING_DATA_SOURCE_INPUT | setting data source input
+java.lang.String SETTING_INTERVALS_BETWEEN_ADJUST | setting intervals between adjust
+java.lang.String SINGLE_INSTANCE_PORT | single instance port
+java.lang.String sql_compare_in_locale | sql compare in locale
+java.lang.String S_R_INSERT | s r insert
+java.lang.String _StartInclination | start inclination
+java.lang.String STATIC_INNER_TEST_TEXT | static inner test text
+java.lang.String ST_NET_HTTP_IN_REQUEST_COUNT | st net http in request count
+java.lang.String ST_NET_HTTP_IN_REQUEST_GETRIGHT_COUNT | st net http in request get right count
+java.lang.String ST_NET_HTTP_IN_REQUEST_INVALID_COUNT | st net http in request invalid count
+java.lang.String ST_NET_HTTP_IN_REQUEST_OK_COUNT | st net http in request ok count
+java.lang.String ST_NET_HTTP_IN_REQUEST_WEBSEED_COUNT | st net http in request web seed count
+java.lang.String strColInfo | str col info
+java.lang.String SYSTEM_IN_STYLE | system in style
+java.lang.String TABLE_MYTORRENTS_INCOMPLETE | table mytorrents incomplete
+java.lang.String TABLE_MYTORRENTS_INCOMPLETE_BIG | table mytorrents incomplete big
+java.lang.String TAG_IMPL_MP3INFO | tag impl mp 3 info
+java.lang.String T_IN | t in
+java.lang.String T_INCREMENT | t increment
+java.lang.String T_INDEX | t index
+java.lang.String T_INDICATOR | t indicator
+java.lang.String T_INITIAL | t initial
+java.lang.String T_INNER | t inner
+java.lang.String T_INOUT | t inout
+java.lang.String T_INPUT | t input
+java.lang.String T_INSENSITIVE | t insensitive
+java.lang.String T_INSERT | t insert
+java.lang.String T_INT | t int
+java.lang.String T_INTEGER | t integer
+java.lang.String T_INTERSECT | t intersect
+java.lang.String T_INTERVAL | t interval
+java.lang.String T_INTO | t into
+java.lang.String TITLE_OPT_IN | title opt in
+java.lang.String TK_INFO | tk info
+java.lang.String T_REFERENTIAL_INTEGRITY | t referential integrity
+java.lang.String URL_PUBLISH_INFO | url publish info
+java.lang.String VIEW_ZOOM_IN | view zoom in
+java.lang.String VMT_CHECKINVITES | vmt check invites
+java.lang.String XML_INIT_CLASS | xml init class
+java.lang.Throwable init_error | init error
+java.math.BigDecimal LONG_MAX_VALUE_INCREMENT | long max value increment
+java.math.BigInteger bigInt | big int
+java.math.BigInteger MAX_INT | max int
+java.math.BigInteger MIN_INT | min int
+java.math.BigInteger qInv | q inv
+java.net.InetAddress hostInet | host inet
+java.net.InetAddress internal_address | internal address
+java.net.InetAddress llmInet | llm inet
+java.net.InetAddress natPriInet | nat pri inet
+java.net.InetAddress natPubInet | nat pub inet
+java.net.NetworkInterface network_interface | network interface
+java.net.NetworkInterface networkInterface | network interface
+java.net.Socket socket_in | socket in
+java.net.URL initial_url | initial url
+java.net.URL INTRO_URL | intro url
+java.nio.ByteBuffer initial_data | initial data
+java.nio.ByteBuffer initial_data_in | initial data in
+java.nio.ByteBuffer initial_data_out | initial data out
+java.nio.ByteBuffer read_insert | read insert
+java.sql.PreparedStatement insertStmt | insert stmt
+java.util.ArrayList current_instances | current instances
+java.util.ArrayList<java.awt.Button> buttonsInf | buttons inf
+java.util.ArrayList<javax.swing.JButton> buttonsInf | buttons inf
+java.util.ArrayList valid_target_indexes | valid target indexes
+java.util.Comparator insert_point_comparator | insert point comparator
+java.util.HashMap allRegistrationInstances | all registration instances
+java.util.HashMap damageInfos | damage infos
+java.util.HashMap<java.io.File,edu.rice.cs.drjava.model.compiler.CompilerErrorModel.StartAndEndIndex> _filesToIndexes | files to indexes
+java.util.HashMap pluginInfo | plugin info
+java.util.HashSet<java.io.File> _include | include
+java.util.Hashtable hIntJDBCtypes | h int jdb ctypes
+java.util.Hashtable infernos | infernos
+java.util.Hashtable interfaceAdapterCache | interface adapter cache
+java.util.Hashtable obscuredIndexes | obscured indexes
+java.util.Hashtable urlToSourceInfo | url to source info
+java.util.LinkedHashMap hmPropertiesMetaInformation | hm properties meta information
+java.util.LinkedList auctionEntriesInThisGroup | auction entries in this group
+java.util.List allInputs | all inputs
+java.util.List inbound_rls | inbound rls
+java.util.List initializedPages | initialized pages
+java.util.List initThreads | init threads
+java.util.List installers | installers
+java.util.List instances | instances
+java.util.List internal_addresses | internal addresses
+java.util.List<java.lang.String> _interactions | interactions
+java.util.List<javax.jnlp.SingleInstanceListener> singleInstanceListeners | single instance listeners
+java.util.List listTreeItemsNoTitleInfo | list tree items no title info
+java.util.List listUrlInfo | list url info
+java.util.List logged_invalid_urls | logged invalid urls
+java.util.List myInitialStarts | my initial starts
+java.util.List myIntervals | my intervals
+java.util.List<org.jhotdraw.draw.InputFormat> inputFormats | input formats
+java.util.List ourInfoList | our info list
+java.util.List s_plugin_interfaces | s plugin interfaces
+java.util.Map additional_info_properties | additional info properties
+java.util.Map downloads_in_common | downloads in common
+java.util.Map external_to_internal_key_map | external to internal key map
+java.util.Map indirect_originator_value_map | indirect originator value map
+java.util.Map info | info
+java.util.Map infoByClass | info by class
+java.util.Map infoByName | info by name
+java.util.Map info_map | info map
+java.util.Map initiators | initiators
+java.util.Map in_progress | in progress
+java.util.Map instance_map | instance map
+java.util.Map instances | instances
+java.util.Map interesting_downloads | interesting downloads
+java.util.Map mapIdToSideBarInfo | map id to side bar info
+java.util.Map mapInfo | map info
+java.util.Map mapTitleInfoToEntry | map title info to entry
+java.util.Map other_instances | other instances
+java.util.Map plugin_logs_view_info_map | plugin logs view info map
+java.util.Map plugin_view_info_map | plugin view info map
+java.util.Map root_info_map | root info map
+java.util.Map scrape_injection_map | scrape injection map
+java.util.regex.Pattern inclusionFilter | inclusion filter
+java.util.Set instance_warnings | instance warnings
+java.util.Set old_network_interfaces | old network interfaces
+java.util.Set reply_instances | reply instances
+java.util.Vector initiativeRerollRequests | initiative reroll requests
+java.util.Vector interruptOnlyItems | interrupt only items
+java.util.Vector intersections | intersections
+java.util.Vector roadHexIndexes | road hex indexes
+java.util.Vector tagInfoForTurn | tag info for turn
+javax.crypto.Cipher incoming_cipher | incoming cipher
+javax.swing.AbstractAction indentKeyActionLine | indent key action line
+javax.swing.AbstractAction indentKeyActionTab | indent key action tab
+javax.swing.Action _executeInteractionAction | execute interaction action
+javax.swing.Action increaseNodeFont | increase node font
+javax.swing.Action _indentKeyActionColon | indent key action colon
+javax.swing.Action _indentKeyActionCurly | indent key action curly
+javax.swing.Action _indentKeyActionLine | indent key action line
+javax.swing.Action _indentKeyActionOpenCurly | indent key action open curly
+javax.swing.Action _indentKeyActionTab | indent key action tab
+javax.swing.Action _nextInteractionAction | next interaction action
+javax.swing.Action _prevInteractionAction | prev interaction action
+javax.swing.Action zoomIn | zoom in
+javax.swing.ImageIcon invalidIcon | invalid icon
+javax.swing.JButton butDigIn | but dig in
+javax.swing.JButton _insertCommandButton | insert command button
+javax.swing.JButton jButtonFormatCenterInBand | j button format center in band
+javax.swing.JButton jButtonFormatCenterInBandH | j button format center in band h
+javax.swing.JButton jButtonFormatCenterInBandV | j button format center in band v
+javax.swing.JButton jButtonFormatIncreaseSpaceH | j button format increase space h
+javax.swing.JButton jButtonFormatIncreaseSpaceV | j button format increase space v
+javax.swing.JButton jButtonIncreaseSize | j button increase size
+javax.swing.JButton rerollInitiativeB | reroll initiative b
+javax.swing.JButton _stepIntoButton | step into button
+javax.swing.JCheckBox jCheckBoxPrintInFirstWholeBand | j check box print in first whole band
+javax.swing.JCheckBoxMenuItem jcbmiIntro | jcbmi intro
+javax.swing.JComboBox jComboBoxIncrementGroup | j combo box increment group
+javax.swing.JComboBox jComboBoxIncrementType | j combo box increment type
+javax.swing.JComponent _errorInfo | error info
+javax.swing.JEditorPane _errorInfo | error info
+javax.swing.JLabel auctionInfo | auction info
+javax.swing.JLabel _indexLabel | index label
+javax.swing.JLabel _infoLabel | info label
+javax.swing.JLabel _instructionLabel | instruction label
+javax.swing.JLabel jLabelIncrementGroup | j label increment group
+javax.swing.JLabel jLabelIncrementType | j label increment type
+javax.swing.JLabel jLabelIncrementType1 | j label increment type 1
+javax.swing.JLabel jlIndex | jl index
+javax.swing.JLabel jlIntroLength | jl intro length
+javax.swing.JLabel jlIntroPosition | jl intro position
+javax.swing.JLabel labInvertNegative | lab invert negative
+javax.swing.JLabel labPlayerInfo | lab player info
+javax.swing.JLabel labProbInvert | lab prob invert
+javax.swing.JLabel slopingWallHeightAtEndLabel | sl op ing wall height at end label
+javax.swing.JLabel slopingWallHeightAtStartLabel | sl op ing wall height at start label
+javax.swing.JList lisPlayerInfo | lis player info
+javax.swing.JMenuItem jMenuItemCenterInBand | j menu item center in band
+javax.swing.JMenuItem jMenuItemHSIncrease | j menu item hs increase
+javax.swing.JMenuItem jMenuItemVSIncrease | j menu item vs increase
+javax.swing.JMenuItem viewZoomIn | view zoom in
+javax.swing.JMenu jMenuInternationalization | j menu internationalization
+javax.swing.JPanel _inputAndClearPanel | input and clear panel
+javax.swing.JPanel _interactionsContainer | interactions container
+javax.swing.JPanel panelInteger | panel integer
+javax.swing.JPanel panPlayerInfo | pan player info
+javax.swing.JRadioButton inchRadioButton | inch radio button
+javax.swing.JRadioButtonMenuItem jRadioButtonMenuItemPreviewInternalViewer | j radio button menu item preview internal viewer
+javax.swing.JRadioButton slopingWallRadioButton | sl op ing wall radio button
+javax.swing.JSlider introLength | intro length
+javax.swing.JSlider introPosition | intro position
+javax.swing.JSpinner slopingWallHeightAtEndSpinner | sl op ing wall height at end spinner
+javax.swing.JSpinner slopingWallHeightAtStartSpinner | sl op ing wall height at start spinner
+javax.swing.JTable _inTable | in table
+javax.swing.JTextField inputField | input field
+javax.swing.JTextField jTextFieldNameIncrementerFactoryClass | j text field name incrementer factory class
+javax.swing.JTextField texInvertNegative | tex invert negative
+javax.swing.JTextField texProbInvert | tex prob invert
+javax.swing.table.TableCellRenderer integerRenderer | integer renderer
+long actionInterval | action interval
+long average_bytes_in | average bytes in
+long bytes_in | bytes in
+long bytesIn | bytes in
+long clLastIncreaseTime | cl last increase time
+long current_announce_retry_interval | current announce retry interval
+long current_receive_unack_in_sequence_count | current receive unack in sequence count
+long current_scrape_retry_interval | current scrape retry interval
+long DEFAULT_INTERVAL | default interval
+long DEFAULT_RECHECKIN_MINS | default recheck in mins
+long ERROR_RECHECKIN_MINS | error recheck in mins
+long file_offset_in_torrent | file offset in torrent
+long F_INCENDIARY_NEEDLES | f incendiary needles
+long F_INFANTRY | f infantry
+long F_INFANTRY_ONLY | f infantry only
+long F_INFERNO | f inferno
+long FLAG_SCAN_INCOMPLETE_PIECES | flag scan incomplete pieces
+long HEARTBEAT_INTERVAL | heartbeat interval
+long identityIncrement | identity increment
+long iIndex | i index
+long[] inbound | inbound
+long incoming_bloom_create_time | incoming bloom create time
+long incoming_requests | incoming requests
+long[] incoming_request_versions | incoming request versions
+long incoming_version_requests | incoming version requests
+long increment | increment
+long INFINITE_AS_LONG | infinite as long
+long INFINITE_ETA | infinite eta
+long INITIAL_CONNECTION_ID | initial connection id
+long initial_connect_time | initial connect time
+long inject_time | inject time
+long _internalId | internal id
+long interval | interval
+long INTERVAL | interval
+long inward_bytes | inward bytes
+long last_bytes_in | last bytes in
+long last_dh_incoming_key_generate | last dh incoming key generate
+long last_incoming | last incoming
+long last_incoming_sts_create | last incoming sts create
+long last_intervention | last intervention
+long last_peer_inject | last peer inject
+long last_speed_increase | last speed increase
+long MIN_CACHE_EXPIRY_CHECK_INTERVAL | min cache expiry check interval
+long M_INCENDIARY_AC | m incendiary ac
+long M_INCENDIARY_LRM | m incendiary lrm
+long M_INFERNO | m inferno
+long M_INFERNO_IV | m inferno iv
+long min_interval | min interval
+long min_interval_override | min interval override
+long M_THUNDER_INFERNO | m thunder inferno
+long provider_initial_position | provider initial position
+long SCRAPE_INITDELAY_ERROR_TORRENTS | scrape init delay error torrents
+long SCRAPE_INITDELAY_STOPPED_TORRENTS | scrape init delay stopped torrents
+long sent_receive_unack_in_sequence_count | sent receive unack in sequence count
+long sos_bytes_in | sos bytes in
+long STATS_INIT_PERIOD | stats init period
+long total_bytes_in | total bytes in
+long total_invalid_requests | total invalid requests
+long unack_in_sequence_count | unack in sequence count
+megamek.client.ui.AWT.GUIPreferences instance | instance
+megamek.client.ui.AWT.MechTileset.MechEntry default_inf | default inf
+megamek.client.ui.AWT.widget.InfantryMapSet infantry | infantry
+megamek.client.ui.AWT.widget.PMValueLabel[] internalLabels | internal labels
+megamek.client.ui.AWT.widget.SimpleLine slInvertNegativeAd | sl invert negative ad
+megamek.client.ui.swing.GUIPreferences instance | instance
+megamek.client.ui.swing.MechTileset.MechEntry default_inf | default inf
+megamek.client.ui.swing.widget.InfantryMapSet infantry | infantry
+megamek.client.ui.swing.widget.PMValueLabel[] internalLabels | internal labels
+megamek.client.ui.swing.widget.SimpleLine slInvertNegativeAd | sl invert negative ad
+megamek.common.InfernoTracker.Inferno INFERNO_IV_ROUND | inferno iv round
+megamek.common.InfernoTracker.Inferno INFERNO_IV_TURN | inferno iv turn
+megamek.common.InfernoTracker infernos | infernos
+megamek.common.InitiativeRoll initiative | initiative
+megamek.common.loaders.HMVTechType INNER_SPHERE | inner sphere
+megamek.common.loaders.InternalStructureType internalStructureType | internal structure type
+megamek.common.loaders.TechType INNER_SPHERE | inner sphere
+megamek.common.MechSummaryCache m_instance | m instance
+megamek.common.net.ConnectionFactory instance | instance
+megamek.common.net.marshall.PacketMarshallerFactory instance | instance
+megamek.common.options.AbstractOptionsInfo instance | instance
+megamek.common.options.IOptionInfo info | info
+megamek.common.preference.PreferenceManager instance | instance
+net.sourceforge.ganttproject.action.GPAction myIndentAction | my indent action
+net.sourceforge.ganttproject.ChartComponentBase.MouseInteraction myActiveInteraction | my active interaction
+net.sourceforge.ganttproject.FacadeInvalidator myFacadeInvalidator | my facade invalid at or
+net.sourceforge.ganttproject.GanttCalendar myInitialEnd | my initial end
+net.sourceforge.ganttproject.GanttCalendar myInitialStart | my initial start
+net.sourceforge.ganttproject.gui.DateIntervalListEditor.DateIntervalModel myIntervalsModel | my intervals model
+net.sourceforge.ganttproject.gui.GTextField fieldInteger | field integer
+net.sourceforge.ganttproject.gui.options.model.BooleanOption myPublishInWebOption | my publish in web option
+net.sourceforge.ganttproject.gui.TestGanttRolloverButton bZoomIn | b zoom in
+net.sourceforge.ganttproject.PrjInfos myProjectInfo | my project info
+net.sourceforge.ganttproject.PrjInfos prjInfos | prj infos
+net.sourceforge.ganttproject.roles.RoleManager ourInstance | our instance
+net.sourceforge.ganttproject.task.TaskInfo myTaskInfo | my task info
+net.sourceforge.ganttproject.task.TaskLength myInitialLength | my initial length
+org.bouncycastle.asn1.ASN1OctetString partyAInfo | party a info
+org.bouncycastle.asn1.ASN1OctetString suppPubInfo | supp pub info
+org.bouncycastle.asn1.ASN1Sequence otherPrimeInfos | other prime infos
+org.bouncycastle.asn1.ASN1Set signerInfos | signer infos
+org.bouncycastle.asn1.ASN1StreamParser _aIn | a in
+org.bouncycastle.asn1.BERNull INSTANCE | instance
+org.bouncycastle.asn1.DERNull INSTANCE | instance
+org.bouncycastle.asn1.DERObjectIdentifier AuthorityInfoAccess | authority info access
+org.bouncycastle.asn1.DERObjectIdentifier BiometricInfo | biometric info
+org.bouncycastle.asn1.DERObjectIdentifier DeltaCRLIndicator | delta crl indicator
+org.bouncycastle.asn1.DERObjectIdentifier InhibitAnyPolicy | inhibit any policy
+org.bouncycastle.asn1.DERObjectIdentifier INITIALS | initials
+org.bouncycastle.asn1.DERObjectIdentifier InstructionCode | instruction code
+org.bouncycastle.asn1.DERObjectIdentifier InvalidityDate | invalidity date
+org.bouncycastle.asn1.DERObjectIdentifier SubjectInfoAccess | subject info access
+org.bouncycastle.asn1.DERObjectIdentifier TargetInformation | target information
+org.bouncycastle.asn1.pkcs.CertificationRequestInfo reqInfo | req info
+org.bouncycastle.asn1.pkcs.ContentInfo contentInfo | content info
+org.bouncycastle.asn1.pkcs.ContentInfo[] info | info
+org.bouncycastle.asn1.x509.DigestInfo digInfo | dig info
+org.bouncycastle.asn1.x509.ObjectDigestInfo objectDigestInfo | object digest info
+org.bouncycastle.asn1.x509.SubjectPublicKeyInfo subjectPKInfo | subject pk info
+org.bouncycastle.asn1.x509.SubjectPublicKeyInfo subjectPublicKeyInfo | subject public key info
+org.bouncycastle.asn1.x9.KeySpecificInfo keyInfo | key info
+org.bouncycastle.crypto.engines.RC4Engine header_cipher_in | header cipher in
+org.bouncycastle.math.ec.ECPoint.F2m infinity | infinity
+org.bouncycastle.math.ec.ECPoint.Fp infinity | infinity
+org.bouncycastle.math.ec.PreCompInfo preCompInfo | pre comp info
+org.gudy.azureus2.core3.ipfilter.BadIps instance | instance
+org.gudy.azureus2.core3.util.AEMonitor instance_mon | instance mon
+org.gudy.azureus2.core3.util.AESemaphore initialised_sem | initialised sem
+org.gudy.azureus2.core3.util.AESemaphore initial_refresh_sem | initial refresh sem
+org.gudy.azureus2.core3.util.AESemaphore initial_search_sem | initial search sem
+org.gudy.azureus2.core3.util.AESemaphore init_sem | init sem
+org.gudy.azureus2.core3.util.AESemaphore init_task | init task
+org.gudy.azureus2.core3.util.AsyncDispatcher add_file_install_dispatcher | add file install dispatcher
+org.gudy.azureus2.core3.util.Average average_bytes_in | average bytes in
+org.gudy.azureus2.core3.util.Average bytes_in_average | bytes in average
+org.gudy.azureus2.core3.util.Average packets_in_average | packets in average
+org.gudy.azureus2.core3.util.LightHashSet managedInterningSet | managed interning set
+org.gudy.azureus2.core3.util.LightHashSet unmanagedInterningSet | unmanaged interning set
+org.gudy.azureus2.core3.util.SystemTime.SystemTimeProvider instance | instance
+org.gudy.azureus2.core3.util.ThreadPool internal_lookup_pool | internal lookup pool
+org.gudy.azureus2.core3.util.ThreadPool internal_put_pool | internal put pool
+org.gudy.azureus2.core3.util.TrackersUtil instance | instance
+org.gudy.azureus2.platform.macosx.NativeInvocationBridge instance | instance
+org.gudy.azureus2.platform.PlatformManagerCapabilities ShowFileInBrowser | show file in browser
+org.gudy.azureus2.platform.PlatformManagerCapabilities ShowPathInCommandLine | show path in command line
+org.gudy.azureus2.pluginsimpl.local.download.DownloadEventNotifierImpl.DownloadTrackerNotifier download_tracker_notifier_instant | download tracker notifier instant
+org.gudy.azureus2.pluginsimpl.local.installer.PluginInstallerImpl installer | installer
+org.gudy.azureus2.pluginsimpl.local.ipc.IPCInterfaceImpl ipc_interface | ipc interface
+org.gudy.azureus2.pluginsimpl.local.messaging.MessageManagerImpl instance | instance
+org.gudy.azureus2.pluginsimpl.local.network.ConnectionManagerImpl instance | instance
+org.gudy.azureus2.pluginsimpl.local.network.IncomingMessageQueueImpl in_queue | in queue
+org.gudy.azureus2.pluginsimpl.local.PluginInitializer initialiser | initialiser
+org.gudy.azureus2.pluginsimpl.local.PluginInitializer plugin_initializer | plugin initializer
+org.gudy.azureus2.pluginsimpl.local.PluginInterfaceImpl plugin_interface | plugin interface
+org.gudy.azureus2.pluginsimpl.local.ui.config.ConfigSectionRepository instance | instance
+org.gudy.azureus2.pluginsimpl.local.ui.config.ParameterRepository instance | instance
+org.gudy.azureus2.pluginsimpl.local.update.UpdateCheckInstanceImpl check_instance | check instance
+org.gudy.azureus2.pluginsimpl.local.update.UpdateCheckInstanceImpl instance | instance
+org.gudy.azureus2.plugins.network.RateLimiter inbound_limiter | inbound limiter
+org.gudy.azureus2.plugins.PluginInterface plugin_interface | plugin interface
+org.gudy.azureus2.plugins.torrent.TorrentAttribute ta_subscription_info | ta subscription info
+org.gudy.azureus2.plugins.ui.config.StringParameter selected_interfaces_param | selected interfaces param
+org.gudy.azureus2.plugins.ui.tables.TableCellRefresher instance | instance
+org.gudy.azureus2.plugins.ui.UIInstance ui_instance | ui instance
+org.gudy.azureus2.plugins.update.UpdateCheckInstance check_instance | check instance
+org.gudy.azureus2.plugins.update.UpdateCheckInstance current_update_instance | current update instance
+org.gudy.azureus2.plugins.update.UpdateCheckInstance instance | instance
+org.gudy.azureus2.ui.common.util.LGLogger2Log4j inst | inst
+org.gudy.azureus2.ui.common.util.MenuItemManager instance | instance
+org.gudy.azureus2.ui.console.multiuser.UserManager instance | instance
+org.gudy.azureus2.ui.swt.components.BufferedLabel saveIn | save in
+org.gudy.azureus2.ui.swt.components.BufferedLabel trackerUpdateIn | tracker update in
+org.gudy.azureus2.ui.swt.components.graphics.SpeedGraphic inGraph | in graph
+org.gudy.azureus2.ui.swt.components.shell.ShellManager instance | instance
+org.gudy.azureus2.ui.swt.components.widgets.Inset inset | inset
+org.gudy.azureus2.ui.swt.config.IntParameter adjustmentInterval | adjustment interval
+org.gudy.azureus2.ui.swt.mainwindow.Colors instance | instance
+org.gudy.azureus2.ui.swt.mainwindow.Initializer initializer | initializer
+org.gudy.azureus2.ui.swt.mainwindow.PluginsMenuHelper INSTANCE | instance
+org.gudy.azureus2.ui.swt.mainwindow.SWTThread instance | instance
+org.gudy.azureus2.ui.swt.minibar.MiniBarManager global_instance | global instance
+org.gudy.azureus2.ui.swt.pluginsimpl.UISWTInstanceImpl uiSWTinstance | ui swt instance
+org.gudy.azureus2.ui.swt.pluginsimpl.UISWTInstanceImpl uiSWTInstanceImpl | ui swt instance impl
+org.gudy.azureus2.ui.swt.plugins.UISWTInstance ui_instance | ui instance
+org.gudy.azureus2.ui.swt.progress.ProgressReportingManager INSTANCE | instance
+org.gudy.azureus2.ui.swt.speedtest.SpeedTestData ourInstance | our instance
+org.gudy.azureus2.ui.swt.test.PrintTransferTypes _instance | instance
+org.gudy.azureus2.ui.swt.test.Win32TransferTypes _instance | instance
+org.gudy.azureus2.ui.swt.URLTransfer _instance | instance
+org.gudy.azureus2.ui.swt.views.ConfigShell instance | instance
+org.gudy.azureus2.ui.swt.views.piece.PieceInfoView.BlockInfo[] oldBlockInfo | old block info
+org.gudy.azureus2.ui.swt.views.piece.PieceInfoView pieceInfoView | piece info view
+org.gudy.azureus2.ui.swt.views.table.utils.TableColumnManager instance | instance
+org.gudy.azureus2.ui.swt.views.table.utils.TableContextMenuManager instance | instance
+org.hsqldb.DatabaseCommandInterpreter dbCommandInterpreter | db command interpreter
+org.hsqldb.DatabaseInformation dbInfo | db info
+org.hsqldb.DatabaseObjectNames indexNameList | index name list
+org.hsqldb.HsqlNameManager.HsqlName indexName | index name
+org.hsqldb.HsqlNameManager.HsqlName INFORMATION_SCHEMA_HSQLNAME | information schema hsqlname
+org.hsqldb.HsqlNameManager.HsqlName initialSchema | initial schema
+org.hsqldb.HsqlNameManager.HsqlName sIntoTable | s into table
+org.hsqldb.Index bestIndex | best index
+org.hsqldb.Index filterIndex | filter index
+org.hsqldb.Index index | index
+org.hsqldb.Index[] indexList | index list
+org.hsqldb.Index mainIndex | main index
+org.hsqldb.Index refIndex | ref index
+org.hsqldb.jdbc.jdbcConnection intConnection | int connection
+org.hsqldb.lib.DoubleIntIndex doubleIntLookup | double int lookup
+org.hsqldb.lib.IntKeyHashMap indexArrayKeepMap | index array keep map
+org.hsqldb.lib.IntKeyHashMap indexArrayMap | index array map
+org.hsqldb.lib.IntKeyHashMap intKeyHashLookup | int key hash lookup
+org.hsqldb.lib.IntKeyIntValueHashMap intKeyIntValueHashLookup | int key int value hash lookup
+org.hsqldb.lib.IntValueHashMap intValueHashLookup | int value hash lookup
+org.hsqldb.Result resultIn | result in
+org.hsqldb.rowio.RowInputBinary rowIn | row in
+org.hsqldb.rowio.RowInputInterface rowIn | row in
+org.hsqldb.rowio.RowInputTextLog rowIn | row in
+org.hsqldb.store.HashIndex hashIndex | hash index
+org.hsqldb.store.ValuePoolHashMap intPool | int pool
+org.jajuk.ui.InformationJPanel information | information
+org.jajuk.ui.JajukToggleButton jbIntro | jb intro
+org.jhotdraw.app.OSXPaletteHandler instance | instance
+org.jhotdraw.draw.AttributeKey<java.lang.Double> STROKE_INNER_WIDTH_FACTOR | stroke inner width factor
+org.jhotdraw.draw.AttributeKey<org.jhotdraw.geom.Insets2D.Double> DECORATOR_INSETS | decorator insets
+org.jhotdraw.draw.AttributeKey<org.jhotdraw.geom.Insets2D.Double> LAYOUT_INSETS | layout insets
+org.jhotdraw.draw.ConnectionFigure courtingConnection | court ing connection
+org.jhotdraw.draw.FigureLayerComparator INSTANCE | instance
+org.jhotdraw.draw.GridConstrainer invisibleConstrainer | invisible constrainer
+org.mozilla.javascript.DefaultErrorReporter instance | instance
+org.mozilla.javascript.ObjArray itsInterfaces | its interfaces
+org.mozilla.javascript.ObjArray previousInterpreterInvocations | previous interpreter invocations
+org.mozilla.javascript.ObjToIntMap scriptOrFnIndexes | script or fn indexes
+org.mozilla.javascript.tools.debugger.Dim.ContextData interruptedContextData | interrupted context data
+org.mozilla.javascript.tools.debugger.Dim.SourceInfo sourceInfo | source info
+org.mozilla.javascript.tools.shell.Environment thePrototypeInstance | the prototype instance
+org.mozilla.javascript.VMBridge instance | instance
+org.syntax.jedit.InputHandler inputHandler | input handler
+org.syntax.jedit.tokenmarker.TokenMarker.LineInfo[] lineInfo | line info
+short itsNameIndex | its name index
+short itsSourceFileAttributeIndex | its source file attribute index
+short itsSourceFileNameIndex | its source file name index
+short itsSuperClassIndex | its super class index
+short itsThisClassIndex | its this class index
+short itsTypeIndex | its type index
+short tableIndexOther | table index other
+thePackage.AuctionServerManager _instance | instance
+thePackage.AuctionsManager _instance | instance
+thePackage.Currency[][] au_incrementTable | au increment table
+thePackage.Currency[][] ca_incrementTable | ca increment table
+thePackage.Currency[][] ch_incrementTable | ch increment table
+thePackage.Currency[][] eu_incrementTable | eu increment table
+thePackage.Currency[][] fr_incrementTable | fr increment table
+thePackage.Currency[][] incrementTable | increment table
+thePackage.Currency _insurance | insurance
+thePackage.Currency[][] tw_incrementTable | tw increment table
+thePackage.Currency[][] uk_incrementTable | uk increment table
+thePackage.FilterManager _instance | instance
+thePackage.JBidMenuBar _instance | instance
+thePackage.JPasteListener _instance | instance
+thePackage.MQFactory _instance | instance
+thePackage.SearchManager _instance | instance
+thePackage.TableColumnController m_instance | m instance
+thePackage.ThumbnailManager _instance | instance
+thePackage.UpdateManager _instance | instance

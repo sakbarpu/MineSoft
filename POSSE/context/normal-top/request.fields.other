@@ -1,0 +1,69 @@
+boolean enable_request_hints | enable request hints
+boolean USE_REQUEST_LIMITING | use request limiting
+byte[] ID_AZ_REQUEST_HINT_BYTES | id az request hint bytes
+byte[] ID_AZ_SESSION_REQUEST_BYTES | id az session request bytes
+byte[] ID_BT_REQUEST_BYTES | id bt request bytes
+byte other_peer_az_request_hint_version | other peer az request hint version
+byte other_peer_request_version | other peer request version
+com.aelitis.azureus.core.networkmanager.impl.tcp.TCPConnectionManager.ConnectListener connect_request_key | connect request key
+com.aelitis.azureus.plugins.net.buddy.BuddyPluginBuddy.fragmentHandler.fragmentAssembly current_request_frag | current request frag
+com.aelitis.azureus.plugins.net.buddy.BuddyPluginBuddyRequestListener buddyPluginBuddyRequestListener | buddy plugin buddy request listener
+edu.rice.cs.drjava.model.debug.jpda.PendingRequestManager _pendingRequestManager | pending request manager
+int ACT_REQUEST_ANNOUNCE | act request announce
+int ACT_REQUEST_CONNECT | act request connect
+int ACT_REQUEST_FIND_NODE | act request find node
+int ACT_REQUEST_FIND_VALUE | act request find value
+int ACT_REQUEST_KEY_BLOCK | act request key block
+int ACT_REQUEST_PING | act request ping
+int ACT_REQUEST_SCRAPE | act request scrape
+int ACT_REQUEST_STATS | act request stats
+int ACT_REQUEST_STORE | act request store
+int aggregation_request_limit | aggregation request limit
+int allocate_request_loop_count | allocate request loop count
+int consecutive_no_request_count | consecutive no request count
+int current_request_index | current request index
+int MT_REQUEST_SEARCH | mt request search
+int MT_REQUEST_TRACK | mt request track
+int NATPortMapRequestLen | nat port map request len
+int next_request_num_log | next request num log
+int NO_REQUEST_BACKOFF_MAX_LOOPS | no request backoff max loops
+int NO_REQUEST_BACKOFF_MAX_MILLIS | no request backoff max millis
+int NORMAL_REQUEST_SIZE | normal request size
+int PRIORITY_REQUEST_HINT | priority request hint
+int queued_request_timeout | queued request timeout
+int RT_AZ2_REQUEST_CHAT | rt az 2  request chat
+int RT_AZ2_REQUEST_MESSAGE | rt az 2  request message
+int RT_AZ2_REQUEST_SEND_TORRENT | rt az 2  request send torrent
+int RT_AZ2_REQUEST_TRACK | rt az 2  request track
+int RT_INTERNAL_REQUEST_CLOSE | rt internal request close
+int RT_INTERNAL_REQUEST_PING | rt internal request ping
+int RT_REQUEST_DATA | rt request data
+int STATE_RECEIVED_SHARE_REQUEST_PENDING | state received share request pending
+int STATE_SENT_SHARE_REQUEST_PENDING | state sent share request pending
+int SUBID_ID_AZ_REQUEST_HINT | subid id az request hint
+int TARGET_REQUEST_SIZE_DEFAULT | target request size default
+int USER_REQUEST_INFO | user request info
+int USER_REQUEST_QUESTION | user request question
+int USER_REQUEST_WARNING | user request warning
+java.lang.String BOARD_REQUEST_ROTATION | board request rotation
+java.lang.String ID_AZ_REQUEST_HINT | id az request hint
+java.lang.String ST_DISK_READ_REQUEST_BLOCKS | st disk read request blocks
+java.lang.String ST_DISK_READ_REQUEST_COUNT | st disk read request count
+java.lang.String ST_DISK_READ_REQUEST_MULTIPLE | st disk read request multiple
+java.lang.String ST_DISK_READ_REQUEST_SINGLE | st disk read request single
+java.lang.String ST_DISK_WRITE_REQUEST_BLOCKS | st disk write request blocks
+java.lang.String ST_DISK_WRITE_REQUEST_COUNT | st disk write request count
+java.lang.String ST_NET_HTTP_IN_REQUEST_COUNT | st net http in request count
+java.lang.String ST_NET_HTTP_IN_REQUEST_GETRIGHT_COUNT | st net http in request get right count
+java.lang.String ST_NET_HTTP_IN_REQUEST_INVALID_COUNT | st net http in request invalid count
+java.lang.String ST_NET_HTTP_IN_REQUEST_OK_COUNT | st net http in request ok count
+java.lang.String ST_NET_HTTP_IN_REQUEST_WEBSEED_COUNT | st net http in request web seed count
+long _affRequestTime | aff request time
+long connection_request_id_next | connection request id next
+long FT_DISABLE_REQUEST_LIMITING | ft disable request limiting
+long[] incoming_request_versions | incoming request versions
+long last_request_map_tidy | last request map tidy
+long last_request_time | last request time
+long next_request_byte_log | next request byte log
+long[] outgoing_request_versions | outgoing request versions
+long _pageRequestTime | page request time

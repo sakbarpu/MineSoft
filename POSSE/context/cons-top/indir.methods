@@ -1,0 +1,2 @@
+CONS GenericMessageConnectionIndirect(QMessageManagerImpl;QString;QString;QGenericMessageEndpoint;J) | generic message connection indirect
+CONS GenericMessageConnectionIndirect(QMessageManagerImpl;QString;QString;QGenericMessageEndpoint;QInetSocketAddress;QInetSocketAddress;) | generic message connection indirect

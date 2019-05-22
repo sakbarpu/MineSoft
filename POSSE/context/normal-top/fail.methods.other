@@ -1,0 +1,16 @@
+Exception getFailReason() | get fail reason
+int getFailCount() | get fail count
+int getFailIndex() | get fail index
+int getMaxFailForLiveCount() | get max fail for live count
+int getMaxFailForUnknownCount() | get max fail for unknown count
+long getFirstFailOrLastAliveTime() | get first fail or last alive time
+long getFirstFailTime() | get first fail time
+long getHashFailBytes() | get hash fail bytes
+long getHashFailCount() | get hash fail count
+long getLastFailTime() | get last fail time
+long getTotalHashFailBytes() | get total hash fail bytes
+SimpleAttributeSet _getTestFailAttributes() | get test fail attributes
+void setFailPercentage(I) | set fail percentage
+void setFailurReason(QString;) | set fail ur reason
+void setNeverFailOnHashes(Z) | set never fail on hashes
+void testFindNextAndFailIsOnMatch() | test find next and fail is on match

@@ -1,0 +1,6 @@
+byte KEYWORD1 | keyword 1
+byte KEYWORD2 | keyword 2
+byte KEYWORD3 | keyword 3
+java.awt.Color KEYWORD_COLOR | keyword color
+org.syntax.jedit.IReportKeywordLookup keywordLookup | keyword lookup
+org.syntax.jedit.KeywordLookupIF keywordLookup | keyword lookup

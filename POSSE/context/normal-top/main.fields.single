@@ -1,0 +1,4 @@
+int MAIN | main
+org.gudy.azureus2.ui.common.Main main | main
+org.gudy.azureus2.ui.swt.mainwindow.MainWindow main | main
+thePackage.FilterManager.AuctionListHolder _main | main

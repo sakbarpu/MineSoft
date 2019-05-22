@@ -1,0 +1,5 @@
+boolean _isPrivate | is private
+int FIELD_PRIVATE | field private
+int PR_PRIVATE | pr private
+java.lang.String TK_PRIVATE | tk private
+short ACC_PRIVATE | acc private

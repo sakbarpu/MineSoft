@@ -1,0 +1,4 @@
+void jMenuItemDuplicate1ActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item duplicate 1 action performed
+void jMenuItemDuplicate2ActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item duplicate 2 action performed
+void jMenuItemDuplicateActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item duplicate action performed
+void setDuplicationActivated(Z) | set duplication activated

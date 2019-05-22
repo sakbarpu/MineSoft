@@ -1,0 +1,6 @@
+BitFlags and(QBitFlags;) | and
+IntCharSet and(QIntCharSet;) | and
+LogicalExpression and(QCriterion;QCriterion;) | and
+String and(QString;QString;QObject;) | and
+void and() | and
+void and(QCapabilities;) | and

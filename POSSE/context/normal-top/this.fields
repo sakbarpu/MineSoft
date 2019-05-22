@@ -1,0 +1,31 @@
+boolean hitThisRoundByAntiTSM | hit this round by anti tsm
+boolean koThisRound | ko this round
+boolean thisStepBackwards | this step backwards
+boolean unloadedThisTurn | unloaded this turn
+boolean usedThisRound | used this round
+boolean writtenToThisSession | written to this session
+int damageThisPhase | damage this phase
+int engineHitsThisRound | engine hits this round
+int Icode_ELEM_AND_THIS | icode elem and this
+int Icode_NAME_AND_THIS | icode name and this
+int Icode_PROP_AND_THIS | icode prop and this
+int Icode_VALUE_AND_THIS | icode value and this
+int THIS | this
+int THISFN | this fn
+java.awt.Color THISTLE | thistle
+java.awt.datatransfer.DataFlavor thisFlavor | this flavor
+java.lang.String THIS_CACHE_VERSION | this cache version
+java.lang.String THIS_FULL_VERSION | this full version
+java.lang.String THIS_VERSION | this version
+java.util.LinkedList auctionEntriesInThisGroup | auction entries in this group
+java.util.TimeZone thisTimeZone | this time zone
+javax.swing.JMenuItem jMenuItemCloseAllExceptThis | j menu item close all except this
+javax.swing.JMenuItem jMenuItemCloseAllExceptThisFromList | j menu item close all except this from list
+javax.swing.JMenu _thisMenu | this menu
+org.bouncycastle.asn1.x509.Time thisUpdate | this update
+org.gudy.azureus2.core3.util.AEMonitor downloadData_this_mon | download data this mon
+org.gudy.azureus2.core3.util.AEMonitor this_mon | this mon
+org.mozilla.javascript.Scriptable thisObj | this obj
+org.mozilla.javascript.tools.debugger.MyTreeTable thisTable | this table
+short itsThisClassIndex | its this class index
+short thisObjLocal | this obj local

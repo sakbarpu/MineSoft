@@ -1,0 +1,54 @@
+boolean attOnLand | att on land
+boolean bDeleteFileOnCancel | b delete file on cancel
+boolean breakOnEnter | break on enter
+boolean breakOnExceptions | break on exceptions
+boolean breakOnReturn | break on return
+boolean bTriggerOnFocusOut | b trigger on focus out
+boolean closeOnESC | close on esc
+boolean continueOnError | continue on error
+boolean deleteFileOnCancel | delete file on cancel
+boolean displayShadowOnFloor | display shadow on floor
+boolean ENABLE_ON_HOVER | enable on hover
+boolean _eofOn00 | eof on 00
+boolean hidePopupOnFocusLoss | hide popup on focus loss
+boolean hitBackspaceOnSelection | hit backspace on selection
+boolean isReprintHeaderOnEachPage | is reprint header on each page
+boolean loadOnStartup | load on startup
+boolean minimizeOnClear | minimize on clear
+boolean minimizeOnEmpty | minimize on empty
+boolean prevStepOnPavement | prev step on pavement
+boolean relayoutOnTextChange | relayout on text change
+boolean saveEventsOnClose | save events on close
+boolean shutdownOnNoConnection | shutdown on no connection
+boolean sortOnValues | sort on values
+boolean stopOnNull | stop on null
+boolean storeOnInsert | store on insert
+boolean summaryOnNewPage | summary on new page
+boolean targetOnLand | target on land
+boolean titleOnNewPage | title on new page
+boolean TRIGGER_PAINT_ON_SELECTIONS | trigger paint on selections
+byte REOP_WNONBDRY | reop wn on bd ry
+int azconst_avail | azc on st avail
+int sinksOnNextRound | sinks on next round
+int THREAD_LINGER_ON_IDLE_PERIOD | thread linger on idle period
+java.lang.Object remembered_on_behalf_of | remembered on behalf of
+java.lang.reflect.Method reflectOnUsableSpace | reflect on usable space
+java.lang.String CONF_SHOW_TIP_ON_STARTUP | conf show tip on startup
+java.lang.String OP_CLOSE_PARAM_ON_CLOSE | op close param on close
+java.lang.String redirect_on_not_found | redirect on not found
+java.lang.String VER_BITS_ON_WHEELS | ver bits on wheels
+javax.swing.Icon myIconOnMouseOver | my icon on mouse over
+javax.swing.JCheckBox jCheckBoxSummaryOnNewPage | j check box summary on new page
+javax.swing.JCheckBox jCheckBoxTitleOnNewPage | j check box title on new page
+javax.swing.JCheckBoxMenuItem breakOnEnter | break on enter
+javax.swing.JCheckBoxMenuItem breakOnExceptions | break on exceptions
+javax.swing.JCheckBoxMenuItem breakOnReturn | break on return
+javax.swing.JComboBox jComboBoxImageOnError | j combo box image on error
+javax.swing.JMenuItem jMenuItemPasteOnBand | j menu item paste on band
+long buddySyncOnShareMinTime | buddy sync on share min time
+long FLAG_DO_NOT_DELETE_DATA_ON_REMOVE | flag do not delete data on remove
+long FLAG_MOVE_ON_COMPLETION_DONE | flag move on completion done
+long total_bytes_on_transfer_queues | total bytes on transfer queues
+net.sourceforge.ganttproject.gui.options.model.ColorOption myTaskOnScheduleColor | my task on schedule color
+org.mozilla.javascript.optimizer.DataFlowBitSet itsLiveOnEntrySet | its live on entry set
+org.mozilla.javascript.optimizer.DataFlowBitSet itsLiveOnExitSet | its live on exit set

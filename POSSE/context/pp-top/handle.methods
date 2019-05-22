@@ -1,0 +1,9 @@
+boolean checkIfIdentifierIsHandled(QString;) | check if identifier is handled
+boolean checkIfSiteNameHandled(QString;) | check if site name handled
+boolean isHandled(QMethod;) | is handled
+void handleColumnChanged(QColumn;II) | handle column changed
+void handleDMAdded(QDownloadManager;ZZQHashWrapper;) | handle dm added
+void handleNbBuddiesUpdated(I) | handle nb buddies updated
+void handlePageLoadCompleted() | handle page load completed
+void handlePropertyBeingDereferenced(QType;QString;) | handle property being dereferenced
+void handleSlaveConnected(QSlaveRemote;) | handle slave connected

@@ -1,0 +1,35 @@
+boolean fireIsNewMessageEnabled(QJContactListItem;) | fire is new message enabled
+boolean isNewMessageEnabled(Qorg.planetamessenger.plugin.JContactListItem;) | is new message enabled
+boolean messageAdded(Qcom.aelitis.azureus.core.peermanager.messaging.Message;) | message added
+boolean messageAdded(QMessage;) | message added
+boolean messageReceived(Qcom.aelitis.azureus.core.peermanager.messaging.Message;) | message received
+boolean messageReceived(QMessage;) | message received
+Integer getTurnForMessageIgnored(QString;) | get turn for message ignored
+long getMessageCreated() | get message created
+long getTimeSinceLastDataMessageReceived() | get time since last data message received
+Map messageReceived(QBuddyPluginBuddy;QMap;) | message received
+String getLastMessageReceived() | get last message received
+void buddyMessageFragmentReceived(II) | buddy message fragment received
+void buddyMessageReceived(I) | buddy message received
+void chatMessageReceived(Qymsg.network.event.SessionChatEvent;) | chat message received
+void conferenceMessageReceived(Qymsg.network.event.SessionConferenceEvent;) | conference message received
+void messageDeleted(QBuddyPluginBuddyMessage;) | message deleted
+void messageFailed(QBuddyPluginBuddy;QThrowable;) | message failed
+void messageLogged(IQString;) | message logged
+void messageLogged(IQString;QThrowable;) | message logged
+void messageLogged(QString;QThrowable;) | message logged
+void messageLogged(QString;Z) | message logged
+void messageQueued(QBuddyPluginBuddyMessage;) | message queued
+void messageQueued(Qcom.aelitis.azureus.core.peermanager.messaging.Message;) | message queued
+void messageQueued(QMessage;) | message queued
+void messageReceived(BQString;QString;QString;) | message received
+void messageReceived(QBuddyPluginAZ2.chatParticipant;QMap;) | message received
+void messageReceived(QClientMessage;) | message received
+void messageReceived(QJabberMessageEvent;) | message received
+void messageReceived(QVuzeBuddy;QString;JQMap;) | message received
+void messageReceived(Qymsg.network.event.SessionEvent;) | message received
+void messageRecieved(QVuzeBuddy;QString;QString;JQMap;) | message recieved
+void messageRemoved(Qcom.aelitis.azureus.core.peermanager.messaging.Message;) | message removed
+void messageRemoved(QMessage;) | message removed
+void offlineMessageReceived(Qymsg.network.event.SessionEvent;) | offline message received
+void setLastMessageReceived(QString;) | set last message received

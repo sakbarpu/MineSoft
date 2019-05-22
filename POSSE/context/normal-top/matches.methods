@@ -1,0 +1,38 @@
+boolean addressMatchesID() | address matches id
+boolean isMatchesNull() | is matches null
+boolean matchesCIDR(QInetAddress;) | matches cidr
+boolean matchesCriteria(QObject;QObject;) | matches criteria
+boolean matchesDN(QX500Principal;QGeneralNames;) | matches dn
+boolean matchesDN(QX509Principal;QGeneralNames;) | matches dn
+boolean matchesDownload(QDownloadManager;QContextDescriptor;) | matches download
+boolean matches(Event event) | matches
+boolean matches(IQMatcher<QBibtexEntry;>;) | matches
+boolean matches(QBibtexEntry;) | matches
+boolean matches(QComponent;) | matches
+boolean matches(QElement;) | matches
+boolean matches(QIXMLElement;) | matches
+boolean matches(QNtlmPasswordAuthentication;) | matches
+boolean matches(QString;) | matches
+boolean matches(QString;QString;) | matches
+boolean matches(QUniAddress;IQInetAddress;I) | matches
+boolean matches(QURI;) | matches
+boolean matchesRegion(QHighlightInfo;) | matches region
+boolean matchesTable(DatabaseIdentifierImpl other) | matches table
+boolean matchesTemplate(QInstance;) | matches template
+boolean matchesTemplate([QObject;[QObject;) | matches template
+boolean regionMatches(boolean ignoreCase, int toffset, String other, int ooffset, int len) | region matches
+boolean regionMatches(ZQSegment;I[C) | region matches
+boolean regionMatches(ZQSegment;IQString;) | region matches
+Iterator<QBibtexEntry;> matches() | matches
+Object matches(QTransportHelper;QByteBuffer;I) | matches
+Object minMatches(QTransportHelper;QByteBuffer;I) | min matches
+String[] getMatches(QString;QString;) | get matches
+Vector getMatches() | get matches
+Vector<QString;> getClassMatches(QString;) | get class matches
+Vector<QString;> getFileMatches(QString;) | get file matches
+Vector<QString;> getMatches(QString;) | get matches
+void _assertInteractionMatchesHelper(QString;Z) | assert interaction matches helper
+void assertInteractionsMatches(QString;) | assert interactions matches
+void removeMatches(QBibtexEntry;) | remove matches
+void setMatchesNull(Z) | set matches null
+void testMatches() | test matches

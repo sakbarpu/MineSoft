@@ -1,0 +1,79 @@
+boolean canGetDouble() | can get double
+boolean canGetDouble(QString;) | can get double
+boolean canSetDouble() | can set double
+boolean canSetDouble(QString;) | can set double
+boolean setDouble(D) | set double
+char[] yy_double([C) | yy double
+Double autoboxDouble(D) | auto box double
+Double convertToDouble(QObject;) | convert to double
+Double evalDouble(QString;) | eval double
+double getAttributeDouble(QString;D) | get attribute double
+Double getBottomSideBearingAsDouble() | get bottom side bearing as double
+double getChildValueAsDouble(QNode;QString;) | get child value as double
+double getDefaultDouble(QString;) | get default double
+double getDefaultDouble(String name) | get default double
+double getDouble() | get double
+double getDouble([B) | get double
+double getDouble(I) | get double
+Double getDouble(I) | get double
+double getDouble(II) | get double
+double getDouble(IQString;) | get double
+Double getDouble(J) | get double
+double getDouble(Matcher matcher) | get double
+double getDouble(QProperties;QString;) | get double
+double getDouble(QString;) | get double
+double getDouble(QTuple;) | get double
+Double getOrAddDouble(J) | get or add double
+double getParameterAsDouble(QString;Qjava.util.Properties;D) | get parameter as double
+double getValueAsDouble(QNode;) | get value as double
+double nextDouble() | next double
+double parseDouble(QString;) | parse double
+double parseDouble(QString;D) | parse double
+double parseDouble(StringBuilder sb) | parse double
+double readDouble() | read double
+double readDouble(I) | read double
+double[] readDouble(II) | read double
+double readDouble(J) | read double
+double[] readDouble(JI) | read double
+double readDouble(QObject;QString;D) | read double
+double roundDouble(D) | round double
+double roundDouble(DI) | round double
+double stack_double(QCallFrame;I) | stack double
+double[] toDataDouble(QInstance;) | to data double
+double toDouble(QIXMLElement;QString;) | to double
+double toDouble(QIXMLElement;QString;DDD) | to double
+double toDouble(QObject;) | to double
+double toScreenDouble(I) | to screen double
+Double wrapDouble(D) | wrap double
+double writeDouble(QObject;QString;DD) | write double
+int addConstantDouble(double val) | add constant double
+int encodeDouble(char ch) | encode double
+Query setDouble(ID) | set double
+Query setDouble(QString;D) | set double
+Rectangle2D.Double getBounds2DDouble() | get bounds 2 d double
+String formatDouble(D) | format double
+String formatDouble(DQString;) | format double
+String formatDouble(DQString;Z) | format double
+String formatDouble(DZ) | format double
+void addObjectToDouble() | add object to double
+void PointDouble(DD) | point double
+void putDouble(QString;D) | put double
+void setDouble(D) | set double
+void setDouble(DI) | set double
+void setDouble(ID) | set double
+void setDouble(IID) | set double
+void setDouble(int tagType, double value) | set double
+void setDouble(IQString;D) | set double
+void setDouble(QString;D) | set double
+void testDivideDouble() | test divide double
+void testSingleEclipsesDouble() | test single eclipses double
+void testToStringDouble() | test to string double
+void updateDouble(ID) | update double
+void updateDouble(QString;D) | update double
+void updateDouble(QVisualItem;QString;D) | update double
+void writeDouble(D) | write double
+void writeDouble(I[D) | write double
+void writeDouble(IDI) | write double
+void writeDouble(J[D) | write double
+void writeDouble(JD) | write double
+void writeDouble(JDI) | write double

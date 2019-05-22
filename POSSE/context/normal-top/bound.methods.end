@@ -1,0 +1,12 @@
+double getInterpolationParameterLowerBound() | get interpolation parameter lower bound
+double getInterpolationParameterUpperBound() | get interpolation parameter upper bound
+double getLowerBound() | get lower bound
+double getLowerNumericBound() | get lower numeric bound
+double getMaxXBound() | get max x bound
+double getMaxYBound() | get max y bound
+double getMinXBound() | get min x bound
+double getMinYBound() | get min y bound
+double getUpperBound() | get upper bound
+double getUpperNumericBound() | get upper numeric bound
+void setInterpolationParameterLowerBound(D) | set interpolation parameter lower bound
+void setInterpolationParameterUpperBound(D) | set interpolation parameter upper bound

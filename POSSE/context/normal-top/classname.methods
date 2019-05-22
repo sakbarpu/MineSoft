@@ -1,0 +1,14 @@
+boolean getRemoveFilterClassnames() | get remove filter classnames
+boolean isClassname(QString;) | is classname
+boolean isValidClassname(QString;) | is valid classname
+boolean isValidClassname(QString;QString;) | is valid classname
+Object findNextItem(Object component, String classname, Object item) | find next item
+String getClassname() | get classname
+String getClassnameFromPath(QTreePath;) | get classname from path
+String getClassname(QString;) | get classname
+String getStemmerClassname(QString;) | get stemmer classname
+String overrideClassname(QObject;) | override classname
+String overrideClassname(QString;) | override classname
+Vector<QString;> getClassnames(QString;) | get classnames
+void setClassItem(String classname) | set class item
+void setClassname(QString;) | set classname

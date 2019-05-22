@@ -1,0 +1,471 @@
+ArrayList gatherDirectory(QFile;QString;QFileFilter;Z) | gather directory
+ArrayList getAllDirectoryFrom(QFile;) | get all directory from
+ArrayList getAllDirectory(QFile;) | get all directory
+ArrayList getDirectories() | get directories
+ArrayList<QDirectory;> getDirectories() | get directories
+ArrayList<QFile;> getFilesInDir(QFile;ZQFileFilter;) | get files in dir
+AzureusContentDirectory[] getDirectories() | get directories
+boolean addBuildDirectoryClassPath(QFile;) | add build directory class path
+boolean addDirectoryRecursiveHelper(QFile;QString;[BQFileFilter;) | add directory recursive helper
+boolean canGoToCompleteDir(QDownloadManager;) | can go to complete dir
+boolean checkDefaultDir(QFile;[QFile;) | check default dir
+boolean deleteDirectory(QFile;) | delete directory
+boolean directLaunch([QString;QCommandLine;) | direct launch
+boolean directoryEnd(QFile;) | directory end
+boolean directoryStart(QFile;I) | directory start
+boolean forceDirect() | force direct
+boolean getDirectInvocations() | get direct invocations
+boolean getUseDefaultDir() | get use default dir
+boolean hasDirtyCollection() | has dirty collection
+boolean hasDirtyCollections(QFlushEntityEvent;QEntityPersister;QStatus;) | has dirty collections
+boolean hasRoleDirect(QString;) | has role direct
+boolean isAdminDirect() | is admin direct
+boolean isCollectionDirtyCheckNecessary(QEntityPersister;QStatus;) | is collection dirty check necessary
+boolean isDirect() | is direct
+boolean isDirectChild(QAST;QAST;) | is direct child
+boolean isDirectInvocable() | is direct invocable
+boolean isDirectlyAccessible() | is directly accessible
+boolean isDirectlyAccessible(QObject;I) | is directly accessible
+boolean isDirectory() | is directory
+boolean isDirty() | is dirty
+boolean isDirtyCheckable() | is dirty checkable
+boolean isDirtyCheckable(Z) | is dirty checkable
+boolean isDirtyCheckHandledByInterceptor() | is dirty check handled by interceptor
+boolean isDirtyCheckPossible() | is dirty check possible
+boolean isDirty(QObject;) | is dirty
+boolean isDirty(QObject;QObject;QSessionImplementor;) | is dirty
+boolean isDirty(QObject;QObject;[ZQSessionImplementor;) | is dirty
+boolean isInDefaultDownloadDir(QDownloadManager;) | is in default download dir
+boolean isInDefaultSaveDir() | is in default save dir
+boolean isInDefaultSaveDir(QDownload;) | is in default save dir
+boolean isIsDocDirty() | is is doc dirty
+boolean isSearchSubDirectory() | is search sub directory
+boolean isTargetOfDirectCall() | is target of direct call
+boolean isUsingCurrentFilesDirectoryForCompiles() | is using current files directory for compiles
+boolean jarBuildDirectory(QFile;QJarBuilder;) | jar build directory
+boolean loadMechsFromDirectory(QVector;QSet;JQFile;) | load mechs from directory
+boolean makeDirectory(QString;QString;) | make directory
+boolean markDirtyIncludes(DBModel aDBModel) | mark dirty includes
+boolean mustExcludeDirectories() | must exclude directories
+boolean mustIncludeDirectories() | must include directories
+boolean onFlushDirty(QObject;QSerializable;[QObject;[QObject;[QString;[QType;) | on flush dirty
+boolean requiresDirtyCheck(QObject;) | requires dirty check
+boolean validWorkingDirectory(QString;) | valid working directory
+boolean varIsDirectCallParameter(I) | var is direct call parameter
+boolean wasDirtyCollectionFound() | was dirty collection found
+ByteBuffer allocateDirectByteBuffer(I) | allocate direct byte buffer
+byte loadClassFromDirectory(File dir, String name, ClassCacheEntry cache) | load class from directory
+Collection getDirectlyDependentSteps(Step step) | get directly dependent steps
+Configuration addDirectory(QFile;) | add directory
+DHTDBValueImpl removeDirectValue(QHashWrapper;) | remove direct value
+DHTStorageBlock[] getDirectKeyBlocks() | get direct key blocks
+Direction getDirection() | get direction
+Direction getNewDirection(QDirection;) | get new direction
+Direction getRandomDirection() | get random direction
+Direction[] getRandomDirectionArray() | get random direction array
+Direction getReverseDirection() | get reverse direction
+Directive getDirective(I) | get directive
+Directory getDirectory() | get directory
+Directory getDirectoryForIO(Qjava.io.File;) | get directory for io
+Directory getParentDirectory() | get parent directory
+DirectoryNode getDirectoryNode(QDirectory;) | get directory node
+DirectoryParameter addDirectoryParameter2(QString;QString;QString;) | add directory parameter 2
+Directory registerDirectory(QDevice;) | register directory
+Directory registerDirectory(QString;QDirectory;QDevice;) | register directory
+Directory registerDirectory(QString;QString;QDirectory;QDevice;) | register directory
+DirtyCheckEventListener[] getDirtyCheckEventListeners() | get dirty check event listeners
+double[] getDirection() | get direction
+File changeFileDirectory(QFile;QDirectory;) | change file directory
+File copyTorrentFileToSaveDir(QFile;Z) | copy torrent file to save dir
+File createAndSetDirectories() | create and set directories
+File createHomeDirectory(String fileName, String directoryName) | create home directory
+File createTempDir() | create temp dir
+File createTempDirectory(QString;) | create temp directory
+File createTempDirectory(QString;QFile;) | create temp directory
+File createTempDir(QString;) | create temp dir
+File createTempDir(QString;QFile;) | create temp dir
+File getAutosaveDirectory() | get autosave directory
+File getAzpdDir() | get az pd dir
+File getBuddyConfigDir() | get buddy config dir
+File _getBuildDir() | get build dir
+File getBuildDirectory() | get build directory
+File getCacheFileControlFileDir() | get cache file control file dir
+File getCompletionDirectory(QDownloadManager;) | get completion directory
+File getControlFileDir() | get control file dir
+File getDataDirectory() | get data directory
+File getDataDir(I) | get data dir
+File[] getDefaultDirs() | get default dirs
+File getDir() | get dir
+File getDirectory() | get directory
+File getDirectory(QFile;) | get directory
+File getI18nDirectory() | get i 18 n directory
+File getInitialDatasetsDirectory() | get initial datasets directory
+File getLogDir() | get log dir
+File getMasterWorkingDirectory() | get master working directory
+File getModsDirectory() | get mods directory
+File getOnDemandDirectory() | get on demand directory
+File getParentDirectory() | get parent directory
+File[] getRelatedDirs(QDownloadManager;) | get related dirs
+File getReportDirectory() | get report directory
+File getSaveDirectory() | get save directory
+File[] getSelectedDirectories() | get selected directories
+File getSelectedDirectory() | get selected directory
+File getSubsDir() | get subs dir
+File getValidDirectory(QFile;) | get valid directory
+File _getWorkDir() | get work dir
+File getWorkingDirectory() | get working directory
+File getWorkingDirectoryFile() | get working directory file
+File mkTempDir(QString;) | mk temp dir
+File setCurrentDirectory(QFile;Z) | set current directory
+File tempDirectory() | temp directory
+float tangentDirection(int x, int y) | tangent direction
+ForeignKeyDirection getForeignKeyDirection() | get foreign key direction
+FSEntry addDirectory(String name) | add directory
+HashSet getDirectRoles() | get direct roles
+HashSet getGrantedClassNamesDirect() | get granted class names direct
+HashSet getSubDirectories(QString;QFile;QHashSet;) | get sub directories
+IHex getHexInDir(III) | get hex in dir
+IHex getHexInDir(QCoords;I) | get hex in dir
+int cleanDir(QString;QString;) | clean dir
+int direction(DDDD) | direction
+int direction(IIII) | direction
+int direction(int position) | direction
+int direction(QCoords;) | direction
+int directionToInt(Direction dir) | direction to int
+int downloadDir(QString;) | download dir
+int[] findDirty([QObject;[QObject;QObject;QSessionImplementor;) | find dirty
+int[] findDirty(QObject;QSerializable;[QObject;[QObject;[QString;[QType;) | find dirty
+int[] findDirty([QStandardProperty;[QObject;[QObject;[[ZZQSessionImplementor;) | find dirty
+int getDirectAtomCount() | get direct atom count
+int getDirection() | get direction
+int getDirection(II) | get direction
+int getDirection(UDPDatagram sipMessage) | get direction
+int getDirectSize() | get direct size
+int getDirectTargetIndex() | get direct target index
+int getDirHandling() | get dir handling
+int getDirtyOperations() | get dirty operations
+int[] getDirtyProperties() | get dirty properties
+int getFetchDirection() | get fetch direction
+int getOffBoardDirection() | get off board direction
+int getRetreatedDirection() | get retreated direction
+int getWindDirection() | get wind direction
+int nodeIsDirectCallParameter(QNode;) | node is direct call parameter
+int removeFileOrDir(QString;) | remove file or dir
+int uploadDir(QString;) | upload dir
+int xInDir(III) | x in dir
+int xInDir(IIII) | x in dir
+int yInDir(III) | y in dir
+int yInDir(IIII) | y in dir
+Iterable<QFile;> getBuildDirectoryCP() | get build directory cp
+Iterator getDirectSubclasses() | get direct subclasses
+Iterator getDirectValues() | get direct values
+java.lang.String getDirection() | get direction
+java.lang.String getHomeDirectory() | get home directory
+java.lang.String getOutputDir() | get output dir
+java.lang.String getSourcesDir() | get sources dir
+JLabel getDirectionYLabel() | get direction y label
+JPanel _buildDirectoryPanel() | build directory panel
+JPanel _workDirectoryPanel() | work directory panel
+List buildMaximalEdgeRings(Collection dirEdges) | build maximal edge rings
+List loadPluginFromDir(QFile;ZZZ) | load plugin from dir
+List loadPluginsFromDir(QFile;IIZZZ) | load plugins from dir
+long getCachedDirFreeSpace(QFile;) | get cached dir free space
+long getFileOrDirectorySize(QFile;) | get file or directory size
+long _getLightsDirtyCounter() | get lights dirty counter
+long getTorrentDataSizeFromFileOrDir(QFile;) | get torrent data size from file or dir
+long getTorrentDataSizeFromFileOrDirSupport(QFile;) | get torrent data size from file or dir support
+org.gudy.azureus2.plugins.ui.config.DirectoryParameter addDirectoryParameter2(QString;QString;QString;) | add directory parameter 2
+Parameter createDirectoryParameter(QString;QString;QString;) | create directory parameter
+Path findCurrentWelcome(Path dirPath) | find current welcome
+Rectangle getDirtyAnimationArea() | get dirty animation area
+Result newExecuteDirectRequest(QString;) | new execute direct request
+Result sqlExecuteBatchDirect(QResult;) | sql execute batch direct
+Result sqlExecuteDirectNoPreChecks(QString;) | sql execute direct no pre checks
+SelectedTag getDirection() | get direction
+Shape getDirtyRegion(IQRectangle;) | get dirty region
+Shape getDirtyRegion(IQRectangle2D;) | get dirty region
+ShareResource addFileOrDir(QShareResourceDirContentsImpl;QFile;IZ) | add file or dir
+ShareResourceDir addDir(QFile;) | add dir
+ShareResourceDir addDir(QShareResourceDirContentsImpl;QFile;) | add dir
+ShareResourceDirContents addDirContents(QFile;Z) | add dir contents
+ShareResourceDir getDir(QFile;) | get dir
+String askForSaveDirectory(QDiskManagerFileInfo;) | ask for save directory
+String directionTipText() | direction tip text
+String directoryToXML(QDirectory;) | directory to xml
+String evaluatedWorkDir() | evaluated work dir
+String findInDir(QString;QString;QOpenFileFilter;I) | find in dir
+String getApplicationInstallDir(QString;) | get application install dir
+String getArtifactDirectory() | get artifact directory
+String getAzureusProgramDir() | get azureus program dir
+String getAzureusUserDir() | get azureus user dir
+String getConfDir() | get conf dir
+String getCurrentDir() | get current dir
+String getCurrentDirectory() | get current directory
+String getDataDir() | get data dir
+String getDataDirectory() | get data directory
+String getDataDirectoryName(QInstances;) | get data directory name
+String getDefaultCompilationDirectory() | get default compilation directory
+String getDefaultOpenDir() | get default open dir
+String getDefaultSaveDir() | get default save dir
+String getDefaultSaveDirectory() | get default save directory
+String getDefaultWorkingDirectory() | get default working directory
+String getDeselectedDirectories() | get deselected directories
+String getDestinationDirectoryParameter() | get destination directory parameter
+String getDir() | get dir
+String getDirectCtorName(QScriptOrFnNode;) | get direct ctor name
+String getDirectory() | get directory
+String getDirectoryParameter(QString;) | get directory parameter
+String getDirectRolesString() | get direct roles string
+String getDirectTargetFieldName(I) | get direct target field name
+String getDir(QString;) | get dir
+String getDocDir() | get doc dir
+String getDownloadDirectory() | get download directory
+String getFileDirectory(QString;) | get file directory
+String getFindDirectory() | get find directory
+String getFreemindBaseDir() | get freemind base dir
+String getFreemindDirectory() | get freemind directory
+String getFTPDirectory() | get ftp directory
+String getHomeDir() | get home dir
+String getHomeDirectory(QString;) | get home directory
+String getIconFileDirectory() | get icon file directory
+String getIndexColDirection(II) | get index col direction
+String getInstallDir() | get install dir
+String getJRobinDemoDirectory() | get j robin demo directory
+String getJRobinHomeDirectory() | get j robin home directory
+String getLogDirectory() | get log directory
+String getMechDirectory() | get mech directory
+String getNewDir(QJFrame;QFile;QString;IZ) | get new dir
+String getNewDir(QJFrame;QFile;QString;QString;IZ) | get new dir
+String getNewGreDir() | get new gre dir
+String getPackageDir(QString;) | get package dir
+String getParentDir() | get parent dir
+String getPluginDirectoryName() | get plugin directory name
+String getProgramFilesDir() | get program files dir
+String getRelativePath(File dirF, File baseDirF) | get relative path
+String getRrdDir() | get rrd dir
+String getSaveSilentlyDir() | get save silently dir
+String getSmartDestDir() | get smart dest dir
+String getStringWindDirection() | get string wind direction
+String getTargetFileOrDir() | get target file or dir
+String getTempDir() | get temp dir
+String getTraceDir() | get trace dir
+String getTranslatedCompileDirectory() | get translated compile directory
+String getUserDataDirectory() | get user data directory
+String getUserDir() | get user dir
+String getUserDirectory() | get user directory
+String getUserDocumentsDir() | get user documents dir
+String getUserHomeDirectory() | get user home directory
+String getUserMusicDir() | get user music dir
+String getUserVideoDir() | get user video dir
+String getWorkingDir() | get working dir
+String getWorkingDirectory() | get working directory
+String getXslDir() | get xsl dir
+String makePlatformDirectory(QString;) | make platform directory
+String makeSaveDirectory(QString;) | make save directory
+String makeStandardDirectory(QString;QString;QString;) | make standard directory
+String onDemandDirectoryTipText() | on demand directory tip text
+String retrieveDir() | retrieve dir
+String topDir() | top dir
+String toSFTPDir(QString;) | to sftp dir
+String workDir() | work dir
+String workingDirectoryTipText() | working directory tip text
+T getMediumDirect() | get medium direct
+TimeUnit getDirectAtomUnit() | get direct atom unit
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;JJJJ) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;Z) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;ZJJJJ) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;) | create from file or dir with fixed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;J) | create from file or dir with fixed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;Z) | create from file or dir with fixed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;ZJ) | create from file or dir with fixed piece length
+URL getDirAsUrl() | get dir as url
+URL getDirAsUrl(QString;) | get dir as url
+Vector3f getObstacleLocation(Vector3f start, Vector3f dir, float maxDist) | get obstacle location
+Vector scanForBoardsInDir(QFile;QString;II) | scan for boards in dir
+void addBinDirPropertyDescriptor(Object object) | add bin dir property descriptor
+void addBuildDirectoryClassPath(QFile;) | add build directory class path
+void addBuildDirectoryCP(QFile;) | add build directory cp
+void addClassesFromDir(QVector;QFile;QFile;) | add classes from dir
+void addDirectory(QDirectory;) | add directory
+void addDirectoryRecursive(QFile;QString;) | add directory recursive
+void addDirectoryRecursive(QFile;QString;QFileFilter;) | add directory recursive
+void addDirectory(String relativePath) | add directory
+void addDirectValue(QHashWrapper;QDHTDBValueImpl;) | add direct value
+void addDir(QString;) | add dir
+void addIfDir(QFile;QSet<-QFile;>;) | add if dir
+void addWorkingDirectoryListener(QPropertyChangeListener;) | add working directory listener
+void alwaysExcludeDirectories() | always exclude directories
+void alwaysIncludeDirectories() | always include directories
+void calcArcDirections([[Z[[Z) | calc arc directions
+void cd(String directoryName) | cd
+void changeDir() | change dir
+void changeDirSelectedTorrents([QDownloadManager;QShell;) | change dir selected torrents
+void changeWorkingDirectory(QFile;) | change working directory
+void changeWorkingDirectory(QString;) | change working directory
+void checkNameOfDirectories() | check name of directories
+void chooseDir(QJTextPane;) | choose dir
+void cleanBuildDirectory() | clean build directory
+void cleanLocalDir(QString;) | clean local dir
+void cleanLocalDir(QString;QString;) | clean local dir
+void cleanSftpDir(QString;QSftpFile;) | clean sftp dir
+void cleanSmbDir(QString;) | clean smb dir
+void clearDirty() | clear dirty
+void clearDirty(QObject;) | clear dirty
+void configDirty() | config dirty
+void configDirty(QSubscriptionImpl;) | config dirty
+void copyExternalLinksToDirectory(QList<QFileListEntry;>;QFile;QMetaData;QJProgressBar;ZQActionListener;) | copy external links to directory
+void copyFileOrDirectory(QFile;QFile;) | copy file or directory
+void copyToDir(QFile;QFile;) | copy to dir
+void createDirs(QFile;) | create dirs
+void createParentDirs(Qjava.lang.String;) | create parent dirs
+void createWorkingDirectory(QString;) | create working directory
+void decrementDirty() | decrement dirty
+void deleteDirectory() | delete directory
+void deleteDirectoryOnExit(QFile;) | delete directory on exit
+void deleteDir(File dir) | delete dir
+void deleteDirs() | delete dirs
+void detectDirectCall(QNode;QScriptOrFnNode;) | detect direct call
+void DirectGetter(QField;QClass;QString;) | direct getter
+void Direction(IIII) | direction
+void Directive(II) | directive
+void DirectoryFilter() | directory filter
+void directRefreshTree() | direct refresh tree
+void DirectSetter(QField;QClass;QString;) | direct setter
+void dirty() | dirty
+void dirtyCheck(QFlushEntityEvent;) | dirty check
+void dirty(QPersistentCollection;) | dirty
+void disableCompileDirectoryBrowse() | disable compile directory browse
+void doDirectory(QHttpServletRequest;QHttpServletResponse;QSmbFile;) | do directory
+void doReverseWallsDirection([QWall;) | do reverse walls direction
+void downloadDir(QString;QString;) | download dir
+void emitDirectConstructor(QClassFileWriter;QOptFunctionNode;) | emit direct constructor
+void enableCompileDirectoryBrowse() | enable compile directory browse
+void ensureDirectories(QString;) | ensure directories
+void finishButton(String dir, JTextField P_func_name, JTextField P_oa_name, JList P_list) | finish button
+void fireDirectoryUpdate() | fire directory update
+void fireDirectoryUpdate(QFtpConnection;) | fire directory update
+void flushOldDirtyData(J) | flush old dirty data
+void flushOldDirtyData(JJ) | flush old dirty data
+void freeDirectByteBuffer(QByteBuffer;) | free direct byte buffer
+void gatherDirectoryFromFileSystem(QArrayList;QFile;QString;QFileFilter;ZI) | gather directory from file system
+void getFilesInDir(QFile;QList<QFile;>;ZQFileFilter;) | get files in dir
+void incrementDirty() | increment dirty
+void initializeInDir(III) | initialize in dir
+void logDirtyProperties([I) | log dirty properties
+void lookAheadInGoodDirectionsSearch(QBayesNet;QInstances;II) | look ahead in good directions search
+void makeParentDirectories(QFile;) | make parent directories
+void markDirty() | mark dirty
+void markDirty(QObject;) | mark dirty
+void markInterceptorDirty(QObject;QEntityPersister;QEventSource;) | mark interceptor dirty
+void markInterceptorDirty(QObject;QObject;) | mark interceptor dirty
+void moveInDir(I) | move in dir
+void moveParticipants(Object cellsToMove, boolean direction) | move participants
+void notifyIsDirty() | notify is dirty
+void onDirtyCheck(QDirtyCheckEvent;) | on dirty check
+void postReverseSelectedWallsDirection([QWall;QList<QSelectable;>;) | post reverse selected walls direction
+void processDirective(String line) | process directive
+void processDir(QTOTorrentFileHasher;QFile;QVector;QString;) | process dir
+void purgeDirectKeyBlocks() | purge direct key blocks
+void putDirectEncodedKeys([[BQString;[[QDHTTransportValue;QList;) | put direct encoded keys
+void rebuildList(File directory) | rebuild list
+void recursiveEmptyDirDelete(QFile;) | recursive empty dir delete
+void recursiveEmptyDirDelete(QFile;QSet;Z) | recursive empty dir delete
+void recursiveEmptyDirDelete(QFile;Z) | recursive empty dir delete
+void ReferenceCountedDirectByteBufferDuplicate(QByteBuffer;) | reference counted direct byte buffer duplicate
+void registerDirectory(QAzureusContentDirectory;) | register directory
+void removeDirectory(QDirectory;) | remove directory
+void removeDirectory(QString;) | remove directory
+void rescanLibDirectory() | rescan lib directory
+void reverseSelectedWallsDirection() | reverse selected walls direction
+void setAdminDirect() | set admin direct
+void setBaseDir(QFile;) | set base dir
+void setBuildDirectory(QFile;) | set build directory
+void setCompletedir(String completedir) | set complete dir
+void setConfigDirty() | set config dirty
+void _setCurrentDirectory(QFile;) | set current directory
+void setCurrentDirectory(QFile;) | set current directory
+void _setCurrentDirectory(QOpenDefinitionsDocument;) | set current directory
+void setDefaultCompilationDirectory(QString;) | set default compilation directory
+void setDefaultOpenDir(QString;) | set default open dir
+void setDefaultSaveDirectory(QString;) | set default save directory
+void setDefaultSaveDir(QString;) | set default save dir
+void setDirAndPrefix(QString;QString;) | set dir and prefix
+void setDirectInvocations(Z) | set direct invocations
+void setDirection(DD) | set direction
+void setDirection(I) | set direction
+void setDirection(QDirection;) | set direction
+void setDirection(Qjava.lang.String;) | set direction
+void setDirection(QSelectedTag;) | set direction
+void setDirectlyAccessible(Z) | set directly accessible
+void setDirectory() | set directory
+void setDirectory(QFile;) | set directory
+void setDirectory(QString;) | set directory
+void setDirectTargetIndex(I) | set direct target index
+void setDirHandling(I) | set dir handling
+void setDirList(Z) | set dir list
+void setDir(QFile;) | set dir
+void setDir(QString;) | set dir
+void setDirty() | set dirty
+void setDirtyCheckEventListeners([QDirtyCheckEventListener;) | set dirty check event listeners
+void setDirtyCheckHandledByInterceptor(Z) | set dirty check handled by interceptor
+void setDirtyCheckPossible(Z) | set dirty check possible
+void setDirtyFlag(boolean newVal) | set dirty flag
+void setDirtyProperties([I) | set dirty properties
+void setDirty(Z) | set dirty
+void setFetchDirection(I) | set fetch direction
+void setFetchDirection(int direction) | set fetch direction
+void setFTPDirectory(QString;) | set ftp directory
+void setHasDirtyCollection(Z) | set has dirty collection
+void setHomeDir() | set home dir
+void setHomeDirectory(Qjava.lang.String;) | set home directory
+void setIsDocDirty(Z) | set is doc dirty
+void setLinkDirection(DisplayLinkDirection dir) | set link direction
+void setLogfileDirectory(String _logfileDirectory) | set logfile directory
+void setMetaDirty(Z) | set meta dirty
+void setOnDemandDirectory(QFile;) | set on demand directory
+void setOutputDir(Qjava.lang.String;) | set output dir
+void setParentDirectory(QDirectory;) | set parent directory
+void setParentDirectory(QFile;) | set parent directory
+void setParentDir(QString;) | set parent dir
+void setPluginDirectoryName(QString;) | set plugin directory name
+void setReportDirectory(QFile;) | set report directory
+void setRetreatedDirection(I) | set retreated direction
+void setSaveDirectory(QFile;) | set save directory
+void setsaveDir(String dir) | set save dir
+void setSortDirection(String sortDir) | set sort direction
+void setSourcesDir(Qjava.lang.String;) | set sources dir
+void setSuggestedDir(QFile;) | set suggested dir
+void setTorrentSaveDir(QString;) | set torrent save dir
+void setTorrentSaveDir(QString;QString;) | set torrent save dir
+void setUsingCurrentFilesDirectoryForCompiles(Z) | set using current files directory for compiles
+void setWorkingDirectory(QFile;) | set working directory
+void setWorkingDirectory(QString;) | set working directory
+void setXslDir(QString;) | set xsl dir
+void shareDirContents(QAzureusCore;QShell;Z) | share dir contents
+void shareDirContents(QAzureusCore;QString;Z) | share dir contents
+void shareDir(QAzureusCore;QShell;) | share dir
+void shareDir(QAzureusCore;QString;) | share dir
+void shareDirSupport(QAzureusCore;QShell;ZZ) | share dir support
+void SortDirectSubgroupsAction() | sort direct subgroups action
+void testCreateJarFromDirectoryRecursive() | test create jar from directory recursive
+void testCreateTempDirectory() | test create temp directory
+void testDeleteDirectoryOnExit() | test delete directory on exit
+void testDirectoryFilterDescription() | test directory filter description
+void testNoSuggestedDirectory() | test no suggested directory
+void testRecursiveDirectoryDelete() | test recursive directory delete
+void testSearchesDoNotRepeatWhenChangingDirection() | test searches do not repeat when changing direction
+void testSetBuildDirectory() | test set build directory
+void testSetFetchDirectiion() | test set fetch direct ii on
+void testSimpleSuggestedDirectory() | test simple suggested directory
+void testUnsavedSuggestedDirectory() | test unsaved suggested directory
+void transferDir(QString;QString;) | transfer dir
+void updateDataDirCombo() | update data dir combo
+void updateDirectoryLabel() | update directory label
+void updateLocalDir() | update local dir
+void updateRemoteDir() | update remote dir
+void updateRemoteDirectory(QBasicConnection;) | update remote directory
+void updateRemoteDirGUI() | update remote dir gui
+void updateSortingDirectionLabel() | update sorting direction label
+void uploadDir(QString;QString;) | upload dir
+void XXXtestGetPackageDir() | xxx test get package dir

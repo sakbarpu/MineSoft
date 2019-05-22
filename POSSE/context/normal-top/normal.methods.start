@@ -1,0 +1,6 @@
+double normalDens(DDD) | normal dens
+double normalInverse(D) | normal inverse
+double normalKernel(D) | normal kernel
+double normalKernel(DD) | normal kernel
+double normalProbability(D) | normal probability
+void NormalComponent() | normal component

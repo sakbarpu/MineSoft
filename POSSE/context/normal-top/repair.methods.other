@@ -1,0 +1,2 @@
+Location getRepairLocation(QUnit;) | get repair location
+void sendToRepairLocation(QLocation;) | send to repair location

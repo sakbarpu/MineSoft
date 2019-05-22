@@ -1,0 +1,17 @@
+boolean hasArguments() | has arguments
+boolean hasParenthesesIfNoArguments() | has parentheses if no arguments
+IArguments getArguments() | get arguments
+int numArguments() | num arguments
+Object getArguments() | get arguments
+Object[] getArguments(QSession;) | get arguments
+Object[] padArguments([QObject;I) | pad arguments
+Object readArguments(InputStream is) | read arguments
+T addArguments(Collection<String> c) | add arguments
+Vector<QParserResult;> processArguments([QString;Z) | process arguments
+void parseArguments([QString;) | parse arguments
+void processArguments([QString;) | process arguments
+void sendArguments(QLoggerChannelListener;[QString;) | send arguments
+void testCustomArguments() | test custom arguments
+void testInterpretJavaArguments() | test interpret java arguments
+void testNormalArguments() | test normal arguments
+void testTokenizeArguments() | test tokenize arguments

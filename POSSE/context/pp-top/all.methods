@@ -1,0 +1,58 @@
+boolean connectionAllowed(QEventSetDescriptor;) | connection allowed
+boolean connectionAllowed(QString;) | connection allowed
+boolean criticalSlotsAllocated(QEntity;QMounted;QVector;) | critical slots allocated
+boolean DHTEnableAllowed() | dht enable allowed
+boolean DHTExtendedUseAllowed() | dht extended use allowed
+boolean getAllNetworksSupported() | get all networks supported
+boolean getAllWrapped() | get all wrapped
+boolean getInRangeAddressesAreAllowed() | get in range addresses are allowed
+boolean isAllowed(QClass;QString;) | is allowed
+boolean isAllowed(QInetSocketAddress;) | is allowed
+boolean isAllowed(QObject;QString;) | is allowed
+boolean isCancelAllowed() | is cancel allowed
+boolean isClientTypeAllowed(QString;) | is client type allowed
+boolean isDataAlreadyAllocated() | is data already allocated
+boolean isDriverAllReadyRegistered(QDriver;) | is driver all ready registered
+boolean isEmulatorAllowed(String emulator) | is emulator allowed
+boolean isExtendedUseAllowed() | is extended use allowed
+boolean isNullValueAllowed() | is null value allowed
+boolean isRetryAllowed() | is retry allowed
+boolean isSaveAllRequired() | is save all required
+boolean isSaveAsAllowed() | is save as allowed
+boolean isSplitAllowed() | is split allowed
+boolean isTileAllowed(QTile;) | is tile allowed
+boolean isTileTypeAllowed(QTileType;) | is tile type allowed
+boolean isWorkerAllowed(QUnit;) | is worker allowed
+boolean isWorkerTypeAllowed(QUnitType;) | is worker type allowed
+boolean removeAllowed(QClass;QString;) | remove allowed
+double getMaximumVariancePercentageAllowed() | get maximum variance percentage allowed
+Enumeration allowed() | allowed
+int calcRarestAllowed() | calc rarest allowed
+int getCurrentNumBytesAllowed() | get current num bytes allowed
+int getMaxNewConnectionsAllowed() | get max new connections allowed
+int numNewConnectionsAllowed(QPeerIdentityDataID;I) | num new connections allowed
+long getAllocated() | get allocated
+void addAllowed(QClass;QString;) | add allowed
+void checkUploadAllowed() | check upload allowed
+void findAllUnused(QIBoard;IQHashSet;QHashSet;QIHex;QHashMap;) | find all unused
+void jButtonCompileAllActionPerformed(Qjava.awt.event.ActionEvent;) | j button compile all action performed
+void jCheckBoxSplitAllowedActionPerformed(Qjava.awt.event.ActionEvent;) | j check box split allowed action performed
+void jMenuItemCloseAllActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all action performed
+void jMenuItemCloseAllExceptThisActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all except this action performed
+void jMenuItemCloseAllExceptThisFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all except this from list action performed
+void jMenuItemCloseAllFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all from list action performed
+void jMenuItemSaveAllActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item save all action performed
+void jMenuItemSaveAllFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item save all from list action performed
+void jMenuItemSelectAllActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item select all action performed
+void performCommandIfAllowed(QConsoleInput;QList;QDownloadManager;QString;QString;) | perform command if allowed
+void performCommandIfAllowed(QConsoleInput;QList;QTRHostTorrent;QString;QString;) | perform command if allowed
+void setAllocated(J) | set allocated
+void setCancelAllowed(Z) | set cancel allowed
+void setDataAlreadyAllocated(Z) | set data already allocated
+void setInRangeAddressesAreAllowed(Z) | set in range addresses are allowed
+void setMaximumVariancePercentageAllowed(D) | set maximum variance percentage allowed
+void setRetryAllowed(Z) | set retry allowed
+void setSplitAllowed(Z) | set split allowed
+void testCompletionIs0WhenAllNestedTasksNotStarted() | test completion is 0 when all nested tasks not started
+void testCompletionIs100WhenAllNestedTasksCompleted() | test completion is 100 when all nested tasks completed
+void testCompletionIs50WhenAllNestedTasksHalfCompleted() | test completion is 50 when all nested tasks half completed

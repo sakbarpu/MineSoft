@@ -1,0 +1,20 @@
+int Id_importPackage | id import package
+int MAX_READ_PACKAGES_LINES | max read packages lines
+java.lang.ClassLoader packageLoader | package loader
+java.lang.Iterable<java.lang.String> TOOLS_PACKAGES | tools packages
+java.lang.String[] applicationPackages | application packages
+java.lang.String commonPackages | common packages
+java.lang.String DEBUG_CLASS_WITH_PACKAGE | debug class with package
+java.lang.String FOO_PACKAGE_AFTER_IMPORT | foo package after import
+java.lang.String FOO_PACKAGE_AS_FIELD | foo package as field
+java.lang.String FOO_PACKAGE_AS_FIELD_2 | foo package as field  2
+java.lang.String FOO_PACKAGE_AS_PART_OF_FIELD | foo package as part of field
+java.lang.String FOO_PACKAGE_INSIDE_CLASS | foo package inside class
+java.lang.String JGOODIES_PACKAGE | jgoodies package
+java.lang.String localPackageName | local package name
+java.lang.String _package | package
+java.lang.String _packageName | package name
+java.lang.String packageName | package name
+java.lang.String PLASTIC_THEMES_PACKAGE | plastic themes package
+java.lang.String targetPackage | target package
+org.mozilla.javascript.ObjArray importedPackages | imported packages

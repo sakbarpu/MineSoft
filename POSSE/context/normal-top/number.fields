@@ -1,0 +1,116 @@
+boolean isResetPageNumber | is reset page number
+boolean itsParameterNumberContext | its parameter number context
+boolean[] numberVarFlags | number var flags
+boolean parameterUsedInNumberContext | parameter used in number context
+boolean resetPageNumber | reset page number
+char[] numberChars | number chars
+char unitNumber | unit number
+double number | number
+double numberFactor | number factor
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_LINE_NUMBER_BACKGROUND_COLOR | definitions line number background color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_LINE_NUMBER_COLOR | definitions line number color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_NUMBER_COLOR | definitions number color
+edu.rice.cs.drjava.config.FontOption FONT_LINE_NUMBERS | font line numbers
+int blockNumber | block number
+int CLEAR_NUMBER_INFANTRY | clear number infantry
+int CLEAR_NUMBER_INFANTRY_ACCIDENT | clear number infantry accident
+int CLEAR_NUMBER_SWEEPER | clear number sweeper
+int CLEAR_NUMBER_SWEEPER_ACCIDENT | clear number sweeper accident
+int CLEAR_NUMBER_WEAPON | clear number weapon
+int columnNumber | column number
+int CONTACT_NUMBER | contact number
+int DEFAULT_ROLES_NUMBER | default roles number
+int DEFAULT_TRANSITION_TRACK_NUMBER | default transition track number
+int first_piece_number | first piece number
+int HISTORY_NUMBER_REQ | history number req
+int Icode_INTNUMBER | icode int number
+int Icode_SHORTNUMBER | icode short number
+int initialMaxNumberOfPanels | initial max number of panels
+int INITIAL_NUMBERTABLE_SIZE | initial number table size
+int iNumberStandardCols | i number standard cols
+int ISNUMBER_PROP | is number prop
+int itsLineNumber | its line number
+int itsLineNumberTable | its line number table
+int itsLineNumberTableTop | its line number table top
+int JSTYPE_NUMBER | jstype number
+int lastPageNumber | last page number
+int last_piece_number | last piece number
+int line_number | line number
+int _lineNumber | line number
+int lineNumber | line number
+int LineNumberTableSize | line number table size
+int MIN_TRACKS_NUMBER | min tracks number
+int MIN_TRACKS_NUMBER_WITHOUT_UNICITY | min tracks number without unicity
+int myStateNumber | my state number
+int newHomeNumber | new home number
+int number | number
+int NUMBER | number
+int number_of_blocked_ips | number of blocked ips
+int numberOfFiles | number of files
+int NUMBER_OF_ITERATIONS_PER_RUN | number of iterations per run
+int number_of_pieces | number of pieces
+int number_of_ranges | number of ranges
+int numberOfResult | number of result
+int NUMBER_OF_TEST_RUNS | number of test runs
+int NumberType | number type
+int _pageNumber | page number
+int piece_number | piece number
+int pieceNumber | piece number
+int[] piece_numbers | piece numbers
+int serialNumber | serial number
+int sessionNumber | session number
+int _socketNumber | socket number
+int start_piece_number | start piece number
+int superSeedModeNumberOfAnnounces | super seed mode number of announces
+int sysNumber | sys number
+int _tagNumber | tag number
+int targetNumberMASC | target number masc
+int undoNumber | undo number
+int unnamedMapsNumber | unnamed maps number
+it.businesslogic.ireport.gui.JNumberComboBox jNumberComboBoxSize | j number combo box size
+it.businesslogic.ireport.gui.JNumberComboBox jNumberComboBoxZoom | j number combo box zoom
+it.businesslogic.ireport.gui.JNumberField jNumberFieldBottomMargin | j number field bottom margin
+it.businesslogic.ireport.gui.JNumberField jNumberFieldColumns | j number field columns
+it.businesslogic.ireport.gui.JNumberField jNumberFieldColumnsSpacing | j number field columns spacing
+it.businesslogic.ireport.gui.JNumberField jNumberFieldColumnsWidth | j number field columns width
+it.businesslogic.ireport.gui.JNumberField jNumberFieldFooterBand | j number field footer band
+it.businesslogic.ireport.gui.JNumberField jNumberFieldHeaderBand | j number field header band
+it.businesslogic.ireport.gui.JNumberField jNumberFieldHeight | j number field height
+it.businesslogic.ireport.gui.JNumberField jNumberFieldLeft | j number field left
+it.businesslogic.ireport.gui.JNumberField jNumberFieldLeftMargin | j number field left margin
+it.businesslogic.ireport.gui.JNumberField jNumberFieldMinStartNewPage | j number field min start new page
+it.businesslogic.ireport.gui.JNumberField jNumberFieldRadius | j number field radius
+it.businesslogic.ireport.gui.JNumberField jNumberFieldRightMargin | j number field right margin
+it.businesslogic.ireport.gui.JNumberField jNumberFieldTop | j number field top
+it.businesslogic.ireport.gui.JNumberField jNumberFieldTopMargin | j number field top margin
+it.businesslogic.ireport.gui.JNumberField jNumberFieldWidth | j number field width
+java.awt.Color NUMBER_COLOR | number color
+java.io.LineNumberReader lineNumberReader | line number reader
+java.lang.Class NumberClass | number class
+java.lang.Integer lineNumber | line number
+java.lang.Object NUMBER_TAG | number tag
+java.lang.String eBayItemNumber | e bay item number
+java.lang.String FORMAT_NUMBER | format number
+java.lang.String model_number | model number
+java.lang.String NUMBER_RETURN_STYLE | number return style
+java.lang.String XML_DJ_NUMBER | xml dj number
+java.lang.String XML_TRACK_NUMBER | xml track number
+java.text.NumberFormat[] cached_number_formats | cached number formats
+java.text.NumberFormat defaultNumberFormat | default number format
+java.text.NumberFormat numberFormat | number format
+java.util.ArrayList<java.awt.font.TextLayout> _lineNumbers | line numbers
+java.util.Map myActivity2ordinalNumber | my activity 2 ordinal number
+java.util.regex.Pattern numbersOnlyDatePattern | numbers only date pattern
+javax.swing.JCheckBox jCheckBoxResetPageNumber | j check box reset page number
+javax.swing.JPanel jPanelNumber | j panel number
+javax.swing.JSpinner jSpinnerNumberDecimals | j spinner number decimals
+javax.swing.JSpinner jSpinnerNumberDecimals1 | j spinner number decimals 1
+javax.swing.JSpinner jSpinnerNumberDecimals2 | j spinner number decimals 2
+javax.swing.JSpinner jSpinnerNumberDecimals3 | j spinner number decimals 3
+long iterationNumber | iteration number
+org.bouncycastle.asn1.ASN1Sequence noticeNumbers | notice numbers
+org.bouncycastle.asn1.DERInteger certSerialNumber | cert serial number
+org.bouncycastle.asn1.DERInteger serialNumber | serial number
+org.bouncycastle.asn1.DERObjectIdentifier CRLNumber | crl number
+org.bouncycastle.asn1.pkcs.IssuerAndSerialNumber issuerAndSerialNumber | issuer and serial number
+org.gudy.azureus2.ui.swt.components.BufferedLabel pieceNumber | piece number

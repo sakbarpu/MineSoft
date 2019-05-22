@@ -1,0 +1,2 @@
+AttributeSet getUnsupportedAttributes(DocFlavor flavor, AttributeSet attributes) | get unsupported attributes
+boolean hasUnsupportedCriticalExtension() | has unsupported critical extension

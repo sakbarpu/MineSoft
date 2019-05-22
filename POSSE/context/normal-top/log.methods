@@ -1,0 +1,437 @@
+AEDiagnosticsLogger getLogger() | get logger
+AEDiagnosticsLogger getLogger(QString;) | get logger
+BasicPluginViewModel createLoggingViewModel(QLoggerChannel;Z) | create logging view model
+BIN findBinForInsert(Key key, LogManager logManager, INList inMemoryINs) | find bin for insert
+boolean closeLog(I) | close log
+boolean getBuildLogisticModels() | get build logistic models
+boolean getDisableLog() | get disable log
+boolean getLogging() | get logging
+boolean getLoginAndRetry() | get login and retry
+boolean hasLog() | has log
+boolean isLog() | is log
+boolean isLoggable() | is loggable
+boolean isLoggable(QLogRecord;) | is loggable
+boolean isLoggedIn() | is logged in
+boolean isLogicalExpression(DefaultMutableTreeNode node) | is logical expression
+boolean isLogToStdout() | is log to stdout
+boolean isProcessingLog() | is processing log
+boolean keepGameLog() | keep game log
+boolean login() | login
+boolean login(I) | login
+boolean login(QString;QString;) | login
+boolean login(QString;QString;I) | login
+boolean logout() | logout
+boolean logToFile(QLogEvent;QStringBuffer;) | log to file
+boolean logToFile(QStringBuffer;) | log to file
+boolean readLoggedStatement(QSession;) | read logged statement
+boolean requiresLogin() | requires login
+boolean sameLogicAs(QEngine;) | same logic as
+Collection getLogEntries() | get log entries
+Date getLogEntriesEnd() | get log entries end
+DHTLogger getLogger() | get logger
+double dchisqLog(D) | dchi sq log
+double dchisqLog(DD) | dchi sq log
+double dnormLog(D) | dnorm log
+double dnormLog(DDD) | dnorm log
+double getLoglikelihood() | get loglikelihood
+double getLogLikelihood() | get log likelihood
+double getLoglikeliHood([DQInstances;) | get logl ike li hood
+double getLogPosterior() | get log posterior
+double getLogProbForTargetClass(QInstance;) | get log prob for target class
+double log10(D) | log 10
+double log2Binomial(DD) | log 2 binomial
+double log2(D) | log 2
+double log2(DD) | log 2
+double log2Multinomial(D[D) | log 2 multinomial
+double log2MultipleHypergeometric([[D) | log 2 multiple hypergeometric
+double logbinomialCoefficient(II) | log binomial coefficient
+double logDensityForInstance(QInstance;) | log density for instance
+double[] logDensityPerClusterForInstance(QInstance;) | log density per cluster for instance
+double logFac(D) | log fac
+double logFunc(D) | log func
+double logInterp(DDD) | log interp
+double logisticLinkFunction(D) | logistic link function
+double[] logJointDensitiesForInstance(QInstance;) | log joint densities for instance
+double logLikelihood() | log likelihood
+double logLikelihoodAfter() | log likelihood after
+double logLikelihood([[D[[D) | log likelihood
+double logLikelihood([DI) | log likelihood
+double logLikelihoodEstimate(IQInstance;DI) | log likelihood estimate
+double logNormalDens(DDD) | log normal dens
+double[] logs2densities(IQInstance;) | logs 2 densities
+double[] logs2probs([D) | logs 2 probs
+double logScore(I) | log score
+double logScore(II) | log score
+double negativeLogLikelihood([[D[[D) | negative log likelihood
+double probToLogOdds(D) | prob to log odds
+double safeLog10(D) | safe log 10
+DoubleVector dchisqLog(DQDoubleVector;) | dchi sq log
+DoubleVector dnormLog(DQDoubleVector;D) | dnorm log
+Element logout(QConnection;QElement;) | logout
+Element logout(QElement;) | logout
+File getLogDir() | get log dir
+File getLogFile() | get log file
+File getLogFile(QAEDiagnosticsLogger;) | get log file
+FileLogging getFileLoggingInstance() | get file logging instance
+float computeValueOnPCAAxisXY(float mw, float logP, String fp) | compute value on pca axis xy
+GHCFloatingPointCell log() | log
+int getLogicalDim(I) | get logical dim
+int getLoginHostPort() | get login host port
+int getLoginResponse() | get login response
+int getLoginStatus() | get login status
+int getLoginTimeout() | get login timeout
+int getLogLevel() | get log level
+int getLogSize() | get log size
+int getMaxLoginNumber() | get max login number
+int getNbIpsBlockedAndLoggable() | get nb ips blocked and loggable
+int indexToLogType(I) | index to log type
+int login(QString;QString;) | login
+int LogTypePluginToCore(I) | log type plugin to core
+int logTypeToIndex(I) | log type to index
+int tryLogistic(QInstances;) | try logistic
+IViewInfo[] getPluginLogViewsInfo() | get plugin log views info
+java.io.PrintWriter getLogWriter() | get log writer
+java.lang.String formatLoginString(QJUserDetails;QJSystemDetails;) | format login string
+java.lang.String getLoginHost() | get login host
+java.util.logging.Logger getLogger(QString;) | get logger
+JMenuItem createResetLogLevelColorMenuItem() | create reset log level color menu item
+LightBoxBrowserWindow openLoginWindow() | open login window
+LightBoxBrowserWindow openLoginWindow(QString;) | open login window
+LoggerChannel getRPLoggerChannel() | get rp logger channel
+Logger getLog() | get log
+Logger getLogger() | get logger
+Logger log() | log
+Logger setupLog(QString;QString;) | setup log
+Log getLog() | get log
+Log getLogger() | get logger
+LoggingManager getLoggingManager() | get logging manager
+Log newLog(QString;II) | new log
+LogPane getLogPane() | get log pane
+LogRelation getLogRelation() | get log relation
+LogTextArea createNewLog() | create new log
+LogTextArea getLogTextArea() | get log text area
+LogTextArea getMainLogTextArea() | get main log text area
+long getUserId(String login) | get user id
+MenuItem addLogsViewMenuItem(QMenu;) | add logs view menu item
+OutputStream createLogStream(OutputStream os) | create log stream
+PrintWriter getLogWriter() | get log writer
+PrintWriter getMekHitLocLog() | get mek hit loc log
+SQLStatementLogger getSqlStatementLogger() | get sql statement logger
+String buildLogisticModelsTipText() | build logistic models tip text
+String getFullNameAndLoginHTML() | get full name and login html
+String getGameLogFilename() | get game log filename
+String getLogDirectory() | get log directory
+String getLogFilename() | get log filename
+String getLoggableName(QString;QObject;) | get loggable name
+String getLoggedStatement() | get logged statement
+String getLogicalColumnName(QString;QTable;) | get logical column name
+String getLogicalTableName(QString;QString;QString;) | get logical table name
+String getLogicalTableName(QTable;) | get logical table name
+String getLogID() | get log id
+String getLogIndent() | get log indent
+String getLoginID() | get login id
+String getLoginPageUrl() | get login page url
+String getLogPrefix() | get log prefix
+String getNextLogicalState() | get next logical state
+String logFileTipText() | log file tip text
+String logicalAlbumCollectionToXML() | logical album collection to xml
+String logicalAuthorCollectionToXML() | logical author collection to xml
+String logicalCollectionColumnName(QString;QString;QString;) | logical collection column name
+String logicalCollectionTableName(QString;QString;QString;QString;) | logical collection table name
+String logicalColumnName(QString;QString;) | logical column name
+String logicalStyleCollectionToXML() | logical style collection to xml
+String logPerformances(QGrid;QVector<QPerformance;>;QTag;) | log performances
+String logSequences(QSession;QLogger;) | log sequences
+String logUnknownClient0([B) | log unknown client 0
+String renderLoggableString(QObject;QSessionFactoryImplementor;) | render loggable string
+String toLoggableString(QObject;QSessionFactoryImplementor;) | to loggable string
+Style getLogicalStyle(I) | get logical style
+TestEnvironment createTestEnvironment(TestParameters Param, PrintWriter log) | create test environment
+UITextArea getLogArea() | get log area
+User createUser(String login) | create user
+UserProfile login(QInputStream;QOutputStream;) | login
+void addClearLog() | add clear log
+void addDescOn(int idx, Log log) | add desc on
+void addFileLoggingListener(QFileLoggerAdapter;) | add file logging listener
+void addLogHandlers(JTextPane traceWindow) | add log handlers
+void addLogListener(QUPnPLogListener;) | add log listener
+void addLogo() | add logo
+void addLogo(QJPanel;QString;) | add logo
+void addLog(ProcessInfoLog logEntry) | add log
+void addPlatformLoginCompleteListener(QPlatformLoginCompleteListener;) | add platform login complete listener
+void allowLoggingToStdErr(Z) | allow logging to std err
+void attachLoggerChannel(QLoggerChannel;) | attach logger channel
+void betaLogPingMapperEstimates(QString;QSpeedManagerLimitEstimate;ZQSpeedManagerLimitEstimate;QPingSpaceMapper;QPingSpaceMapper;) | beta log ping mapper estimates
+void buildLoggerMap(Element rootElem) | build logger map
+void checkAndSwapLog() | check and swap log
+void checkLogError(QAuctionEntry;) | check log error
+void checkLoggingConfig() | check logging config
+void cleanOldLogs() | clean old logs
+void cleanup(TestParameters tParam, PrintWriter log) | cleanup
+void clearLog() | clear log
+void closeLog() | close log
+void CommandLogout() | command logout
+void commandLogtest(QConsoleInput;QList;) | command log test
+void computelogLikelihood([DQInstances;) | compute log likelihood
+void computeLoglikelihood([DQInstances;) | compute loglikelihood
+void computeLogLikelihood([DQInstances;) | compute log likelihood
+void computeProbabilitiesMultinomialLogistic([D) | compute probabilities multinomial logistic
+void debugLog(QString;) | debug log
+void deleteLog() | delete log
+void deleteNoCheckFromLog(QSession;[QObject;) | delete no check from log
+void diagLoggerLogAndOut(QString;Z) | diag logger log and out
+void diagLoggerLogAndOut(QThrowable;) | diag logger log and out
+void diagLoggerLog(QString;) | diag logger log
+void doLog(QLevel;QString;QString;QString;I) | do log
+void doSocks4Login([QByteBuffer;) | do socks 4 login
+void doSocks5Login() | do socks 5 login
+void engineRequiresLogin(QEngine;QThrowable;) | engine requires login
+void ensureLogging() | ensure logging
+void ErrorLogger(QString;QList;) | error logger
+void eventEmailLogfile() | event email logfile
+void fireOnLogin(Qjava.lang.String;Qjava.lang.String;Qjava.lang.String;I) | fire on login
+void fireOnLogout() | fire on logout
+void fitLogistic(QInstances;IIIQRandom;) | fit logistic
+void handleLoginStatus() | handle login status
+void handleLoginUpdate() | handle login update
+void initGameLog() | init game log
+void initialize(TestParameters Param, PrintWriter log) | initialize
+void initLogging() | init logging
+void initRootLogger() | init root logger
+void insertNoCheckFromLog(QSession;[QObject;) | insert no check from log
+void Log() | log
+void log10() | log 10
+void logAction(QSession;) | log action
+void logADDREMOVE(QString;) | log add remove
+void logAlert(IQString;) | log alert
+void logAlert(IQString;[QString;) | log alert
+void logAlert(IQString;Z) | log alert
+void logAlert(QString;QThrowable;) | log alert
+void logAlert(QString;ZI) | log alert
+void logAlertRepeatable(IQString;) | log alert repeatable
+void logAlertRepeatable(QString;QThrowable;) | log alert repeatable
+void logAndClearWarnings(QConnection;) | log and clear warnings
+void logAndOut(QString;) | log and out
+void logAndOut(QString;Z) | log and out
+void logAndOut(QThrowable;) | log and out
+void logChatMessage(QString;QColor;QMap;) | log chat message
+void logClientDiscrepancy(QString;QString;QString;QString;[B) | log client discrepancy
+void logClientDiscrepancyToFile(QString;) | log client discrepancy to file
+void logClosePreparedStatement() | log close prepared statement
+void logCloseResults() | log close results
+void logCOLUMNSIZE(QString;) | log column size
+void logCompileStart() | log compile start
+void logConnectUser(QSession;) | log connect user
+void logContext(IQString;) | log context
+void logContext(QThrowable;QString;) | log context
+void logCurrentData(IIII) | log current data
+void logDebug(QString;) | log debug
+void logDiagnostics() | log diagnostics
+void logDirtyProperties([I) | log dirty properties
+void logDisconnect(QConnection;QServerPlayer;) | log disconnect
+void logDiversification(QDHTTransportContact;[[B[[B) | log diversification
+void logError() | log error
+void logErrorMessage(QException;) | log error message
+void logError(QString;) | log error
+void logError(QString;QDownloadManager;QThrowable;) | log error
+void logError(QString;QThrowable;) | log error
+void logException(QClass;QException;) | log exception
+void logException(QClass;QException;QString;) | log exception
+void logException(QException;) | log exception
+void logException(QString;QException;) | log exception
+void logExceptions(QSQLException;) | log exceptions
+void logExceptions(QSQLException;QString;) | log exceptions
+void logFailure(QString;) | log failure
+void logFile(QString;QStringBuffer;) | log file
+void logFiniteDistribution(int indent, FiniteDistribution leaf) | log finite distribution
+void LoggedCondition(QString;) | logged condition
+void logger(QString;) | logger
+void logical() | logical
+void loginComplete() | login complete
+void loginError() | login error
+void logInfoLocators() | log info locators
+void logInfo(QString;QDownloadManager;) | log info
+void login(J) | login
+void login(QConnection;QXMLStreamReader;QXMLStreamWriter;) | login
+void login(QString;) | login
+void _logInteractionStart() | log interaction start
+void logInteractionStart() | log interaction start
+void loginUpdate(QLoginInfo;Z) | login update
+void logInvalid(QFile;) | log invalid
+void loginWaitListener() | login wait listener
+void log(IQString;) | log
+void logJUnitStart() | log j unit start
+void logLayout(QVisualTable;) | log layout
+void log(Level level, String msg) | log
+void logLimitStatus() | log limit status
+void logMemory() | log memory
+void logMessageAndPopup(QString;) | log message and popup
+void logMessageAndPopup(QString;QThrowable;) | log message and popup
+void logMessage(QString;) | log message
+void logMessage(QString;QThrowable;) | log message
+void logMessage(QString;Z) | log message
+void logMoveFileError(QString;QString;) | log move file error
+void logMultiLine(QString;QList;) | log multi line
+void logNATStatus(QIndentWriter;) | log nat status
+void logNewLimits(QSMUpdate;) | log new limits
+void logNoNewLine(QString;) | log no new line
+void logNoRepeat(QString;QString;) | log no repeat
+void logoff(Z) | logoff
+void logOnConsole(QString;) | log on console
+void logOnConsole(QString;Z) | log on console
+void logon(QUniAddress;IQNtlmPasswordAuthentication;) | logon
+void logon(QUniAddress;QNtlmPasswordAuthentication;) | logon
+void logOpenPreparedStatement() | log open prepared statement
+void logOpenResults() | log open results
+void logout(User user) | logout
+void logout(Z) | logout
+void logPAINT(QString;) | log paint
+void logPerformances(QGrid;QVector;) | log performances
+void logPingMapData() | log ping map data
+void logPinningInfo() | log pinning info
+void logPMDataEx() | log pm data ex
+void logPMData(IQSpeedLimitConfidence;IFQString;) | log pm data
+void logPurchase(QGoodsType;II) | log purchase
+void log(QAEDiagnosticsLogger;QString;) | log
+void log(QAEDiagnosticsLogger;QThrowable;) | log
+void log(QDownloadManager;QString;Z) | log
+void log(QDownload;QString;) | log
+void log(QException;) | log
+void log(QLevel;QString;) | log
+void log(QLevel;QString;QString;) | log
+void log(QLevel;QString;QString;QString;) | log
+void log(QLevel;QThrowable;) | log
+void log(QLogAlert;) | log
+void log(QLogEvent;) | log
+void log([QObject;IQString;) | log
+void log(QObject;IQString;) | log
+void log([QObject;QString;) | log
+void log(QObject;QString;) | log
+void log([QObject;QString;QThrowable;) | log
+void log(QObject;QString;QThrowable;) | log
+void _log(QString;) | log
+void log(QString;) | log
+void Log(QString;) | log
+void Log(QString;II) | log
+void log(QString;[QStackTraceElement;) | log
+void log(QString;QString;) | log
+void _log(QString;QThrowable;) | log
+void log(QString;QThrowable;) | log
+void log(QString;Z) | log
+void log(QString;ZZ) | log
+void log(QTableCell;QString;) | log
+void log(QThrowable;) | log
+void log(QTOTorrent;QString;) | log
+void logQuery(QString;QString;) | log query
+void log(QUpdateChecker;QString;) | log
+void log(QUpdateCheckInstance;QString;) | log
+void logRaw(QString;) | log raw
+void logRollback(QSession;) | log rollback
+void logSale(QGoodsType;III) | log sale
+void logSequences(QSession;QLogger;) | log sequences
+void logStatement(QString;QFormatStyle;) | log statement
+void logStaticSQL() | log static sql
+void logStats() | log stats
+void logSuccess(QString;) | log success
+void logSummary() | log summary
+void logSystemInfo() | log system info
+void logTableDDL(QTable;) | log table ddl
+void LogTestThread(QLog;I) | log test thread
+void logTextResource(QLogAlert;) | log text resource
+void logTextResource(QLogAlert;[QString;) | log text resource
+void logTextResource(QLogEvent;) | log text resource
+void logTextResource(QLogEvent;[QString;) | log text resource
+void log(Throwable e, String s) | log
+void logToFile(QString;) | log to file
+void logUnknownClient([B) | log unknown client
+void logUnknownClient([BZ) | log unknown client
+void logUnknownClient(QString;) | log unknown client
+void logWarning(QString;) | log warning
+void logWarnings(QSQLWarning;) | log warnings
+void logWarnings(QSQLWarning;QString;) | log warnings
+void logWarn(QString;QDownloadManager;) | log warn
+void LogWindowPrintStream(QLogWindow;QPrintStream;QString;) | log window print stream
+void logWithStack(QString;QString;) | log with stack
+void makeLog(QFile;) | make log
+void onLoginError(J) | on login error
+void onLogin(Qjava.lang.String;I) | on login
+void onLogout() | on logout
+void openLog() | open log
+void openLogFile(boolean truncate) | open log file
+void openLog(QDatabase;) | open log
+void outDiagLoggerOnly(QString;) | out diag logger only
+void parseLog() | parse log
+void platformLoginComplete() | platform login complete
+void PluginFileLoggerAdapater(QFileLogging;QFileLoggerAdapter;) | plugin file logger adapater
+void prepareLogicOperator(QAST;) | prepare logic operator
+void processLog() | process log
+void reloadLogToFileParam() | reload log to file param
+void removeFileLoggingListener(QFileLoggerAdapter;) | remove file logging listener
+void removeLog(I) | remove log
+void removeLogListener(QUPnPLogListener;) | remove log listener
+void removeLogo() | remove logo
+void removeLog(QLogTextArea;) | remove log
+void resetErrorLog() | reset error log
+void resizeLogos() | resize logos
+void setActiveLog(QLogTextArea;) | set active log
+void setBuildLogisticModels(Z) | set build logistic models
+void setGameLogFilename(QString;) | set game log filename
+void setKeepGameLog(Z) | set keep game log
+void setLastLoginDate(Calendar value) | set last login date
+void setLayoutPanelLogo(PanelLayout pl) | set layout panel logo
+void setLogCPU() | set log cpu
+void setLogfileDirectory(String _logfileDirectory) | set logfile directory
+void setLogFile(QFile;) | set log file
+void setLoggedIn(Z) | set logged in
+void setLogger(QDHTLogger;) | set logger
+void setLogger(QLogger;) | set logger
+void setLogging(Z) | set logging
+void setLogicalDisplay(QDimension;I) | set logical display
+void setLogicalStyle(IQStyle;) | set logical style
+void setLogID(QString;) | set log id
+void setLoginAndRetry(Z) | set login and retry
+void setLoginID(QString;) | set login id
+void setLoginPageUrl(QString;) | set login page url
+void setLoginStatus(I) | set login status
+void setLoginTimeout(I) | set login timeout
+void setLogLevel(int severity) | set log level
+void setLogo(String logo) | set logo
+void setLogPane(QLogPane;) | set log pane
+void setLog(QLog;) | set log
+void setLog(QLogger;) | set log
+void setLog(Qweka.gui.Logger;) | set log
+void setLogSize(I) | set log size
+void setLogTextArea(QLogTextArea;) | set log text area
+void setLogToStdout(Z) | set log to stdout
+void setLogToSystem(Z) | set log to system
+void setLogWriter(PrintWriter out) | set log writer
+void setLogWriter(QPrintWriter;) | set log writer
+void setMainLogTextArea(QLogTextArea;) | set main log text area
+void setMekHitLocLog() | set mek hit loc log
+void setMemberLastLogon(Timestamp memberLastLogon) | set member last logon
+void setRPLoggerChannel(QLoggerChannel;) | set rp logger channel
+void setSavelog(boolean savelog) | set save log
+void setSFLog(LogSF log) | set sf log
+void setSqlStatementLogger(QSQLStatementLogger;) | set sql statement logger
+void SimpleLog() | simple log
+void SimpleLog(QString;) | simple log
+void SimpleLog(QString;Z) | simple log
+void synchLog() | synch log
+void synchLogForce() | synch log force
+void synchLoginStates(QLoginInfo;Z) | synch login states
+void tempLogEstimate(QSpeedManagerLimitEstimate;) | temp log estimate
+void test_ETC3_euler_logfacts() | test etc 3  euler log facts
+void testLog() | test log
+void TransactionLog() | transaction log
+void triggerLogIDListeners(QString;) | trigger log id listeners
+void turnOffLogging() | turn off logging
+void turnOnConsoleLogging() | turn on console logging
+void turnOnFileLogging() | turn on file logging
+void updateLog() | update log
+void updateLoginLabels(QLoginInfo;) | update login labels
+void updateLogTabs() | update log tabs
+void waitForLogin(QloginWaitListener;) | wait for login
+void writeLogicalScreenDescriptor(QOutputStream;) | write logical screen descriptor
+void writeLogStatement(QSession;QString;) | write log statement
+void writeToLog(QSession;QString;) | write to log
+VuzeBuddy getBuddyByLoginID(QString;) | get buddy by login id

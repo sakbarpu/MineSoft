@@ -1,0 +1,101 @@
+Action createHideShowBackgroundImageAction(QHome;Z) | create hide show background image action
+boolean canShowThumb(QVuzeActivitiesEntry;) | can show thumb
+boolean getShowAgain() | get show again
+boolean getShowAverage() | get show average
+boolean getShowColumn(int index) | get show column
+boolean getShowControlPointsFlag() | get show control points flag
+boolean getShowDebugConsole() | get show debug console
+boolean getShowGUI() | get show gui
+boolean getShowMapHexPopup() | get show map hex popup
+boolean getShowMapsheets() | get show mapsheets
+boolean getShowMoveStep() | get show move step
+boolean getShowRules() | get show rules
+boolean getShowStatusBar() | get show status bar
+boolean getShowStdDev() | get show std dev
+boolean getShowStdDevs() | get show std devs
+boolean getShowText() | get show text
+boolean getShowThumb() | get show thumb
+boolean getShowTime() | get show time
+boolean getShowUnitId() | get show unit id
+boolean getShowWrecks() | get show wrecks
+boolean isSetShowEmpty() | is set show empty
+boolean isShowAsSheet() | is show as sheet
+boolean isShowClassNames() | is show class names
+boolean isShowCloseTicks() | is show close ticks
+boolean isShowCompleteIncomplete() | is show complete incomplete
+boolean isShowCoreDistances() | is show core distances
+boolean isShowFPS() | is show fps
+boolean isShowGrid() | is show grid
+boolean isShowIcon() | is show icon
+boolean isShowLabels() | is show labels
+boolean isShowLegend() | is show legend
+boolean isShowLines() | is show lines
+boolean isShowOpenTicks() | is show open ticks
+boolean isShowOptionDialogSynchronize(QString;QString;) | is show option dialog synchronize
+boolean isShowPublic() | is show public
+boolean isShowReachabilityDistances() | is show reachability distances
+boolean isShowShapes() | is show shapes
+boolean isShowSplashScreen() | is show splash screen
+boolean isShowText() | is show text
+boolean isShowTickLabels() | is show tick labels
+boolean isShowTickMarks() | is show tick marks
+boolean isShowVolume() | is show volume
+boolean shouldShowHighlightsInSource() | should show highlights in source
+int getShowEmail() | get show email
+int getShowTimeout() | get show timeout
+JMenuItem createHideShowBackgroundImageMenuItem(QHome;Z) | create hide show background image menu item
+Show pickNextShowForDownloading() | pick next show for downloading
+void conditionallyShowPopup(QMouseEvent;) | conditionally show popup
+void createAndShowGUI() | create and show gui
+void DoHideShowToolbar() | do hide show toolbar
+void doMoveAndShowItems([QSelectable;FF) | do move and show items
+void DoShowInBrowser(QComponent;QAuctionEntry;) | do show in browser
+void DoShowLastError(QComponent;QAuctionEntry;) | do show last error
+void DoShowTime(QComponent;QAuctionEntry;) | do show time
+void flipShowText() | flip show text
+void getShowDetails(QHttpClient;QShow;QString;) | get show details
+void handleShowResize(QEvent;) | handle show resize
+void maybeShowPopup(QMouseEvent;) | maybe show popup
+void moveAndShowSelectedItems(FF) | move and show selected items
+void selectAndShowItems(QList<+QSelectable;>;) | select and show items
+void setShowAverage(Z) | set show average
+void setShowBackupFiles(boolean showBackupFiles) | set show backup files
+void setShowBorder(Z) | set show border
+void setShowCancel(Z) | set show cancel
+void setShowClassNames(Z) | set show class names
+void setShowCloseTicks(Z) | set show close ticks
+void setShowCompleteIncomplete(Z) | set show complete incomplete
+void setShowCoreDistances(Z) | set show core distances
+void setShowEmail(I) | set show email
+void setShowGrid(Z) | set show grid
+void setShowGUI(Z) | set show gui
+void setShowIcon(Z) | set show icon
+void setShowLabels(Z) | set show labels
+void setShowLegend(Z) | set show legend
+void setShowLines(Z) | set show lines
+void setShowMainWindow(Z) | set show main window
+void setShowMapHexPopup(Z) | set show map hex popup
+void setShowMapsheets(Z) | set show mapsheets
+void setShowMoveStep(Z) | set show move step
+void setShowOpenTicks(Z) | set show open ticks
+void setShowReachabilityDistances(Z) | set show reachability distances
+void setShowResultCount(Z) | set show result count
+void setShowRules(Z) | set show rules
+void setShowShapes(Z) | set show shapes
+void setShowSignature(Z) | set show signature
+void setShowStatusBar(Z) | set show status bar
+void setShowStdDevs(Z) | set show std devs
+void setShowStdDev(Z) | set show std dev
+void setShowText(Z) | set show text
+void setShowThumb(Z) | set show thumb
+void setShowTickLabels(Z) | set show tick labels
+void setShowTickMarks(Z) | set show tick marks
+void setShowTimeout(I) | set show timeout
+void setShowTime(Z) | set show time
+void setShowToolbar2(boolean b) | set show toolbar 2
+void setShowUnitId(Z) | set show unit id
+void setShowVolume(Z) | set show volume
+void setShowWrecks(Z) | set show wrecks
+void setupAndShowDialog() | setup and show dialog
+void tagShowFrame() | tag show frame
+void testGotoFileUnderCursorShowDialog() | test goto file under cursor show dialog

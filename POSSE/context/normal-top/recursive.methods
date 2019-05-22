@@ -1,0 +1,35 @@
+ArrayList getFilesRecursively() | get files recursively
+ArrayList<Qorg.jajuk.base.File;> getFilesRecursively() | get files recursively
+ArrayList<QTrack;> getTracksRecursively() | get tracks recursively
+boolean addDirectoryRecursiveHelper(QFile;QString;[BQFileFilter;) | add directory recursive helper
+boolean deleteRecursively(QFile;) | delete recursively
+boolean getRecursive() | get recursive
+boolean isRecursive() | is recursive
+boolean moveRecursively(QFile;QFile;) | move recursively
+boolean recursiveDelete(QFile;) | recursive delete
+boolean recursiveFindLineNumber(IQReferenceType;) | recursive find line number
+MenuItem addShareFolderContentRecursiveMenuItem(QMenu;) | add share folder content recursive menu item
+Object recursiveInterpreter(QInterpreter;QString;QVector;) | recursive interpreter
+Object recursiveInterpreter(QInterpreter;QString;QVector;I) | recursive interpreter
+Promise<Integer> callRecursive(int i, int sum) | call recursive
+Property getRecursiveProperty(QString;) | get recursive property
+Property getRecursiveProperty(QString;QIterator;) | get recursive property
+void addDirectoryRecursive(QFile;QString;) | add directory recursive
+void addDirectoryRecursive(QFile;QString;QFileFilter;) | add directory recursive
+void deleteRecursive(QFile;) | delete recursive
+void expandRecursive(QJTree;QTreePath;Z) | expand recursive
+void getFilesRecursively(QFile;QVector;) | get files recursively
+void invokeHooksRecursively(QNodeAdapter;QMindMap;) | invoke hooks recursively
+void recursiveCallAddChildren(QMindMapNode;QMindMapNode;) | recursive call add children
+void recursiveCallRemoveChildren(QMindMapNode;QMindMapNode;QMindMapNode;) | recursive call remove children
+void recursiveCallUpdateHooks(QMindMapNode;QMindMapNode;) | recursive call update hooks
+void recursiveEmptyDirDelete(QFile;) | recursive empty dir delete
+void recursiveEmptyDirDelete(QFile;QSet;Z) | recursive empty dir delete
+void recursiveEmptyDirDelete(QFile;Z) | recursive empty dir delete
+void recursiveResolve(IZQString;) | recursive resolve
+void recursiveResolve(IZQString;QAST;) | recursive resolve
+void removeToolTipRecursively(QMindMapNode;) | remove tool tip recursively
+void setRecursive(Z) | set recursive
+void setStyleRecursive(QMindMapNode;) | set style recursive
+void testCreateJarFromDirectoryRecursive() | test create jar from directory recursive
+void testRecursiveDirectoryDelete() | test recursive directory delete

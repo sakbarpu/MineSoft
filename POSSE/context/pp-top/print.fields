@@ -1,0 +1,5 @@
+boolean bLogToFileErrorPrinted | b log to file error printed
+boolean furniturePrinted | furniture printed
+boolean isPrintingAllowed | is printing allowed
+boolean planPrinted | plan printed
+boolean view3DPrinted | view 3 d printed

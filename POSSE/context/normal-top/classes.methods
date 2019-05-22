@@ -1,0 +1,31 @@
+boolean[] canHandleNClasses(QAttrTypes;I) | can handle n classes
+boolean[] canHandleNClasses(ZZZZZZI) | can handle n classes
+boolean loadClasses() | load classes
+boolean[] selectClasses(IQRandom;) | select classes
+boolean testIfCanLoadRhinoClasses(QClassLoader;) | test if can load rhino classes
+CharClasses getCharClasses() | get char classes
+Class[] getColumnClasses() | get column classes
+Hashtable getClassesFromProperties() | get classes from properties
+Hashtable sortClassesByRoot(QString;) | sort classes by root
+IClass getInnerClasses() | get inner classes
+int actualNumClasses() | actual num classes
+int actualNumClasses(I) | actual num classes
+int defaultNumClasses() | default num classes
+int[] getClassesToClusters() | get classes to clusters
+int getNumClasses() | get num classes
+int numClasses() | num classes
+JPanel _makeClassesPanel() | make classes panel
+List<QString;> findTestClasses(QList<QString;>;QList<QFile;>;) | find test classes
+Option<QList<QString;>;> findTestClasses(QList<QString;>;QList<QFile;>;) | find test classes
+Set superClassesOf(OWLClass clazz) | super classes of
+String numClassesTipText() | num classes tip text
+void addClassesFromDir(QVector;QFile;QFile;) | add classes from dir
+void addClassesFromZip(QVector;QFile;) | add classes from zip
+void disableAllClasses() | disable all classes
+void enableAllClasses() | enable all classes
+void mapClasses(II[[I[I[D[DI) | map classes
+void purgeClasses() | purge classes
+void setNumClasses(I) | set num classes
+void testInteractionsCanSeeCompiledClasses() | test interactions can see compiled classes
+void unionClasses() | union classes
+void XXXtestBreakpointsAndStepsInNonPublicClasses() | xxx test breakpoints and steps in non public classes

@@ -1,0 +1,4 @@
+com.eteks.sweethome3d.model.HomePieceOfFurniture.SortableProperty furnitureSortedProperty | furniture sorted property
+java.lang.String furnitureSortedPropertyName | furniture sorted property name
+java.util.List<com.eteks.sweethome3d.model.HomePieceOfFurniture> filteredAndSortedFurniture | filtered and sorted furniture
+long lLastSortedOn | l last sorted on

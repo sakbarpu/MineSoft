@@ -1,0 +1,20 @@
+boolean canStoreInNodes(QRule;) | can store in nodes
+boolean canStoreInResults(QRule;) | can store in results
+boolean checkKeyStoreHasEntry() | check key store has entry
+boolean ensureStoreExists(QString;) | ensure store exists
+boolean getClassifierStorePredictionsForVis() | get classifier store predictions for vis
+boolean getClustererStoreClustersForVis() | get clusterer store clusters for vis
+boolean getStorePasswords() | get store passwords
+float getStoreTime() | get store time
+Key[] createAndStoreKeys(QString;) | create and store keys
+long getDBStoreSize() | get db store size
+long getStoreTime() | get store time
+String msgBpelStateStoreFactoryInstantiationErr(String stateStoreFactory) | msg bpel state store factory instantiation err
+void addStoreField(JFieldDeclaration field) | add store field
+void DHTTransportStoreReplyImpl([B) | dht transport store reply impl
+void DHTTransportStoreReplyImpl([B[B) | dht transport store reply impl
+void sendStoreSupport(QDHTTransportContact;QDHTTransportReplyHandler;[[B[[QDHTTransportValue;) | send store support
+void setStoreId(int storeId) | set store id
+void setStoreNumber(short storeNumber) | set store number
+void setStoreTime(J) | set store time
+void setTrustStoreType(String type) | set trust store type

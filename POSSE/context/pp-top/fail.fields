@@ -1,0 +1,18 @@
+boolean auth_failed | auth failed
+boolean failed | failed
+boolean last_mapping_check_failed | last mapping check failed
+boolean _testFailed | test failed
+byte NAT_CHECK_FAILED | nat check failed
+byte NAT_CHECK_FAILED_AND_REPORTED | nat check failed and reported
+int ASSERT_FAILED | assert failed
+int ET_FAILED | et failed
+int EVENT_TYPE_FAILED | event type failed
+int EXECUTE_FAILED | execute failed
+int FAIL_ENDED | fail ended
+int RESP_FAILED | resp failed
+int STAT_FAILED | stat failed
+int STATUS_FAILED | status failed
+int TS_FAILED | ts failed
+java.io.IOException failed | failed
+long failure_time_last_updated | failure time last updated
+long last_reported_total_received_failed | last reported total received failed

@@ -1,0 +1,26 @@
+byte[] value_bytes | value bytes
+com.aelitis.azureus.core.dht.transport.DHTTransportValue[][] value_sets | value sets
+float valueDown | value down
+float valueUp | value up
+int valueChoice | value choice
+int[] value_details_snapshot | value details snapshot
+int VALUE_OCTETS | value octets
+int VALUE_OID | value oid
+int value_replies | value replies
+int VALUE_SIZE_INC | value size inc
+int VALUE_SLOT | value slot
+int VALUE_UTF8 | value utf 8
+int VALUE_VERSION_CHUNK | value version chunk
+java.lang.Object value1 | value 1
+java.lang.Object value2 | value 2
+java.lang.Object[] valueArray | value array
+java.lang.Object valueData | value data
+java.lang.String VALUE_ADDED_TAX_PERCENTAGE | value added tax percentage
+java.lang.String VALUE_ATTRIBUTE | value attribute
+java.lang.String valueAxisLabelExpression | value axis label expression
+java.lang.String valueClassName | value class name
+java.lang.String valueExpression | value expression
+java.math.BigDecimal valueAddedTaxPercentage | value added tax percentage
+java.util.HashMap<java.lang.String,java.util.Set<java.lang.Enum>> valueToEnumMap | value to enum map
+org.hsqldb.Expression[] valueList | value list
+org.hsqldb.lib.IntValueHashMap valueTokens | value tokens

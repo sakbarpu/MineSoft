@@ -1,0 +1,11 @@
+freemind.controller.actions.generated.instance.NodeListMember createNodeListMember() | create node list member
+java.util.List getNodeListMember() | get node list member
+Member readMember(QObjectInputStream;) | read member
+String printPopMember(QBitSet;) | print pop member
+void getMember() | get member
+void sendToMember(QInetSocketAddress;[B) | send to member
+void setMember() | set member
+void setObjectMember(ObjectMember p_member) | set object member
+void TileMapLRUMember(QTileMap;QPoint;QRaster;) | tile map lru member
+void validateAddMember(String groupIDs, String personIDs) | validate add member
+void writeMember(QObjectOutputStream;QMember;) | write member

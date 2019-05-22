@@ -1,0 +1,8 @@
+boolean isStructuredCacheEntriesEnabled() | is structured cache entries enabled
+void fireTreeStructureChanged(QObject;[QObject;[I[QObject;) | fire tree structure changed
+void nodeStructureChanged(QMindMapNode;) | node structure changed
+void nodeStructureChanged(QTreeNode;) | node structure changed
+void setStructuredCacheEntriesEnabled(Z) | set structured cache entries enabled
+void tableStructureChanged() | table structure changed
+void treeStructureChanged(Qjavax.swing.event.TreeModelEvent;) | tree structure changed
+void treeStructureChanged(QTreeModelEvent;) | tree structure changed

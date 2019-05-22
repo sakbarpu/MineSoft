@@ -1,0 +1,4 @@
+int GAME_PLAYER_CONNECTED | game player connected
+int GAME_PLAYER_DISCONNECTED | game player disconnected
+java.lang.String ICON_DEVICE_PLAYER_MOUNTED | icon device player mounted
+java.lang.String ICON_DEVICE_PLAYER_UNMOUNTED | icon device player unmounted

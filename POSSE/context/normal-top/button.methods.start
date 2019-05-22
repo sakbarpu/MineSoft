@@ -1,0 +1,3 @@
+void ButtonActionBuilder(QButton;I) | button action builder
+void ButtonAction(QAction;) | button action
+void ButtonActionWriter(QTagWriter;IQVector;) | button action writer

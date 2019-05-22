@@ -1,0 +1,2 @@
+String libraryTipText() | library tip text
+void LibraryInfo(QString;QString;QString;) | library info

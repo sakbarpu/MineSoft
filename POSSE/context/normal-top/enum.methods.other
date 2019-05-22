@@ -1,0 +1,3 @@
+String getEnumName(QEnum;) | get enum name
+String getEnumValue(QEnum;) | get enum value
+void addEnumClass(QString;QClass;) | add enum class

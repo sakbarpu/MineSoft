@@ -1,0 +1,19 @@
+boolean DL_VITALITY_CONSTANT | dl vitality constant
+boolean isFixedConstantValueList | is fixed constant value list
+byte CONSTANT_Class | constant class
+byte CONSTANT_Double | constant double
+byte CONSTANT_Fieldref | constant fieldref
+byte CONSTANT_Float | constant float
+byte CONSTANT_Integer | constant integer
+byte CONSTANT_InterfaceMethodref | constant interface methodref
+byte CONSTANT_Long | constant long
+byte CONSTANT_Methodref | constant methodref
+byte CONSTANT_NameAndType | constant name and type
+byte CONSTANT_String | constant string
+byte CONSTANT_Utf8 | constant utf 8
+double[] itsConstantList | its constant list
+edu.rice.cs.drjava.config.VectorOption<java.io.File> _settingConfigConstant | setting config constant
+int ConstantPoolSize | constant pool size
+int itsConstantListSize | its constant list size
+long FileHeaderConstant | file header constant
+org.mozilla.classfile.ConstantPool itsConstantPool | its constant pool

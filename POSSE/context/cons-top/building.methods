@@ -1,0 +1,17 @@
+CONS BuildingBlock() | building block
+CONS BuildingBlock(QInputStream;) | building block
+CONS BuildingBlock([QString;) | building block
+CONS BuildingBlock(QVector;) | building block
+CONS Building(IIQString;QVector;) | building
+CONS BuildingProductionPanel(QCanvas;QUnit;) | building production panel
+CONS Building(QCoords;QIBoard;I) | building
+CONS Building(QGame;QColony;QBuildingType;) | building
+CONS Building(QGame;QElement;) | building
+CONS Building(QGame;QString;) | building
+CONS Building(QGame;QXMLStreamReader;) | building
+CONS BuildingTarget(QCoords;QIBoard;I) | building target
+CONS BuildingTarget(QCoords;QIBoard;Z) | building target
+CONS BuildingTemplate(IQVector;) | building template
+CONS BuildingTemplate(IQVector;III) | building template
+CONS BuildingType(I) | building type
+CONS ColopediaBuildingAction(QFreeColClient;) | colo pe dia building action

@@ -1,0 +1,3 @@
+double decorationRadius | decoration radius
+org.jhotdraw.draw.AttributeKey<org.jhotdraw.draw.LineDecoration> END_DECORATION | end decoration
+org.jhotdraw.draw.AttributeKey<org.jhotdraw.draw.LineDecoration> START_DECORATION | start decoration

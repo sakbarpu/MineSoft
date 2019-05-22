@@ -1,0 +1,2 @@
+CONS ReflectionOptimizerImpl(QInstantiationOptimizerAdapter;QAccessOptimizerAdapter;) | reflection optimizer impl
+CONS ReflectionOptimizerImpl(QInstantiationOptimizer;QAccessOptimizer;) | reflection optimizer impl

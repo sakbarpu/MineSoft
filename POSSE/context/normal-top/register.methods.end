@@ -1,0 +1,6 @@
+int getLocalBlockRegister(QNode;) | get local block register
+ObjectName preRegister(MBeanServer server, ObjectName name) | pre register
+void clearTaskRegister() | clear task register
+void deRegister() | de register
+void pushRegister(I) | push register
+void storeInRegister(I) | store in register

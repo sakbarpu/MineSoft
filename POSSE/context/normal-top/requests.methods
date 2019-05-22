@@ -1,0 +1,39 @@
+boolean createRequests() | create requests
+boolean createRequests(QVector<QReferenceType;>;) | create requests
+Enumeration enumerateRequests() | enumerate requests
+int getMaximumNumberOfRequests() | get maximum number of requests
+int getMaxNbRequests() | get max nb requests
+int getMaxRequests() | get max requests
+int getNbRequests() | get nb requests
+int getNoOfInitiativeRerollRequests() | get no of initiative reroll requests
+int getNumberOfRequests() | get number of requests
+int getPoolRequestsCount() | get pool requests count
+int selectRequests(QList;) | select requests
+List getExpiredRequests() | get expired requests
+List getRequests() | get requests
+List[] getRequests() | get requests
+long getIncomingRequests() | get incoming requests
+long getRequestsTimedOut() | get requests timed out
+long getTotalAggregatedRequests() | get total aggregated requests
+long getTotalRequests() | get total requests
+long getTotalSingleRequests() | get total single requests
+Vector<QT;> getRequests() | get requests
+void addNewOutboundRequests() | add new outbound requests
+void addRequests(QList;) | add requests
+void allocateRequests() | allocate requests
+void cancelAllRequests() | cancel all requests
+void cancelRequests() | cancel requests
+void checkRequests() | check requests
+void _createRequests() | create requests
+void _createRequests(QVector<QReferenceType;>;) | create requests
+void flushRequests(QflushListener;) | flush requests
+void flushRequestsSupport(QflushListener;) | flush requests support
+void _initializeRequests() | initialize requests
+void _initializeRequests(QVector<QReferenceType;>;) | initialize requests
+void _prepareRequests(QVector<QT;>;) | prepare requests
+void processRequests() | process requests
+void processRequests(QList;) | process requests
+void removeAllPieceRequests() | remove all piece requests
+void resendPendingRequests(Peer dest) | resend pending requests
+void resetRequestsTime(J) | reset requests time
+void submitBTRequests() | submit bt requests

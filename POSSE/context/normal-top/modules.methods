@@ -1,0 +1,4 @@
+Map getMapModules() | get map modules
+String listDebuggingModules(String id, DebugType types) | list debugging modules
+void addToMapModules(QString;QMapModule;) | add to map modules
+void saveInterpretersInfoModulesManager() | save interpreters info modules manager

@@ -1,0 +1,4 @@
+SimpleExpression like(QObject;) | like
+SimpleExpression like(QString;QMatchMode;) | like
+SimpleExpression like(QString;QObject;) | like
+SimpleExpression like(QString;QString;QMatchMode;) | like

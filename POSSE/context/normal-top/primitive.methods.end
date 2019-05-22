@@ -1,0 +1,7 @@
+boolean isPrimitive(QClass;) | is primitive
+GraphicPrimitive getPrimitive(II) | get primitive
+GraphicPrimitive getPrimitive(IIII) | get primitive
+GraphicPrimitive getPrimitive(QObject;) | get primitive
+Object getPrimitive(QElement;) | get primitive
+Object toPrimitive(QObject;) | to primitive
+Rectangle getPrimitive(QTaskActivity;) | get primitive

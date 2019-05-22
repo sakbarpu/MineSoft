@@ -1,0 +1,8 @@
+int getMaxRecords() | get max records
+String getAllRecordsPublic() | get all records public
+Vector createRecords([B) | create records
+Vector createRecords(QInStream;) | create records
+void flushChangeRecords() | flush change records
+void processRecords(QVector;) | process records
+void setMaxRecords(I) | set max records
+void updateJMenuItemReportMaxRecords() | update j menu item report max records

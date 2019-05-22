@@ -1,0 +1,5 @@
+CONS BoundaryPanelDistributed(II) | boundary panel distributed
+CONS BoundaryPanel(II) | boundary panel
+CONS BoundaryVisualizer() | boundary visualizer
+CONS SetBoundsEdit(QAbstractFigure;QPoint2D.Double;QPoint2D.Double;QPoint2D.Double;QPoint2D.Double;) | set bounds edit
+CONS TaskBoundaryChartItem(QTask;Z) | task boundary chart item

@@ -1,0 +1,6 @@
+int getNotResolvedKeysCount() | get not resolved keys count
+int getResolvedKeysCount() | get resolved keys count
+String getResolvedField(QString;QBibtexEntry;QBibtexDatabase;) | get resolved field
+Type getSemiResolvedType(QSessionFactoryImplementor;) | get semi resolved type
+void cacheResolvedMethod(Class clas, Class types, Method method) | cache resolved method
+void setResolvedConstant(QString;) | set resolved constant

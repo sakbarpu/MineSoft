@@ -1,0 +1,84 @@
+boolean AUTO_MODE_DEFAULT | auto mode default
+boolean bIsTextDefault | b is text default
+boolean BOOLEAN_DEFAULT | boolean default
+boolean CONFIG_PASSWORD_ENABLE_DEFAULT | config password enable default
+boolean CONFIG_UPNP_ENABLE_DEFAULT | config upnp enable default
+boolean GET_PI_METHODS_OPERATIONAL_FLAG_DEFAULT | get pi methods operational flag default
+boolean POSIX_MANDITORY_FILELOCK_DEFAULT | posix manditory file lock default
+boolean prefer_udp_default | prefer udp default
+boolean rememberByDefault | remember by default
+boolean TRACK_LIMITED_DEFAULT | track limited default
+boolean TRACK_NORMAL_DEFAULT | track normal default
+boolean USE_NIO_FILELOCK_DEFAULT | use nio file lock default
+boolean useSchemaDefault | use schema default
+byte[] CONFIG_PASSWORD_DEFAULT | config password default
+double DOUBLE_DEFAULT | double default
+double REDUCE_FACTOR_DEFAULT | reduce factor default
+float FLOAT_DEFAULT | float default
+int ANNOUNCE_MIN_DEFAULT | announce min default
+int B_DEFAULT | b default
+int CACHE_AT_CLOSEST_N_DEFAULT | cache at closest n default
+int CACHE_REPUBLISH_INTERVAL_DEFAULT | cache republish interval default
+int choices_default | choices default
+int CONFIG_PORT_DEFAULT | config port default
+int INT_DEFAULT | int default
+int INTERESTING_PUB_MAX_DEFAULT | interesting pub max default
+int K_DEFAULT | k default
+int LOOKUP_CONCURRENCY_DEFAULT | lookup concurrency default
+int MAX_REP_PER_NODE_DEFAULT | max rep per node default
+int MAX_SIZE_X_DEFAULT | max size x default
+int MIN_ADDRESS_CHANGE_PERIOD_INIT_DEFAULT | min address change period init default
+int MIN_ADDRESS_CHANGE_PERIOD_NEXT_DEFAULT | min address change period next default
+int MIN_SIZE_X_DEFAULT | min size x default
+int MIN_SIZE_Y_DEFAULT | min size y default
+int MODE_DEFAULT | mode default
+int ORIGINAL_REPUBLISH_INTERVAL_DEFAULT | original republish interval default
+int POLL_RETRIES_DEFAULT | poll retries default
+int PT_DEFAULT | pt default
+int R_DEFAULT | r default
+int RECONNECT_DEFAULT | reconnect default
+int rowHeightDefault | row height default
+int SEARCH_CONCURRENCY_DEFAULT | search concurrency default
+int SET_DEFAULT | set default
+int SW_SHOWDEFAULT | sw show default
+int TARGET_REQUEST_SIZE_DEFAULT | target request size default
+int TIMER_BASE_DEFAULT | timer base default
+int TYPE_SUB_DEFAULT | type sub default
+int VERSION_DEFAULT | version default
+java.lang.String ATTRIBUTE_isDefault | attribute is default
+java.lang.String CONFIG_ACCESS_DEFAULT | config access default
+java.lang.String CONFIG_BIND_IP_DEFAULT | config bind ip default
+java.lang.String CONFIG_HOME_PAGE_DEFAULT | config home page default
+java.lang.String CONFIG_MODE_DEFAULT | config mode default
+java.lang.String CONFIG_PROTOCOL_DEFAULT | config protocol default
+java.lang.String CONFIG_REFERRER_DEFAULT | config referrer default
+java.lang.String CONFIG_ROOT_DIR_DEFAULT | config root dir default
+java.lang.String CONFIG_ROOT_RESOURCE_DEFAULT | config root resource default
+java.lang.String CONFIG_USER_DEFAULT | config user default
+java.lang.String CONF_PERSPECTIVE_DEFAULT | conf perspective default
+java.lang.String DATE_FORMAT_DEFAULT | date format default
+java.lang.String _op1Default | op 1 default
+java.lang.String _op2Default | op 2 default
+java.lang.String _op3Default | op 3 default
+java.lang.String _op4Default | op 4 default
+java.lang.String OSX_DEFAULT | osx default
+java.lang.String REPORTER_TYPE_DEFAULT | reporter type default
+java.lang.String site_prefix_default | site prefix default
+java.lang.String STRING_DEFAULT | string default
+java.lang.String T_DEFAULT | t default
+java.lang.String TT_DECENTRAL_DEFAULT | tt decentral default
+java.lang.String TT_EXTERNAL_DEFAULT | tt external default
+java.lang.String WIN_DEFAULT | win default
+java.lang.Thread tDefault | t default
+java.net.URL urlDefault | url default
+java.util.Calendar tempCalDefault | temp cal default
+java.util.Locale LOCALE_DEFAULT | locale default
+javax.swing.JButton jbDefault | jb default
+javax.swing.JButton jButtonDefault | j button default
+javax.swing.JCheckBox jcbDefault | jcb default
+javax.swing.JCheckBox overrideDefault | override default
+javax.swing.JLabel jlDefault | jl default
+javax.swing.JTextField jtfDefault | jtf default
+long LONG_DEFAULT | long default
+long MIN_SPEED_DEFAULT | min speed default
+org.jajuk.base.Cover coverDefault | cover default

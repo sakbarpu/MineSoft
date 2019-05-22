@@ -1,0 +1,4 @@
+char input | input
+int INPUT | input
+java.io.File input | input
+java.lang.String input | input

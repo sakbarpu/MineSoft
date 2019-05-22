@@ -1,0 +1,12 @@
+int getButtonShow() | get button show
+int getWhatToShow() | get what to show
+Object skinObjectInitialShow(QSWTSkinObject;QObject;) | skin object initial show
+Show xgetShow() | xget show
+String initShow(String name) | init show
+void fireOnShow() | fire on show
+void onShow(QJPopupWindow;) | on show
+void readAndShow(QInputStream;) | read and show
+void registerAndShow(QString;QSidePaneComponent;) | register and show
+void rowShow(QListRow;) | row show
+void setButtonShow(I) | set button show
+void setTextTableShow(int index) | set text table show

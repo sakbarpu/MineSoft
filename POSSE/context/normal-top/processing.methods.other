@@ -1,0 +1,13 @@
+boolean isProcessingLog() | is processing log
+boolean isProcessingScript() | is processing script
+boolean removeProcessingInstruction(QString;) | remove processing instruction
+Element addProcessingInstruction(QString;QMap;) | add processing instruction
+Element addProcessingInstruction(QString;QString;) | add processing instruction
+void afterProcessingGrid() | after processing grid
+void afterProcessingTimeFrames() | after processing time frames
+void beforeProcessingGrid(I) | before processing grid
+void beforeProcessingTimeFrames() | before processing time frames
+void fireAfterProcessingTimeFrames() | fire after processing time frames
+void fireBeforeProcessingTimeFrames() | fire before processing time frames
+void newProcessingInstruction(QString;QReader;) | new processing instruction
+void setProcessingInstructions(QList;) | set processing instructions

@@ -1,0 +1,225 @@
+boolean bDirectories | b directories
+boolean bDirty | b dirty
+boolean bSkipDataDirModify | b skip data dir modify
+boolean bufferDirty | buffer dirty
+boolean config_dirty | config dirty
+boolean create_from_dir | create from dir
+boolean direct | direct
+boolean direct_invoke | direct invoke
+boolean dirty | dirty
+boolean dirtyBoard | dirty board
+boolean dirtyLine | dirty line
+boolean fluff_dirty | fluff dirty
+boolean has_Direction | has direction
+boolean inDirectCallFunction | in direct call function
+boolean isAdminDirect | is admin direct
+boolean is_dirty | is dirty
+boolean isDirty | is dirty
+boolean isDocDirty | is doc dirty
+boolean TRACE_DIRECT_BYTE_BUFFERS | trace direct byte buffers
+com.aelitis.azureus.core.dht.DHTStorageBlock[] key_blocks_direct_cow | key blocks direct cow
+edu.rice.cs.drjava.config.BooleanOption STICKY_INTERACTIONS_DIRECTORY | sticky interactions directory
+edu.rice.cs.drjava.config.FileOption LAST_DIRECTORY | last directory
+edu.rice.cs.drjava.config.FileOption LAST_INTERACTIONS_DIRECTORY | last interactions directory
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> EXTERNAL_SAVED_WORKDIRS | external saved work dirs
+edu.rice.cs.util.swing.DirectoryChooser _dirChooser | dir chooser
+edu.rice.cs.util.swing.DirectorySelectorComponent _buildDirSelector | build dir selector
+edu.rice.cs.util.swing.DirectorySelectorComponent _workDirSelector | work dir selector
+int ASSERT_DIRECT_EXEC_WITH_PARAM | assert direct exec with param
+int DIR_CHECK_NAME | dir check name
+int DIRECTCALL_PROP | direct call prop
+int direct_calls_ok | direct calls ok
+int direct_data_size | direct data size
+int DIRECT_INJECT_PEER_MAX | direct inject peer max
+int direction | direction
+int _Direction | direction
+int directoryName | directory name
+int directTargetIndex | direct target index
+int DIR_EXCLUDE | dir exclude
+int dirHandling | dir handling
+int DIR_INCLUDE | dir include
+int dirty | dirty
+int FIELD_DIRECTORY | field directory
+int iNbDirsBeforeRefresh | i nb dirs before refresh
+int MAX_DIRS | max dirs
+int MAX_FILES_PER_DIR | max files per dir
+int offBoardDirection | off board direction
+int retreatedDirection | retreated direction
+int[] sortDirection | sort direction
+int ST_DIR | st dir
+int ST_DIR_CONTENTS | st dir contents
+int VD_DIRECT_SIZE | vd direct size
+int windDirection | wind direction
+java.awt.Choice choOffBoardDirection | cho off board direction
+java.awt.event.ActionListener _actionDirector | action director
+java.awt.Label labOffBoardDirection | lab off board direction
+java.io.File ACTIVE_DIR | active dir
+java.io.File _activeDirectory | active directory
+java.io.File _baseDir | base dir
+java.io.File _buildDir | build dir
+java.io.File buildDir | build dir
+java.io.File configDir | config dir
+java.io.File controlFileDir | control file dir
+java.io.File created_dirs_leaf | created dirs leaf
+java.io.File currentDirectory | current directory
+java.io.File data_dir | data dir
+java.io.File debug_dir | debug dir
+java.io.File debug_save_dir | debug save dir
+java.io.File download_dir | download dir
+java.io.File fDir | f dir
+java.io.File install_dir | install dir
+java.io.File myStartDirectory | my start directory
+java.io.File _parentDir | parent dir
+java.io.File reportDirectory | report directory
+java.io.File share_dir | share dir
+java.io.File _srcDir | src dir
+java.io.File srcDir | src dir
+java.io.File _suggestedDir | suggested dir
+java.io.File _tempDir | temp dir
+java.io.File tmp_dir | tmp dir
+java.io.File _workDir | work dir
+java.io.File _workingDir | working dir
+java.io.File _workingDirectory | working directory
+java.lang.Integer keyDirectObject | key direct object
+java.lang.String CFG_SORTDIRECTION | cfg sort direction
+java.lang.String config_dir | config dir
+java.lang.String CONFIG_ROOT_DIR | config root dir
+java.lang.String CONFIG_ROOT_DIR_DEFAULT | config root dir default
+java.lang.String CONF_TAGS_USE_PARENT_DIR | conf tags use parent dir
+java.lang.String DATA_DIRECTORY | data directory
+java.lang.String default_open_dir | default open dir
+java.lang.String default_save_dir | default save dir
+java.lang.String defaultSaveDirectory | default save directory
+java.lang.String defDirectory | def directory
+java.lang.String destinationDir | destination dir
+java.lang.String DEVICE_TYPE_DIRECTORY | device type directory
+java.lang.String _dir | dir
+java.lang.String dir | dir
+java.lang.String DIRECT_CALL_PARENT_FIELD | direct call parent field
+java.lang.String direction | direction
+java.lang.String DIRECTION | direction
+java.lang.String directoryname | directory name
+java.lang.String DIRECTORYNAME_OPTION_ID | directory name option id
+java.lang.String directoryPath | directory path
+java.lang.String dirname | dirname
+java.lang.String dirName | dir name
+java.lang.String DIR_SEP | dir sep
+java.lang.String dir_str | dir str
+java.lang.String downloaddir | download dir
+java.lang.String _evaluatedWorkDir | evaluated work dir
+java.lang.String FILE_DJ_DIR | file dj dir
+java.lang.String FILE_JAJUK_DIR | file jajuk dir
+java.lang.String FTPDirectory | ftp directory
+java.lang.String homeDirectory | home directory
+java.lang.String ICON_DEVICE_DIRECTORY_MOUNTED_SMALL | icon device directory mounted small
+java.lang.String ICON_DEVICE_DIRECTORY_UNMOUNTED_SMALL | icon device directory unmounted small
+java.lang.String ICON_DIRECTORY_DESYNCHRO | icon directory desynchro
+java.lang.String ICON_DIRECTORY_SYNCHRO | icon directory synchro
+java.lang.String ICON_OPEN_DIR | icon open dir
+java.lang.String IMAGE_DIR | image dir
+java.lang.String IREPORT_DEFAULT_HOME_DIR | ireport default home dir
+java.lang.String IREPORT_HOME_DIR | ireport home dir
+java.lang.String IREPORT_TMP_DIR | ireport tmp dir
+java.lang.String IREPORT_USER_HOME_DIR | ireport user home dir
+java.lang.String JAVA_EXEC_DIR | java exec dir
+java.lang.String JDirect_MacOSX | j direct mac osx
+java.lang.String log_dir | log dir
+java.lang.String LOG_DIR | log dir
+java.lang.String LOG_DIRECTORY | log directory
+java.lang.String MECH_DIRECTORY | mech directory
+java.lang.String MENU_ID_SHARE_DIR | menu id share dir
+java.lang.String MENU_ID_SHARE_DIR_CONTENT | menu id share dir content
+java.lang.String MENU_ID_SHARE_DIR_CONTENT_RECURSE | menu id share dir content recurse
+java.lang.String outputDir | output dir
+java.lang.String OUTPUT_DIRECTORY | output directory
+java.lang.String plugin_dir | plugin dir
+java.lang.String pluginDir | plugin dir
+java.lang.String sAppPluginDir | s app plugin dir
+java.lang.String sCountryImagesDir | s country images dir
+java.lang.String SCRIPTLET_OUTPUT_DIRECTORY | scriptlet output directory
+java.lang.String sDestDir | s dest dir
+java.lang.String sDestSubDir | s dest sub dir
+java.lang.String sLogDir | s log dir
+java.lang.String sourcesDir | sources dir
+java.lang.String stringWindDirection | string wind direction
+java.lang.String SUGGESTED_DIR_NAME | suggested dir name
+java.lang.String sUserPluginDir | s user plugin dir
+java.lang.String UPDATE_DIR | update dir
+java.lang.String workingDir | working dir
+java.lang.String XML_DIRECTORIES | xml directories
+java.lang.String XML_DIRECTORY | xml directory
+java.lang.String XML_DIRECTORY_DEFAULT_COVER | xml directory default cover
+java.lang.String XML_DIRECTORY_PARENT | xml directory parent
+java.lang.String xslDir | xsl dir
+java.util.ArrayList alDirectories | al directories
+java.util.ArrayList alDirs | al dirs
+java.util.HashMap hmDirectoryDirectoryNode | hm directory directory node
+java.util.HashMap<java.lang.String,java.lang.String> hmWrongRightDirectoryID | hm wrong right directory id
+java.util.Hashtable possibleDirectCalls | possible direct calls
+java.util.List created_dirs | created dirs
+java.util.List directories | directories
+java.util.Map direct_originator_map_may_be_null | direct originator map may be null
+java.util.Set<org.jhotdraw.draw.Figure> dirtyFigures | dirty figures
+javax.swing.Action printDirect | print direct
+javax.swing.event.DocumentListener _workDirDocumentListener | work dir document listener
+javax.swing.ImageIcon dirtyDocumentIcon | dirty document icon
+javax.swing.JButton _commandWorkDirBtn | command work dir btn
+javax.swing.JButton jButtonBackupDirectory | j button backup directory
+javax.swing.JButton jButtonCompilationDir | j button compilation dir
+javax.swing.JButton jButtonVirtualizerDirBrowse | j button virtualizer dir browse
+javax.swing.JButton reverseDirectionButton | reverse direction button
+javax.swing.JCheckBox jcbUseParentDir | jcb use parent dir
+javax.swing.JCheckBox jCheckBoxSubDir | j check box sub dir
+javax.swing.JCheckBox jCheckBoxUseCurrentFilesDirectoryForCompiles | j check box use current files directory for compiles
+javax.swing.JComboBox choOffBoardDirection | cho off board direction
+javax.swing.JComboBox jComboBoxLineDirection | j combo box line direction
+javax.swing.JLabel jLabelDefaultBackupDir | j label default backup dir
+javax.swing.JLabel jLabelReportVirtualizerDirectory | j label report virtualizer directory
+javax.swing.JLabel labOffBoardDirection | lab off board direction
+javax.swing.JMenuItem jmiDirAddFavorites | jmi dir add favorites
+javax.swing.JMenuItem jmiDirCDDBQuery | jmi dir cddb query
+javax.swing.JMenuItem jmiDirCopy | jmi dir copy
+javax.swing.JMenuItem jmiDirCreatePlaylist | jmi dir create playlist
+javax.swing.JMenuItem jmiDirCut | jmi dir cut
+javax.swing.JMenuItem jmiDirDelete | jmi dir delete
+javax.swing.JMenuItem jmiDirDesynchro | jmi dir desynchro
+javax.swing.JMenuItem jmiDirExport | jmi dir export
+javax.swing.JMenuItem jmiDirPaste | jmi dir paste
+javax.swing.JMenuItem jmiDirPlay | jmi dir play
+javax.swing.JMenuItem jmiDirPlayRepeat | jmi dir play repeat
+javax.swing.JMenuItem jmiDirPlayShuffle | jmi dir play shuffle
+javax.swing.JMenuItem jmiDirProperties | jmi dir properties
+javax.swing.JMenuItem jmiDirPush | jmi dir push
+javax.swing.JMenuItem jmiDirRefactor | jmi dir refactor
+javax.swing.JMenuItem jmiDirResynchro | jmi dir res yn ch ro
+javax.swing.JMenuItem jmiFilePlayDirectory | jmi file play directory
+javax.swing.JPanel jPanelCompileDir | j panel compile dir
+javax.swing.JPanel jPanelCompileDir1 | j panel compile dir 1
+javax.swing.JPanel jPanelCompileDir2 | j panel compile dir 2
+javax.swing.JPopupMenu jmenuDir | jmenu dir
+javax.swing.JTextField jTextFieldBackupDirectory | j text field backup directory
+javax.swing.JTextField jTextFieldCompilationDir | j text field compilation dir
+javax.swing.JTextField jTextFieldOutputDir | j text field output dir
+javax.swing.JTextField jTextFieldSourcesDir | j text field sources dir
+javax.swing.JTextField jTextFieldVirtualizerDir | j text field virtualizer dir
+javax.swing.JTextPane _commandWorkDirLine | command work dir line
+javax.swing.JTextPane _commandWorkDirLinePreview | command work dir line preview
+javax.swing.text.StyledDocument _commandWorkDirLineDoc | command work dir line doc
+long DIRTY_CACHE_WRITE_MAX_AGE | dirty cache write max age
+long F_DIRECT_FIRE | f direct fire
+net.sourceforge.ganttproject.gui.options.model.StringOption myFtpDirectoryNameOption | my ftp directory name option
+net.sourceforge.ganttproject.gui.options.model.StringOption myWorkingDirectory | my working directory
+net.sourceforge.ganttproject.time.DateFrameable myDirectFrameable | my direct frameable
+net.sourceforge.ganttproject.time.TimeUnit myDirectAtomUnit | my direct atom unit
+org.bouncycastle.asn1.DERObjectIdentifier SubjectDirectoryAttributes | subject directory attributes
+org.gudy.azureus2.core3.config.StringList dirList | dir list
+org.gudy.azureus2.core3.download.impl.DownloadManagerDefaultPaths.TargetSpecification[] DEFAULT_DIRS | default dirs
+org.gudy.azureus2.core3.util.FrequencyLimitedDispatcher dirty_dispatcher | dirty dispatcher
+org.gudy.azureus2.platform.PlatformManagerCapabilities GetUserDataDirectory | get user data directory
+org.hsqldb.util.TableSorter.Directive EMPTY_DIRECTIVE | empty directive
+org.jajuk.base.Directory dirCurrent | dir current
+org.jajuk.base.Directory directory | directory
+org.jajuk.base.Directory dParentDirectory | d parent directory
+org.jajuk.util.JajukFileFilter dirFilter | dir filter
+org.mozilla.javascript.ObjArray directCallTargets | direct call targets
+plugins.time.TableSorter.Directive EMPTY_DIRECTIVE | empty directive

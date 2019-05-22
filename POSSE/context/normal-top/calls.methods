@@ -1,0 +1,12 @@
+ArrayList<[QString;> parseMethodsCalls(QString;) | parse methods calls
+boolean supportsCatalogsInProcedureCalls() | supports catalogs in procedure calls
+boolean supportsSchemasInProcedureCalls() | supports schemas in procedure calls
+Object constructWithInterfaceBody(Class type, Object args, BSHBlock body, CallStack callstack, Interpreter interpreter) | construct with interface body
+Object eval(CallStack callstack, Interpreter interpreter) | eval
+void ignoreCalls() | ignore calls
+void replaceBaseCalls(BaseCall theCalls) | replace base calls
+void reportCallsOnTerminal(String terminal, boolean flag) | report calls on terminal
+void setExpectedCreateCallExpectationCalls(int calls) | set expected create call expectation calls
+void setExpectedGetAttributeStringIntCalls(int calls) | set expected get attribute string int calls
+void testMultipleCallsToFindNext() | test multiple calls to find next
+void testParseMethodCalls() | test parse method calls

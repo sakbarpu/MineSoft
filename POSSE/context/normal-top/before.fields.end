@@ -1,0 +1,9 @@
+int DELETE_BEFORE | delete before
+int INSERT_BEFORE | insert before
+int NEW_SIBLING_BEFORE | new sibling before
+int UPDATE_BEFORE | update before
+java.lang.String sControlBefore | s control before
+java.lang.String T_BEFORE | t before
+java.util.Date notBefore | not before
+net.sourceforge.ganttproject.document.Document myDocumentBefore | my document before
+org.bouncycastle.asn1.DERGeneralizedTime _notBefore | not before

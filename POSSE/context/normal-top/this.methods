@@ -1,0 +1,53 @@
+boolean doHandleThisSite(QURL;) | do handle this site
+boolean isGetThis(QString;) | is get this
+boolean isKoThisRound() | is ko this round
+boolean isLoadableThisTurn() | is loadable this turn
+boolean isSelectableThisTurn() | is selectable this turn
+boolean isThisStepBackwards() | is this step backwards
+boolean isThisThreadSWT() | is this thread swt
+boolean isUnloadedThisTurn() | is unloaded this turn
+boolean isUsedThisRound() | is used this round
+boolean isWrittenToThisSession() | is written to this session
+boolean shouldDeployThisRound() | should deploy this round
+boolean trackThisEntitiesVisibilityInfo(QEntity;) | track this entities visibility info
+boolean wasThis(QString;) | was this
+Callable getElemFunctionAndThis(QObject;QObject;QContext;) | get elem function and this
+Callable getNameFunctionAndThis(QString;QContext;QScriptable;) | get name function and this
+Callable getPropFunctionAndThis(QObject;QString;QContext;) | get prop function and this
+Callable getValueFunctionAndThis(QObject;QContext;) | get value function and this
+Date getThisUpdate() | get this update
+DJClass getThis() | get this
+DJClass getThis(QString;) | get this
+FormatCharacterFileTask getThis() | get this
+HTTPResponse render(TransactionTracker TT, HTTPRequest req, WebSession thisSession) | render
+ImporterTopLevel realThis(QScriptable;QIdFunctionObject;) | real this
+int matchThisSizeOrBigger() | match this size or bigger
+NativeRegExp realThis(QScriptable;QIdFunctionObject;) | real this
+NativeScript realThis(QScriptable;QIdFunctionObject;) | real this
+NativeString realThis(QScriptable;QIdFunctionObject;) | real this
+Object readThisLine(String theLine) | read this line
+Object thisObj() | this obj
+String getThis(QString;) | get this
+Time getThisUpdate() | get this update
+ValueBoxDef _this(ORB orb) | this
+void addLoadThis() | add load this
+void addThisColumnSubMenu(I) | add this column sub menu
+void addThisColumnSubMenu(QString;QMenu;) | add this column sub menu
+void clearDeploymentThisRound() | clear deployment this round
+void copyNextGenToThisGen() | copy next gen to this gen
+void copyToClipboard(String thisData) | copy to clipboard
+void generateCallFunAndThis(QNode;) | generate call fun and this
+void generateFunctionAndThisObj(QNode;QNode;) | generate function and this obj
+void insert(Connection thisConnection) | insert
+void load(String thisFilePath) | load
+void matchThis(QString;) | match this
+void parseStage(String thisCommandLine) | parse stage
+void readThis(I) | read this
+void setKoThisRound(Z) | set ko this round
+void setThisStepBackwards(Z) | set this step backwards
+void setThisUpdate(QDate;) | set this update
+void setThisUpdate(QDERUTCTime;) | set this update
+void setThisUpdate(QTime;) | set this update
+void setUsedThisRound(Z) | set used this round
+void setWrittenToThisSession(Z) | set written to this session
+void umount(INode thisNode) | umount

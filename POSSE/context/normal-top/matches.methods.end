@@ -1,0 +1,12 @@
+boolean regionMatches(boolean ignoreCase, int toffset, String other, int ooffset, int len) | region matches
+boolean regionMatches(ZQSegment;I[C) | region matches
+boolean regionMatches(ZQSegment;IQString;) | region matches
+Object minMatches(QTransportHelper;QByteBuffer;I) | min matches
+String[] getMatches(QString;QString;) | get matches
+Vector getMatches() | get matches
+Vector<QString;> getClassMatches(QString;) | get class matches
+Vector<QString;> getFileMatches(QString;) | get file matches
+Vector<QString;> getMatches(QString;) | get matches
+void assertInteractionsMatches(QString;) | assert interactions matches
+void removeMatches(QBibtexEntry;) | remove matches
+void testMatches() | test matches

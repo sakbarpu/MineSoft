@@ -1,0 +1,10 @@
+boolean isAnonymousClass(QClass<*>;) | is anonymous class
+boolean _isAnonymousInnerClass(II) | is anonymous inner class
+byte[] getAnonymousPeerId(QString;I) | get anonymous peer id
+int _getAnonymousInnerClassIndex(I) | get anonymous inner class index
+void testAnonymousClassIndex() | test anonymous class index
+void testAnonymousInnerClass() | test anonymous inner class
+void testAnonymousInnerClassArg() | test anonymous inner class arg
+void testAnonymousInnerClassAssign() | test anonymous inner class assign
+void testInteractionsDefineAnonymousInnerClass() | test interactions define anonymous inner class
+void testParenthesizedAnonymousInnerClass() | test parenthesized anonymous inner class

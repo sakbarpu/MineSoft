@@ -1,0 +1,9 @@
+com.aelitis.azureus.plugins.startstoprules.defaultplugin.DefaultRankCalculator[] sortedArrayCache | sorted array cache
+com.eteks.sweethome3d.model.HomePieceOfFurniture.SortableProperty furnitureSortedProperty | furniture sorted property
+java.lang.String furnitureSortedPropertyName | furniture sorted property name
+java.util.List<com.eteks.sweethome3d.model.HomePieceOfFurniture> filteredAndSortedFurniture | filtered and sorted furniture
+java.util.List<com.eteks.sweethome3d.model.HomePieceOfFurniture> sortedHomeFurniture | sorted home furniture
+java.util.List<com.eteks.sweethome3d.model.Room> sortedHomeRooms | sorted home rooms
+java.util.List sortedRows | sorted rows
+long lLastSortedOn | l last sorted on
+org.gudy.azureus2.core3.util.AEMonitor sortedRows_mon | sorted rows mon

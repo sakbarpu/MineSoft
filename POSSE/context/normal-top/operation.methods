@@ -1,0 +1,56 @@
+AzureusCoreOperation createOperation(I) | create operation
+boolean getOperationMode() | get operation mode
+boolean hasQueuedOperations() | has queued operations
+boolean isCompactableOperation() | is compact able operation
+boolean isOperational() | is operational
+boolean operational() | operational
+int getDirtyOperations() | get dirty operations
+int getNrOfGoodOperations() | get nr of good operations
+int getNumOperations() | get num operations
+int getOperation() | get operation
+int getOperationType() | get operation type
+MockOperation getMockOperationByName(String name) | get mock operation by name
+Object refInvokeOperation(String requestedOperation, List args) | ref invoke operation
+OperationDesc getOperationsByName(String methodName) | get operations by name
+Operation getAntiOperation(QOperation;) | get anti operation
+Operation[] getGoodOperations(QBayesNet;QInstances;I) | get good operations
+Operation getOptimalOperation(QBayesNet;QInstances;) | get optimal operation
+Operation[] getOptimalOperations(QBayesNet;QInstances;II) | get optimal operations
+OperationInfo findOperation(Service endpoint, QName inMessageName) | find operation
+Shape getShapeOfOperation() | get shape of operation
+String getOperationId() | get operation id
+String getOperationID() | get operation id
+String getOperationSpec(I) | get operation spec
+String getOperationSystemName() | get operation system name
+String getOperationTxnState(QString;) | get operation txn state
+String nrOfGoodOperationsTipText() | nr of good operations tip text
+UndoOperation getRedoOperation() | get redo operation
+UndoOperation getUndoOperation() | get undo operation
+UnsignedInt64 get_RecoveredWriteOperations() | get recovered write operations
+void addFileInstallOperation(QFilePluginInstaller;) | add file install operation
+void addOperationListener(QAzureusCoreOperationListener;) | add operation listener
+void addUndoOperation(QUndoOperation;) | add undo operation
+void afterOperation(Z) | after operation
+void afterScrollOperation() | after scroll operation
+void cancelOperation() | cancel operation
+void createOperation(IQAzureusCoreOperationTask;) | create operation
+void DHTOperationListenerDemuxer(QDHTOperationListener;) | dht operation listener demuxer
+void doOperation(Z) | do operation
+void initialiseOperationDetailsGroup() | initialise operation details group
+void Operation() | operation
+void Operation(III) | operation
+void performOperation(QBayesNet;QInstances;QOperation;) | perform operation
+void performQueuedOperations() | perform queued operations
+void queueOperation(QObject;) | queue operation
+void refreshOperationDetails() | refresh operation details
+void registerOperation(QString;QString;) | register operation
+void registerOperationTxnMandatory(QString;) | register operation txn mandatory
+void registerOperationTxnNone(QString;) | register operation txn none
+void registerOperationTxnRequiresNew(QString;) | register operation txn requires new
+void removeOperationListener(QAzureusCoreOperationListener;) | remove operation listener
+void runOperation(MultiOperation op, IRodinElement sibling, String newName, IProgressMonitor monitor) | run operation
+void setNrOfGoodOperations(I) | set nr of good operations
+void setOperational(Z) | set operational
+void setSingleNodeOperation(QSingleNodeOperation;) | set single node operation
+void test_basic_operation_lower() | test basic operation lower
+void writeArithOp(int operation, GPR dstReg, int dstDisp, GPR srcReg) | write arith op

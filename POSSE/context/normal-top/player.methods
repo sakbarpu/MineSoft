@@ -1,0 +1,128 @@
+AIPlayer getAIPlayer() | get ai player
+boolean canAddNewPlayer() | can add new player
+boolean embeddedPlayerAvail() | embedded player avail
+boolean exec(String message, PlayerImpl player, SendTextMessage response) | exec
+boolean hasWon(BoundedUniverse u, byte playersColour) | has won
+boolean isAllPlayersReadyToLaunch() | is all players ready to launch
+boolean isCurrentPlayer(QPlayer;) | is current player
+boolean isHumanPlayersLeft() | is human players left
+boolean isNextPlayerInNewTurn() | is next player in new turn
+boolean isPlayerVictor(I) | is player victor
+boolean isPlayerVictor(QPlayer;) | is player victor
+boolean isSingleplayer() | is single player
+boolean playerNameInUse(QString;) | player name in use
+boolean runInMediaPlayer(QString;) | run in media player
+Class getPlayerImpl() | get player impl
+Element addPlayer(QElement;) | add player
+Element getVacantPlayers(QConnection;QElement;) | get vacant players
+Element playerReady(QElement;) | player ready
+Element removePlayer(QElement;) | remove player
+Element setCurrentPlayer(QDummyConnection;QElement;) | set current player
+Element setCurrentPlayer(QElement;) | set current player
+Enumeration getPlayers() | get players
+File getPlayer(String type) | get player
+HumanPlayer getHumanPlayer() | get human player
+Image getPlayerCamo(QPlayer;) | get player camo
+Integer getPlayerID() | get player id
+int getGoalPlayers() | get goal players
+int getMaximumPlayers() | get maximum players
+int getNextPlayerIndex() | get next player index
+int getNoOfPlayers() | get no of players
+int getNumberOfLivingHumanPlayers() | get number of living human players
+int getNumberOfPlayers() | get number of players
+int getPlayerId() | get player id
+int getPlayerNum() | get player num
+int getVictoryPlayerId() | get victory player id
+Iterator<Player> players() | players
+Iterator<QPlayer;> getPlayerIterator() | get player iterator
+List<QPlayer;> getEuropeanPlayers() | get european players
+List<QPlayer;> getPlayers() | get players
+List<QServerPlayer;> getOtherPlayers(QPlayer;) | get other players
+List<QString;> getVacantPlayers(QString;I) | get vacant players
+Map getPlayerDataMap(QDownloadManager;) | get player data map
+Packet createPlayerConnectPacket(I) | create player connect packet
+Packet createPlayerDonePacket(I) | create player done packet
+Packet createPlayerUpdatePacket(I) | create player update packet
+PlayerBase getPlayerBase() | get player base
+Player[] createPlayers(QProperties;) | create players
+PlayerExploredTile getPlayerExploredTile(QPlayer;) | get player explored tile
+Player getCurrentPlayer() | get current player
+Player getFirstPlayer() | get first player
+Player getLocalPlayer() | get local player
+Player getMyPlayer() | get my player
+Player getNextPlayer() | get next player
+Player getPlayer() | get player
+Player getPlayerAfter(QPlayer;) | get player after
+Player getPlayerByName(QString;) | get player by name
+Player getPlayer(I) | get player
+Player getPlayer(QString;) | get player
+Player getREFPlayer() | get ref player
+Player nextPlayer() | next player
+PlayerType getPlayerType() | get player type
+ServerPlayer addAIPlayer(QNation;) | add ai player
+ServerPlayer createREFPlayer(QServerPlayer;) | create ref player
+ServerPlayer getPlayer(QConnection;) | get player
+String getLastPlayerName() | get last player name
+String getPlayerName() | get player name
+Team getTeamForPlayer(QPlayer;) | get team for player
+Vector getPlayerEntities(QPlayer;) | get player entities
+Vector getPlayersVector() | get players vector
+void addPlayer(IQPlayer;) | add player
+void addPlayer(QPlayer;) | add player
+void announce(Container player, String args) | announce
+void calculatePlayerBVs() | calculate player b vs
+void changeLife(Player player, int newValue) | change life
+void changeRelationWithPlayer(QPlayer;QStance;) | change relation with player
+void createPlayerExploredTile(QPlayer;) | create player explored tile
+void gamePlayerChange(QGamePlayerChangeEvent;) | game player change
+void gamePlayerChat(QGamePlayerChatEvent;) | game player chat
+void movePlayerToSquare(Player player, Point destination) | move player to square
+void PlayerExploredTile(QPlayer;QTileItemContainer;) | player explored tile
+void PlayerExploredTile(QXMLStreamReader;) | player explored tile
+void receivePlayerDone(QPacket;I) | receive player done
+void receivePlayerInfo(QPacket;) | receive player info
+void receivePlayerInfo(QPacket;I) | receive player info
+void receivePlayerName(QPacket;I) | receive player name
+void refreshPlayerInfo() | refresh player info
+void refreshPlayerList() | refresh player list
+void refreshPlayerList(QJList;QClient;) | refresh player list
+void refreshPlayerList(QList;QClient;) | refresh player list
+void refreshPlayersTable() | refresh players table
+void removePlayer(I) | remove player
+void removePlayerInternal(Topic arg0) | remove player internal
+void removePlayer(QPlayer;) | remove player
+void resetActivePlayersDone() | reset active players done
+void resetPlayersDone() | reset players done
+void revealMapForAllPlayers() | reveal map for all players
+void sendPlayerInfo() | send player info
+void setCurrentPlayer(QPlayer;) | set current player
+void setGoalPlayers(I) | set goal players
+void setLastPlayerCamoName(QString;) | set last player camo name
+void setLastPlayerCategory(QString;) | set last player category
+void setLastPlayerColor(I) | set last player color
+void setLastPlayerName(QString;) | set last player name
+void setLocalPlayer(QPlayer;) | set local player
+void setMaximumPlayers(I) | set maximum players
+void setMyPlayer(QPlayer;) | set my player
+void setPlayer(IQPlayer;) | set player
+void setPlayerName(int no, String name) | set player name
+void setPlayerName(QString;) | set player name
+void setPlayerNum(I) | set player num
+void setPlayer(QServerPlayer;) | set player
+void setPlayerType(QPlayerType;) | set player type
+void setSinglePlayerOptions(Z) | set single player options
+void setSingleplayer(Z) | set single player
+void setSoundPlayer(QSoundPlayer;) | set sound player
+void setupPlayerInfo() | setup player info
+void setVictoryPlayerId(I) | set victory player id
+void showPlayerList() | show player list
+void SoundPlayerThread(QPlaylist;ZIII) | sound player thread
+void startSingleplayerGame(QString;IZI) | start single player game
+void transmitAllPlayerConnects(I) | transmit all player connects
+void transmitAllPlayerDones() | transmit all player don es
+void transmitAllPlayerUpdates() | transmit all player updates
+void updatePlayerChoice() | update player choice
+void updatePlayerExploredTile(QPlayer;) | update player explored tile
+void updatePlayerExploredTiles() | update player explored tiles
+void updatePlayer(QPlayer;) | update player
+void validatePlayerInfo(I) | validate player info

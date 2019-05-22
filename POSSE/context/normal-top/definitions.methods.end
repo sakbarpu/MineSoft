@@ -1,0 +1,15 @@
+boolean supportsCatalogsInIndexDefinitions() | supports catalogs in index definitions
+boolean supportsCatalogsInPrivilegeDefinitions() | supports catalogs in privilege definitions
+boolean supportsCatalogsInTableDefinitions() | supports catalogs in table definitions
+boolean supportsSchemasInIndexDefinitions() | supports schemas in index definitions
+boolean supportsSchemasInPrivilegeDefinitions() | supports schemas in privilege definitions
+boolean supportsSchemasInTableDefinitions() | supports schemas in table definitions
+ClusterDefinition[] getClusterDefinitions() | get cluster definitions
+List getDefinitions() | get definitions
+Map getFilterDefinitions() | get filter definitions
+void addStatsDefinitions([[QString;) | add stats definitions
+void flushDefinitions(QMovie;QSWFTagTypes;QSWFTagTypes;) | flush definitions
+void look_for_id_definitions([CIIZ) | look for id definitions
+void _putTextIntoDefinitions(QString;) | put text into definitions
+void saveCustomColumnDefinitions(QIGanttProject;QTransformerHandler;) | save custom column definitions
+void setClusterDefinitions([QClusterDefinition;) | set cluster definitions

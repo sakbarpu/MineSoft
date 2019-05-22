@@ -1,0 +1,6 @@
+CaseSensitiveFileMap getLinksEntry(QTOTorrent;) | get links entry
+List<QFileListEntry;> getExternalLinksForEntries(QList<QBibtexEntry;>;) | get external links for entries
+Vector getAllLinksFromMe(QMindMapNode;) | get all links from me
+Vector getAllLinksIntoMe(QMindMapNode;) | get all links into me
+Vector getAssignedLinksVector(QID_Registered;) | get assigned links vector
+void copyExternalLinksToDirectory(QList<QFileListEntry;>;QFile;QMetaData;QJProgressBar;ZQActionListener;) | copy external links to directory

@@ -1,0 +1,3 @@
+void addObservers(QVector;) | add observers
+void checkForObservers() | check for observers
+void setObserverList(ArrayList observers) | set observer list

@@ -1,0 +1,5 @@
+File[] getDefaultDirs() | get default dirs
+File[] getRelatedDirs(QDownloadManager;) | get related dirs
+void createDirs(QFile;) | create dirs
+void createParentDirs(Qjava.lang.String;) | create parent dirs
+void deleteDirs() | delete dirs

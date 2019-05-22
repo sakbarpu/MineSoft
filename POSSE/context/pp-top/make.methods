@@ -1,0 +1,6 @@
+ConfusionMatrix makeWeighted(QCostMatrix;) | make weighted
+double makePredictionBalanced(QInstance;) | make prediction balanced
+void jMenuItemHSMakeEqualActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item hs make equal action performed
+void jMenuItemVSMakeEqualActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item vs make equal action performed
+void makeSureFilesFacadeFilled(Z) | make sure files facade filled
+void makeTheSelected(QNodeView;) | make the selected

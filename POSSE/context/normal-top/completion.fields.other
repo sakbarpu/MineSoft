@@ -1,0 +1,8 @@
+int myCompletionPercentage | my completion percentage
+int taskCompletionPercentage | task completion percentage
+java.lang.Runnable _defaultInputCompletionCommand | default input completion command
+java.lang.Runnable _inputCompletionCommand | input completion command
+long FLAG_MOVE_ON_COMPLETION_DONE | flag move on completion done
+net.sourceforge.ganttproject.task.algorithm.RecalculateTaskCompletionPercentageAlgorithm myCompletionPercentageAlgorithm | my completion percentage algorithm
+net.sourceforge.ganttproject.task.TaskImpl.FieldChange myCompletionPercentageChange | my completion percentage change
+org.gudy.azureus2.pluginsimpl.local.download.DownloadEventNotifierImpl.DownloadCompletionNotifier download_completion_notifier | download completion notifier

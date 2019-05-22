@@ -1,0 +1,2 @@
+int[] pool_sizes | pool sizes
+org.hsqldb.store.ValuePoolHashMap[] poolList | pool list

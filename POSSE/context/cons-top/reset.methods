@@ -1,0 +1,2 @@
+CONS ResetCommand(QServer;) | reset command
+CONS UndoableResetGroups(QGroupSelector;QGroupTreeNode;) | undoable reset groups

@@ -1,0 +1,16 @@
+boolean doKeyword(QSegment;IC) | do keyword
+boolean isFunctionOrKeyword(QString;QString;QDialect;QSQLFunctionRegistry;) | is function or keyword
+boolean isKeyword(QString;) | is keyword
+boolean startsWithKeyword(QCollection<QString;>;) | starts with keyword
+int _findPrevKeyword(QString;QString;I) | find prev keyword
+int stringToKeyword(QString;) | string to keyword
+String getKeyword() | get keyword
+void addKeyword(QString;) | add keyword
+void addKeyword(QString;B) | add keyword
+void registerKeyword(QString;) | register keyword
+void removeKeyword(QString;) | remove keyword
+void setIncludeCiteKeyword(Z) | set include cite keyword
+void testEscapeAtFrontBeforeKeyword() | test escape at front before keyword
+void testWhitespaceKeyword() | test whitespace keyword
+void testWordCharKeyword() | test word char keyword
+void topicsByKeyword(SearchData sd) | topics by keyword

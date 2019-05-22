@@ -1,0 +1,33 @@
+boolean aggregateHasArgs(QString;QQueryTranslatorImpl;) | aggregate has args
+boolean handleCommandLineArgs([QString;) | handle command line args
+boolean sendArgs() | send args
+boolean sendArgs([QString;I) | send args
+Class[] getIViewClassArgs() | get i view class args
+Iterable<QString;> _getLinkArgs() | get link args
+List getArgs() | get args
+Object[] setUpArgs([D) | set up args
+String[] genWinArgs(QString;) | gen win args
+String[] getRestArgs() | get rest args
+String[] parseArgs(QString;) | parse args
+String[] processArgs([QString;) | process args
+void dumpArgs(QStringBuffer;[QString;) | dump args
+void generatePushWrappedArgs(QClassFileWriter;[QClass;I) | generate push wrapped args
+void handleArgs([QString;) | handle args
+void initializeArgs() | initialize args
+void parse_args([QString;) | parse args
+void processArgs(QAzureusCore;[QString;) | process args
+void processArgs([QString;QAzureusCore;QCommandLine;) | process args
+void sanitizeMasterJVMArgs(QJFrame;QString;QOptionListener<QString;>;) | sanitize master jvm args
+void sanitizeSlaveJVMArgs(QJFrame;QString;QOptionListener<QString;>;) | sanitize slave jvm args
+void setArgs(QList;) | set args
+void setArgs([QString;) | set args
+void setArgs(String args) | set args
+void setIViewClassArgs([QClass;) | set i view class args
+void testArgs() | test args
+void testInterpretJavaEscapedArgs() | test interpret java escaped args
+void testInterpretJavaQuotedEscapedArgs() | test interpret java quoted escaped args
+void testInterpretJavaSingleQuotedArgs() | test interpret java single quoted args
+void testTokenizeEscapedArgs() | test tokenize escaped args
+void testTokenizeQuotedEscapedArgs() | test tokenize quoted escaped args
+void testTokenizeSingleQuotedArgs() | test tokenize single quoted args
+void writer__setArgs(int rNumArgs, String rArgs) | writer  set args

@@ -1,0 +1,8 @@
+int DSV_CONSTCOLS_NULLCOL | dsv const cols null col
+int DSV_NULLREP_PRESENT | dsv null rep present
+int HsqlDateTime_null_date | hsql date time null date
+int HsqlDateTime_null_string | hsql date time null string
+int ID_NULL_VALUE | id null value
+int JDBC_NULL_STREAM | jdbc null stream
+java.lang.String DEFAULT_NULL_REP | default null rep
+java.lang.String T_NULLIF | t null if

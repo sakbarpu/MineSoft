@@ -1,0 +1,27 @@
+boolean isDebianPackageList(String path) | is debian package list
+boolean isPackageWord(I) | is package word
+boolean setPackageScope(QString;) | set package scope
+Object getPackageProperty(QString;QScriptable;) | get package property
+s_acs_acs getPackageDependencies(String s_baseDir, int i_subDirLevels, Outputter optr_dbg, String as_acceptPkgPre, boolean b_crashIfSelfDependent, FileFilter file_filter) | get package dependencies
+String displayPackageInfo(String pkgName) | display package info
+String getPackageDir(QString;) | get package dir
+String getPackageName() | get package name
+String getPackageNameFromDocument() | get package name from document
+String getPackageName(QString;) | get package name
+String getPackageQualifier() | get package qualifier
+void testCompilePackageAsField() | test compile package as field
+void testCompilePackageAsField2() | test compile package as field 2
+void testCompileWithPackageStatementInsideClass() | test compile with package statement inside class
+void testGetSourceRootPackageOneDeepValid() | test get source root package one deep valid
+void testGetSourceRootPackageThreeDeepInvalid() | test get source root package three deep invalid
+void testGetSourceRootPackageThreeDeepValid() | test get source root package three deep valid
+void testGetSourceRootPackageThreeDeepValidRelative() | test get source root package three deep valid relative
+void testPackageDependencies() | test package dependencies
+void testPackageExplore() | test package explore
+void testStringPackageRecognition() | test string package recognition
+void textGetPackageNameWithPackageStatementAfterImport() | text get package name with package statement after import
+void textPackageNameEmpty() | text package name empty
+void textPackageNameSimple() | text package name simple
+void textPackageNameWeird1() | text package name weird 1
+void textPackageNameWeird2() | text package name weird 2
+void XXXtestGetPackageDir() | xxx test get package dir

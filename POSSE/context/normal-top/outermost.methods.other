@@ -1,0 +1,2 @@
+int indexOfOutermostNode() | index of outermost node
+Point2D.Double getOutermostPoint() | get outermost point

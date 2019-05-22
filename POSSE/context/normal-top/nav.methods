@@ -1,0 +1,23 @@
+boolean isNaval() | is naval
+Collection<QINavigationListener<-QItemT;>;> getNavigatorListeners() | get navigator listeners
+DisplayManager<QINavigatorItem;> getNavPaneDisplayManager() | get nav pane display manager
+IDocumentNavigator<QItemT;> makeListNavigator() | make list navigator
+IDocumentNavigator<QItemT;> makeListNavigator(QIDocumentNavigator<QItemT;>;) | make list navigator
+IDocumentNavigator<QItemT;> makeTreeNavigator(QString;) | make tree navigator
+IDocumentNavigator<QItemT;> makeTreeNavigator(QString;QIDocumentNavigator<QItemT;>;QList<QPair<QString;QINavigatorItemFilter<QItemT;>;>;>;) | make tree navigator
+IDocumentNavigator<QOpenDefinitionsDocument;> getDocumentNavigator() | get document navigator
+int getNavigationKeys() | get navigation keys
+List<QAbstractUnit;> getNavalUnits() | get naval units
+MoveType getNavalMoveType(QTile;QTile;I) | get naval move type
+String fixPathForNavigator(QString;) | fix path for navigator
+void addDocToNavigator(QOpenDefinitionsDocument;) | add doc to navigator
+void addNavigationListener(QINavigationListener<-QItemT;>;) | add navigation listener
+void giveNavalMissions() | give naval missions
+void _hideNavigationPane() | hide navigation pane
+void migrateNavigatorItems(QIDocumentNavigator<QItemT;>;QIDocumentNavigator<QItemT;>;) | migrate navigator items
+void NavigationNextMapAction(QController;) | navigation next map action
+void NavigationPanel() | navigation panel
+void NavigationPreviousMapAction(QController;) | navigation previous map action
+void removeNavigationListener(QINavigationListener<-QItemT;>;) | remove navigation listener
+void _resetNavigatorPane() | reset navigator pane
+void setDocumentNavigator(QIDocumentNavigator<QOpenDefinitionsDocument;>;) | set document navigator

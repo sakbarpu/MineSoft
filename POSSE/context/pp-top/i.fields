@@ -1,0 +1,188 @@
+boolean bAlreadyInitialized | b already initialized
+boolean bIconBarEnabled | b icon bar enabled
+boolean bIconMoved | b icon moved
+boolean bIdxForced | b idx forced
+boolean bInitialized | b initialized
+boolean bIsCanceled | b is canceled
+boolean bIsContinueEnabled | b is continue enabled
+boolean bIsIntroEnabled | b is intro enabled
+boolean bIsPopulated | b is populated
+boolean bIsRepeatEnabled | b is repeat enabled
+boolean bIsShuffleEnabled | b is shuffle enabled
+boolean cachingIsEnabled | caching is enabled
+boolean check_interrupted | check interrupted
+boolean dl_identity_obtained | dl identity obtained
+boolean download_initiated | download initiated
+boolean identityAdded | identity added
+boolean illuminated | illuminated
+boolean image_enabled | image enabled
+boolean INCOMING_CRYPTO_ALLOWED | incoming crypto allowed
+boolean INCOMING_HANDSHAKE_FALLBACK_ALLOWED | incoming handshake fallback allowed
+boolean infProtected | inf protected
+boolean initial_address_change_deferred | initial address change deferred
+boolean initialised | initialised
+boolean _initialized | initialized
+boolean initialized | initialized
+boolean initiated | initiated
+boolean init_tried | init tried
+boolean _interpreterRestarted | interpreter restarted
+boolean interrupted | interrupted
+boolean ip_filter_enabled | ip filter enabled
+boolean ip_override_limit_exceeded_reported | ip override limit exceeded reported
+boolean isActivated | is activated
+boolean isAggregated | is aggregated
+boolean isAllQuoted | is all quoted
+boolean isAlphaSupported | is alpha supported
+boolean isAlreadyOpened | is already opened
+boolean isAnimated | is animated
+boolean isAssigned | is assigned
+boolean _isAutomaticTraceEnabled | is automatic trace enabled
+boolean isBlocked | is blocked
+boolean isCached | is cached
+boolean isCancelAllowed | is cancel allowed
+boolean isCanceled | is canceled
+boolean isChanged | is changed
+boolean is_closed | is closed
+boolean isClosed | is closed
+boolean isCollapsed | is collapsed
+boolean isColorChanged | is color changed
+boolean isCommited | is commited
+boolean is_connected | is connected
+boolean isConnected | is connected
+boolean isCreated | is created
+boolean isDecrypted | is decrypted
+boolean is_destroyed | is destroyed
+boolean isDisposed | is disposed
+boolean isDistracted | is distracted
+boolean isDocked | is docked
+boolean isDownloadMaxPinned | is download max pinned
+boolean isDownloadUnlimited | is download unlimited
+boolean _isEnabled | is enabled
+boolean isEnabled | is enabled
+boolean isFilled | is filled
+boolean isFixed | is fixed
+boolean isFlipped | is flipped
+boolean isGrouped | is grouped
+boolean isInitialized | is initialized
+boolean isInstalled | is installed
+boolean[] isLabelQuoted | is label quoted
+boolean isloaded | is loaded
+boolean _isLoaded | is loaded
+boolean isLoaded | is loaded
+boolean isLocked | is locked
+boolean isLogged | is logged
+boolean isMaterialised | is materialised
+boolean isMaximized | is maximized
+boolean isModified | is modified
+boolean isMouseEntered | is mouse entered
+boolean isNameQuoted | is name quoted
+boolean isNullValueAllowed | is null value allowed
+boolean is_paused | is paused
+boolean isPressed | is pressed
+boolean isPrintingAllowed | is printing allowed
+boolean _isProjectChanged | is project changed
+boolean isQueryCorrelated | is query correlated
+boolean isQuoted | is quoted
+boolean isRearMounted | is rear mounted
+boolean isRemembered | is remembered
+boolean isReplaced | is replaced
+boolean isResolved | is resolved
+boolean isRetryAllowed | is retry allowed
+boolean isReversed | is reversed
+boolean isRunProhibited | is run prohibited
+boolean isSaved | is saved
+boolean is_seed | is seed
+boolean isSelected | is selected
+boolean isSendingEnabled | is sending enabled
+boolean isSigned | is signed
+boolean is_skipped | is skipped
+boolean isStroked | is stroked
+boolean is_subscribed | is subscribed
+boolean isTitled | is titled
+boolean isUnloaded | is unloaded
+boolean isUploadMaxPinned | is upload max pinned
+boolean PB_INVERTED | pb inverted
+boolean plugin_ids_loaded | plugin ids loaded
+boolean plugins_initialised | plugins initialised
+boolean pre_initialised | pre initialised
+boolean progressive_informed | progressive informed
+boolean restart_initiated | restart initiated
+boolean result_informed | result informed
+boolean result_input_submitted | result input submitted
+boolean scrollBarsInitialized | scroll bars initialized
+boolean searchResultsInitialized | search results initialized
+boolean TCP_INCOMING_ENABLED | tcp incoming enabled
+boolean UDP_INCOMING_ENABLED | udp incoming enabled
+byte NAT_CHECK_INITIATED | nat check initiated
+byte RELATIVE_SEEDING_UPLOAD_ONLY_INDICATED | relative seeding upload only indicated
+edu.rice.cs.drjava.config.BooleanOption TOOLBAR_ICONS_ENABLED | toolbar icons enabled
+int ACCESS_IS_DENIED | access is denied
+int COLUMN_IS_REFERENCED | column is referenced
+int CONNECTION_IS_CLOSED | connection is closed
+int EVENT_INITIALIZED | event initialized
+int F_IGNITED | f ignited
+int FLAG_ISSAVED | flag iss av ed
+int Id_fixed | id fixed
+int IDLE_UPLOAD_SPEED | idle upload speed
+int Id_toFixed | id to fixed
+int IMAGE_LED_RED | image led red
+int incompleteQueued | incomplete queued
+int INF_MOTORIZED | inf motorized
+int INIT_DEFERRED | init deferred
+int INPUTREC_MODIFIED | input rec modified
+int INPUT_UNTERMINATED | input unterminated
+int INSERTIONS_NOTCOMMITTED | insertions not committed
+int interesting_published | interesting published
+int JDBC_RESULTSET_IS_CLOSED | jdbc resultset is closed
+int JUMP_IMPROVED | jump improved
+int LDT_DESTROY_INITIATED | ldt destroy initiated
+int num_ips_blocked | num ips blocked
+int PEV_ALL_PLUGINS_INITIALISED | pev all plugins initialised
+int QUOTED_IDENTIFIER_REQUIRED | quoted identifier required
+int REQUIRE_TABLEITEM_INITIALIZED | require table item initialized
+int STATE_INITIALIZED | state initialized
+int STATEMENT_IS_CLOSED | statement is closed
+int SUBID_BT_INTERESTED | subid bt interested
+int TS_INITIALISED | ts initialised
+java.awt.Checkbox cIdxForced | c idx forced
+java.awt.Color INDIAN_RED | indian red
+java.lang.Boolean offScreenImageSupported | off screen image supported
+java.lang.Character FL_INCOMPLETE_QUEUED | fl incomplete queued
+java.lang.Character FL_INCOMPLETE_STOPPED | fl incomplete stopped
+java.lang.String ATTRIBUTE_isPdfEmbedded | attribute is pdf embedded
+java.lang.String eBayItemEnded | e bay item ended
+java.lang.String EVENT_INTRO_MODE_STATUS_CHANGED | event intro mode status changed
+java.lang.String ICON_DEVICE_CD_AUDIO_MOUNTED | icon device cd audio mounted
+java.lang.String ICON_DEVICE_CD_AUDIO_UNMOUNTED | icon device cd audio unmounted
+java.lang.String ICON_DEVICE_CD_MOUNTED | icon device cd mounted
+java.lang.String ICON_DEVICE_CD_UNMOUNTED | icon device cd unmounted
+java.lang.String ICON_DEVICE_DIRECTORY_MOUNTED | icon device directory mounted
+java.lang.String ICON_DEVICE_DIRECTORY_UNMOUNTED | icon device directory unmounted
+java.lang.String ICON_DEVICE_EXT_DD_MOUNTED | icon device ext dd mounted
+java.lang.String ICON_DEVICE_EXT_DD_UNMOUNTED | icon device ext dd unmounted
+java.lang.String ICON_DEVICE_NETWORK_DRIVE_MOUNTED | icon device network drive mounted
+java.lang.String ICON_DEVICE_NETWORK_DRIVE_UNMOUNTED | icon device network drive unmounted
+java.lang.String ICON_DEVICE_PLAYER_MOUNTED | icon device player mounted
+java.lang.String ICON_DEVICE_PLAYER_UNMOUNTED | icon device player unmounted
+java.lang.String ICON_DEVICE_REMOTE_MOUNTED | icon device remote mounted
+java.lang.String ICON_DEVICE_REMOTE_UNMOUNTED | icon device remote unmounted
+java.lang.String ICON_TRACK_FIFO_PLANNED | icon track fifo planned
+java.lang.String ID_BT_INTERESTED | id bt interested
+java.lang.String ID_BT_UNINTERESTED | id bt uninterested
+java.lang.String ip_resolved | ip resolved
+java.lang.String IS_DESTROYED | is destroyed
+java.lang.String ManagerItem_forced | manager item forced
+java.lang.String ManagerItem_paused | manager item paused
+java.lang.String ManagerItem_queued | manager item queued
+java.lang.String ManagerItem_stopped | manager item stopped
+java.lang.String MENU_ID_ADVANCED | menu id advanced
+java.lang.String OP_IS_CUSTOMISED | op is customised
+java.lang.String STATUS_INSTALLED | status installed
+java.lang.String TAG_IMPL_ENTAGGED | tag impl entagged
+java.lang.String TYPEID_BUDDYINVITED | typeid buddy invited
+java.util.LinkedList ipsBlocked | ips blocked
+java.util.List asn_ips_checked | asn ips checked
+java.util.List<com.eteks.sweethome3d.model.Selectable> selectedItemsMousePressed | selected items mouse pressed
+javax.swing.ImageIcon iconPlanned | icon planned
+javax.swing.JMenuItem jMenuItemRevertToSaved | j menu item revert to saved
+long HEARTBEAT_INTERVAL_PADDED | heartbeat interval padded

@@ -1,0 +1,5 @@
+BigInteger getIterationCount() | get iteration count
+int getIterationCount() | get iteration count
+String attsToEliminatePerIterationTipText() | atts to eliminate per iteration tip text
+String percentToEliminatePerIterationTipText() | percent to eliminate per iteration tip text
+void setIterationID(long value) | set iteration id

@@ -1,0 +1,194 @@
+boolean altNamePresentAndCritical | alt name present and critical
+boolean anonymous | anonymous
+boolean antialiasAll | antialias all
+boolean antialiasEdges | antialias edges
+boolean antiAliasingAvailable | anti aliasing available
+boolean _antiAliasText | anti alias text
+boolean antiMek | anti mek
+boolean _anyUpdates | any updates
+boolean bAND | b and
+boolean closeAfterAnimation | close after animation
+boolean hitThisRoundByAntiTSM | hit this round by anti tsm
+boolean host_add_announce_urls | host add announce urls
+boolean _ignoreCommentsAndStrings | ignore comments and strings
+boolean isAnimating | is animating
+boolean is_anonymous | is anonymous
+boolean loginAndRetry | login and retry
+byte ACT_TRACKER_ANNOUNCE | act tracker announce
+byte[] BYTES_AND | bytes and
+byte CONSTANT_NameAndType | constant name and type
+byte FLAG_ANON | flag anon
+byte PROTOCOL_VERSION_ANON_VALUES | protocol version anon values
+byte PROTOCOL_VERSION_ANTI_SPOOF | protocol version anti spoof
+byte PROTOCOL_VERSION_ANTI_SPOOF2 | protocol version anti spoof 2
+byte PROTOCOL_VERSION_DIV_AND_CONT | protocol version div and cont
+byte REOP_ANCHOR | reop anchor
+byte REOP_ANCHOR1 | reop anchor 1
+com.aelitis.azureus.ui.swt.widgets.AnimatedImage animatedImage | animated image
+com.eteks.sweethome3d.viewcontroller.PlanController.ControllerState dragAndDropState | drag and drop state
+double an | an
+double angle | angle
+double[] angles | angles
+edu.rice.cs.drjava.config.BooleanOption TEXT_ANTIALIAS | text antialias
+edu.rice.cs.drjava.config.ForcedChoiceOption LOOK_AND_FEEL | look and feel
+edu.rice.cs.drjava.config.OptionListener<java.lang.Boolean> _antialiasListener | antialias listener
+float angle | angle
+float angleDraggedPieceOfFurniture | angle dragged piece of furniture
+float angleLastMouseMove | angle last mouse move
+float angleMousePress | angle mouse press
+float angleMovedPieceOfFurniture | angle moved piece of furniture
+float endAngle | end angle
+float oldAngle | old angle
+float startAngle | start angle
+freemind.controller.Controller.OptionAntialiasAction optionAntialiasAction | option antialias action
+int ACT_REPLY_ANNOUNCE | act reply announce
+int ACT_REQUEST_ANNOUNCE | act request announce
+int anchorCh | anchor ch
+int AND | and
+int ANEWARRAY | anewarray
+int announce_cache_period | announce cache period
+int announce_cache_threshold | announce cache threshold
+int announceCount | announce count
+int ANNOUNCE_DERIVED_TIMEOUT | announce derived timeout
+int ANNOUNCE_MAX | announce max
+int ANNOUNCE_MAX_DERIVED_ONLY | announce max derived only
+int ANNOUNCE_MIN_DEFAULT | announce min default
+int ANNOUNCE_TIMEOUT | announce timeout
+int ANSWER_ABORT | answer abort
+int ANSWER_CANCEL | answer cancel
+int ANSWER_IGNORE | answer ignore
+int ANSWER_NO | answer no
+int ANSWER_OK | answer ok
+int ANSWER_RETRY | answer retry
+int ANSWER_YES | answer yes
+int ANTI_ALIAS_IMPL | anti alias impl
+int antialiasMode | antialias mode
+int ANY | any
+int ANY_LINE | any line
+int ANY_PING_INDEX | any ping index
+int ANY_STATEMENT | any statement
+int AnyType | any type
+int BT_READING_LENGTH_AND_TYPE | bt reading length and type
+int COMMIT_AND_CHAIN | commit and chain
+int currentAnimationIndex | current animation index
+int current_min_seed_announce_mult | current min seed announce mult
+int DEFAULT_ANNOUNCE_CACHE_PEER_THRESHOLD | default announce cache peer threshold
+int DEFAULT_ANNOUNCE_CACHE_PERIOD | default announce cache period
+int ET_ANNOUNCE | et announce
+int FIRSTPRIORITY_ANY | first priority any
+int Icode_ELEM_AND_THIS | icode elem and this
+int Icode_NAME_AND_THIS | icode name and this
+int Icode_PROP_AND_THIS | icode prop and this
+int Icode_VALUE_AND_THIS | icode value and this
+int Id_anchor | id anchor
+int LDT_TL_ANNOUNCERESULT | ldt tl announce result
+int LOCATION_ALLOWED_ANY | location allowed any
+int NB_ANGLES | nb angles
+int nbAnimation | nb animation
+int NOTIFY_AND_DIE | notify and die
+int ROLLBACK_AND_CHAIN | rollback and chain
+int RT_ANNOUNCE | rt announce
+int superSeedModeNumberOfAnnounces | super seed mode number of announces
+int timeToReachAnotherPeer | time to reach another peer
+int T_TARGSYS_ANTI_AIR | t targsys anti air
+int YY_NO_ANCHOR | yy no anchor
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionAreaAnchor | j r text expression area anchor
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionAreaAnchorName | j r text expression area anchor name
+java.awt.Checkbox animateMove | animate move
+java.awt.Choice m_cOrAnd | m c or and
+java.awt.Color ANTIQUE_WHITE | antique white
+java.awt.Color SMOKE_AND_FIRE | smoke and fire
+java.awt.geom.GeneralPath WALL_AND_LINE_RESIZE_INDICATOR | wall and line resize indicator
+java.awt.geom.Point2D centerAngleFeedback | center angle feedback
+java.awt.geom.Point2D.Double anchorPoint | anchor point
+java.awt.geom.Point2D.Double newAnchor | new anchor
+java.awt.geom.Point2D.Double oldAnchor | old anchor
+java.awt.geom.Point2D point1AngleFeedback | point 1 angle feedback
+java.awt.geom.Point2D point2AngleFeedback | point 2 angle feedback
+java.awt.Point anchor | anchor
+java.beans.PropertyChangeListener groundColorAndTextureListener | ground color and texture listener
+java.beans.PropertyChangeListener nameAndCategoryChangeListener | name and category change listener
+java.lang.Float angle | angle
+java.lang.Integer angleInDegrees | angle in degrees
+java.lang.Integer kAnyTransactionID | k any transaction id
+java.lang.String anchorNameExpression | anchor name expression
+java.lang.String ansi_X9_62 | ansi x 9   62
+java.lang.String DM_ANNOUNCE_KEY | dm announce key
+java.lang.String DOOR_OR_WINDOW_SASH_END_ANGLE | door or window sash end angle
+java.lang.String DOOR_OR_WINDOW_SASH_START_ANGLE | door or window sash start angle
+java.lang.String hyperlinkAnchorExpression | hyperlink anchor expression
+java.lang.String RESOURCE_ANTIALIAS | resource antialias
+java.lang.String roomSideAngleToolTipFeedback | room side angle tool tip feedback
+java.lang.String sAny | s any
+java.lang.String ST_TRACKER_ANNOUNCE_COUNT | st tracker announce count
+java.lang.String ST_TRACKER_ANNOUNCE_TIME | st tracker announce time
+java.lang.String T_AND | t and
+java.lang.String T_ANY | t any
+java.lang.String TEXT_AND_ICONS | text and icons
+java.lang.String TK_ANNOUNCE | tk announce
+java.lang.String TK_ANNOUNCE_LIST | tk announce list
+java.lang.String TYPEID_CHANNEL_ANNOUNCE | typeid channel announce
+java.lang.String wallAngleToolTipFeedback | wall angle tool tip feedback
+java.lang.String XML_ANY | xml any
+java.net.InetAddress anyLocalAddressIPv4 | any local address ipv 4
+java.net.InetAddress anyLocalAddressIPv6 | any local address ipv 6
+java.net.InetSocketAddress anon_address | anon address
+java.net.URL announce_url | announce url
+java.net.URL[] announce_urls | announce urls
+java.util.Date myOffsetAnchor | my offset anchor
+java.util.HashMap<java.lang.String,org.jhotdraw.samples.svg.SVGAttributeKeys.TextAnchor> textAnchorMap | text anchor map
+java.util.Hashtable fieldAndMethods | field and methods
+java.util.Hashtable staticFieldAndMethods | static field and methods
+java.util.LinkedHashMap announce_cache | announce cache
+java.util.List<com.eteks.sweethome3d.model.HomePieceOfFurniture> filteredAndSortedFurniture | filtered and sorted furniture
+java.util.List<com.eteks.sweethome3d.model.HomePieceOfFurniture> furnitureWithDoorsAndWindows | furniture with doors and windows
+javax.swing.JCheckBox animateMove | animate move
+javax.swing.JCheckBox _ignoreCommentsAndStrings | ignore comments and strings
+javax.swing.JComboBox m_cOrAnd | m c or and
+javax.swing.JLabel angleLabel | angle label
+javax.swing.JLabel animatedWaitLabel | animated wait label
+javax.swing.JLabel jLabelAnchor | j label anchor
+javax.swing.JMenuItem jMenuItemtileAnodine | j menu item tile anodine
+javax.swing.JPanel _cancelAndOKPanel | cancel and ok panel
+javax.swing.JPanel _inputAndClearPanel | input and clear panel
+javax.swing.JPanel jPanelAnchor | j panel anchor
+javax.swing.JPanel _tabsAndStatusPane | tabs and status pane
+javax.swing.JRadioButton _textAndIconsButton | text and icons button
+javax.swing.JSpinner angleSpinner | angle spinner
+long announce_count | announce count
+long ANNOUNCE_PERIOD | announce period
+long announces | announces
+long announce_time | announce time
+long average_announce_count | average announce count
+long current_announce_retry_interval | current announce retry interval
+long F_ANGEL_ECM | f angel ecm
+long last_announce | last announce
+long M_ANTI_TSM | m anti tsm
+long RE_ANNOUNCE_PERIOD | re announce period
+long sos_announce | sos announce
+net.sourceforge.ganttproject.gui.GanttLookAndFeelInfo lookAndFeel | look and feel
+org.bouncycastle.asn1.DERObjectIdentifier anyPolicy | any policy
+org.bouncycastle.asn1.DERObjectIdentifier canNotDecryptAny | can not decrypt any
+org.bouncycastle.asn1.DERObjectIdentifier InhibitAnyPolicy | inhibit any policy
+org.bouncycastle.asn1.DERObjectIdentifier signedAndEnvelopedData | signed and enveloped data
+org.bouncycastle.asn1.pkcs.IssuerAndSerialNumber issuerAndSerialNumber | issuer and serial number
+org.bouncycastle.asn1.x509.KeyPurposeId anyExtendedKeyUsage | any extended key usage
+org.gudy.azureus2.core3.download.impl.DownloadManagerStateImpl.CachedStateWrapper.cacheGroup announce_group | announce group
+org.gudy.azureus2.core3.torrent.impl.TOTorrentAnnounceURLGroupImpl announce_group | announce group
+org.gudy.azureus2.core3.torrent.TOTorrentAnnounceURLGroup announce_group | announce group
+org.gudy.azureus2.core3.tracker.client.TRTrackerAnnouncer announcer | announcer
+org.gudy.azureus2.core3.tracker.client.TRTrackerAnnouncerDataProvider announce_data_provider | announce data provider
+org.gudy.azureus2.core3.util.Average average_announce | average announce
+org.gudy.azureus2.pluginsimpl.local.download.DownloadAnnounceResultImpl announce_result | announce result
+org.gudy.azureus2.pluginsimpl.local.download.DownloadAnnounceResultImpl last_announce_result | last announce result
+org.gudy.azureus2.pluginsimpl.remote.download.RPDownloadAnnounceResult announce_result | announce result
+org.gudy.azureus2.ui.swt.animations.Animator currentAnimator | current animator
+org.gudy.azureus2.ui.swt.shells.DockPosition anchorControlPosition | anchor control position
+org.hsqldb.Expression eAnd | e and
+org.jhotdraw.draw.AttributeKey<org.jhotdraw.samples.svg.SVGAttributeKeys.TextAnchor> TEXT_ANCHOR | text anchor
+org.jhotdraw.draw.Figure anchorFigure | anchor figure
+org.mozilla.javascript.ObjArray loopAndSwitchSet | loop and switch set
+org.mozilla.javascript.UintMap nameAndTypeHash | name and type hash
+short OP_WRITE_AND_FREE | op write and free
+thePackage.Currency zeroFrancs | zero fr an cs
+thePackage.Currency zeroSwissFrancs | zero swiss fr an cs

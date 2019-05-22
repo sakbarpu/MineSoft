@@ -1,0 +1,9 @@
+CONS DefaultJavadocModel(QGlobalModel;QFile;QIterable<QFile;>;) | default javadoc model
+CONS GlobalInfoJavadoc() | global info javadoc
+CONS JavadocDialog(QJFrame;) | javadoc dialog
+CONS JavadocErrorPanel(QSingleDisplayModel;QMainFrame;) | javadoc error panel
+CONS JavadocException(QString;) | javadoc exception
+CONS JavadocFrame(QFile;QString;Z) | javadoc frame
+CONS NoJavadocAvailable(QGlobalModel;) | no javadoc available
+CONS OptionHandlerJavadoc() | option handler javadoc
+CONS TechnicalInformationHandlerJavadoc() | technical information handler javadoc

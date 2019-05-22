@@ -1,0 +1,14 @@
+boolean defaultAutoejectDisabled() | default autoeject disabled
+boolean isDefaultPluginEnabled(QString;) | is default plugin enabled
+int defaultSeed() | default seed
+int getDefaultRed() | get default red
+void defaultSelected([QTableRowCore;) | default selected
+void defaultSelected([QTableRowCore;I) | default selected
+void durationDefaultColorsActionPerformed(Qjava.awt.event.ActionEvent;) | duration default colors action performed
+void dynamicDefaultColorsActionPerformed(Qjava.awt.event.ActionEvent;) | dynamic default colors action performed
+void jButtonDefaultActionPerformed(Qjava.awt.event.ActionEvent;) | j button default action performed
+void overrideDefaultSelected(QTableSelectionListener;) | override default selected
+void setDefaultAutoejectDisabled(Z) | set default autoeject disabled
+void setDefaultPluginEnabled(QString;Z) | set default plugin enabled
+void setDefaultSelected(Z) | set default selected
+void widgetDefaultSelected(QSelectionEvent;) | widget default selected

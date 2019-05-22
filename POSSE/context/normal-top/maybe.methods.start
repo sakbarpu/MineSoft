@@ -1,0 +1,3 @@
+void maybeHidePalettes() | maybe hide palettes
+void maybeNotify() | maybe notify
+void maybeShowPopup(QMouseEvent;) | maybe show popup

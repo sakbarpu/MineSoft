@@ -1,0 +1,5 @@
+CONS SmbComCreateDirectory(QString;) | smb com create directory
+CONS SmbComNTCreateAndX(QString;IIIIQServerMessageBlock;) | smb com nt create and x
+CONS SmbComNTCreateAndXResponse() | smb com nt create and x response
+CONS TOTorrentCreateImpl(QFile;QURL;ZJ) | to torrent create impl
+CONS TOTorrentCreateImpl(QFile;QURL;ZJJJJ) | to torrent create impl

@@ -1,0 +1,45 @@
+boolean hasNestedTags() | has nested tags
+boolean hasNestedTasks(QTask;) | has nested tasks
+boolean isNestedThrowable(QThrowable;) | is nested throwable
+boolean isNestedTransaction() | is nested transaction
+boolean isSetNestedPartyIDSource() | is set nested party id source
+boolean updateNestedRoles(QString;) | update nested roles
+Class findNestedClass(QClass;QString;) | find nested class
+DoubleVector nestedEstimate(QDoubleVector;) | nested estimate
+int getNestedAuxCounter() | get nested aux counter
+String getNestedExceptionMessageAndStack(QThrowable;) | get nested exception message and stack
+String getNestedExceptionMessage(QThrowable;) | get nested exception message
+Task[] getNestedTasks() | get nested tasks
+Task[] getNestedTasks(QTask;) | get nested tasks
+TaskHierarchyItem[] getNestedItems() | get nested items
+Throwable getNestedException() | get nested exception
+void addNestedItem(QTaskHierarchyItem;) | add nested item
+void adjustNestedTasks() | adjust nested tasks
+void adjustNestedTasks(QTask;) | adjust nested tasks
+void beginNestedTransaction() | begin nested transaction
+void endNestedTransaction(Z) | end nested transaction
+void generateNestedFunctions() | generate nested functions
+void nestedFromFragment(QAST;QAST;) | nested from fragment
+void removeCustomColumnToAllNestedTask(QTaskContainmentHierarchyFacade;QTask;QString;) | remove custom column to all nested task
+void renameCustomColumnForAllNestedTask(QTaskContainmentHierarchyFacade;QTask;QString;QString;) | rename custom column for all nested task
+void setCustomColumnValueToAllNestedTask(QTaskContainmentHierarchyFacade;QTask;QString;QObject;) | set custom column value to all nested task
+void testDependencyTargetedToNestedTask() | test dependency targeted to nested task
+void testDollarNestedQuotedKeywords() | test dollar nested quoted keywords
+void testDollarNestedQuotedKeywordsWSSignificant() | test dollar nested quoted keywords ws significant
+void testEscapeDollarNestedQuotedKeywords() | test escape dollar nested quoted keywords
+void testEscapeDollarNestedQuotedKeywordsWithEscapeWSSignificant() | test escape dollar nested quoted keywords with escape ws significant
+void testEscapeDollarNestedQuotedKeywordsWithEscapeWSSignificant2() | test escape dollar nested quoted keywords with escape ws significant 2
+void testEscapeDollarNestedQuotedKeywordsWSSignificant() | test escape dollar nested quoted keywords ws significant
+void testEscapeNestedQuotedNW() | test escape nested quoted nw
+void testEscapePipeDollarNestedQuotedKeywords() | test escape pipe dollar nested quoted keywords
+void testEscapePipeDollarNestedQuotedKeywordsWithEscape2WSSignificant() | test escape pipe dollar nested quoted keywords with escape 2 ws significant
+void testEscapePipeDollarNestedQuotedKeywordsWithEscape2WSSignificant2() | test escape pipe dollar nested quoted keywords with escape 2 ws significant 2
+void testEscapePipeDollarNestedQuotedKeywordsWithEscapeWSSignificant() | test escape pipe dollar nested quoted keywords with escape ws significant
+void testEscapePipeDollarNestedQuotedKeywordsWithEscapeWSSignificant2() | test escape pipe dollar nested quoted keywords with escape ws significant 2
+void testEscapePipeDollarNestedQuotedKeywordsWSSignificant() | test escape pipe dollar nested quoted keywords ws significant
+void testEscapePipeNestedQuotedNW() | test escape pipe nested quoted nw
+void testNestedIfInSwitch() | test nested if in switch
+void testNestedQuotedNW() | test nested quoted nw
+void testNestedSubselects() | test nested subselects
+void testSupertaskDurationShrinksWhenNestedTasksShrink() | test super task duration shrinks when nested tasks shrink
+void testSupetaskDurationGrowsWhenNestedTasksGrow() | test supe task duration grows when nested tasks grow

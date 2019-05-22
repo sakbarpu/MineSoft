@@ -1,0 +1,4 @@
+int getDatabaseMajorVersion | get database major version
+int MAJOR | major
+int NANOXML_MAJOR_VERSION | nanoxml major version
+java.awt.Color majorColor | major color

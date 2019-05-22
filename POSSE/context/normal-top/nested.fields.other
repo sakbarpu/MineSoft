@@ -1,0 +1,3 @@
+boolean isNestedTransaction | is nested transaction
+net.sourceforge.ganttproject.task.hierarchy.TaskHierarchyItem myFirstNestedItem | my first nested item
+org.mozilla.javascript.InterpreterData[] itsNestedFunctions | its nested functions

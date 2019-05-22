@@ -1,0 +1,72 @@
+boolean recordAssociationsSupport([B[QSubscriptionImpl;Z) | record associations support
+boolean scanRecord(PreambleScanning scan) | scan record
+ButtonRecord2 getRecord(QMovie;QSWFTagTypes;QSWFTagTypes;) | get record
+double evaluateModelOnceAndRecordPrediction([DQInstance;) | evaluate model once and record prediction
+double evaluateModelOnceAndRecordPrediction(QClassifier;QInstance;) | evaluate model once and record prediction
+HomeRecorder getHomeRecorder() | get home recorder
+HomeRecorder getHomeRecorder(QHomeRecorder.Type;) | get home recorder
+ImageIcon getRecordImage() | get record image
+InputHandler.MacroRecorder getMacroRecorder() | get macro recorder
+int compareRecord(QSession;[QObject;[QObject;I) | compare record
+int compareRecord(QSession;[QObject;[QObject;[I[I) | compare record
+int getMaxRecords() | get max records
+int readResourceRecordWireFormat([BI) | read resource record wire format
+int writeResourceRecordWireFormat([BI) | write resource record wire format
+Message createMessageRecord(OutboxEnvelope envelope, SRInfo srInfo) | create message record
+OutputStream getRecordOutputStream() | get record output stream
+Record newRecord() | new record
+String format(LogRecord record) | format
+String getAllRecordsPublic() | get all records public
+String getRecordingsPath() | get recordings path
+String getRecordName() | get record name
+String insertRecordName(String xmlMessage, String recordName) | insert record name
+String skipAndRecordWhitespace(I) | skip and record whitespace
+Vector createRecords([B) | create records
+Vector createRecords(QInStream;) | create records
+void ActionRecord(II[B) | action record
+void add(Date timestamp, String className, String stackTrace, PrimaryKey entityPrimaryKey, PrimaryKey recordPrimaryKey) | add
+void addRecord(Record record) | add record
+void add(Timestamp timestamp, String className, String stackTrace, PrimaryKey entityPrimaryKey, PrimaryKey recordPrimaryKey, DataSourceSet dss) | add
+void buildEditRecord() | build edit record
+void ColorRecord(II) | color record
+void deleteXBRecord(QConnection;) | delete xb record
+void flushChangeRecords() | flush change records
+void genRejectReportRecord(QPrintWriter;IIQString;QString;QThrowable;) | gen reject report record
+void getRecordings(QArrayList;QProgressIndicator;QArrayList;) | get recordings
+void parseChangeRecord(QInStream;IQSWFVectors;QSWFShape;Z[I[I) | parse change record
+void processRecord(Record record) | process record
+void processRecords(QVector;) | process records
+void putMappingWithAlphanumericSingleId(MappingWithAlphanumericSingleId mapping, Class myClass, String recordId) | put mapping with alphanumeric single id
+void QueueRecord() | queue record
+void record() | record
+void recordAssociations([B[QSubscriptionImpl;Z) | record associations
+void recordAttlistDeclaration(QString;QString;ZQString;QString;QString;) | record attlist declaration
+void recordCharData(QString;) | record char data
+void recordComment(QString;) | record comment
+void recordCurrentAddress(QString;) | record current address
+void recordDocEnd() | record doc end
+void recordDocStart() | record doc start
+void recordDoctypeDeclaration(QString;QString;QString;) | record doctype declaration
+void RecordedThread(QRecordedPanel;) | recorded thread
+void recordElementDeclaration(QString;QString;) | record element declaration
+void recordElementEnd(QString;) | record element end
+void recordElementStart(QString;QHashtable;) | record element start
+void recordEntityDeclaration(QString;QString;QString;QString;QString;) | record entity declaration
+void recordErrorOrigin(QString;IQString;I) | record error origin
+void recordLookup([B) | record lookup
+void recordMessage(IQString;QString;QString;[QObject;I) | record message
+void recordNotationDeclaration(QString;QString;QString;) | record notation declaration
+void recordPeer(QString;[BQString;IZ) | record peer
+void recordPI(QString;QString;) | record pi
+void record(QThrowable;) | record
+void recordSelectionState() | record selection state
+void recordSkew(QInetSocketAddress;J) | record skew
+void recordUserAbort() | record user abort
+void recordUserInput(QString;) | record user input
+void setMacroRecorder(QInputHandler.MacroRecorder;) | set macro recorder
+void setMaxRecords(I) | set max records
+void setRecordingsPath(QString;) | set recordings path
+void updateJMenuItemReportMaxRecords() | update j menu item report max records
+void writeChangeRecord() | write change record
+void writeRecordEnd() | write record end
+WebLink getRecordLink() | get record link

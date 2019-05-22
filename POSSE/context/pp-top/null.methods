@@ -1,0 +1,2 @@
+boolean isNullValueAllowed() | is null value allowed
+void jCheckBoxBlankWhenNullActionPerformed(Qjava.awt.event.ActionEvent;) | j check box blank when null action performed

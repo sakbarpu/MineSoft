@@ -1,0 +1,7 @@
+int argCount | arg count
+java.lang.Class[] argTypes | arg types
+java.lang.String[] argNames | arg names
+java.lang.String argValue | arg value
+java.util.List arg_names | arg names
+java.util.List arg_values | arg values
+org.gudy.azureus2.plugins.PluginManagerArgumentHandler arg_handler | arg handler

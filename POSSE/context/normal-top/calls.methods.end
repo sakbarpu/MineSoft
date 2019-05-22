@@ -1,0 +1,8 @@
+ArrayList<[QString;> parseMethodsCalls(QString;) | parse methods calls
+boolean supportsCatalogsInProcedureCalls() | supports catalogs in procedure calls
+boolean supportsSchemasInProcedureCalls() | supports schemas in procedure calls
+void ignoreCalls() | ignore calls
+void replaceBaseCalls(BaseCall theCalls) | replace base calls
+void setExpectedCreateCallExpectationCalls(int calls) | set expected create call expectation calls
+void setExpectedGetAttributeStringIntCalls(int calls) | set expected get attribute string int calls
+void testParseMethodCalls() | test parse method calls

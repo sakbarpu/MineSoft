@@ -1,0 +1,1 @@
+IState successorState(IState s, IAction a) | successor state

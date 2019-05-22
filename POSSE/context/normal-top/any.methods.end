@@ -1,0 +1,5 @@
+boolean containsAny([QBibtexEntry;) | contains any
+Object resolveAny(QString;QSerializable;QSessionImplementor;) | resolve any
+String getAny() | get any
+void bindAny(QElement;QAny;ZQMappings;) | bind any
+void testAny() | test any

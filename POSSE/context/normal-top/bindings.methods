@@ -1,0 +1,13 @@
+Bindings getBindings(int scope) | get bindings
+ConfigurableKeyBinding getKeyBindings() | get key bindings
+HashMap<QString;QString;> getKeyBindings() | get key bindings
+HashMap<QString;QString;> getNewKeyBindings() | get new key bindings
+Hashtable getBindings() | get bindings
+void addDefaultKeyBindings() | add default key bindings
+void defineDefaultKeyBindings() | define default key bindings
+void removeAllKeyBindings() | remove all key bindings
+void restoreKeyBindings() | restore key bindings
+void setDefaultKeyBindings() | set default key bindings
+void setNewKeyBindings(QHashMap<QString;QString;>;) | set new key bindings
+void _setupKeyBindingsPanel(QConfigPanel;) | setup key bindings panel
+void testFinishStartBindings() | test finish start bindings

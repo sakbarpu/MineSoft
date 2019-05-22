@@ -1,0 +1,5 @@
+boolean forPrivateKey | for private key
+edu.rice.cs.drjava.config.BooleanOption ALLOW_PRIVATE_ACCESS | allow private access
+java.lang.String AZUREUS_PRIVATE_PROPERTIES | azureus private properties
+java.security.PrivateKey myPrivateKey | my private key
+java.security.PrivateKey use_method_private_key | use method private key

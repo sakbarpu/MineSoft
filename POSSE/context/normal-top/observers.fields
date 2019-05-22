@@ -1,0 +1,3 @@
+com.aelitis.azureus.core.util.CopyOnWriteList observers | observers
+java.util.List myObservers | my observers
+java.util.List observers | observers

@@ -1,0 +1,119 @@
+BigDecimal getPriceValueAddedTaxIncluded() | get price value added tax included
+boolean addDataSourceAggregated(QaddDataSourceCallback;) | add data source aggregated
+boolean addSorted(II) | add sorted
+boolean addUnchecked(QBuildableType;) | add unchecked
+boolean addUnsorted(II) | add unsorted
+boolean getColumnAdded() | get column added
+boolean getInRangeAddressesAreAllowed() | get in range addresses are allowed
+boolean isAddColumnSupported() | is add column supported
+boolean isAdditionalFileTypeRegistered(QString;QString;) | is additional file type registered
+boolean isAddressLocked() | is address locked
+boolean isAvailabilityAdded() | is availability added
+boolean messageAdded(Qcom.aelitis.azureus.core.peermanager.messaging.Message;) | message added
+boolean messageAdded(QMessage;) | message added
+Component addCentered(QComponent;) | add centered
+Download addDownloadStopped(QTorrent;QFile;QFile;) | add download stopped
+int getAddRed() | get add red
+long getDateAdded() | get date added
+long getJustAdded() | get just added
+void addAllowed(QClass;QString;) | add allowed
+void addButtonActionPerformed(Qjava.awt.event.ActionEvent;) | add button action performed
+void addCentered(QComponent;QInteger;) | add centered
+void addCompleted() | add completed
+void added(QDHTRouterContact;) | added
+void added(QUPnPMapping;) | added
+void addHTTPSeed(QString;I) | add http seed
+void addIgnored(QClass;QString;) | add ignored
+void addIgnored(QString;) | add ignored
+void addInviteButtonActionPerformed(Qjava.awt.event.ActionEvent;) | add invite button action performed
+void addMenuUnwatched() | add menu unwatched
+void addMpUsed(I) | add mp used
+void addPluginButtonActionPerformed(Qjava.awt.event.ActionEvent;) | add plugin button action performed
+void addRssFeed(QNameValue;) | add rss feed
+void addSeed(QDownload;QMap;) | add seed
+void addShifted(QIntArray;I) | add shifted
+void addSpeed(II) | add speed
+void addUnchecked(IQBuildableType;) | add unchecked
+void addWebSeed(QString;QMap;) | add web seed
+void ancestorAdded(QAncestorEvent;) | ancestor added
+void ancestorAdded(Qjavax.swing.event.AncestorEvent;) | ancestor added
+void associationAdded(QSubscriptionImpl;[B) | association added
+void attributeAdded(QString;QString;QString;I) | attribute added
+void buddyAdded(QBuddyPluginBuddy;) | buddy added
+void buddyAdded(QVuzeBuddy;I) | buddy added
+void categoryAdded(QCategory;) | category added
+void cellAdded(QTableCell;) | cell added
+void clearAvailabilityAdded() | clear availability added
+void columnAdded(QTableColumnModelEvent;) | column added
+void componentAdded(QContainerEvent;) | component added
+void contactAddedFailed(I) | contact added failed
+void contactAdded(QDHTSpeedTesterContact;) | contact added
+void contactAdded(Qorg.hn.sleek.jmml.Contact;) | contact added
+void dependencyAdded(QTaskDependencyEvent;) | dependency added
+void destinationAddressChanged() | destination address changed
+void diskManagerAdded(QDiskManager;) | disk manager added
+void divAdded(Qdiversification;) | div added
+void downloadAdded(QDownload;) | download added
+void downloadAdded(QDownloadManager;) | download added
+void downloadManagerAdded(QCategory;QDownloadManager;) | download manager added
+void downloadManagerAdded(QDownloadManager;) | download manager added
+void downloadManagerAdded(QDownloadManager;Z) | download manager added
+void engineAdded(QEngine;) | engine added
+void figureAdded(QDrawingEvent;) | figure added
+void figureAdded(QFigureEvent;) | figure added
+void fireAdded(QBuddyPluginBuddy;) | fire added
+void fireDependencyAdded(QTaskDependency;) | fire dependency added
+void fireFigureAdded() | fire figure added
+void fireFigureAdded(QFigure;) | fire figure added
+void fireResourceAdded(QProjectResource;) | fire resource added
+void fireTaskAdded(QTask;) | fire task added
+void friendAddedReceived(Qymsg.network.event.SessionFriendEvent;) | friend added received
+void groupAdded(IQString;) | group added
+void handleDMAdded(QDownloadManager;ZZQHashWrapper;) | handle dm added
+void informAdded(QAZInstance;) | inform added
+void informAdded(QDHTDBValueImpl;) | inform added
+void intervalAdded(Qjavax.swing.event.ListDataEvent;) | interval added
+void jButtonAddActionPerformed(Qjava.awt.event.ActionEvent;) | j button add action performed
+void jButtonAddParameterActionPerformed(Qjava.awt.event.ActionEvent;) | j button add parameter action performed
+void jButtonAddReturnValueActionPerformed(Qjava.awt.event.ActionEvent;) | j button add return value action performed
+void jButtonFormatShrinkAncestorAdded(Qjavax.swing.event.AncestorEvent;) | j button format shrink ancestor added
+void jPanelReportAncestorAdded(Qjavax.swing.event.AncestorEvent;) | j panel report ancestor added
+void localAddressChanged(QDHTPluginContact;) | local address changed
+void mappingAdded(QUPnPMapping;) | mapping added
+void notifyAdded(QDHTRouterContact;) | notify added
+void notifyAdded(QPeerItem;) | notify added
+void objectAdded(QNamingEvent;) | object added
+void participantAdded(QBuddyPluginAZ2.chatParticipant;) | participant added
+void PCDataAdded(QString;I) | pc data added
+void peerAdded(QPeerManager;QPeer;) | peer added
+void peerAdded(QPEPeer;) | peer added
+void peerAdded(QPEPeerManager;QPEPeer;) | peer added
+void peerManagerAdded(QDownload;QPeerManager;) | peer manager added
+void peerManagerAdded(QPEPeerManager;) | peer manager added
+void peerManagerWillBeAdded(QPEPeerManager;) | peer manager will be added
+void pieceAdded(QPEPiece;) | piece added
+void pluginAdded(QPlugin;) | plugin added
+void pluginViewAdded(QIViewInfo;) | plugin view added
+void providerAdded(QPiecePriorityProvider;) | provider added
+void providerAdded(QPieceRTAProvider;) | provider added
+void regionAdded(QBreakpoint;) | region added
+void regionAdded(QMovingDocumentRegion;) | region added
+void regionAdded(QR;) | region added
+void resourceAdded(QResourceEvent;) | resource added
+void resourceAdded(QShareResource;) | resource added
+void rowAdded(QTableRowCore;) | row added
+void sessionAdded(QNetStatusProtocolTesterBT.Session;) | session added
+void sessionAdded(QSession;) | session added
+void setAddRed(I) | set add red
+void setColumnAdded(Z) | set column added
+void setInRangeAddressesAreAllowed(Z) | set in range addresses are allowed
+void setLastAdded(QDefaultMutableTreeNode;) | set last added
+void skinViewAdded(QSkinView;) | skin view added
+void subscriptionAdded(QSubscription;) | subscription added
+void taskAdded(QTaskHierarchyEvent;) | task added
+void torrentAdded(QTrackerTorrent;) | torrent added
+void torrentAdded(QTRHostTorrent;) | torrent added
+void triggerListenerRowAdded(QListRow;) | trigger listener row added
+void triggerListenerRowAdded(QTableRowCore;) | trigger listener row added
+void valueAdded(QDHTStorageKey;QDHTTransportValue;) | value added
+void vuzeNewsEntriesAdded([QVuzeActivitiesEntry;) | vu ze news entries added

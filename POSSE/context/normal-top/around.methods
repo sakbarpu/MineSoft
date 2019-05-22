@@ -1,0 +1,10 @@
+boolean putBracesAroundCapitals(QString;) | put braces around capitals
+Coords getCoordsAround(QEntity;[QCoords;) | get coords around
+int paintSpaceAroundFret(QGraphics;QString;II) | paint space around fret
+String putBracesAroundCapitals(QString;) | put braces around capitals
+String removeBracesAroundCapitals(QString;) | remove braces around capitals
+String removeSingleBracesAroundCapitals(QString;) | remove single braces around capitals
+void createWallsAroundRoom(QRoom;) | create walls around room
+void initializeAround(II) | initialize around
+void initializeAround(int x, int y) | initialize around
+void redrawAround(QCoords;) | redraw around

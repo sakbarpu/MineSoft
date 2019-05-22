@@ -1,0 +1,371 @@
+AffineTransform getDrawingToViewTransform() | get drawing to view transform
+ArrayList getViews() | get views
+ArrayList<QIView;> getViews() | get views
+AttributeSet getViewAttributes(View v) | get view attributes
+BasicPluginViewModel createBasicPluginViewModel(QString;) | create basic plugin view model
+BasicPluginViewModel createLoggingViewModel(QLoggerChannel;Z) | create logging view model
+BasicPluginViewModel getBasicPluginViewModel(QString;) | get basic plugin view model
+BasicPluginViewModel getViewModel() | get view model
+boolean allowView(Column column, String view) | allow view
+boolean getScrollableTracksViewportHeight() | get scrollable tracks viewport height
+boolean getScrollableTracksViewportWidth() | get scrollable tracks viewport width
+boolean hasDetailViews() | has detail views
+boolean hasView(QView;) | has view
+boolean isCompilingView() | is compiling view
+boolean isEnableTabViews() | is enable tab views
+boolean isFurnitureViewedFromTop() | is furniture viewed from top
+boolean isLocalEjbRef(String viewType, JavaClass refClass) | is local ejb ref
+boolean isMultiTrackView() | is multi track view
+boolean isOnAdvancedView() | is on advanced view
+boolean isPullTitleFromIView() | is pull title from i view
+boolean isView() | is view
+boolean isViewScrollbars() | is view scrollbars
+boolean openView(QBasicPluginViewModel;) | open view
+boolean openView(QString;QString;QObject;) | open view
+boolean openView(QString;QString;QObject;Z) | open view
+boolean triggerIViewToolBar(QString;) | trigger i view tool bar
+boolean viewURL(QString;QString;DDZZ) | view url
+boolean viewURL(QString;QString;IIZZ) | view url
+BuddiesViewer getBuddiesViewer() | get buddies viewer
+ChartViewState getViewState() | get view state
+Class getIViewClass() | get i view class
+Class[] getIViewClassArgs() | get i view class args
+Collection<QDrawingView;> getDrawingViews() | get drawing views
+Component getView() | get view
+Composite createTableViewPanel(QComposite;) | create table view panel
+Container getViewport() | get viewport
+DebuggableScript getDebuggableView() | get debuggable view
+DebuggableScript getDebuggableView(QScript;) | get debuggable view
+DialogView createHome3DAttributesView(QUserPreferences;QHome3DAttributesController;) | create home 3 d attributes view
+DialogView createHomeFurnitureView(QUserPreferences;QHomeFurnitureController;) | create home furniture view
+DialogView createLabelView(ZQUserPreferences;QLabelController;) | create label view
+DialogView createPageSetupView(QUserPreferences;QPageSetupController;) | create page setup view
+DialogView createPhotoView(QHome;QUserPreferences;QPhotoController;) | create photo view
+DialogView createPrintPreviewView(QHome;QUserPreferences;QHomeController;QPrintPreviewController;) | create print preview view
+DialogView createRoomView(QUserPreferences;QRoomController;) | create room view
+DialogView createUserPreferencesView(QUserPreferences;QUserPreferencesController;) | create user preferences view
+DialogView createWallView(QUserPreferences;QWallController;) | create wall view
+DialogView createWizardView(QUserPreferences;QWizardController;) | create wizard view
+DialogView getView() | get view
+Dimension getOptimalView(QDimension;) | get optimal view
+Dimension getPreferredScrollableViewportSize() | get preferred scrollable viewport size
+Dimension getViewportSize() | get viewport size
+DrawingView findView(QContainer;) | find view
+DrawingView getFocusedView() | get focused view
+DrawingView getView() | get view
+float get3DViewAspectRatio() | get 3 d view aspect ratio
+float getFieldOfView() | get field of view
+float getViewPitch() | get view pitch
+float getViewYaw() | get view yaw
+GlyphView _createColoringView(QElement;) | create coloring view
+GPView createView(QIAdaptable;QIcon;) | create view
+GPViewManager getViewManager() | get view manager
+HelpView createHelpView(QUserPreferences;QHelpController;) | create help view
+HelpView getView() | get view
+HomeView createHomeView(QHome;QUserPreferences;QHomeController;) | create home view
+HomeView getView() | get view
+IBoardView getBoardView() | get board view
+ImportedFurnitureWizardStepsView createImportedFurnitureWizardStepsView(QCatalogPieceOfFurniture;QString;ZQUserPreferences;QImportedFurnitureWizardController;) | create imported furniture wizard steps view
+ImportedFurnitureWizardStepsView getStepsView() | get steps view
+int convertRowIndexToView(I) | convert row index to view
+int[] getModelToView() | get model to view
+int getObserverFieldOfViewInDegrees() | get observer field of view in degrees
+int getReportViewer() | get report viewer
+int getView() | get view
+int getViewAs(int index) | get view as
+int getViewIndex() | get view index
+int getViewMode() | get view mode
+int viewToModel(QGlyphView;FFQShape;[QPosition.Bias;) | view to model
+Item openPluginView(QString;QString;QUISWTViewEventListener;QObject;ZZ) | open plugin view
+IView getActiveSubView() | get active sub view
+IView getActiveView() | get active view
+IView[] getAllViews() | get all views
+IView[] getCoreTabViews() | get core tab views
+IView getCurrentView() | get current view
+IView getIView() | get i view
+IView getIViewFromID(QString;) | get i view from id
+IView getViewByContainer(QContainer;) | get view by container
+IView getViewByDockingView(Qnet.infonode.docking.View;) | get view by docking view
+IView getView(QItem;) | get view
+IViewInfo[] getPluginLogViewsInfo() | get plugin log views info
+IViewInfo[] getPluginViewsInfo() | get plugin views info
+JComponent createPlanView3DPane(QHome;QUserPreferences;QHomeController;) | create plan view 3 d pane
+JMenu createViewMenu() | create view menu
+JViewport getDefViewport() | get def viewport
+LinkedList getChildrenViews() | get children views
+LinkedList getSiblingViews() | get sibling views
+List getViewBox() | get view box
+ListView getListView() | get list view
+long getViewerBufferSeconds() | get viewer buffer seconds
+long getViewerBytePosition() | get viewer byte position
+Map getAllViews() | get all views
+Map getViewListeners(QString;) | get view listeners
+MapView getMapView() | get map view
+MapView getView() | get view
+MenuItem addLogsViewMenuItem(QMenu;) | add logs view menu item
+MenuItem addViewToolbarMenuItem(QMenu;) | add view toolbar menu item
+MenuItem createViewMenuItem(QMenu;) | create view menu item
+MenuItem createViewMenuItem(QSWTSkin;QMenu;QString;QString;QString;ZI) | create view menu item
+MyTorrentsView createTorrentView(QAzureusCore;QString;Z[QTableColumnCore;) | create torrent view
+MyTorrentsView getCurrentView() | get current view
+MyTorrentsView getSeedingview() | get seeding view
+MyTorrentsView getTorrentview() | get torrent view
+net.infonode.docking.View addViewAndPlaceIt(QIView;) | add view and place it
+net.infonode.docking.View addView(QIView;) | add view
+net.infonode.docking.View getDockingView(QIView;) | get docking view
+net.infonode.docking.View makeDockingView(QIView;) | make docking view
+net.infonode.docking.View registerView(QIView;) | register view
+NodeMotionListenerView getMotionListenerView() | get motion listener view
+NodeView getMovedView() | get moved view
+NodeView getNodeView(QMouseEvent;) | get node view
+NodeView getParentView() | get parent view
+NodeView getViewer() | get viewer
+NodeView newNodeView(QMindMapNode;QMapView;) | new node view
+Object[] getIViewClassVals() | get i view class vals
+PlanView createPlanView(QHome;QUserPreferences;QPlanController;) | create plan view
+PlanView getView() | get view
+Player getViewOwner() | get view owner
+PluginView createPluginView(QPluginViewModel;) | create plugin view
+Point2D.Double viewToDrawing(QPoint;) | view to drawing
+Point drawingToView(QPoint2D.Double;) | drawing to view
+Rectangle2D.Double viewToDrawing(QRectangle;) | view to drawing
+Rectangle drawingToView(QRectangle2D.Double;) | drawing to view
+Row[] getViewToModel() | get view to model
+Shape modelToView(QGlyphView;IQPosition.Bias;QShape;) | model to view
+StandardAccount getViewedAccount() | get viewed account
+String getCurrentySelectedViewID() | get currenty selected view id
+String getPluginViewName() | get plugin view name
+String getViewID() | get view id
+String getViewName() | get view name
+String getViewStatement(QString;) | get view statement
+SubQuery getViewSubquery(QView;) | get view subquery
+subscriptionView getView() | get view
+SWTSkinObject createUnattachedView(QString;QSWTSkinObject;) | create unattached view
+Table SYSTEM_VIEW_COLUMN_USAGE() | system view column usage
+Table SYSTEM_VIEW_ROUTINE_USAGE() | system view routine usage
+Table SYSTEM_VIEWS() | system views
+Table SYSTEM_VIEW_TABLE_USAGE() | system view table usage
+TableView getCurrentlySelectedTableView() | get currently selected table view
+TableView getView() | get view
+TableViewSWT createTableView(QString;[QTableColumnCore;) | create table view
+TableViewSWT createTableView([QTableColumnCore;) | create table view
+TableViewSWT getTableView() | get table view
+TableViewSWT getView() | get view
+TextureChoiceView createTextureChoiceView(QUserPreferences;QTextureChoiceController;) | create texture choice view
+TextureChoiceView getView() | get view
+ThreadedTaskView createThreadedTaskView(QString;QUserPreferences;QThreadedTaskController;) | create threaded task view
+ThreadedTaskView getView() | get view
+TreeItem createTreeItemFromIViewClass(QString;QString;QClass;) | create tree item from i view class
+TreeItem createTreeItemFromIViewClass(QString;QString;QString;QClass;[QClass;[QObject;QObject;QViewTitleInfo;Z) | create tree item from i view class
+TreeItem createTreeItemFromIView(QString;QIView;QString;QObject;ZZ) | create tree item from i view
+UISWTView[] getOpenViews(QString;) | get open views
+UISWTView[] getPluginViews() | get plugin views
+UISWTView getView() | get view
+View createBackgroundImageWizardStepsView(QBackgroundImage;QUserPreferences;QBackgroundImageWizardController;) | create background image wizard steps view
+View createFurnitureCatalogView(QFurnitureCatalog;QUserPreferences;QFurnitureCatalogController;) | create furniture catalog view
+View createFurnitureView(QHome;QUserPreferences;QFurnitureController;) | create furniture view
+View createImportedTextureWizardStepsView(QCatalogTexture;QString;QUserPreferences;QImportedTextureWizardController;) | create imported texture wizard steps view
+View createView3D(QHome;QUserPreferences;QHomeController3D;) | create view 3 d
+View createView(FFI) | create view
+ViewFactory getViewFactory() | get view factory
+View get3DView() | get 3 d view
+View getHorizontalRulerView() | get horizontal ruler view
+View getStepsView() | get steps view
+View getStepView() | get step view
+View getVerticalRulerView() | get vertical ruler view
+View getView() | get view
+View[] getViewsWithSequence(QNumberSequence;) | get views with sequence
+View[] getViewsWithTable(QTable;QString;) | get views with table
+View[] getViewsWithView(QView;) | get views with view
+ViewMode getViewMode() | get view mode
+void ActionViewStatusbar() | action view statusbar
+void ActionViewToolbar() | action view toolbar
+void addBoardViewListener(QBoardViewListener;) | add board view listener
+void addPluginAddedViewListener(QPluginAddedViewListener;) | add plugin added view listener
+void addPluginView(QAbstractIView;QString;) | add plugin view
+void addPluginView(QPluginView;) | add plugin view
+void addPluginView(QString;QUISWTViewEventListener;) | add plugin view
+void addPluginView(QUISWTPluginView;) | add plugin view
+void addSimpleViewMenu() | add simple view menu
+void addTabView(QIView;) | add tab view
+void addTopBarView(QIView;QComposite;) | add top bar view
+void addViewMenu() | add view menu
+void addViewMenuItems(QMenu;) | add view menu items
+void addViewMenu(QShell;) | add view menu
+void addView(QPluginView;) | add view
+void addView(QPluginView;Z) | add view
+void addView(QResourceView;) | add view
+void addView(QString;QString;QUISWTViewEventListener;) | add view
+void addView(QUISWTAWTPluginView;Z) | add view
+void addView(QUISWTPluginView;Z) | add view
+void addViewToolBarsMenu(QMenu;) | add view tool bars menu
+void addViewToPerspective(QIView;) | add view to perspective
+void applyView() | apply view
+void beginScrollViewInteraction(QMouseEvent;) | begin scroll view interaction
+void buildTopBarViews() | build top bar views
+void buildViewMenu() | build view menu
+void centerViewOnLine(I) | center view on line
+void centerViewOnOffset(I) | center view on offset
+void centerViewOnSelectedCell() | center view on selected cell
+void changeView() | change view
+void changeViewMode(I) | change view mode
+void checkCascadeDropViews(QNumberSequence;Z) | check cascade drop views
+void checkCascadeDropViews(QTable;Z) | check cascade drop views
+void checkCascadeDropViews(QView;Z) | check cascade drop views
+void checkColumnIsInView(QTable;QString;) | check column is in view
+void checkSimpleViews() | check simple views
+void checkUnionViews() | check union views
+void checkUserViewNotExists(QSession;QString;QString;) | check user view not exists
+void checkViewsOnViews() | check views on views
+void checkViewTranslationAndContent(QString;[QString;QString;QString;QObject;) | check view translation and content
+void closePluginView(QIView;) | close plugin view
+void closePluginViews(QString;) | close plugin views
+void closeView() | close view
+void closeViewOrWindow() | close view or window
+void configureSourceViewerDecorationSupport() | configure source viewer decoration support
+void createBlockView() | create block view
+void createIViewInfoMenuItem(QMenu;QIViewInfo;) | create i view info menu item
+void createIViewInfoMenuItems(QMenu;QMap;) | create i view info menu items
+void createView(QString;[QString;QString;) | create view
+void disabledViewModes() | disabled view modes
+void displayView() | display view
+void displayView(QView;) | display view
+void FirstStepView() | first step view
+void fitViewToBounds(QDisplay;QRectangle2D;J) | fit view to bounds
+void fitViewToBounds(QDisplay;QRectangle2D;QPoint2D;J) | fit view to bounds
+void FocusableViewListener(QHomeController;QJComponent;) | focusable view listener
+void GPViewImpl(QViewManagerImpl;QGanttTabbedPane;QContainer;QChart;QIcon;) | gp view impl
+void initToolBarView(QToolBarView;) | init tool bar view
+void loadViewState(QAttributes;) | load view state
+void openExternalViewer(QMetaData;QString;QString;) | open external viewer
+void openMainView(QString;QUISWTViewEventListener;QObject;) | open main view
+void openMainView(QString;QUISWTViewEventListener;QObject;Z) | open main view
+void openManagerView(QDownloadManager;) | open manager view
+void openPluginView(QAbstractIView;QString;) | open plugin view
+void openPluginView(QPluginView;) | open plugin view
+void openPluginView(QString;QString;QUISWTViewEventListener;QObject;Z) | open plugin view
+void openPluginView(QUISWTPluginView;) | open plugin view
+void openView(IQObject;) | open view
+void openView(QString;QClass;QString;QObject;Z) | open view
+void openView(QUIFunctionsSWT;) | open view
+void performViewEvent(QActionEvent;) | perform view event
+void PieceOfFurnitureTopViewIcon(QHomePieceOfFurniture;QComponent;) | piece of furniture top view icon
+void plotView(QSpeedManagerPingMapper;QCanvas;[QString;[QValueFormater;) | plot view
+void PluginViewWrapper(QPluginViewModel;) | plugin view wrapper
+void processBoardViewEvent(QBoardViewEvent;) | process board view event
+void processCreateView() | process create view
+void readViewportAttributes(QIXMLElement;QHashMap<QAttributeKey;QObject;>;) | read viewport attributes
+void recompileViews(QTable;) | recompile views
+void refreshDownloadView([QDownloadManager;) | refresh download view
+void refreshSelectedSubView() | refresh selected sub view
+void refreshView() | refresh view
+void refreshView(QSubscription;) | refresh view
+void removeActivePluginView(QString;) | remove active plugin view
+void removeAllView() | remove all view
+void removeBoardViewListener(QBoardViewListener;) | remove board view listener
+void removeManagerView(QDownloadManager;) | remove manager view
+void removePluginView(QAbstractIView;QString;) | remove plugin view
+void removePluginView(QPluginView;) | remove plugin view
+void removePluginView(QString;) | remove plugin view
+void removePluginView(QUISWTPluginView;) | remove plugin view
+void removePluginViews(QString;) | remove plugin views
+void removePluginViewsWithID(QString;QMap;) | remove plugin views with id
+void removeViewChangeListener(ViewChangeListener vsl) | remove view change listener
+void removeView(QIView;) | remove view
+void removeView(QUISWTAWTPluginView;) | remove view
+void removeView(QUISWTPluginView;) | remove view
+void removeViews(QString;QString;) | remove views
+void resetBuddyViewer() | reset buddy viewer
+void resetView() | reset view
+void saveGanttChartView(QTransformerHandler;) | save gantt chart view
+void saveViews(QTransformerHandler;) | save views
+void ScrollViewInteraction(QMouseEvent;) | scroll view interaction
+void SecondStepView(QSecondStep;) | second step view
+void set3DViewAspectRatio(F) | set 3 d view aspect ratio
+void setAsView(QView;) | set as view
+void setBuddiesViewer(QBuddiesViewer;) | set buddies viewer
+void setCompilingView() | set compiling view
+void setCoreTabViews([QIView;) | set core tab views
+void setDefaultInCollectionDetailView() | set default in collection detail view
+void setDefaultViews() | set default views
+void setEnableTabViews(Z) | set enable tab views
+void setFieldOfView(F) | set field of view
+void setFocusedView(QDrawingView;) | set focused view
+void setFurnitureViewedFromTop(Z) | set furniture viewed from top
+void setInitialViews() | set initial views
+void setIViewClassArgs([QClass;) | set i view class args
+void setIViewClass(QClass;) | set i view class
+void setIViewClassVals([QObject;) | set i view class vals
+void setIView(QIView;) | set i view
+void setMultiTrackView(Z) | set multi track view
+void setObserverFieldOfViewInDegrees(I) | set observer field of view in degrees
+void setPullTitleFromIView(Z) | set pull title from i view
+void setReportViewer(I) | set report viewer
+void setScrollableTracksViewportHeight(Z) | set scrollable tracks viewport height
+void setScrollableTracksViewportWidth(Z) | set scrollable tracks viewport width
+void setSelectedView(String type) | set selected view
+void setSkinObjectViewID(QSWTSkinObject;QString;) | set skin object view id
+void setSourceView(QBibtexEntry;QBibtexEntry;) | set source view
+void setStepView(QView;) | set step view
+void setTableView(QTableViewSWT;) | set table view
+void _setupView() | setup view
+void setupViewTitle() | setup view title
+void setViewedPanel(I) | set viewed panel
+void setViewerBytePosition(J) | set viewer byte position
+void setViewerPosition(QDiskManagerFileInfo;J) | set viewer position
+void setViewer(QNodeView;) | set viewer
+void setViewer(Viewer viewer) | set viewer
+void setView(I) | set view
+void setViewID(QString;) | set view id
+void setViewIndex(I) | set view index
+void setViewMode(I) | set view mode
+void setViewMode(IZ) | set view mode
+void setViewpoint(String descrip) | set viewpoint
+void setViewPort() | set view port
+void setView(QDrawingView;) | set view
+void setView(QIView;) | set view
+void setView(QListView;) | set view
+void setView(QMapView;) | set view
+void setView(QsubscriptionView;) | set view
+void setViewScrollbars(Z) | set view scrollbars
+void setViewYaw(F) | set view yaw
+void showAllPeersView() | show all peers view
+void showDetailedListView() | show detailed list view
+void showMultiOptionsView([QDownloadManager;) | show multi options view
+void showViews(boolean flag) | show views
+void subscriptionView(QSubscription;) | subscription view
+void test2pViews() | test 2 p views
+void testInternalResourceViewResolverWithJstlAndContextParam() | test internal resource view resolver with jstl and context param
+void testViewAttachesTo() | test view attaches to
+void toggleViewMode() | toggle view mode
+void triggerPluginAddedViewListeners(QIViewInfo;) | trigger plugin added view listeners
+void updateAppletView(QJApplet;QHomeController;) | update applet view
+void updateFocusedView() | update focused view
+void updateHierarchyViewer(boolean doExpand) | update hierarchy viewer
+void updateSourceView() | update source view
+void updateStepView(QWizardController;) | update step view
+void updateView() | update view
+void updateViewerPosition() | update viewer position
+void updateViewPlatformTransform(QTransform3D;FFFFF) | update view platform transform
+void updateViewPlatformTransform(QTransformGroup;FF) | update view platform transform
+void updateViewPlatformTransform(QTransformGroup;QCamera;Z) | update view platform transform
+void updateView(QBibtexDatabase;) | update view
+void updateView(QBibtexEntry;) | update view
+void updateView(QView;QCamera;Z) | update view
+void validateAvailableKey(String viewInputField, String licenseKey) | validate available key
+void viewCliques(QGraphics;QJunctionTreeNode;) | view cliques
+void viewDetails(QDownloadManager;QString;) | view details
+void viewDetails(QString;QString;) | view details
+void viewDetails(QTableRowCore;QString;) | view details
+void viewFromObserver() | view from observer
+void viewFromTop() | view from top
+void viewGroup() | view group
+void viewHelp() | view help
+void viewInteractionsClassPath() | view interactions class path
+void ViewManagerImpl(QGanttTabbedPane;) | view manager impl
+void ViewMenuItem(QEntity;) | view menu item
+void ViewStateEvent(QChartViewState;QObject;QObject;) | view state event
+void ViewTest(QHomeController;) | view test
+void viewTitleInfoRefresh(QViewTitleInfo;) | view title info refresh
+void write(ObjectOutputStream out, WriteContext context, ViewWriter viewWriter) | write
+void zoneView(QSpeedManagerPingMapper;QCanvas;[QString;[QValueFormater;) | zone view

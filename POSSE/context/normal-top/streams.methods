@@ -1,0 +1,4 @@
+boolean useStreamsForBinary() | use streams for binary
+boolean yymoreStreams() | yy more streams
+int sync(StreamPair streams, int classOffset) | sync
+void redirectStandardStreams() | redirect standard streams

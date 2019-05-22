@@ -1,0 +1,6 @@
+ArrayList getChildrenNamed(QString;) | get children named
+ArrayList getChildrenNamed(QString;QString;) | get children named
+ArrayList<QIXMLElement;> getChildrenNamed(QString;) | get children named
+ArrayList<QIXMLElement;> getChildrenNamed(QString;QString;) | get children named
+ListIterator childrenFolded() | children folded
+ListIterator childrenUnfolded() | children unfolded

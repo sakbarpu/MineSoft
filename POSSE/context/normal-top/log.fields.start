@@ -1,0 +1,42 @@
+boolean log_cpu | log cpu
+boolean LOG_DOS_TO_FILE | log dos to file
+boolean LOG_RTA | log rta
+boolean logStatements | log statements
+boolean LOG_STATS | log stats
+boolean LOG_UNKNOWN | log unknown
+boolean LOG_WARNINGS | log warnings
+double LOG10_FACTOR | log 10  factor
+int log10 | log 10
+int Log2P | log 2 p
+int LOG_ERROR | log error
+int logFileSizes | log file sizes
+int logMode | log mode
+int LOG_NONE | log none
+int LOG_NORMAL | log normal
+int LOG_PROG_STATS_PERIOD | log prog stats period
+int LOG_PROG_STATS_TICKS | log prog stats ticks
+int LOGSIZE | log size
+int LOG_SUCCESS | log success
+int LOG_TICKS | log ticks
+int log_type | log type
+int logType | log type
+it.businesslogic.ireport.gui.logpane.LogPane logPane | log pane
+it.businesslogic.ireport.gui.logpane.LogTextArea logTextArea | log text area
+java.io.PrintWriter logFilePrinter | log file printer
+java.io.PrintWriter logWriter | log writer
+java.lang.Object log_object | log object
+java.lang.String log_dir | log dir
+java.lang.String LOG_DIR | log dir
+java.lang.String LOG_DIRECTORY | log directory
+java.lang.String LOG_FILE | log file
+java.lang.String logFilename | log filename
+java.lang.String logFileName | log file name
+java.lang.String LOG_FILE_NAME | log file name
+java.lang.String logID | log id
+java.lang.String logType | log type
+java.util.List log_alert_history | log alert history
+java.util.List log_history | log history
+java.util.List log_listeners | log listeners
+java.util.List logListeners | log listeners
+java.util.Map log_no_repeat_map | log no repeat map
+org.gudy.azureus2.core3.logging.LogIDs logID | log id

@@ -1,0 +1,2 @@
+LinkedList<QDJError;> _parseExceptions2CompilerErrors(QLinkedList<QJExprParseException;>;) | parse exceptions 2 compiler errors
+void testExceptionsDelegate() | test exceptions delegate

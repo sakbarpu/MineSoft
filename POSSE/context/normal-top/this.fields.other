@@ -1,0 +1,11 @@
+boolean hitThisRoundByAntiTSM | hit this round by anti tsm
+boolean koThisRound | ko this round
+boolean unloadedThisTurn | unloaded this turn
+boolean usedThisRound | used this round
+boolean writtenToThisSession | written to this session
+int damageThisPhase | damage this phase
+int engineHitsThisRound | engine hits this round
+java.util.LinkedList auctionEntriesInThisGroup | auction entries in this group
+javax.swing.JMenuItem jMenuItemCloseAllExceptThisFromList | j menu item close all except this from list
+org.gudy.azureus2.core3.util.AEMonitor downloadData_this_mon | download data this mon
+short itsThisClassIndex | its this class index

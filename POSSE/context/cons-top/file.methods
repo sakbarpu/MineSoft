@@ -1,0 +1,303 @@
+CONS AttachFileDialog(QDialog;QMetaData;QBibtexEntry;QString;) | attach file dialog
+CONS AttachFileDialog(QFrame;QMetaData;QBibtexEntry;QString;) | attach file dialog
+CONS AutoSetExternalFileForEntries(QBasePanel;QString;) | auto set external file for entries
+CONS BLKBattleArmorFile(QBuildingBlock;) | blk battle armor file
+CONS BLKGunEmplacementFile(QBuildingBlock;) | blk gun emplacement file
+CONS BLKInfantryFile(QBuildingBlock;) | blk infantry file
+CONS BLKMechFile(QBuildingBlock;) | blk mech file
+CONS BLKProtoFile(QBuildingBlock;) | blk proto file
+CONS BLKTankFile(QBuildingBlock;) | blk tank file
+CONS BLKVTOLFile(QBuildingBlock;) | blk vtol file
+CONS CacheFileManagerException(QCacheFile;QString;) | cache file manager exception
+CONS CacheFileManagerException(QCacheFile;QString;QThrowable;) | cache file manager exception
+CONS CacheFileManagerException(QCacheFile;QString;QThrowable;I) | cache file manager exception
+CONS CacheFileManagerImpl() | cache file manager impl
+CONS CacheFileManagerStatsImpl(QCacheFileManagerImpl;) | cache file manager stats impl
+CONS CacheFileWithCache(QCacheFileManagerImpl;QFMFile;QTOTorrentFile;) | cache file with cache
+CONS CacheFileWithoutCacheMT(QCacheFileManagerImpl;QFMFile;QTOTorrentFile;) | cache file without cache mt
+CONS CacheFileWithoutCache(QCacheFileManagerImpl;QFMFile;QTOTorrentFile;) | cache file without cache
+CONS ClassFileError(QString;QString;QLinkageError;) | class file error
+CONS ClassFileField(SSS) | class file field
+CONS ClassFileMethod(SSS) | class file method
+CONS ClassFileWriter(QString;QString;QString;) | class file writer
+CONS ClearRecentFilesAction(QApplication;) | clear recent files action
+CONS ConfigFileTest(QString;) | config file test
+CONS ConverterFileChooser() | converter file chooser
+CONS ConverterFileChooser(QFile;) | converter file chooser
+CONS ConverterFileChooser(QString;) | converter file chooser
+CONS DataFileBlockManager(IIJ) | data file block manager
+CONS DataFileCache(QDatabase;QString;) | data file cache
+CONS DataFileDefrag(QDatabase;QDataFileCache;QString;) | data file defrag
+CONS DefaultFileDisplayManager() | default file display manager
+CONS DeleteFileOnCloseInputStream(QFile;) | delete file on close input stream
+CONS DiskManagerFileInfoImpl(QDiskManagerHelper;QFile;IQTOTorrentFile;Z) | disk manager file info impl
+CONS DiskManagerFileInfoImpl(QDownloadImpl;Qorg.gudy.azureus2.core3.disk.DiskManagerFileInfo;) | disk manager file info impl
+CONS DiskManagerFileInfoSetImpl([QDiskManagerFileInfoImpl;QDiskManagerHelper;) | disk manager file info set impl
+CONS DocFile(QFile;) | doc file
+CONS DocFile(QFile;QPair<QInteger;QInteger;>;QPair<QInteger;QInteger;>;ZQString;) | doc file
+CONS DocFile(QString;) | doc file
+CONS DocFile(QString;QPair<QInteger;QInteger;>;QPair<QInteger;QInteger;>;ZQString;) | doc file
+CONS DocFile(QString;QString;) | doc file
+CONS DocFile(QString;QString;QPair<QInteger;QInteger;>;QPair<QInteger;QInteger;>;ZQString;) | doc file
+CONS DosFileFilter(QString;I) | dos file filter
+CONS DownloadExternalFile(QJabRefFrame;QMetaData;QString;) | download external file
+CONS DrawFileMenu(QString;C) | draw file menu
+CONS DrawFileToolbar() | draw file toolbar
+CONS DroppedFileHandler(QJabRefFrame;QBasePanel;) | dropped file handler
+CONS EnhancedDownloadManagerFile(QDiskManagerFileInfo;JQMap;) | enhanced download manager file
+CONS ExampleFileFilter() | example file filter
+CONS ExampleFileFilter([QString;) | example file filter
+CONS ExampleFileFilter(QString;) | example file filter
+CONS ExampleFileFilter([QString;QString;) | example file filter
+CONS ExampleFileFilter(QString;QString;) | example file filter
+CONS ExportFileAction(QUIFacade;QIGanttProject;QGanttOptions;) | export file action
+CONS ExportFileFilter(QIExportFormat;QString;) | export file filter
+CONS ExportFileFilter(QString;) | export file filter
+CONS ExportFileWizardImpl(QUIFacade;QIGanttProject;QChart;QChart;QChart;QGanttOptions;) | export file wizard impl
+CONS ExportFileWizardImpl(QUIFacade;QIGanttProject;QGanttOptions;) | export file wizard impl
+CONS ExtendedFileFilter() | extended file filter
+CONS ExtensionBasedFileFilter(QString;QString;) | extension based file filter
+CONS ExtensionFileFilter([QString;QString;) | extension file filter
+CONS ExtensionFileFilter(QString;[QString;) | extension file filter
+CONS ExtensionFileFilter(QString;QString;) | extension file filter
+CONS ExternalFileMenuItem(QJabRefFrame;QBibtexEntry;QString;QString;QIcon;QMetaData;QExternalFileType;) | external file menu item
+CONS ExternalFileMenuItem(QJabRefFrame;QBibtexEntry;QString;QString;QIcon;QMetaData;QString;) | external file menu item
+CONS ExternalFilePanel(QJabRefFrame;QMetaData;QEntryEditor;QString;QOpenFileFilter;QFieldEditor;) | external file panel
+CONS ExternalFilePanel(QString;QMetaData;QBibtexEntry;QFieldEditor;QOpenFileFilter;) | external file panel
+CONS ExternalFileTypeEditor(QJDialog;) | external file type editor
+CONS ExternalFileTypeEditor(QJFrame;) | external file type editor
+CONS ExternalFileTypeEntryEditor(QJDialog;QExternalFileType;) | external file type entry editor
+CONS ExternalFileTypeEntryEditor(QJFrame;QExternalFileType;) | external file type entry editor
+CONS ExternalFileType([QString;) | external file type
+CONS ExternalFileType(QString;QString;QString;QString;QString;) | external file type
+CONS FAFile(QInputStream;) | fa file
+CONS FileAction(QString;QString;QDrawingPanel;ZZ) | file action
+CONS FileAction(QString;QString;QString;QDrawingPanel;ZIQKeyStroke;Z) | file action
+CONS FileChooseListener() | file choose listener
+CONS FileChooseListener(IQJTextField;QComponent;QFile;) | file choose listener
+CONS FileChooserPageBase() | file chooser page base
+CONS FileChooserPage(QState;) | file chooser page
+CONS FileChooserPage(QState;QIGanttProject;) | file chooser page
+CONS FileChooser(QFile;) | file chooser
+CONS FileConfiguration(QFile;) | file configuration
+CONS FileContentManager(QUserPreferences;) | file content manager
+CONS FileController(QMode;) | file controller
+CONS FileDetails(Qjava.awt.Frame;Z) | file details
+CONS FileDisplay(QFileDisplayManager;) | file display
+CONS FileDisplay(QFile;QFileDisplayManager;) | file display
+CONS FileDisplay(QFile;QString;QFileDisplayManager;) | file display
+CONS FileDocument(QFile;) | file document
+CONS FileDownloadWindow(QAzureusCore;QShell;QString;QString;QMap;) | file download window
+CONS FileDownloadWindow(QAzureusCore;QShell;QString;QString;QMap;QTorrentDownloaderCallBackInterface;) | file download window
+CONS FileEdgeModel(QMindMapNode;QFreeMindMain;) | file edge model
+CONS FileEntry() | file entry
+CONS FileExtensionItem() | file extension item
+CONS FileFinder() | file finder
+CONS FileFormatException() | file format exception
+CONS FileFormatException(QString;) | file format exception
+CONS FileFormatException(QString;QThrowable;) | file format exception
+CONS FileFormatException(QThrowable;) | file format exception
+CONS FileHeader(QFileWindow;) | file header
+CONS FileHistory(QJabRefPreferences;QJabRefFrame;) | file history
+CONS FileInfoView() | file info view
+CONS FileIsADirectoryException(QString;) | file is a directory exception
+CONS FileListEditor(QJabRefFrame;QMetaData;QString;QString;QEntryEditor;) | file list editor
+CONS FileListEntryEditor(QJabRefFrame;QFileListEntry;ZZQMetaData;) | file list entry editor
+CONS FileListEntry(QString;QString;QExternalFileType;) | file list entry
+CONS FileListProperty(QString;QString;QString;QString;) | file list property
+CONS FileList(QFile;) | file list
+CONS FileList(QFile;QFileFilter;) | file list
+CONS FileListTableModel() | file list table model
+CONS FileLoader(QFile;) | file loader
+CONS FileLoader(QString;) | file loader
+CONS FileLocator() | file locator
+CONS FileManager() | file manager
+CONS FileMapModel(QFile;QFreeMindMain;) | file map model
+CONS FileMapModel(QFreeMindMain;) | file map model
+CONS FileMode() | file mode
+CONS FileMovedException(QFile;QString;) | file moved exception
+CONS FileNodeModel(QFile;QFreeMindMain;) | file node model
+CONS FileNode(QFile;) | file node
+CONS FileOptionComponent(QFileOption;QString;QSwingFrame;QJFileChooser;) | file option component
+CONS FileOptionComponent(QFileOption;QString;QSwingFrame;QString;QJFileChooser;) | file option component
+CONS FileOptionComponentTest(QString;) | file option component test
+CONS FileOption(QString;QFile;) | file option
+CONS FileOption(QXMLStreamReader;) | file option
+CONS FileOptionsTable(ZQOptionsPanel;QArrayList;) | file options table
+CONS FileOptionUI(QFileOption;Z) | file option ui
+CONS FilePanel(QConfigureWizard;QIWizardPanel;) | file panel
+CONS FileParameter(QComposite;QString;QString;[QString;) | file parameter
+CONS FileParameter(QPluginConfigImpl;QString;QString;QString;) | file parameter
+CONS FileParameter(QPluginConfigImpl;QString;QString;QString;[QString;) | file parameter
+CONS FilePluginInstallerImpl(QPluginInstallerImpl;QFile;) | file plugin installer impl
+CONS FilePopupMenu(QFileController;) | file popup menu
+CONS FilePopupMenu(QFileTextArea;) | file popup menu
+CONS FilePreviewer(QJFileChooser;) | file previewer
+CONS FileProperty(QString;QThunk<QFile;>;QString;) | file property
+CONS File(QString;QString;QDirectory;QTrack;JJ) | file
+CONS FilesDoneItem(QString;) | files done item
+CONS FileSelectionEvent(QObject;[QFile;[ZQFile;QFile;) | file selection event
+CONS FileSelectionEvent(QObject;QFile;ZQFile;QFile;) | file selection event
+CONS FileSelectorComponent(QSwingFrame;QJFileChooser;) | file selector component
+CONS FileSelectorComponent(QSwingFrame;QJFileChooser;IF) | file selector component
+CONS FileSelectorComponent(QSwingFrame;QJFileChooser;IFZ) | file selector component
+CONS FileSelectorStringComponent(QComponent;QFileChooser;) | file selector string component
+CONS FileSelectorStringComponent(QComponent;QFileChooser;IF) | file selector string component
+CONS FilesTableModel() | files table model
+CONS FilesView() | files view
+CONS FilesystemConnection() | filesystem connection
+CONS FilesystemConnection(QString;QConnectionListener;) | filesystem connection
+CONS FileSystemContainer(QString;QString;) | file system container
+CONS FileTab(QJabRefFrame;QJabRefPreferences;) | file tab
+CONS FileTextArea(QFileWindow;) | file text area
+CONS FileToolBar(QFileController;) | file tool bar
+CONS FileUpdateMonitor() | file update monitor
+CONS FileUpdatePanel(QJabRefFrame;QBasePanel;QSidePaneManager;QFile;QChangeScanner;) | file update panel
+CONS FileUserPreferences() | file user preferences
+CONS FileUtil() | file util
+CONS FileWalker(QFileHandler;) | file walker
+CONS FileWalker(QFileHandler;C) | file walker
+CONS FileWindow(QSwingGui;QDim.SourceInfo;) | file window
+CONS FMFileAccessCompact(QTOTorrentFile;QFile;QString;QFMFileAccess;) | fm file access compact
+CONS FMFileAccessController(QFMFileImpl;I) | fm file access controller
+CONS FMFileAccessLinear(QFMFileImpl;) | fm file access linear
+CONS FMFileImpl(QFMFileImpl;) | fm file impl
+CONS FMFileImpl(QFMFileOwner;QFMFileManagerImpl;QFile;I) | fm file impl
+CONS FMFileLimited(QFMFileLimited;) | fm file limited
+CONS FMFileLimited(QFMFileOwner;QFMFileManagerImpl;QFile;I) | fm file limited
+CONS FMFileManagerException(QString;) | fm file manager exception
+CONS FMFileManagerException(QString;QThrowable;) | fm file manager exception
+CONS FMFileManagerImpl() | fm file manager impl
+CONS FMFileTestImpl(QFMFileOwner;QFMFileManagerImpl;QFile;I) | fm file test impl
+CONS FMFileUnlimited(QFMFileOwner;QFMFileManagerImpl;QFile;I) | fm file unlimited
+CONS FMFileUnlimited(QFMFileUnlimited;) | fm file unlimited
+CONS FreeColDataFile(QFile;) | free col data file
+CONS FreeColSavegameFile(QFile;) | free col savegame file
+CONS FreeColTcFile(QFile;) | free col tc file
+CONS GanttMSProjectLFileFilter() | gantt ms project l file filter
+CONS GanttXMLFileFilter() | gantt xml file filter
+CONS GenericFileFilter(QString;[QString;) | generic file filter
+CONS GenericFileFilter(QString;QString;) | generic file filter
+CONS HmpFile(QInputStream;) | hmp file
+CONS HmvFile(QInputStream;) | hmv file
+CONS HomeFileRecorder() | home file recorder
+CONS HomeFileRecorder(I) | home file recorder
+CONS HTTPNetworkConnectionFile(QHTTPNetworkManager;QNetworkConnection;QPEPeerTransport;) | http network connection file
+CONS ImageFileFactory() | image file factory
+CONS ImportFileAction(QUIFacade;QGanttProject;) | import file action
+CONS ImportFileFilter(QImportFormat;) | import file filter
+CONS ImportFileWizardImpl(QUIFacade;QGanttProject;) | import file wizard impl
+CONS ImportMindmanagerFiles() | import mind manager files
+CONS IPWFilePanel(QWizard;QIWizardPanel;) | ipw file panel
+CONS JabRefFileChooser() | jab ref file chooser
+CONS JabRefFileChooser(QFile;) | jab ref file chooser
+CONS JajukFileChooser() | jajuk file chooser
+CONS JajukFileChooser(QJajukFileFilter;) | jajuk file chooser
+CONS JajukFileFilter([Qjava.io.FileFilter;) | jajuk file filter
+CONS JajukFileFilter(Z[Qjava.io.FileFilter;) | jajuk file filter
+CONS JConfigFilePathTab() | j config file path tab
+CONS JFilenameFilter() | j filename filter
+CONS LocaleResourceFilesDialog(Qjava.awt.Dialog;Z) | locale resource files dialog
+CONS LocaleResourceFilesDialog(Qjava.awt.Frame;Z) | locale resource files dialog
+CONS LockFile() | lock file
+CONS MalformedProjectFileException(QString;) | malformed project file exception
+CONS MechFileParser(QFile;) | mech file parser
+CONS MechFileParser(QFile;QString;) | mech file parser
+CONS MechFileParser(QInputStream;QString;) | mech file parser
+CONS MediaFileNameMap() | media file name map
+CONS MediaFileNameMap(QFileNameMap;) | media file name map
+CONS MemoryMappedFile(QFile;) | memory mapped file
+CONS MepFile(QInputStream;) | mep file
+CONS MoveFileAction(QJabRefFrame;QEntryEditor;QFileListEditor;Z) | move file action
+CONS MtfFile(QInputStream;) | mtf file
+CONS MutableFileProperty(QString;QFile;QString;) | mutable file property
+CONS NewFileAction(QString;QString;QDrawingPanel;) | new file action
+CONS NewFileAction(QString;QString;QString;QDrawingPanel;IQKeyStroke;) | new file action
+CONS NewLocaleFileDialog(Qjava.awt.Dialog;Z) | new locale file dialog
+CONS NewLocaleFileDialog(Qjava.awt.Frame;Z) | new locale file dialog
+CONS NoneAccessibleFileException(QString;) | none accessible file exception
+CONS NoneAccessibleFileException(QString;QThrowable;) | none accessible file exception
+CONS NullFile() | null file
+CONS NullFile(QString;) | null file
+CONS OpenFileDialog(QGanttProject;) | open file dialog
+CONS OpenFileDialog(QString;) | open file dialog
+CONS OpenFileFilter() | open file filter
+CONS OpenFileFilter([QString;) | open file filter
+CONS OpenFileFilter(QString;) | open file filter
+CONS PlaylistFile(IQString;QString;QDirectory;) | playlist file
+CONS PlaylistFileItem(IQString;QPlaylistFile;QString;) | playlist file item
+CONS PlaylistFileManager() | playlist file manager
+CONS PlaylistFileNode(QPlaylistFile;) | playlist file node
+CONS PlaylistFile(QString;QString;QDirectory;) | playlist file
+CONS PluginFileParameter(QComposite;QFileParameter;) | plugin file parameter
+CONS ProjectFileParser() | project file parser
+CONS ProjectFileParserFacade() | project file parser facade
+CONS RecentFileManager(IQJMenu;QRecentFileAction;QVectorOption<QFile;>;) | recent file manager
+CONS RecursiveFileListProperty(QString;QString;QString;QString;QString;) | recursive file list property
+CONS ResourceDownloaderFileImpl(QResourceDownloaderBaseImpl;QFile;) | resource downloader file impl
+CONS RPDiskManagerFileInfo(QDiskManagerFileInfo;) | rp disk manager file info
+CONS RrdFileBackend(QString;ZI) | rrd file backend
+CONS RRDFile(QFile;) | rrd file
+CONS RRDFile(QString;) | rrd file
+CONS ScaledRAFileHybrid(QDatabase;QString;Z) | scaled ra file hybrid
+CONS ScaledRAFileInJar(QString;) | scaled ra file in jar
+CONS ScaledRAFileNIO(QDatabase;QString;ZI) | scaled ra file nio
+CONS ScaledRAFile(QDatabase;QString;QRandomAccessFile;Z) | scaled ra file
+CONS ScaledRAFile(QDatabase;QString;Z) | scaled ra file
+CONS SERFileFilter(QString;QString;) | ser file filter
+CONS ShareResourceFileImpl(QShareManagerImpl;QFile;QMap;) | share resource file impl
+CONS ShareResourceFileImpl(QShareManagerImpl;QShareResourceDirContentsImpl;QFile;) | share resource file impl
+CONS ShareResourceFileOrDirImpl(QShareManagerImpl;IQFile;QMap;) | share resource file or dir impl
+CONS ShareResourceFileOrDirImpl(QShareManagerImpl;QShareResourceDirContentsImpl;IQFile;) | share resource file or dir impl
+CONS SimpleFileFilter(QString;QString;) | simple file filter
+CONS SimpleFileFilter(QString;QString;QObject;) | simple file filter
+CONS SingleFilePanel(QNewTorrentWizard;QAbstractWizardPanel;) | single file panel
+CONS SmbFileInputStream(QSmbFile;) | smb file input stream
+CONS SmbFileInputStream(QSmbFile;I) | smb file input stream
+CONS SmbFileInputStream(QString;) | smb file input stream
+CONS SmbFileOutputStream(QSmbFile;) | smb file output stream
+CONS SmbFileOutputStream(QSmbFile;Z) | smb file output stream
+CONS SmbFileOutputStream(QSmbFile;ZI) | smb file output stream
+CONS SmbFileOutputStream(QString;) | smb file output stream
+CONS SmbFileOutputStream(QString;I) | smb file output stream
+CONS SmbFileOutputStream(QString;Z) | smb file output stream
+CONS SmbFile(QSmbFile;QString;) | smb file
+CONS SmbFile(QSmbFile;QString;I) | smb file
+CONS SmbFile(QSmbFile;QString;IIJJJ) | smb file
+CONS SmbFile(QString;) | smb file
+CONS SmbFile(QString;QNtlmPasswordAuthentication;) | smb file
+CONS SmbFile(QString;QNtlmPasswordAuthentication;I) | smb file
+CONS SmbFile(QString;QString;) | smb file
+CONS SmbFile(QString;QString;QNtlmPasswordAuthentication;) | smb file
+CONS SmbFile(QString;QString;QNtlmPasswordAuthentication;I) | smb file
+CONS SmbFile(QURL;) | smb file
+CONS SmbFile(QURL;QNtlmPasswordAuthentication;) | smb file
+CONS SmbRandomAccessFile(QSmbFile;QString;) | smb random access file
+CONS SmbRandomAccessFile(QString;QString;I) | smb random access file
+CONS SqlFile(QFile;ZQMap;) | sql file
+CONS SqlFile(ZQMap;) | sql file
+CONS SynchronizeFileField(QBasePanel;) | synchronize file field
+CONS TdbFile(QInputStream;) | tdb file
+CONS TextFieldAndFileChooserComponent(QComponent;QString;) | text field and file chooser component
+CONS TextFieldAndFileChooserComponent(QString;QString;) | text field and file chooser component
+CONS TiVoFileFilters() | ti vo file filters
+CONS TiVoFileSorters() | ti vo file sorters
+CONS TorrentFileImpl(QString;J) | torrent file impl
+CONS TOTorrentFileHasher(ZZIQTOTorrentFileHasherListener;) | to torrent file hasher
+CONS TOTorrentFileImpl(QTOTorrent;JJ[[B) | to torrent file impl
+CONS TOTorrentFileImpl(QTOTorrent;JJQString;) | to torrent file impl
+CONS Trans2SetFileInformation(IIJJ) | trans 2 set file information
+CONS Trans2SetFileInformationResponse() | trans 2 set file information response
+CONS TransferableFileLinkSelection(QBasePanel;[QBibtexEntry;) | transferable file link selection
+CONS UnknownExternalFileType(QString;) | unknown external file type
+CONS VectorFileOptionComponent(QVectorOption<QFile;>;QString;QSwingFrame;) | vector file option component
+CONS VectorFileOptionComponent(QVectorOption<QFile;>;QString;QSwingFrame;QString;) | vector file option component
+CONS VectorFileOptionComponent(QVectorOption<QFile;>;QString;QSwingFrame;QString;Z) | vector file option component
+CONS VectorFileOptionComponent(QVectorOption<QFile;>;QString;QSwingFrame;Z) | vector file option component
+CONS VuzeFileHandler() | vu ze file handler
+CONS VuzeFileImpl(QVuzeFileHandler;) | vu ze file impl
+CONS VuzeFileImpl(QVuzeFileHandler;QMap;) | vu ze file impl
+CONS VuzeFileMerger([QString;) | vu ze file merger
+CONS XMLProjectFileParser() | xml project file parser
+CONS ZipFileChooser(QImportCustomizationDialog;QZipFile;) | zip file chooser
+CONS ZipFileCreator([QString;QString;QString;) | zip file creator

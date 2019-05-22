@@ -1,0 +1,5 @@
+int Id_arguments | id arguments
+int INVALID_FUNCTION_ARGUMENT | invalid function argument
+int INVALID_JDBC_ARGUMENT | invalid jdbc argument
+java.lang.String ARGUMENTS_DESCRIPTION_MESSAGE | arguments description message
+java.lang.String INCORRECT_ARGUMENTS_MESSAGE | incorrect arguments message

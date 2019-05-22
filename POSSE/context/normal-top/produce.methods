@@ -1,0 +1,11 @@
+boolean canAutoProduce() | can auto produce
+GoodsType getBestGoodsToProduce(QTile;) | get best goods to produce
+GoodsType getProducedGoodsType() | get produced goods type
+GoodsType getProducedMaterial() | get produced material
+ResultProducer getResultProducer() | get result producer
+String resultProducerTipText() | result producer tip text
+void activateFirstProducer() | activate first producer
+void addProducedGoods(QTile;) | add produced goods
+void produceGoods() | produce goods
+void produceGoodsCenterTile() | produce goods center tile
+void setResultProducer(QResultProducer;) | set result producer

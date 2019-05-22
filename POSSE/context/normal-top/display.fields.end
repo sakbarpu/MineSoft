@@ -1,0 +1,7 @@
+boolean compactDisplay | compact display
+java.awt.MenuItem viewMekDisplay | view mek display
+java.lang.String OP_CLOSE_PARAM_DISPLAY | op close param display
+java.lang.String popularityDisplay | popularity display
+java.lang.String VIEW_MEK_DISPLAY | view mek display
+java.util.ArrayList<org.jajuk.base.PropertyMetaInformation> alToDisplay | al to display
+javax.swing.JMenuItem viewMekDisplay | view mek display

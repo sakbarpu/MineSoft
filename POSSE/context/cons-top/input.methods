@@ -1,0 +1,82 @@
+CONS AbstractUIInputReceiver() | abstract ui input receiver
+CONS AIInGameInputHandler(QFreeColServer;QServerPlayer;QAIMain;) | ai in game input handler
+CONS AsciiStringInputStream(QString;) | ascii string input stream
+CONS ASN1InputStream([B) | asn 1 input stream
+CONS ASN1InputStream(QInputStream;) | asn 1 input stream
+CONS ASN1InputStream(QInputStream;I) | asn 1 input stream
+CONS BERInputStream(QInputStream;) | ber input stream
+CONS ByteCountedInputStream(QInputStream;) | byte counted input stream
+CONS ConsoleInput(QAzureusCore;QPrintStream;) | console input
+CONS ConsoleInput(QString;QAzureusCore;QInputStream;QPrintStream;QBoolean;) | console input
+CONS ConsoleInput(QString;QAzureusCore;QReader;QPrintStream;QBoolean;) | console input
+CONS ConsoleInput(QString;QAzureusCore;QReader;QPrintStream;QBoolean;QUserProfile;) | console input
+CONS DefaultHomeInputStream(QInputStream;) | default home input stream
+CONS DefaultInputHandler() | default input handler
+CONS DefaultInputHandler(QDefaultInputHandler;) | default input handler
+CONS DefiniteLengthInputStream(QInputStream;I) | definite length input stream
+CONS DeleteFileOnCloseInputStream(QFile;) | delete file on close input stream
+CONS DERInputStream(QInputStream;) | der input stream
+CONS DOMStorableInputOutputFormat(QDOMFactory;) | dom storable input output format
+CONS DOMStorableInputOutputFormat(QDOMFactory;QString;QString;QString;) | dom storable input output format
+CONS ExportTorrentWizardInputPanel(QWizard;QIWizardPanel;) | export torrent wizard input panel
+CONS GP3InputStream(QInputStream;) | gp 3 input stream
+CONS GP4InputStream(QInputStream;) | gp 4 input stream
+CONS GPInputStream(QFile;) | gp input stream
+CONS GPInputStream(QFileInputStream;I) | gp input stream
+CONS GPInputStream(QInputStream;I) | gp input stream
+CONS GPInputStream(QString;) | gp input stream
+CONS HsqlByteArrayInputStream([B) | hsql byte array input stream
+CONS HsqlByteArrayInputStream([BII) | hsql byte array input stream
+CONS ImageInputFormat(QImageHolderFigure;) | image input format
+CONS ImageInputFormat(QImageHolderFigure;QString;QString;QString;I) | image input format
+CONS ImportTorrentWizardInputPanel(QWizard;QIWizardPanel;) | import torrent wizard input panel
+CONS IndefiniteLengthInputStream(QInputStream;) | indefinite length input stream
+CONS InGameInputHandler(QFreeColClient;) | in game input handler
+CONS InGameInputHandler(QFreeColServer;) | in game input handler
+CONS InputHandler(QFreeColClient;) | input handler
+CONS InputHandler(QFreeColServer;) | input handler
+CONS InputShell(QString;QString;) | input shell
+CONS InputShell(QString;[QString;QString;[QString;) | input shell
+CONS InputShell(QString;[QString;QString;[QString;Z) | input shell
+CONS InputShell(QString;QString;Z) | input shell
+CONS InputStreamRedirector() | input stream redirector
+CONS InputStreamTransferable([QDataFlavor;[B) | input stream transferable
+CONS InputStreamTransferable(QDataFlavor;[B) | input stream transferable
+CONS InvalidInputException(QString;) | invalid input exception
+CONS JavaxDOMInput(QDOMFactory;QInputStream;) | javax dom input
+CONS JavaxDOMInput(QDOMFactory;QReader;) | javax dom input
+CONS JoinInputStream([QInputStream;I) | join input stream
+CONS JoinInputStream(QInputStream;QInputStream;) | join input stream
+CONS JoinInputStream(QInputStream;QInputStream;I) | join input stream
+CONS LimitedInputStream(QInputStream;) | limited input stream
+CONS MultiUserConsoleInput(QString;QAzureusCore;QReader;QPrintStream;QBoolean;QUserProfile;) | multi user console input
+CONS NanoXMLDOMInput(QDOMFactory;QInputStream;) | nano xmldom input
+CONS NanoXMLDOMInput(QDOMFactory;QReader;) | nano xmldom input
+CONS PredictiveInputFrame(QSwingFrame;QString;ZZQInfoSupplier<-QT;>;Qjava.util.List<QPredictiveInputModel.MatchingStrategy<QT;>;>;Qjava.util.List<QCloseAction<QT;>;>;IQjava.util.List<QT;>;) | predictive input frame
+CONS PredictiveInputFrame(QSwingFrame;QString;ZZQInfoSupplier<-QT;>;QList<QPredictiveInputModel.MatchingStrategy<QT;>;>;Qjava.util.List<QCloseAction<QT;>;>;I[QT;) | predictive input frame
+CONS PredictiveInputModel(ZQMatchingStrategy<QT;>;QList<QT;>;) | predictive input model
+CONS PredictiveInputModel(ZQMatchingStrategy<QT;>;[QT;) | predictive input model
+CONS PredictiveInputModel(ZQPredictiveInputModel<QT;>;) | predictive input model
+CONS PreGameInputHandler(QFreeColClient;) | pre game input handler
+CONS PreGameInputHandler(QFreeColServer;) | pre game input handler
+CONS ReaderInputStream(QReader;) | reader input stream
+CONS ReplayableInputStream(QInputStream;) | replayable input stream
+CONS RowInputBase() | row input base
+CONS RowInputBase([B) | row input base
+CONS RowInputBinary() | row input binary
+CONS RowInputBinary([B) | row input binary
+CONS RowInputBinary(QRowOutputBinary;) | row input binary
+CONS RowInputTextLog() | row input text log
+CONS RowInputText(QString;QString;QString;Z) | row input text
+CONS RowInputTextQuoted(QString;QString;QString;Z) | row input text quoted
+CONS ScriptableInputStream(QInputStream;QScriptable;) | scriptable input stream
+CONS SmbFileInputStream(QSmbFile;) | smb file input stream
+CONS SmbFileInputStream(QSmbFile;I) | smb file input stream
+CONS SmbFileInputStream(QString;) | smb file input stream
+CONS SocketInputStream(QInputStream;) | socket input stream
+CONS StringInputStream(QString;) | string input stream
+CONS SVGInputFormat() | svg input format
+CONS SVGInputFormat(QSVGFigureFactory;) | svg input format
+CONS TextInputDialog(QJabRefFrame;QBasePanel;QString;ZQBibtexEntry;) | text input dialog
+CONS TradeRouteInputDialog(QCanvas;) | trade route input dialog
+CONS TransactNamedPipeInputStream(QSmbNamedPipe;) | transact named pipe input stream

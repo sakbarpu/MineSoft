@@ -1,0 +1,9 @@
+boolean userWantsToConvert() | user wants to convert
+boolean wantsIsNull(QString;) | wants is null
+GoodsType[] getWantedGoods() | get wanted goods
+int calculateNumWant() | calculate num want
+int getCountWeWant() | get count we want
+int getNumWant() | get num want
+void setWantedGoods(IQGoodsType;) | set wanted goods
+void setWantedGoods([QGoodsType;) | set wanted goods
+void updateWantedGoods() | update wanted goods

@@ -1,0 +1,2 @@
+void informationMessage(QObject;) | information message
+void informationMessage(QObject;QJComponent;) | information message

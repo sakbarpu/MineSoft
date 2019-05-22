@@ -1,0 +1,8 @@
+ExtendedPanel getVisibleExtendedPanels() | get visible extended panels
+Vector<QExplorerPanel;> getPanels() | get panels
+void _createPanels() | create panels
+void createPanels() | create panels
+void reactivatePanels() | reactivate panels
+void rebuildPanels() | rebuild panels
+void removeInActivePanels() | remove in active panels
+void setupFieldPanels() | setup field panels

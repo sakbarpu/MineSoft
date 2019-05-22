@@ -1,0 +1,3 @@
+void consume(C) | consume
+void consume(CC) | consume
+void consume(J) | consume

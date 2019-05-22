@@ -1,0 +1,7 @@
+byte TRIPLEQUOTE1 | triplequote 1
+byte TRIPLEQUOTE2 | triplequote 2
+int TRIP_ATTACK | trip attack
+java.awt.Button butTrip | but trip
+java.lang.String PHYSICAL_TRIP | physical trip
+javax.swing.JButton butTrip | but trip
+megamek.common.loaders.MyomerType TRIPLE_STRENGTH | triple strength

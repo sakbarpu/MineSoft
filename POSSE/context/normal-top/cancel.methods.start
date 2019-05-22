@@ -1,0 +1,43 @@
+BrowserTransaction cancelTransaction() | cancel transaction
+BrowserTransaction cancelTransaction(QString;) | cancel transaction
+StringBuffer cancelSnipe(QString;) | cancel snipe
+void CancelAction() | cancel action
+void cancelAll() | cancel all
+void cancelAllRequests() | cancel all requests
+void cancelAllTasks() | cancel all tasks
+void CancelBorder() | cancel border
+void CancelButton() | cancel button
+void cancelCellEditing() | cancel cell editing
+void cancelChanges() | cancel changes
+void cancelClipboardTransaction() | cancel clipboard transaction
+void _cancelCommand() | cancel command
+void cancelCompatiblePeersLocation(QMessageManagerListener;) | cancel compatible peers location
+void cancelConnectSelect(QSocketChannel;) | cancel connect select
+void cancelElaborationStep1() | cancel elaboration step 1
+void cancelEvent(QTimerEvent;) | cancel event
+void cancelGeneralisation() | cancel generalisation
+void cancelIncomingConnectionRouting(QByteMatcher;) | cancel incoming connection routing
+void cancelLastQuery() | cancel last query
+void cancelOperation() | cancel operation
+void cancelPeerConnection(QNetworkConnectionBase;) | cancel peer connection
+void cancelQuery() | cancel query
+void cancelQueueListener(QMessageQueueListener;) | cancel queue listener
+void cancelReadSelect(QSocketChannel;) | cancel read select
+void cancelReadSelects() | cancel read selects
+void cancelRequest(QConnectListener;) | cancel request
+void cancelRequest(QPeerReadRequest;) | cancel request
+void cancelRequests() | cancel requests
+void cancelRowUpdates() | cancel row updates
+void cancelSearches() | cancel searches
+void cancelShapes() | cancel shapes
+void CancelSnipe(QComponent;QAuctionEntry;) | cancel snipe
+void cancelSnipe(Z) | cancel snipe
+void cancelSorting() | cancel sorting
+void cancelTask() | cancel task
+void cancelTest() | cancel test
+void cancelTestSupport() | cancel test support
+void CancelThread(QShow;) | cancel thread
+void cancelTimedSaveEvent() | cancel timed save event
+void cancelVictory() | cancel victory
+void cancelWriteSelect(QSocketChannel;) | cancel write select
+void cancelWriteSelects() | cancel write selects

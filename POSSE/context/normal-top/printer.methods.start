@@ -1,0 +1,2 @@
+void PrinterReaderThread(QString;QStringBuilder;) | printer reader thread
+void PrinterWriterThread(QString;QStringBuilder;) | printer writer thread

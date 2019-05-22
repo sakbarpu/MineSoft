@@ -1,0 +1,3 @@
+boolean udp_fallback_for_dropped_connection | udp fallback for dropped connection
+boolean udp_fallback_for_failed_connection | udp fallback for failed connection
+net.sourceforge.ganttproject.gui.UIFacade myFallbackDelegate | my fallback delegate

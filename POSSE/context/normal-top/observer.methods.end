@@ -1,0 +1,20 @@
+boolean addObserver(QDHTRouterObserver;) | add observer
+boolean containsObserver(QDHTRouterObserver;) | contains observer
+boolean isObserver() | is observer
+boolean removeObserver(QDHTRouterObserver;) | remove observer
+Object setRenderingErrorObserver(QRenderingErrorObserver;QObject;) | set rendering error observer
+RenderingErrorObserver getRenderingErrorObserver() | get rendering error observer
+SessionFactoryObserver getSessionFactoryObserver() | get session factory observer
+void addComponent3DRenderingErrorObserver() | add component 3 d rendering error observer
+void addComponent3DRenderingErrorObserver(QJRootPane;QUserPreferences;) | add component 3 d rendering error observer
+void addObserver(QDelayObserver;) | add observer
+void addObserver(QDHTRouterFactoryObserver;) | add observer
+void addTileObserver(TileObserver to) | add tile observer
+void attachObserver(Object object) | attach observer
+void notifyObserver(IIIII) | notify observer
+void removeObserver(QDelayObserver;) | remove observer
+void removeObserver(QDHTRouterFactoryObserver;) | remove observer
+void setObserver(Z) | set observer
+void setRenderingErrorObserver(QRenderingErrorObserver;) | set rendering error observer
+void setSessionFactoryObserver(QSessionFactoryObserver;) | set session factory observer
+void viewFromObserver() | view from observer

@@ -1,0 +1,77 @@
+boolean consumesCollectionAlias() | consumes collection alias
+boolean consumesEntityAlias() | consumes entity alias
+boolean containsClassAlias(QString;) | contains class alias
+boolean containsTableAlias(QString;) | contains table alias
+boolean isAlias(QString;) | is alias
+boolean isAlias(String alias) | is alias
+boolean isCollectionAlias(QString;) | is collection alias
+boolean isEntityAlias(QString;) | is entity alias
+boolean isFromElementAlias(QString;) | is from element alias
+boolean resolveAsAlias() | resolve as alias
+ConditionFragment setTableAlias(QString;) | set table alias
+Criteria createAlias(QString;QString;) | create alias
+Criteria createAlias(QString;QString;I) | create alias
+DetachedCriteria createAlias(QString;QString;) | create alias
+DetachedCriteria createAlias(QString;QString;I) | create alias
+Expression getExpressionForAlias([QExpression;I) | get expression for alias
+ForUpdateFragment addTableAlias(QString;) | add table alias
+int getAntiAlias(FZFZFF) | get anti alias
+int indexGradientAntiAlias(FF) | index gradient anti alias
+Map getPropertyResultsMapByAlias(QString;) | get property results map by alias
+SQLLoadableCollection getCollectionPersisterByAlias(QString;) | get collection persister by alias
+SQLLoadable getEntityPersisterByAlias(QString;) | get entity persister by alias
+String cleanAlias(QString;) | clean alias
+String extractAppliedAlias(QDotNode;) | extract applied alias
+String generateAlias(QString;) | generate alias
+String generateAlias(QString;I) | generate alias
+String generateFilterConditionAlias(QString;) | generate filter condition alias
+String generateRootAlias(QString;) | generate root alias
+String generateSQLAlias() | generate sql alias
+String generateTableAlias(IQString;QJoinable;) | generate table alias
+String generateTableAlias(QString;I) | generate table alias
+String getAlias() | get alias
+String getAlias(QDialect;) | get alias
+String getAlias(QDialect;QTable;) | get alias
+String getAlias(QString;) | get alias
+String getClassAlias() | get class alias
+String getCollectionSuffixByAlias(QString;) | get collection suffix by alias
+String getCollectionTableAlias() | get collection table alias
+String getColumnAlias() | get column alias
+String getDefinedAlias() | get defined alias
+String getDiscriminatorAlias() | get discriminator alias
+String getDiscriminatorAlias(QLoadable;QString;) | get discriminator alias
+String getDiscriminatorAlias(QString;) | get discriminator alias
+String getEntitySuffixByAlias(QString;) | get entity suffix by alias
+String getIdentifierColumnAlias(QString;) | get identifier column alias
+String getIfAlias() | get if alias
+String getJoinAlias() | get join alias
+String getLinkIfAlias(II) | get link if alias
+String getMainAlias() | get main alias
+String getOwnerAlias() | get owner alias
+String getOwnerAlias(QString;) | get owner alias
+String getPathAlias(QString;) | get path alias
+String getRHSAlias() | get rhs alias
+String getRootAlias() | get root alias
+String getRootTableAlias(QString;) | get root table alias
+String getRowIdAlias() | get row id alias
+String getSQLAlias(QCriteria;) | get sql alias
+String getSQLAlias(QCriteria;QString;) | get sql alias
+String getSuffixedDiscriminatorAlias() | get suffixed discriminator alias
+String getSuffixedIdentifierAlias() | get suffixed identifier alias
+String getTableAlias() | get table alias
+String getUserProvidedAlias(QString;QString;) | get user provided alias
+String getWithClauseJoinAlias() | get with clause join alias
+void addAlias(QConsoleInput;QString;QList;) | add alias
+void addDuplicateAlias(QString;QFromElement;) | add duplicate alias
+void addLocationAlias(LocationAlias aLocationAlias) | add location alias
+void checkForDuplicateClassAlias(QString;) | check for duplicate class alias
+void deleteAlias(QConsoleInput;QString;) | delete alias
+void lookupAlias(QAST;) | lookup alias
+void printAlias(QConsoleInput;QString;) | print alias
+void processCreateAlias() | process create alias
+void setAlias(QAST;QAST;) | set alias
+void setAlias(QString;) | set alias
+void setAlias(QString;Z) | set alias
+void setCollectionTableAlias(QString;) | set collection table alias
+void setIfAlias(QString;) | set if alias
+void unregisterAlias(String pElementRef) | unregister alias

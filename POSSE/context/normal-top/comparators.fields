@@ -1,0 +1,2 @@
+java.util.Map columnComparators | column comparators
+java.util.Map<com.eteks.sweethome3d.model.HomePieceOfFurniture.SortableProperty,java.util.Comparator<com.eteks.sweethome3d.model.HomePieceOfFurniture>> SORTABLE_PROPERTY_COMPARATORS | sortable property comparators

@@ -1,0 +1,12 @@
+double[] itsDoubleTable | its double table
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_DOUBLE_QUOTED_COLOR | definitions double quoted color
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideDoubleQuote INSIDE_DOUBLE_QUOTE | inside double quote
+int BUFFER_DOUBLE_LIMIT | buffer double limit
+int ESCAPED_DOUBLE_QUOTE_TYPE | escaped double quote type
+int ID_DOUBLE_MARK | id double mark
+int itsDoubleTableTop | its double table top
+int JAVA_DOUBLE_TYPE | java double type
+java.lang.String MOUSE_DOUBLE_CLICK | mouse double click
+javax.swing.JRadioButton bDoubleDot | b double dot
+long F_DOUBLE_HEAT_SINK | f double heat sink
+long F_DOUBLE_HITS | f double hits

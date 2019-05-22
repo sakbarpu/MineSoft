@@ -1,0 +1,6 @@
+boolean isPlayerAccumulated() | is player accumulated
+Client getPlayerListSelected(QJList;) | get player list selected
+Client getPlayerListSelected(QList;) | get player list selected
+void gamePlayerConnected(QGamePlayerConnectedEvent;) | game player connected
+void gamePlayerDisconnected(QGamePlayerDisconnectedEvent;) | game player disconnected
+void setPlayerAccumulated(Z) | set player accumulated

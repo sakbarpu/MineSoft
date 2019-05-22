@@ -1,0 +1,11 @@
+CONS CaRuleGeneration(QItemSet;) | ca rule generation
+CONS DHKeyGenerationParameters(QSecureRandom;QDHParameters;) | dh key generation parameters
+CONS DSAKeyGenerationParameters(QSecureRandom;QDSAParameters;) | dsa key generation parameters
+CONS ECKeyGenerationParameters(QECDomainParameters;QSecureRandom;) | ec key generation parameters
+CONS ElGamalKeyGenerationParameters(QSecureRandom;QElGamalParameters;) | el gamal key generation parameters
+CONS IdentifierGenerationException(QString;) | identifier generation exception
+CONS IdentifierGenerationException(QString;QThrowable;) | identifier generation exception
+CONS KeyGenerationParameters(QSecureRandom;I) | key generation parameters
+CONS PropertyGeneration(QString;) | property generation
+CONS RSAKeyGenerationParameters(QBigInteger;QSecureRandom;II) | rsa key generation parameters
+CONS RuleGeneration(QItemSet;) | rule generation

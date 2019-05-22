@@ -1,0 +1,4 @@
+java.applet.AppletContext appletContext | applet context
+java.lang.Object appletApplication | applet application
+java.lang.reflect.Constructor appleEventConstructor | apple event constructor
+javax.swing.JApplet applet | applet

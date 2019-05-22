@@ -1,0 +1,86 @@
+boolean areCallbacksLocalToHibernateTransactions() | are callbacks local to hibernate transactions
+boolean getLocalBoolean(QString;Z) | get local boolean
+boolean hasLocalKey([B) | has local key
+boolean isAbsoluteLocalName(String name) | is absolute local name
+boolean isLocalAddress() | is local address
+boolean isLocalComplete() | is local complete
+boolean isLocalEjbRef(String viewType, JavaClass refClass) | is local ejb ref
+boolean setLocalPath(QString;) | set local path
+boolean stopLocalKernel(boolean closingApp, boolean preserveWindows) | stop local kernel
+boolean usesLocalFilePerTable() | uses local file per table
+boolean usesLocalFiles() | uses local files
+Building getLocalBuilding(QBuilding;) | get local building
+byte isLANLocalAddress(QInetAddress;) | is lan local address
+byte isLANLocalAddress(QInetSocketAddress;) | is lan local address
+byte isLANLocalAddress(QString;) | is lan local address
+byte[] readLocalisableString(QSimpleXMLParserDocumentNode;) | read local is able string
+DHTNetworkPosition getBestLocalPosition() | get best local position
+DHTNetworkPosition getLocalPosition() | get local position
+DHTNetworkPosition[] getLocalPositions() | get local positions
+DHTPluginContact getLocalAddress() | get local address
+DHTPluginValue getLocalValue([B) | get local value
+DHTRouterContact getLocalContact() | get local contact
+DHTTransportContact getLocalContact() | get local contact
+DHTTransportValue getLocalValue([B) | get local value
+DistributedDatabaseContact getLocalContact() | get local contact
+double sIB_local_MI(QMatrix;[D) | s ib local mi
+InetAddress getLocalAddress() | get local address
+InetAddress getLocalHost() | get local host
+InputStream resolveInLocalNamespace(QString;) | resolve in local namespace
+int getLocalBlockRef(QNode;) | get local block ref
+int getLocalBlockRegister(QNode;) | get local block register
+int getLocalColumnCount() | get local column count
+int getLocalKeyCount() | get local key count
+int getLocalPort() | get local port
+int getLocalSize() | get local size
+java.lang.String getLocalFileName() | get local file name
+java.lang.String ____jaxb_ri____getLocalName() |    jaxb ri    get local name
+long getLastIncomingNonLocalConnectionTime() | get last incoming non local connection time
+long getLastNonLocalConnectionTime() | get last non local connection time
+long getLocalLong(QString;J) | get local long
+long getLocalTemplateID() | get local template id
+Name getLocalName() | get local name
+NbtAddress getLocalHost() | get local host
+Object getLocalId() | get local id
+PAffineTransform getLocalToGlobalTransform(PAffineTransform dest) | get local to global transform
+Player getLocalPlayer() | get local player
+PluginInterface getLocalPluginInterface(QClass;QString;) | get local plugin interface
+String formatBitCountToKiBEtcLocalImpl(JZZIZ) | format bit count to ki b etc local impl
+String getLocalConnectionStatus() | get local connection status
+String getLocalHost() | get local host
+String getLocalIpAddress() | get local ip address
+String getLocalKey() | get local key
+String getLocalName() | get local name
+String getLocalPath() | get local path
+String getLocalString(QString;) | get local string
+String[] listLocalInetAddressNames() | list local inet address names
+String transformLocalArgument(QString;) | transform local argument
+void addLocalConnection(QString;QBasicConnection;) | add local connection
+void cleanLocalDir(QString;) | clean local dir
+void cleanLocalDir(QString;QString;) | clean local dir
+void closeCurrentLocalTab() | close current local tab
+void defineLocalValue() | define local value
+void getLocalTransformations(QElement;) | get local transformations
+void informLocalAddress(QString;) | inform local address
+void LinkLocalFile() | link local file
+void notifyLocalSynchsAfterTransactionCompletion(I) | notify local synchs after transaction completion
+void notifyLocalSynchsBeforeTransactionCompletion() | notify local synchs before transaction completion
+void setLocalBoolean(QString;Z) | set local boolean
+void setLocalComplete(Z) | set local complete
+void setLocalContact() | set local contact
+void setLocalFileName(Qjava.lang.String;) | set local file name
+void setLocalHoster(QLocalHoster;) | set local hoster
+void setLocalLong(QString;J) | set local long
+void setLocalPlayer(QPlayer;) | set local player
+void setLocalString(QString;QString;) | set local string
+void setLocalUpdateCheckSecs(I) | set local update check secs
+void setLocalVarTable(LocalVarTableAttr lvar) | set local var table
+void setUseLocalCoordinates(boolean useLocalCoordinates) | set use local coordinates
+void testLocalWorkingCopyAndCvsrootModuleAreMutuallyExclusive() | test local working copy and cvsroot module are mutually exclusive
+void updateLocalContact(QDHTTransportContact;) | update local contact
+void updateLocalDir() | update local dir
+void visitLocalVariableTableAttrInfo(ClassFile classFile, MethodInfo methodInfo, CodeAttrInfo codeAttrInfo, LocalVariableTableAttrInfo localVariableTableAttrInfo) | visit local variable table attr info
+void visitLocalVariableTypeInfo(Clazz clazz, Method method, CodeAttribute codeAttribute, LocalVariableTypeInfo localVariableTypeInfo) | visit local variable type info
+void writeLocalHeader(ZipMember zmember) | write local header
+void writeLocalisableTag(QString;[B) | write local is able tag
+void XXXtestWatchLocalVarsFromInnerClass() | xxx test watch local vars from inner class

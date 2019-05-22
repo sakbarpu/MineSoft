@@ -1,0 +1,5 @@
+float myPreviousAbsoluteDiff | my previous absolute diff
+int difference | difference
+int DIFF_THRESHOLD | diff threshold
+int myDifference | my difference
+net.sourceforge.ganttproject.chart.ChartOptionGroup myStateDiffOptions | my state diff options

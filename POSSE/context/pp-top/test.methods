@@ -1,0 +1,58 @@
+boolean isConfLimitTestFinished() | is conf limit test finished
+boolean isTestTabSelected() | is test tab selected
+CONS TestLibSpeed() | test lib speed
+void junitTestEnded(QString;ZZ) | junit test ended
+void junitTestStarted(QString;) | junit test started
+void menuMidiTestActionPerformed() | menu midi test action performed
+void notifyTestSetProduced(QTestSetEvent;) | notify test set produced
+void testBothIndented() | test both indented
+void testCancelSaveAlreadySaved() | test cancel save already saved
+void testCancelSaveAsAlreadySaved() | test cancel save as already saved
+void testCompileAbortsIfAnyUnsaved() | test compile aborts if any unsaved
+void testCompileAbortsIfUnsaved() | test compile aborts if unsaved
+void testCompileActiveSavedAnyUnsavedButSaveWhenAsked() | test compile active saved any unsaved but save when asked
+void testCompileAfterFileMoved() | test compile after file moved
+void testCompileAnyUnsavedButSaveWhenAsked() | test compile any unsaved but save when asked
+void testCompletionIs0WhenAllNestedTasksNotStarted() | test completion is 0 when all nested tasks not started
+void testCompletionIs100WhenAllNestedTasksCompleted() | test completion is 100 when all nested tasks completed
+void testCompletionIs50WhenAllNestedTasksHalfCompleted() | test completion is 50 when all nested tasks half completed
+void testComplicated() | test complicated
+void testDancingUIFileClosed() | test dancing ui file closed
+void testDancingUIFileOpened() | test dancing ui file opened
+void testDollarEscapedQuoted() | test dollar escaped quoted
+void testDollarEscapeQuoted() | test dollar escape quoted
+void testDollarNestedQuoted() | test dollar nested quoted
+void testDollarQuoted() | test dollar quoted
+void testDoubleIntSpeed() | test double int speed
+void testEnded(QString;) | test ended
+void testEnded(QString;ZZ) | test ended
+void testEscapeDollarNestedQuoted() | test escape dollar nested quoted
+void testEscapeDollarQuoted() | test escape dollar quoted
+void testEscapedQuoted() | test escaped quoted
+void testEscapeNestedQuoted() | test escape nested quoted
+void testEscapePipeDollarNestedQuoted() | test escape pipe dollar nested quoted
+void testEscapePipeDollarQuoted() | test escape pipe dollar quoted
+void testEscapePipeNestedQuoted() | test escape pipe nested quoted
+void testEscapePipeQuoted() | test escape pipe quoted
+void testEscapeQuoted() | test escape quoted
+void testFailed(IQTest;QThrowable;) | test failed
+void testHistoryIsBounded() | test history is bounded
+void testInScopeThenCleared() | test in scope then cleared
+void testIsCommented() | test is commented
+void testIsQuoted() | test is quoted
+void testIsShadowed() | test is shadowed
+void testMixed() | test mixed
+void testNestedQuoted() | test nested quoted
+void testOpenClosed() | test open closed
+void testOtherLinesIndented() | test other lines indented
+void testQuoted() | test quoted
+void testQuoteEscapeQuoted() | test quote escape quoted
+void testSaveAlreadySaved() | test save already saved
+void testSaveAsAlreadySaved() | test save as already saved
+void testSaveButtonEnabled() | test save button enabled
+void testSecondLineMisindented() | test second line misin dented
+void testSpeed() | test speed
+void testStarted(QString;) | test started
+void testStarted(QString;QString;) | test started
+void testSuiteEnded([QJUnitError;) | test suite ended
+void testSuiteStarted(I) | test suite started

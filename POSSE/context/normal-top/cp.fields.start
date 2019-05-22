@@ -1,0 +1,8 @@
+char cpbegin | cp begin
+int cpend | cp end
+java.util.ArrayList cpDependencies | cp dependencies
+java.util.ArrayList cpNodesArrayList | cp nodes array list
+javax.swing.tree.DefaultMutableTreeNode cpNode | cp node
+short CP_FLUSH | cp flush
+short CP_NONE | cp none
+short CP_READ_CACHE | cp read cache

@@ -1,0 +1,5 @@
+boolean DIRECT_SETCHECKED | direct setc heck ed
+boolean skipped_file_set_changed | skipped file set changed
+java.lang.String OP_SET_SELECTED | op set selected
+java.lang.String SETTING_V2_BETA_ENABLED | setting v 2  beta enabled
+org.gudy.azureus2.platform.PlatformManagerCapabilities SetTCPTOSEnabled | set tcp tos enabled

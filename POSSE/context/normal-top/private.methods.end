@@ -1,0 +1,13 @@
+boolean getPrivate() | get private
+boolean getPrivate(QTOTorrent;) | get private
+boolean isPrivate() | is private
+boolean isReallyPrivate(QTOTorrent;) | is really private
+CipherParameters getPrivate() | get private
+PrivateKey engineGeneratePrivate(QKeySpec;) | engine generate private
+PrivateKey getPrivate() | get private
+void checkIfPrivate() | check if private
+void checkPrivate() | check private
+void makePrivate() | make private
+void setPrivate() | set private
+void setPrivate(QTOTorrent;Z) | set private
+void setPrivate(Z) | set private

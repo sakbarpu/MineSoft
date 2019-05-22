@@ -1,0 +1,6 @@
+boolean allow_empty_input | allow empty input
+int Id_input | id input
+java.io.DataInputStream dataInput | data input
+java.lang.String result_input | result input
+java.lang.String SETTING_DATA_SOURCE_INPUT | setting data source input
+java.lang.String T_INPUT | t input

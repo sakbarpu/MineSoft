@@ -1,0 +1,64 @@
+boolean hasCompositeStructure() | has composite structure
+boolean hasReinforcedStructure() | has reinforced structure
+boolean isStructureOnly() | is structure only
+CacheEntryStructure getCacheEntryStructure() | get cache entry structure
+DatabaseStructure buildDatabaseStructure(QProperties;QDialect;ZQString;II) | build database structure
+DatabaseStructure getDatabaseStructure() | get database structure
+DocumentStructurePanel getDocumentStructurePanel() | get document structure panel
+double getStructureCost(I) | get structure cost
+float getWeightCeilingStructure() | get weight ceiling structure
+float getWeightStructure() | get weight structure
+float getWeightStructure(FF) | get weight structure
+float getWeightStructure(IFF) | get weight structure
+freemind.controller.actions.generated.instance.MenuStructure createMenuStructure() | create menu structure
+freemind.controller.actions.generated.instance.MenuStructureType createMenuStructureType() | create menu structure type
+Index createIndexStructure([IQHsqlName;ZZZ) | create index structure
+Instances getStructure() | get structure
+Instances getStructure(I) | get structure
+Instances stringFreeStructure() | string free structure
+int createIndexStructureGetNo([IQHsqlName;ZZZ) | create index structure get no
+int getStructureType() | get structure type
+int getStructureType(QString;) | get structure type
+int setStructure(QInstances;) | set structure
+java.util.List getOpenedNodesDocumentStructure() | get opened nodes document structure
+JournalTemplate findByG_S_PrevAndNext(long id, long groupId, String structureId, OrderByComparator obc) | find by g s prev and next
+MiscType createCompositeStructure() | create composite structure
+MiscType createReinforcedStructure() | create reinforced structure
+Node generateStructures() | generate structures
+Object structure(QObject;) | structure
+String createTableStructureQuery() | create table structure query
+String getStructureTypeName(I) | get structure type name
+String printWeightStructure() | print weight structure
+Structure getStructure(QMech;) | get structure
+Structure getStructure(QTank;) | get structure
+void buildStructure() | build structure
+void buildStructure(QBayesNet;QInstances;) | build structure
+void buildStructure(QDocument;) | build structure
+void checkStructure(QFastVector;) | check structure
+void clearStructures() | clear structures
+void CustomPropertiesStructure() | custom properties structure
+void extractTableStructure(QDataAccessPoint;QDataAccessPoint;) | extract table structure
+void GanttDependStructure() | gantt depend structure
+void GanttDependStructure(II) | gantt depend structure
+void GanttDependStructure(III) | gantt depend structure
+void GanttDependStructure(IIII) | gantt depend structure
+void generateRandomNetworkStructure(II) | generate random network structure
+void getTableStructure(QTransferTable;QDataAccessPoint;) | get table structure
+void handleDotStructure(QAST;) | handle dot structure
+void importFolderStructure(QFile;QMindMapNode;Z) | import folder structure
+void initStructure() | init structure
+void initStructures() | init structures
+void notifyStructureAvailable(QInstances;) | notify structure available
+void readStructure(QStreamTokenizer;) | read structure
+void resetStructure() | reset structure
+void setDocumentStructurePanel(QDocumentStructurePanel;) | set document structure panel
+void setOpenedNodesDocumentStructure(Qjava.util.List;) | set opened nodes document structure
+void setStructure(QInstances;) | set structure
+void setStructure(Structure stru) | set structure
+void setStructureType(I) | set structure type
+void setStructureType(QString;) | set structure type
+void StructuredMenuListener() | structured menu listener
+void testStructuredElement() | test structured element
+void transferStructure() | transfer structure
+void updateDocumentStructureTree(QJReportFrame;) | update document structure tree
+void writeStructure() | write structure

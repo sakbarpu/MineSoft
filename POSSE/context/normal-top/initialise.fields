@@ -1,0 +1,4 @@
+boolean fully_initialise | fully initialise
+java.lang.Object initialiser_key | initialiser key
+org.gudy.azureus2.core3.util.AESemaphore initialised_sem | initialised sem
+org.gudy.azureus2.pluginsimpl.local.PluginInitializer initialiser | initialiser

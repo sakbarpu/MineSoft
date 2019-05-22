@@ -1,0 +1,12 @@
+boolean showIndexDetails | show index details
+int BAD_INDEX_CONSTRAINT_NAME | bad index constraint name
+int[] bestIndexForColumn | best index for column
+int Id_indexOf | id index of
+int Id_lastIndexOf | id last index of
+int[] listMDIndexCols | list md index cols
+int LONG_EMPTY_INDEX_POS | long empty index pos
+int SYSTEMCOLOR_INDEXSTART | system color index start
+int SYSTEM_INDEXINFO | system index info
+java.lang.String[] createIndexHelp | create index help
+java.lang.String[] dropIndexHelp | drop index help
+short tableIndexOther | table index other

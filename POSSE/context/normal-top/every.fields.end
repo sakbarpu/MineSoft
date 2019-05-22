@@ -1,0 +1,7 @@
+byte autoUDPprobeEvery | auto udp probe every
+byte autoUDPscrapeEvery | auto udp scrape every
+int checkColumnWidthsEvery | check column widths every
+int CONVERGE_EVERY | converge every
+int Id_every | id every
+int NOTIFY_EVERY | notify every
+java.lang.String T_EVERY | t every

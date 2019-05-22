@@ -1,0 +1,18 @@
+CONS Binary([BZ) | binary
+CONS BinaryExpression(IIIQExpression;QExpression;) | binary expression
+CONS BinaryOpProperty(QString;QString;QLambda2<QP;QQ;QR;>;QLambda<QString;QP;>;QLambda<QString;QQ;>;QLambda<QR;QString;>;) | binary op property
+CONS BinaryOpProperty(QString;QString;QLambda2<QP;QQ;QR;>;QString;QString;QLambda<QString;QP;>;QString;QString;QLambda<QString;QQ;>;QLambda<QR;QString;>;) | binary op property
+CONS BinarySparseInstance(D[D) | binary sparse instance
+CONS BinarySparseInstance(D[II) | binary sparse instance
+CONS BinarySparseInstance(I) | binary sparse instance
+CONS BinarySparseInstance(QInstance;) | binary sparse instance
+CONS BinarySparseInstance(QSparseInstance;) | binary sparse instance
+CONS NominalToBinary() | nominal to binary
+CONS RowInputBinary() | row input binary
+CONS RowInputBinary([B) | row input binary
+CONS RowInputBinary(QRowOutputBinary;) | row input binary
+CONS RowOutputBinary() | row output binary
+CONS RowOutputBinary([B) | row output binary
+CONS RowOutputBinary(I) | row output binary
+CONS ScriptReaderBinary(QDatabase;QString;) | script reader binary
+CONS ScriptWriterBinary(QDatabase;QString;ZZ) | script writer binary

@@ -1,0 +1,8 @@
+boolean[] getSubjectUniqueID() | get subject unique id
+DERBitString getSubjectUniqueId() | get subject unique id
+Principal getSubjectDN() | get subject dn
+SubjectPublicKeyInfo getSubjectPublicKeyInfo() | get subject public key info
+void setSubjectDN(QX509Name;) | set subject dn
+void setSubjectPublicKeyInfo(QSubjectPublicKeyInfo;) | set subject public key info
+X500Principal getSubjectX500Principal() | get subject x 500 principal
+X509Principal getSubjectX509Principal(QX509Certificate;) | get subject x 509 principal

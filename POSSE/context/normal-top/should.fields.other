@@ -1,0 +1,2 @@
+boolean bShouldCommit | b should commit
+boolean filesShouldBeDeletedAfterShutdown | files should be deleted after shutdown

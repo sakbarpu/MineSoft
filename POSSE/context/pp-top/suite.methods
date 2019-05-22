@@ -1,0 +1,3 @@
+void junitSuiteStarted(I) | junit suite started
+void testSuiteEnded([QJUnitError;) | test suite ended
+void testSuiteStarted(I) | test suite started

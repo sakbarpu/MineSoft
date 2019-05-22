@@ -1,0 +1,8 @@
+boolean isAnyCacheModified() | is any cache modified
+boolean isAnyPolicyInhibited() | is any policy inhibited
+boolean isAnyTextCacheModified() | is any text cache modified
+CONS Any2LsRGBRed(QCachableRed;) | any 2 ls rgb red
+CONS Any2sRGBRed(QCachableRed;) | any 2 s rgb red
+void testCompileAbortsIfAnyUnsaved() | test compile aborts if any unsaved
+void testCompileActiveSavedAnyUnsavedButSaveWhenAsked() | test compile active saved any unsaved but save when asked
+void testCompileAnyUnsavedButSaveWhenAsked() | test compile any unsaved but save when asked

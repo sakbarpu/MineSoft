@@ -1,0 +1,98 @@
+boolean auto_retransmit | auto retransmit
+boolean breakOnReturn | break on return
+boolean hasVoidReturn | has void return
+boolean[] isRetry | is retry
+boolean loginAndRetry | login and retry
+boolean retainFirst | retain first
+boolean[] returnValueObject | return value object
+boolean _voidReturnFlag | void return flag
+boolean was_returned_to_pool | was returned to pool
+com.aelitis.azureus.core.networkmanager.impl.udp.UDPPacket current_retransmit_target | current retransmit target
+int ANSWER_RETRY | answer retry
+int CONNDATA_RETRIEVAL_FAIL | conn data retrieval fail
+int DEAD_KEY_RETENTION_PERIOD | dead key retention period
+int DEFAULT_MAX_RETRY_DELAY | default max retry delay
+int DEFAULT_MIN_RETRY_DELAY | default min retry delay
+int DEFAULT_RETRY_COUNT | default retry count
+int DEFAULT_SCRAPE_RETRY_PERCENTAGE | default scrape retry percentage
+int FAULTY_SCRAPE_RETRY_INTERVAL | faulty scrape retry interval
+int Icode_RETSUB | icode ret sub
+int Icode_RETUNDEF | icode ret undef
+int INPUT_RETRY_CANCEL | input retry cancel
+int INPUT_RETRY_CANCEL_IGNORE | input retry cancel ignore
+int iReturnType | i return type
+int last_response_retry_after_secs | last response retry after secs
+int MAX_CONTIGUOUS_RETRANS_FOR_ACK | max contiguous retrans for ack
+int MAX_PARTIAL_WRITE_RETAIN | max partial write retain
+int MAX_RETRANSMIT_TICKS | max retransmit ticks
+int MAX_RETRANSMIT_TIMER | max retransmit timer
+int max_seed_retention | max seed retention
+int MIN_RECENT_ASSOC_TO_RETAIN | min recent assoc to retain
+int MIN_RETRANSMIT_TICKS | min retransmit ticks
+int MIN_RETRANSMIT_TIMER | min retransmit timer
+int NATMAP_INIT_RETRY | nat map init retry
+int NATMAP_MAX_RETRY | nat map max retry
+int NOHASH_RETRY_INTERVAL | no hash retry interval
+int PERSISTENT_MSG_RETRY_PERIOD | persistent msg retry period
+int POLL_RETRIES_DEFAULT | poll retries default
+int procedureColumnReturn | procedure column return
+int procedureReturnsResult | procedure returns result
+int RD_GET_DETAILS_RETRIES | rd get details retries
+int RD_GET_MIRRORS_RETRIES | rd get mirrors retries
+int RD_SIZE_RETRIES | rd size retries
+int READ_RETRY_DELAY | read retry delay
+int READ_RETRY_LIMIT | read retry limit
+int REMOVE_IN_RETREAT | remove in retreat
+int REPORT_TYPE_RETRY | report type retry
+int RET | ret
+int RETHROW | rethrow
+int RETRANSMIT_COUNT_LIMIT | retransmit count limit
+int retransmit_ticks | retransmit ticks
+int retreatedDirection | retreated direction
+int RETRIEVE_NEST_ROLE_FAIL | retrieve nest role fail
+int retry_count | retry count
+int RETRY_MINIMUM_MILLIS | retry minimum millis
+int RETRY_MINIMUM_SECS | retry minimum secs
+int RETRY_SEND_MAX | retry send max
+int RETRY_SEND_MIN | retry send min
+int RETURN | return
+int RETURN_RESULT | return result
+int RETURNS | returns
+int returnTypeTag | return type tag
+int returnValue | return value
+int _retVal | ret val
+int RETVAL_OK | retval ok
+int RETVAL_OK_TO_DISPOSE | retval ok to dispose
+int WRITE_RETRY_DELAY | write retry delay
+int WRITE_RETRY_LIMIT | write retry limit
+it.businesslogic.ireport.JRSubreportReturnValue subreportReturnValue | subreport return value
+java.lang.Integer kAutoGenerateReturnID | k auto generate return id
+java.lang.Object[] returnValueObject | return value object
+java.lang.String CHARACTER_RETURN_STYLE | character return style
+java.lang.String NUMBER_RETURN_STYLE | number return style
+java.lang.String OBJECT_RETURN_STYLE | object return style
+java.lang.String POLL_RETRIES_PROPERTY | poll retries property
+java.lang.String _returnBuf | return buf
+java.lang.String returnClassName | return class name
+java.lang.String RETURN_COLUMN_NAME | return column name
+java.lang.String STRING_RETURN_STYLE | string return style
+java.lang.String system_lockfile_poll_retries_property | system lockfile poll retries property
+java.lang.String T_RETURN | t return
+java.lang.String T_RETURNS | t returns
+java.util.Vector returnValues | return values
+javax.swing.JButton jButtonAddReturnValue | j button add return value
+javax.swing.JButton jButtonModReturnValue | j button mod return value
+javax.swing.JButton jButtonRemReturnValue | j button rem return value
+javax.swing.JCheckBoxMenuItem breakOnReturn | break on return
+javax.swing.JPanel jPanelSubreportReturnValues | j panel subreport return values
+javax.swing.JTable jTableSubreportReturnValues | j table subreport return values
+long BACKUP_RETENTION_PERIOD | backup retention period
+long current_announce_retry_interval | current announce retry interval
+long current_scrape_retry_interval | current scrape retry interval
+long DEFAULT_RETRY_MS | default retry ms
+long GLOBAL_RETRY_UPDATERATING | global retry update rating
+long MAX_DOS_RETENTION | max dos retention
+long MAX_RETRY_PERIOD | max retry period
+long MIN_RETRY_PERIOD | min retry period
+long RETRY_METADATA | retry metadata
+long retry_millis | retry millis

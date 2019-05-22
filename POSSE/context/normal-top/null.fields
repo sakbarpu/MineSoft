@@ -1,0 +1,62 @@
+boolean[] bArgNullable | b arg nullable
+boolean blankWhenNull | blank when null
+boolean bWasNull | b was null
+boolean[] colNullable | col nullable
+boolean hasNull | has null
+boolean isNull | is null
+boolean isNullable | is nullable
+boolean nonJoinIsNull | non join is null
+boolean notNull | not null
+boolean nullable | nullable
+boolean stopOnNull | stop on null
+byte[] BYTES_NULL | bytes null
+byte NULL | null
+edu.rice.cs.drjava.model.definitions.reducedmodel.BraceInfo NULL | null
+edu.rice.cs.util.text.SwingDocument NULL_DOCUMENT | null document
+int ACONST_NULL | aconst null
+int[] colNullable | col nullable
+int columnNoNulls | column no nulls
+int columnNullable | column nullable
+int DSV_CONSTCOLS_NULLCOL | dsv const cols null col
+int DSV_NULLREP_PRESENT | dsv null rep present
+int HsqlDateTime_null_date | hsql date time null date
+int HsqlDateTime_null_string | hsql date time null string
+int ID_NULL_VALUE | id null value
+int IS_NULL | is null
+int isNullable | is nullable
+int JDBC_NULL_STREAM | jdbc null stream
+int JSTYPE_NULL | jstype null
+int NO_NULLS | no nulls
+int NULL | null
+int nullability | nullability
+int[] nullability | nullability
+int NULLABLE | nullable
+int NULLABLE_UNKNOWN | nullable unknown
+int NULL_ELEMENT | null element
+int NULLIF | null if
+int NULL_IN_VALUE_LIST | null in value list
+int NULL_NAME | null name
+int procedureNoNulls | procedure no nulls
+int procedureNullable | procedure nullable
+int procedureNullableUnknown | procedure nullable unknown
+int SET_NULL | set null
+int TRY_TO_INSERT_NULL | try to insert null
+java.awt.Insets nullInsets | null insets
+java.io.File NULL_FILE | null file
+java.lang.Integer INT_COLUMNS_NO_NULLS | int columns no nulls
+java.lang.Object NULLKEY | null key
+java.lang.Object NULL_OBJECT | null object
+java.lang.String ATTRIBUTE_isBlankWhenNull | attribute is blank when null
+java.lang.String DEFAULT_NULL_REP | default null rep
+java.lang.String nullRepToken | null rep token
+java.lang.String NULLSIG | null sig
+java.lang.String NULL_STR | null str
+java.lang.String NULL_STRING | null string
+java.lang.String T_NULL | t null
+java.lang.String T_NULLIF | t null if
+java.util.List null_values | null values
+java.util.Map direct_originator_map_may_be_null | direct originator map may be null
+javax.swing.JCheckBox jCheckBoxBlankWhenNull | j check box blank when null
+javax.swing.KeyStroke NULL_KEYSTROKE | null keystroke
+org.mozilla.javascript.UniqueTag NULL_VALUE | null value
+thePackage.EventLogger.EntryStatus nullStatus | null status

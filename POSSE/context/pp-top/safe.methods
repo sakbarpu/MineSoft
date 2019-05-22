@@ -1,0 +1,3 @@
+boolean isSafeSelectionModeEnabled() | is safe selection mode enabled
+boolean safeIsSuspended(QThreadReference;) | safe is suspended
+boolean safeModeSelectEnabled() | safe mode select enabled

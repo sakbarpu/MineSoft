@@ -1,0 +1,5 @@
+double[] expected_damage | expected damage
+double expectedDmg | expected dmg
+float[] expectedHitsByRackSize | expected hits by rack size
+java.lang.String[] expectedRows | expected rows
+java.util.Set expectedPolicies | expected policies

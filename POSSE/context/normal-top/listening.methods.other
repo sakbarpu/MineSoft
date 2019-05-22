@@ -1,0 +1,6 @@
+int getHTTPListeningPortNumber() | get http listening port number
+int getTCPListeningPort() | get tcp listening port
+int getTCPListeningPortNumber() | get tcp listening port number
+int getUDPListeningPortNumber() | get udp listening port number
+int getUDPNonDataListeningPortNumber() | get udp non data listening port number
+void beginListeningTo(QDefinitionsPane;) | begin listening to

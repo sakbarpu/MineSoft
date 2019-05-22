@@ -1,0 +1,19 @@
+com.aelitis.azureus.core.networkmanager.impl.TransportHelperFilter current_writer | current writer
+int _numActiveWriters | num active writers
+int _numWaitingWriters | num waiting writers
+java.io.BufferedWriter writer | writer
+java.io.FileWriter writer | writer
+java.io.OutputStreamWriter writer | writer
+java.io.PrintWriter errWriter | err writer
+java.io.PrintWriter logWriter | log writer
+java.io.PrintWriter _writer | writer
+java.io.PrintWriter writer | writer
+java.io.Writer writer | writer
+java.lang.Object _writerLock | writer lock
+java.lang.String[] writers | writers
+java.util.LinkedList connection_writers | connection writers
+org.gudy.azureus2.core3.disk.impl.access.DMWriter writer | writer
+org.gudy.azureus2.core3.global.impl.GlobalManagerStatsWriter stats_writer | stats writer
+org.gudy.azureus2.core3.stats.StatsWriterPeriodic stats_writer | stats writer
+org.hsqldb.scriptio.ScriptWriterBase dbLogWriter | db log writer
+org.xml.sax.ContentHandler writer | writer

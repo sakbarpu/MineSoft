@@ -1,0 +1,7 @@
+java.awt.Choice m_chPlayer | m ch player
+java.awt.Label m_labelPlayer | m label player
+java.lang.String ICON_PERSPECTIVE_PLAYER | icon perspective player
+java.lang.String PERSPECTIVE_NAME_PLAYER | perspective name player
+javax.swing.JComboBox m_chPlayer | m ch player
+javax.swing.JLabel m_labelPlayer | m label player
+megamek.common.Player localPlayer | local player

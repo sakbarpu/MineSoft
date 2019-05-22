@@ -1,0 +1,10 @@
+Iterable<QFile;> getBuildDirectoryCP() | get build directory cp
+Iterable<QFile;> getExternalFilesCP() | get external files cp
+Iterable<QFile;> getExtraCP() | get extra cp
+Iterable<QFile;> getProjectCP() | get project cp
+Iterable<QFile;> getProjectFilesCP() | get project files cp
+void addBuildDirectoryCP(QFile;) | add build directory cp
+void addExternalFilesCP(QFile;) | add external files cp
+void addExtraCP(QFile;) | add extra cp
+void addProjectCP(QFile;) | add project cp
+void addProjectFilesCP(QFile;) | add project files cp

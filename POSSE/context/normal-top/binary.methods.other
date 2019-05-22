@@ -1,0 +1,28 @@
+AST createBinarySubtree(QASTFactory;IQString;QAST;QAST;) | create binary subtree
+boolean getBinaryAttributesNominal() | get binary attributes nominal
+boolean getBinarySplits() | get binary splits
+boolean getBinaryWord() | get binary word
+boolean getNominalToBinaryFilter() | get nominal to binary filter
+InputStream getBinaryStream() | get binary stream
+InputStream getBinaryStream(I) | get binary stream
+InputStream getBinaryStream(QString;) | get binary stream
+InputStream getBinaryStream(String columnName) | get binary stream
+int getMaxBinaryLiteralLength() | get max binary literal length
+java.io.InputStream getBinaryStream(I) | get binary stream
+java.io.InputStream getBinaryStream(QString;) | get binary stream
+OutputStream setBinaryStream(J) | set binary stream
+String convertNominalToBinaryTipText() | convert nominal to binary tip text
+String makeBinaryTipText() | make binary tip text
+String nominalToBinaryFilterTipText() | nominal to binary filter tip text
+void setBinaryAttributesNominal(Z) | set binary attributes nominal
+void setBinarySplits(Z) | set binary splits
+void setBinaryStream(IQjava.io.InputStream;I) | set binary stream
+void setBinaryStream(QString;Qjava.io.InputStream;I) | set binary stream
+void setBinaryWord(Z) | set binary word
+void setNominalToBinaryFilter(Z) | set nominal to binary filter
+void testBinaryWidgets() | test binary widgets
+void updateBinaryStream(IQInputStream;I) | update binary stream
+void updateBinaryStream(IQjava.io.InputStream;I) | update binary stream
+void updateBinaryStream(QString;QInputStream;I) | update binary stream
+void updateBinaryStream(QString;Qjava.io.InputStream;I) | update binary stream
+void updateBinaryStream(String columnName, InputStream x, int length) | update binary stream

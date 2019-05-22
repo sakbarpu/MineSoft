@@ -1,0 +1,9 @@
+boolean isAuthFail() | is auth fail
+EvaluatorException on_same_pair_fail(QIdValuePair;QIdValuePair;) | on same pair fail
+void listenerFail(QString;) | listener fail
+void testGrowFail() | test grow fail
+void testShrinkFail() | test shrink fail
+void testWithFail(QAttribute;) | test with fail
+void testWithFail(QAttribute;Z) | test with fail
+void testWithFail(QInstances;) | test with fail
+void testWithFail(QInstances;II) | test with fail

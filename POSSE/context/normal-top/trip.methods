@@ -1,0 +1,7 @@
+int tripleCount() | triple count
+short getTriplet() | get triplet
+void doTripleClick(QMouseEvent;III) | do triple click
+void resolveTripAttack(QPhysicalResult;I) | resolve trip attack
+void trip() | trip
+WeaponType createTripleMG() | create triple mg
+WeaponType createTripleSmallLaser() | create triple small laser

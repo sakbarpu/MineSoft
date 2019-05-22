@@ -1,0 +1,30 @@
+boolean canGoToCompleteDir(QDownloadManager;) | can go to complete dir
+boolean isCompleteLine() | is complete line
+boolean isShowCompleteIncomplete() | is show complete incomplete
+boolean requestAssumedCompleteMode() | request assumed complete mode
+boolean requiresPluginInitCompleteBeforeStartedEvent() | requires plugin init complete before started event
+CompleteSignatureAst getP_complete_signature() | get p complete signature
+int getCompleteRecheckStatus() | get complete recheck status
+int getFileCompleteOptionSize() | get file complete option size
+int getScrapeCompleteCount() | get scrape complete count
+String getCompletePath() | get complete path
+String getCompletePath(I) | get complete path
+TableColumnCore[] createCompleteDM(QString;) | create complete dm
+TableColumnCore[] createCompleteDM(QString;Z) | create complete dm
+TableColumnCore[] getCompleteColumns() | get complete columns
+void addLayoutCompleteEventListener(QLayoutCompleteEventListener;) | add layout complete event listener
+void addPlatformLoginCompleteListener(QPlatformLoginCompleteListener;) | add platform login complete listener
+void checkForCompleteDeployment() | check for complete deployment
+void clearAutoCompleteSuggestion() | clear auto complete suggestion
+void enqueueCompleteRecheckRequest(QDiskManagerCheckRequest;QDiskManagerCheckRequestListener;) | enqueue complete recheck request
+void fireLayoutCompleteEvent(QLayoutCompleteEvent;) | fire layout complete event
+void handleInCompleteDownload(QDefaultRankCalculator;QProcessVars;QTotalsStats;) | handle in complete download
+void initCompleteWordDialog() | init complete word dialog
+void removeLayoutCompleteEventListener(QLayoutCompleteEventListener;) | remove layout complete event listener
+void resetCompleteWordDialogPosition() | reset complete word dialog position
+void setAutoCompleteListener(QAutoCompleteListener;) | set auto complete listener
+void setCompletedir(String completedir) | set complete dir
+void setFileCompleteOptionSize(I) | set file complete option size
+void setLoadCompleteScript(String loadCompleteScript) | set load complete script
+void setShowCompleteIncomplete(Z) | set show complete incomplete
+void testCompleteFilename() | test complete filename

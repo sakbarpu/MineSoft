@@ -1,0 +1,16 @@
+boolean isResetPageNumber | is reset page number
+edu.rice.cs.drjava.config.BooleanOption INTERACTIONS_RESET_PROMPT | interactions reset prompt
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_RESET_INTERACTIONS | key reset interactions
+int consoleResetCount | console reset count
+int interpreterResetFailedCount | interpreter reset failed count
+int STATS_RESET_TIMER | stats reset timer
+java.lang.String CONF_CONFIRMATIONS_RESET_RATINGS | conf confirmations reset ratings
+java.lang.String OP_RESET_SEQUENCE | op reset sequence
+java.lang.String OP_RESET_URL | op reset url
+javax.swing.JButton jbResetRatings | jb reset ratings
+javax.swing.JCheckBox jCheckBoxResetPageNumber | j check box reset page number
+javax.swing.JComboBox jComboBoxResetGroup | j combo box reset group
+javax.swing.JComboBox jComboBoxResetType | j combo box reset type
+javax.swing.JLabel jLabelResetGroup | j label reset group
+javax.swing.JLabel jLabelResetType | j label reset type
+long stats_reset_time | stats reset time

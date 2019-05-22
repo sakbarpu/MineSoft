@@ -1,0 +1,3 @@
+boolean disabledListening | disabled listening
+int STATE_LISTENING | state listening
+java.util.Set<edu.rice.cs.drjava.config.DrJavaProperty> _listening | listening

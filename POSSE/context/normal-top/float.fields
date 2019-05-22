@@ -1,0 +1,16 @@
+boolean floatColumnFooter | float column footer
+byte CONSTANT_Float | constant float
+byte T_FLOAT | t float
+float def_float | def float
+float FLOAT_DEFAULT | float default
+float[] FLOATS | floats
+float invSqStepFloat | inv sq step float
+int CLASS_CODE_FLOAT | class code float
+int FLOAT | float
+int FLOAT_ARRAY_SIZE | float array size
+int Id_parseFloat | id parse float
+int SQL_FLOAT | sql float
+java.lang.Class FloatClass | float class
+java.lang.String FORMAT_FLOAT | format float
+java.lang.String T_FLOAT | t float
+javax.swing.JCheckBox jCheckBoxFloatColumnFooter | j check box float column footer

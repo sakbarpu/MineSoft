@@ -1,0 +1,7 @@
+byte REOP_FLAT1i | reop flat 1 i
+byte REOP_UCFLAT1i | reop uc flat 1 i
+int D2I | d 2 i
+int F2I | f 2 i
+int L2I | l 2 i
+long F_C3I | f c 3 i
+long M_SWARM_I | m swarm i

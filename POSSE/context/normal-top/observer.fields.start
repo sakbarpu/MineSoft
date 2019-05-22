@@ -1,0 +1,10 @@
+com.eteks.sweethome3d.model.ObserverCamera observerCamera | observer camera
+com.eteks.sweethome3d.viewcontroller.HomeController3D.CameraControllerState observerCameraState | observer camera state
+float observerCameraFieldOfView | observer camera field of view
+float observerCameraZ | observer camera z
+float observerHeight | observer height
+int observerFieldOfViewInDegrees | observer field of view in degrees
+javax.swing.JLabel observerFieldOfViewLabel | observer field of view label
+javax.swing.JLabel observerHeightLabel | observer height label
+javax.swing.JSpinner observerFieldOfViewSpinner | observer field of view spinner
+javax.swing.JSpinner observerHeightSpinner | observer height spinner

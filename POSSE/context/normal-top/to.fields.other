@@ -1,0 +1,254 @@
+boolean appliesToChildren | applies to children
+boolean appliesToEdge | applies to edge
+boolean appliesToNode | applies to node
+boolean appliesToNodeFont | applies to node font
+boolean appliesToNodeIcon | applies to node icon
+boolean bLogToFile | b log to file
+boolean bLogToStdOut | b log to std out
+boolean bOkToStartSeeding | b ok to start seeding
+boolean boundToWall | bound to wall
+boolean bSetNotUpToDateLastRefresh | b set not up to date last refresh
+boolean DEACTIVATED_DUE_TO_ERROR | deactivated due to error
+boolean DIAG_TO_STDOUT | diag to stdout
+boolean doorOrWindowBoundToWall | door or window bound to wall
+boolean fitToPage | fit to page
+boolean _fitToScreen | fit to screen
+boolean higherDLtoStart | higher dl to start
+boolean isConnectToDecorator | is connect to decorator
+boolean isRelativeToFigureBounds | is relative to figure bounds
+boolean LOG_DOS_TO_FILE | log dos to file
+boolean movedDoorOrWindowBoundToWall | moved door or window bound to wall
+boolean ready_to_publish | ready to publish
+boolean revertsToSingleShot | reverts to single shot
+boolean _setToValue | set to value
+boolean snapToGrid | snap to grid
+boolean switched_to_close | switched to close
+boolean triedToLoadImg | tried to load img
+boolean visibleToEnemy | visible to enemy
+boolean was_returned_to_pool | was returned to pool
+boolean writtenToThisSession | written to this session
+byte FLAG_ADDED_TO_RANGE_LIST | flag added to range list
+com.aelitis.azureus.core.util.bloom.BloomFilter sent_to_bloom | sent to bloom
+edu.rice.cs.util.swing.AsyncTask<java.io.File,java.util.List<java.io.File>> _findFilesToCleanTask | find files to clean task
+float deltaXToOffsetPoint | delta x to offset point
+float deltaXToResizePoint | delta x to resize point
+float deltaYToElevationPoint | delta y to elevation point
+float deltaYToOffsetPoint | delta y to offset point
+float deltaYToResizePoint | delta y to resize point
+float distanceFromResizePointToDimensionBaseLine | distance from resize point to dimension base line
+freemind.extensions.HookInstanciationMethod ApplyToRoot | apply to root
+int[] aIdxToTag | a idx to tag
+int algorithmToUse | algorithm to use
+int ALIGN_BOTTOM_TO_BAND | align bottom to band
+int ALIGN_TO_LEFT_MARGIN | align to left margin
+int ALIGN_TOP_TO_BAND | align top to band
+int ALIGN_TO_RIGHT_MARGIN | align to right margin
+int BRING_TO_FRON | bring to fr on
+int COMMAND_SWITCH_TO_TAB | command switch to tab
+int DEFAULT_PEERS_TO_CACHE | default peers to cache
+int delegate_to_port | delegate to port
+int _distToEnclosingBrace | dist to enclosing brace
+int _distToEnclosingBraceStart | dist to enclosing brace start
+int _distToLineEnclosingBrace | dist to line enclosing brace
+int _distToLineEnclosingBraceStart | dist to line enclosing brace start
+int _distToStart | dist to start
+int DT_STRING_ARRAY_TO_STRING | dt string array to string
+int ET_COPY_TO_CLIPBOARD | et copy to clipboard
+int FEATURE_TO_STRING_AS_SOURCE | feature to string as source
+int hexToRaw | hex to raw
+int Id_toDateString | id to date string
+int Id_toExponential | id to exponential
+int Id_toGMTString | id to gmt string
+int Id_toLocaleDateString | id to locale date string
+int Id_toLocaleString | id to locale string
+int Id_toLocaleTimeString | id to locale time string
+int Id_toLowerCase | id to lower case
+int Id_toPrecision | id to precision
+int Id_toSource | id to source
+int Id_toString | id to string
+int Id_toTimeString | id to time string
+int Id_toUpperCase | id to upper case
+int Id_toUTCString | id to utc string
+int IMAGES_TO_CREATE | images to create
+int IPROXY_OBJECT_TO_STRING | iproxy object to string
+int LinearRGBtoSRGB | linear rgb to srgb
+int MAX_BLOCKS_TO_REMEMBER | max blocks to remember
+int max_peers_to_send | max peers to send
+int MAX_SEED_TO_PEER_RATIO | max seed to peer ratio
+int max_to_try | max to try
+int mineToLay | mine to lay
+int minHeightToStartNewPage | min height to start new page
+int minPeersToBoostNoSeeds | min peers to boost no seeds
+int MIN_PIECES_TO_BUFFER | min pieces to buffer
+int MIN_RECENT_ASSOC_TO_RETAIN | min recent assoc to retain
+int[] modelToView | model to view
+int MOVE_TO_IDLE_TIME | move to idle time
+int MOVE_TO_LEFT_MARGIN | move to left margin
+int MOVE_TO_RIGHT_MARGIN | move to right margin
+int NAME_RELATIVE_TO_CRL_ISSUER | name relative to crl issuer
+int NUM_PEERS_TO_TEST | num peers to test
+int num_to_go | num to go
+int OUTPUTFILE_NONETOCLOSE | outputfile none to close
+int PROTOMEK | pro to mek
+int rawToHex | raw to hex
+int RETVAL_OK_TO_DISPOSE | retval ok to dispose
+int SEND__TO_BACK | send  to back
+int SQL_INTERVAL_DAY_TO_HOUR | sql interval day to hour
+int SQL_INTERVAL_DAY_TO_MINUTE | sql interval day to minute
+int SQL_INTERVAL_DAY_TO_SECOND | sql interval day to second
+int SQL_INTERVAL_HOUR_TO_MINUTE | sql interval hour to minute
+int SQL_INTERVAL_HOUR_TO_SECOND | sql interval hour to second
+int SQL_INTERVAL_MINUTE_TO_SECOND | sql interval minute to second
+int SQL_INTERVAL_YEAR_TO_MONTH | sql interval year to month
+int SRGBtoLinearRGB | srgb to linear rgb
+int STOP_TO_SEARCH | stop to search
+int timeToReachAnotherPeer | time to reach another peer
+int TRY_TO_INSERT_NULL | try to insert null
+int turnsIVLeftToBurn | turns iv left to burn
+int turnsLeftToBurn | turns left to burn
+int turnsToBurn | turns to burn
+int turnsToGo | turns to go
+int waitingToDL | waiting to dl
+java.awt.Label labAlgorithmToUse | lab algorithm to use
+java.awt.TextField texAlgorithmToUse | tex algorithm to use
+java.io.File pathToStore | path to store
+java.lang.Object _objectToPass | object to pass
+java.lang.String CFG_ENABLELOGTOFILE | cfg enable log to file
+java.lang.String classToStart | class to start
+java.lang.String databaseToConvert | database to convert
+java.lang.String delegate_to_host | delegate to host
+java.lang.String[] id_to_name | id to name
+java.lang.String[] KEYS_TO_DELEGATE | keys to delegate
+java.lang.String MENU_ID_WINDOW_ALL_TO_FRONT | menu id window all to front
+java.lang.String methodToCall | method to call
+java.lang.String OP_BRING_TO_FRONT | op bring to front
+java.lang.String OP_COPY_TO_CLIPBOARD | op copy to clipboard
+java.lang.String OP_SWITCH_TO_TAB | op switch to tab
+java.lang.String plugin_id_to_use | plugin id to use
+java.lang.String[] sColorsToOverride | s colors to override
+java.lang.String sDatabaseToConvert | s database to convert
+java.lang.String _secondToLastError | second to last error
+java.lang.String sendToUser | send to user
+java.lang.String tooltip_add_to_share | tooltip add to share
+java.lang.String TORRENT_SUBSTORE | torrent subs to re
+java.lang.String urlToUse | url to use
+java.util.ArrayList<java.lang.String> _filesToOpen | files to open
+java.util.ArrayList<org.jajuk.base.PropertyMetaInformation> alToDisplay | al to display
+java.util.ArrayList rowsToRefresh | rows to refresh
+java.util.Collection<com.eteks.sweethome3d.model.Selectable> homeObjectsToUpdate | home objects to update
+java.util.HashMap actionToMenuPositions | action to menu positions
+java.util.HashMap<edu.rice.cs.drjava.model.OpenDefinitionsDocument,javax.swing.tree.DefaultMutableTreeNode> _docToTreeNode | doc to tree node
+java.util.HashMap IDToCuttedLinks | id to cutted links
+java.util.HashMap IDToLink | id to link
+java.util.HashMap IDToLinks | id to links
+java.util.HashMap IDToTarget | id to target
+java.util.HashMap imagesToPath | images to path
+java.util.HashMap<java.io.File,edu.rice.cs.drjava.model.compiler.CompilerErrorModel.StartAndEndIndex> _filesToIndexes | files to indexes
+java.util.HashMap<java.lang.Class,java.lang.String> classToNameMap | class to name map
+java.util.HashMap<java.lang.Class,java.lang.String> enumClassToNameMap | enum class to name map
+java.util.HashMap<java.lang.Enum,java.lang.String> enumToValueMap | enum to value map
+java.util.HashMap<java.lang.String,java.lang.Class> nameToEnumClassMap | name to enum class map
+java.util.HashMap<java.lang.String,java.lang.Object> nameToPrototypeMap | name to prototype map
+java.util.HashMap<java.lang.String,java.util.Set<java.lang.Enum>> valueToEnumMap | value to enum map
+java.util.HashMap<javax.swing.Action,edu.rice.cs.drjava.ui.KeyBindingManager.KeyStrokeData> _actionToDataMap | action to data map
+java.util.HashMap<javax.swing.KeyStroke,edu.rice.cs.drjava.ui.config.KeyStrokeOptionComponent> _keyToKSOC | key to ks oc
+java.util.HashMap<javax.swing.KeyStroke,edu.rice.cs.drjava.ui.KeyBindingManager.KeyStrokeData> _keyToDataMap | key to data map
+java.util.HashMap mapIDsToControls | map ids to controls
+java.util.HashMap mapPublicViewIDsToControls | map public view ids to controls
+java.util.HashMap mapPublicViewIDsToListeners | map public view ids to listeners
+java.util.HashMap mapTabSetToControls | map tab set to controls
+java.util.HashMap<org.jajuk.base.PropertyMetaInformation,java.lang.Object> hmPropertyToChange | hm property to change
+java.util.HashMap property_to_attribute_map | property to attribute map
+java.util.HashMap TargetToID | target to id
+java.util.Hashtable functionToSource | function to source
+java.util.Hashtable urlToSourceInfo | url to source info
+java.util.IdentityHashMap<R,javax.swing.tree.DefaultMutableTreeNode> _regionToTreeNode | region to tree node
+java.util.List connections_to_close | connections to close
+java.util.List dataSourcesToAdd | data sources to add
+java.util.List dataSourcesToRemove | data sources to remove
+java.util.List saved_stats_to_delete | saved stats to delete
+java.util.Map curToId | cur to id
+java.util.Map downloadersToData | downloaders to data
+java.util.Map external_to_internal_key_map | external to internal key map
+java.util.Map itemKeyToControl | item key to control
+java.util.Map keyIdToString | key id to string
+java.util.Map labelToDescription | label to description
+java.util.Map mapColumnIDsToListener | map column ids to listener
+java.util.Map mapDataSourceToRow | map data source to row
+java.util.Map mapDataSourceTypeToColumnIDs | map data source type to column ids
+java.util.Map mapIdToSideBarInfo | map id to side bar info
+java.util.Map mapNameToValue | map name to value
+java.util.Map mapPKtoVuzeBuddy | map pk to vu ze buddy
+java.util.Map mapTitleInfoToEntry | map title info to entry
+java.util.Map mapValueToName | map value to name
+java.util.Map parameterNameToExpressionID | parameter name to expression id
+java.util.Map parentToRootCache | parent to root cache
+java.util.Map tcp_ext_to_lan | tcp ext to lan
+java.util.Map tcp_lan_to_ext | tcp lan to ext
+java.util.Map torrent_to_cache_file_map | torrent to cache file map
+java.util.Map udp2_ext_to_lan | udp 2  ext to lan
+java.util.Map udp2_lan_to_ext | udp 2  lan to ext
+java.util.Map udp_ext_to_lan | udp ext to lan
+java.util.Map udp_lan_to_ext | udp lan to ext
+java.util.Set contacts_to_query | contacts to query
+java.util.Set ranksToRecalc | ranks to recalc
+java.util.SortedMap<java.lang.Integer,java.util.List<edu.rice.cs.drjava.model.Query>> _offsetToQueries | offset to queries
+java.util.TreeMap m_menuToText | m menu to text
+java.util.TreeMap tabToProperties | tab to properties
+javax.swing.AbstractAction selectToEndAction | select to end action
+javax.swing.AbstractAction selectToPromptPosAction | select to prompt pos action
+javax.swing.Action exportBranchToHTML | export branch to html
+javax.swing.Action exportToHTML | export to html
+javax.swing.Action moveToRoot | move to root
+javax.swing.Action switchToNextPaneAction | switch to next pane action
+javax.swing.Action switchToPrevPaneAction | switch to prev pane action
+javax.swing.JButton _goToButton | go to button
+javax.swing.JButton jButtonFormatAlignToBandBottom | j button format align to band bottom
+javax.swing.JButton jButtonFormatAlignToBandTop | j button format align to band top
+javax.swing.JButton jButtonFormatAlignToLeftMargin | j button format align to left margin
+javax.swing.JButton jButtonFormatAlignToRightMargin | j button format align to right margin
+javax.swing.JCheckBox addToCatalogCheckBox | add to catalog check box
+javax.swing.JCheckBoxMenuItem jCheckBoxMenuItemSnapToGrid | j check box menu item snap to grid
+javax.swing.JLabel labAlgorithmToUse | lab algorithm to use
+javax.swing.JLabel wToHitL | w to hit l
+javax.swing.JLabel wToHitR | w to hit r
+javax.swing.JMenuItem jMenuItemAlignToBandBottom | j menu item align to band bottom
+javax.swing.JMenuItem jMenuItemAlignToBandTop | j menu item align to band top
+javax.swing.JMenuItem jMenuItemBringToFront | j menu item bring to front
+javax.swing.JMenuItem jMenuItemRevertToSavedFromList | j menu item revert to saved from list
+javax.swing.JMenuItem jMenuItemSendToBack | j menu item send to back
+javax.swing.JPanel connectToServerPanel | connect to server panel
+javax.swing.JTextField jTextFieldJBSetMethodToCall | j text field jb set method to call
+javax.swing.JTextField texAlgorithmToUse | tex algorithm to use
+long actual_bytes_to_download | actual bytes to download
+long BREAKOFF_ADDROWSTOSWT | break off addrows to swt
+long bytesToConsume | bytes to consume
+long current_time_to_wait_secs | current time to wait secs
+long lTimeToPlay | l time to play
+long remainingBytesToScatter | remaining bytes to scatter
+long TIME_TO_BEGIN_NEW_ACTION | time to begin new action
+long time_to_wait | time to wait
+long weighted_bytes_to_download | weighted bytes to download
+megamek.client.ui.AWT.util.ImageCache<megamek.common.IHex,java.awt.Image> hexToImageCache | hex to image cache
+megamek.client.ui.AWT.util.ImageCache<megamek.common.IHex,java.util.List<java.awt.Image>> hexToImageListCache | hex to image list cache
+megamek.client.ui.AWT.widget.TransparentLabel wToHitL | w to hit l
+megamek.client.ui.AWT.widget.TransparentLabel wToHitR | w to hit r
+megamek.client.ui.swing.util.ImageCache<megamek.common.IHex,java.awt.Image> hexToImageCache | hex to image cache
+megamek.client.ui.swing.util.ImageCache<megamek.common.IHex,java.util.List<java.awt.Image>> hexToImageListCache | hex to image list cache
+net.sourceforge.ganttproject.gui.previousState.GanttCompareToPreviousStateBean compareToPreviousBean | compare to previous bean
+net.sourceforge.ganttproject.task.ResourceAssignment myAssignmentToResource | my assignment to resource
+net.sourceforge.ganttproject.task.ResourceAssignment myAssignmentToTask | my assignment to task
+org.apache.commons.lang.IntHashMap mapValueToName | map value to name
+org.gudy.azureus2.core3.util.AEMonitor contacts_to_query_mon | contacts to query mon
+org.gudy.azureus2.core3.util.AEMonitor dataSourceToRow_mon | data source to row mon
+org.gudy.azureus2.core3.util.AEMonitor mapPublicViewIDsToListeners_mon | map public view ids to listeners mon
+org.gudy.azureus2.core3.util.AEMonitor ranksToRecalc_mon | ranks to recalc mon
+org.gudy.azureus2.core3.util.AEMonitor rowsToRefresh_mon | rows to refresh mon
+org.gudy.azureus2.core3.util.LightHashSet dataSourcesToAdd | data sources to add
+org.gudy.azureus2.core3.util.LightHashSet dataSourcesToRemove | data sources to remove
+org.gudy.azureus2.plugins.ui.config.BooleanParameter trace_to_log | trace to log
+org.gudy.azureus2.ui.swt.views.stats.TransferStatsView.limitToTextHelper limit_to_text | limit to text
+org.hsqldb.HsqlNameManager.HsqlName schemaToLog | schema to log
+org.hsqldb.lib.HashMap nameToJavaName | name to java name
+org.hsqldb.util.TableSorter.Row[] viewToModel | view to model
+plugins.time.TableSorter.Row[] viewToModel | view to model

@@ -1,0 +1,19 @@
+boolean isJavaPrimitiveWrap() | is java primitive wrap
+boolean isPrimitiveArray() | is primitive array
+boolean isPrimitiveArray(QClass;) | is primitive array
+boolean isPrimitiveEquals(Message o) | is primitive equals
+boolean isPrimitive(QClass;) | is primitive
+Class getPrimitiveClass() | get primitive class
+Class getPrimitiveType(QClass;) | get primitive type
+GraphicPrimitiveContainer getPrimitiveContainer() | get primitive container
+GraphicPrimitive getPrimitive(II) | get primitive
+GraphicPrimitive getPrimitive(IIII) | get primitive
+GraphicPrimitive getPrimitive(QObject;) | get primitive
+Object getPrimitive(QElement;) | get primitive
+Object toPrimitive(QObject;) | to primitive
+Rectangle getPrimitive(QTaskActivity;) | get primitive
+String[] listToPrimitiveArray(QList;) | list to primitive array
+String primitiveTypeDecl(PrimitiveType self) | primitive type decl
+void PrimitivesBuilder() | primitives builder
+void setJavaPrimitiveWrap(Z) | set java primitive wrap
+void testPrimitiveBooleanArrayField() | test primitive boolean array field

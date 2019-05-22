@@ -1,0 +1,49 @@
+boolean bGlobalRefreshing | b global refreshing
+boolean global | global
+boolean GLOBAL_BLOOM_TRACE | global bloom trace
+boolean hasCustomGlobal | has custom global
+com.aelitis.azureus.core.networkmanager.impl.MultiPeerDownloader2 global_downloader | global downloader
+com.aelitis.azureus.core.networkmanager.impl.MultiPeerUploader global_uploader | global uploader
+float globalAvail | global avail
+float globalAvgAvail | global avg avail
+int CONFIG_DEFAULT_MAX_CONNECTIONS_GLOBAL | config default max connections global
+int GLOBAL | global
+int GLOBAL_DECLARATIONS | global declarations
+int GLOBAL_DEF_EXPIRY_MINS | global def expiry mins
+int globalDownloadLimit | global download limit
+int globalMax | global max
+int globalMin | global min
+int globalMinOthers | global min others
+int globalSerialClassCounter | global serial class counter
+int globalUnit | global unit
+int globalUploadLimit | global upload limit
+int globalUploadWhenSeedingLimit | global upload when seeding limit
+int Id_global | id global
+java.lang.Object globalLock | global lock
+java.lang.String CORE_PARAM_INT_MAX_CONNECTIONS_GLOBAL | core param int max connections global
+java.lang.String GLOBAL_RATING_COLOR | global rating color
+java.lang.String GLOBAL_RATING_COUNT | global rating count
+java.lang.String GLOBAL_RATING_REFRESH_ON | global rating refresh on
+java.lang.String GLOBAL_RATING_STRING | global rating string
+java.lang.String ICON_SHUFFLE_GLOBAL | icon shuffle global
+java.lang.String JS_GLOBAL_UPDATE_MSG_OP | js global update msg op
+java.lang.String T_GLOBAL | t global
+java.lang.String TOR_AZ_PROP_GLOBAL_RATING | tor az prop global rating
+java.util.List global_state_cache_wrappers | global state cache wrappers
+java.util.Map global_shared_secrets | global shared secrets
+java.util.Map global_state_cache | global state cache
+java.util.Set globalPatternList | global pattern list
+javax.swing.JButton jbGlobalRandom | jb global random
+long globalActionTimestamp | global action timestamp
+long GLOBAL_RETRY_UPDATERATING | global retry update rating
+long lDateLastGlobalRefresh | l date last global refresh
+org.gudy.azureus2.core3.global.GlobalManagerAdapter globalManagerAdapter | global manager adapter
+org.gudy.azureus2.core3.global.GlobalManager global_manager | global manager
+org.gudy.azureus2.core3.global.GlobalManager globalManager | global manager
+org.gudy.azureus2.core3.global.GlobalManagerStats global_manager_stats | global manager stats
+org.gudy.azureus2.core3.global.GlobalManagerStats global_stats | global stats
+org.gudy.azureus2.pluginsimpl.local.download.DownloadEventNotifierImpl global_dl_notifier | global dl notifier
+org.gudy.azureus2.ui.swt.minibar.MiniBarManager global_instance | global instance
+org.mozilla.javascript.ContextFactory global | global
+org.mozilla.javascript.SecurityController global | global
+org.mozilla.javascript.tools.shell.Global global | global

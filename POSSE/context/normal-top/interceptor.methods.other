@@ -1,0 +1,2 @@
+void markInterceptorDirty(QObject;QEntityPersister;QEventSource;) | mark interceptor dirty
+void markInterceptorDirty(QObject;QObject;) | mark interceptor dirty

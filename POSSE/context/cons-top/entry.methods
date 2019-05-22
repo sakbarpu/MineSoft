@@ -1,0 +1,78 @@
+CONS AuctionEntry() | auction entry
+CONS AuctionEntry(QString;) | auction entry
+CONS BibtexEntry() | bibtex entry
+CONS BibtexEntry(QString;) | bibtex entry
+CONS BibtexEntry(QString;QBibtexEntryType;) | bibtex entry
+CONS CacheEntry(IQCacheFileWithCache;QDirectByteBuffer;JI) | cache entry
+CONS CacheEntry(J) | cache entry
+CONS CacheEntry([QObject;QEntityPersister;ZQObject;QSessionImplementor;QObject;) | cache entry
+CONS CacheEntry([QSerializable;QString;ZQObject;) | cache entry
+CONS CiteSeerEntryFetcherHandler(QBibtexEntry;) | cite seer entry fetcher handler
+CONS CollectionCacheEntry(QPersistentCollection;QCollectionPersister;) | collection cache entry
+CONS CollectionCacheEntry(QSerializable;) | collection cache entry
+CONS CollectionEntry(QCollectionPersister;QPersistentCollection;) | collection entry
+CONS CollectionEntry(QCollectionPersister;QSerializable;) | collection entry
+CONS CollectionEntry(QPersistentCollection;QCollectionPersister;QSerializable;Z) | collection entry
+CONS CollectionEntry(QPersistentCollection;QSessionFactoryImplementor;) | collection entry
+CONS CollectionEntry(QString;QSerializable;QSerializable;QSessionFactoryImplementor;) | collection entry
+CONS CustomEntryType(QString;[QString;[QString;) | custom entry type
+CONS CustomEntryType(QString;QString;QString;) | custom entry type
+CONS DirEntry(QString;QActionListener;) | dir entry
+CONS DocumentTreeEntry(QJReportFrame;QString;) | document tree entry
+CONS EntityEntry(QSessionFactoryImplementor;QString;QSerializable;QEntityMode;QStatus;[QObject;[QObject;QObject;QLockMode;ZZZ) | entity entry
+CONS EntityEntry(QStatus;[QObject;QObject;QSerializable;QObject;QLockMode;ZQEntityPersister;QEntityMode;ZZ) | entity entry
+CONS EntryAddChange(QBibtexEntry;) | entry add change
+CONS EntryChange(QBibtexEntry;QBibtexEntry;QBibtexEntry;) | entry change
+CONS EntryComparator(ZZQString;) | entry comparator
+CONS EntryComparator(ZZQString;QComparator<QBibtexEntry;>;) | entry comparator
+CONS EntryCustomizationDialog2(QJabRefFrame;) | entry customization dialog 2
+CONS EntryCustomizationDialog(QJabRefFrame;) | entry customization dialog
+CONS EntryCustomizationDialog(QJabRefFrame;QBibtexEntryType;) | entry customization dialog
+CONS EntryDeleteChange(QBibtexEntry;QBibtexEntry;) | entry delete change
+CONS EntryEditorPrefsTab(QJabRefFrame;QJabRefPreferences;) | entry editor prefs tab
+CONS EntryEditor(QJabRefFrame;QBasePanel;QBibtexEntry;) | entry editor
+CONS EntryEditorTabList() | entry editor tab list
+CONS EntryEditorTab(QJabRefFrame;QBasePanel;QList<QString;>;QEntryEditor;ZQString;) | entry editor tab
+CONS EntrySorter(QMap<QString;QBibtexEntry;>;QComparator<QBibtexEntry;>;) | entry sorter
+CONS EntryTableTransferHandler(QMainTable;QJabRefFrame;QBasePanel;) | entry table transfer handler
+CONS EntryTypeDialog(QJabRefFrame;) | entry type dialog
+CONS EntryTypeList(QList<QString;>;) | entry type list
+CONS ExceptionTableEntry(IIIS) | exception table entry
+CONS ExtendsQueueEntry(QString;QString;QDocument;) | extends queue entry
+CONS ExternalFileTypeEntryEditor(QJDialog;QExternalFileType;) | external file type entry editor
+CONS ExternalFileTypeEntryEditor(QJFrame;QExternalFileType;) | external file type entry editor
+CONS FileEntry() | file entry
+CONS FileListEntryEditor(QJabRefFrame;QFileListEntry;ZZQMetaData;) | file list entry editor
+CONS FileListEntry(QString;QString;QExternalFileType;) | file list entry
+CONS GlazedEntrySorter(QMap<QString;QBibtexEntry;>;) | glazed entry sorter
+CONS LayoutEntry(QStringInt;QString;) | layout entry
+CONS LayoutEntry(QVector<QStringInt;>;QString;I) | layout entry
+CONS LoadingCollectionEntry(QResultSet;QCollectionPersister;QSerializable;QPersistentCollection;) | loading collection entry
+CONS MODSEntry() | mods entry
+CONS MODSEntry(QBibtexEntry;) | mods entry
+CONS MSBibEntry() | ms bib entry
+CONS MSBibEntry(QBibtexEntry;) | ms bib entry
+CONS MSBibEntry(QElement;QString;) | ms bib entry
+CONS NumberEntry(QString;D) | number entry
+CONS PieceMapEntryImpl(QDiskManagerFileInfoImpl;JI) | piece map entry impl
+CONS PluginEntry() | plugin entry
+CONS SideBarEntrySWT(QSideBar;QString;) | side bar entry swt
+CONS SimpleTextEntryWindow(QDisplay;) | simple text entry window
+CONS StructuredCacheEntry(QEntityPersister;) | structured cache entry
+CONS TransferableBibtexEntry([QBibtexEntry;) | transferable bibtex entry
+CONS TransferableEntrySelection([QBibtexEntry;) | transferable entry selection
+CONS UndoableInsertEntry(QBibtexDatabase;QBibtexEntry;QBasePanel;) | undoable insert entry
+CONS UndoableRemoveEntry(QBibtexDatabase;QBibtexEntry;QBasePanel;) | undoable remove entry
+CONS UnknownEntryType(QString;) | unknown entry type
+CONS UpdaterEntry() | updater entry
+CONS UpdaterEntry(QString;QString;) | updater entry
+CONS VuzeActivitiesEntry() | vu ze activities entry
+CONS VuzeActivitiesEntryBuddyLinkup() | vu ze activities entry buddy link up
+CONS VuzeActivitiesEntryBuddyLinkup(QVuzeBuddy;) | vu ze activities entry buddy link up
+CONS VuzeActivitiesEntryBuddyRequest() | vu ze activities entry buddy request
+CONS VuzeActivitiesEntryContentShare() | vu ze activities entry content share
+CONS VuzeActivitiesEntryContentShare(QSelectedContentV3;QString;) | vu ze activities entry content share
+CONS VuzeActivitiesEntry(JQString;QString;) | vu ze activities entry
+CONS VuzeActivitiesEntry(JQString;QString;QString;QString;QString;) | vu ze activities entry
+CONS WriteXMPEntryEditorAction(QBasePanel;QEntryEditor;) | write xmp entry editor action
+CONS X509CRLEntryObject(QTBSCertList.CRLEntry;) | x 509 crl entry object

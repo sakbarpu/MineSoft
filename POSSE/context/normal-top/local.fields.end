@@ -1,0 +1,15 @@
+byte is_lan_local | is lan local
+com.aelitis.azureus.core.dht.transport.DHTTransportContact current_local | current local
+int ENGINE_SOURCE_LOCAL | engine source local
+int TT_LOCAL | tt local
+java.lang.String sLocal | s local
+java.lang.String T_LOCAL | t local
+java.lang.ThreadLocal contextLocal | context local
+short argsLocal | args local
+short contextLocal | context local
+short firstFreeLocal | first free local
+short funObjLocal | fun obj local
+short popvLocal | po pv local
+short scriptRegexpLocal | script regexp local
+short thisObjLocal | this obj local
+short variableObjectLocal | variable object local

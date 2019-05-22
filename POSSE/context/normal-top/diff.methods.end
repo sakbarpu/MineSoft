@@ -1,0 +1,2 @@
+float getLengthDiff(QMouseEvent;) | get length diff
+int getFacingDiff(QMovePath;) | get facing diff

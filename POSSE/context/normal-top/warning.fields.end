@@ -1,0 +1,13 @@
+boolean _isWarning | is warning
+int AT_WARNING | at warning
+int ICONWARNING | icon warning
+int INT_CORE_WARNING | int core warning
+int LT_WARNING | lt warning
+int SQLWARNING | sql warning
+int STATUSICON_WARNING | status icon warning
+int USER_REQUEST_WARNING | user request warning
+java.lang.String ICON_WARNING | icon warning
+java.lang.String JUNIT_WARNING | junit warning
+java.lang.String T_SQLWARNING | t sql warning
+java.sql.SQLWarning rootWarning | root warning
+long last_warning | last warning

@@ -1,0 +1,109 @@
+boolean bDelayedSingleSelect | b delayed single select
+boolean bSingleHashScrapes | b single hash scrapes
+boolean isSingleton | is singleton
+boolean revertsToSingleShot | reverts to single shot
+byte FLAG_SINGLE_VALUE | flag single value
+char SINGLECHAR_WILDCARD | single char wildcard
+com.aelitis.azureus.core.AzureusCore singleton | singleton
+com.aelitis.azureus.core.crypto.VuzeCryptoManager singleton | singleton
+com.aelitis.azureus.core.custom.impl.CustomizationManagerImpl singleton | singleton
+com.aelitis.azureus.core.dht.transport.udp.impl.packethandler.DHTUDPPacketHandlerFactory singleton | singleton
+com.aelitis.azureus.core.diskmanager.file.impl.FMFileManagerImpl singleton | singleton
+com.aelitis.azureus.core.download.DownloadManagerEnhancer singleton | singleton
+com.aelitis.azureus.core.instancemanager.impl.AZInstanceManagerImpl singleton | singleton
+com.aelitis.azureus.core.lws.LightWeightSeedManager singleton | singleton
+com.aelitis.azureus.core.metasearch.MetaSearchManager singleton | singleton
+com.aelitis.azureus.core.networkmanager.admin.NetworkAdmin singleton | singleton
+com.aelitis.azureus.core.networkmanager.impl.IncomingConnectionManager singleton | singleton
+com.aelitis.azureus.core.networkmanager.impl.tcp.VirtualAcceptSelector singleton | singleton
+com.aelitis.azureus.core.networkmanager.impl.udp.UDPNetworkManager singleton | singleton
+com.aelitis.azureus.core.peermanager.control.impl.PeerControlSchedulerImpl singleton | singleton
+com.aelitis.azureus.core.peermanager.nat.PeerNATTraverser singleton | singleton
+com.aelitis.azureus.core.proxy.AEProxyAddressMapper singleton | singleton
+com.aelitis.azureus.core.security.impl.CryptoManagerImpl singleton | singleton
+com.aelitis.azureus.core.subs.impl.SubscriptionManagerImpl singleton | singleton
+com.aelitis.azureus.core.vuzefile.VuzeFileHandler singleton | singleton
+com.aelitis.azureus.plugins.upnp.UPnPMappingManager singleton | singleton
+com.aelitis.net.magneturi.impl.MagnetURIHandlerImpl singleton | singleton
+com.aelitis.net.natpmp.impl.NatPMPDeviceImpl NatPMPDeviceSingletonRef | nat pmp device singleton ref
+com.aelitis.net.upnp.impl.UPnPImpl singleton | singleton
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_SINGLE_QUOTED_COLOR | definitions single quoted color
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideSingleQuote INSIDE_SINGLE_QUOTE | inside single quote
+edu.rice.cs.drjava.ui.DrJavaErrorWindow _singletonInstance | singleton instance
+freemind.modes.actions.SingleNodeOperation singleNodeOperation | single node operation
+freemind.modes.ControllerAdapter.ControllerPopupMenuListener popupListenerSingleton | popup listener singleton
+int BOUNCE_SINGLE | bounce single
+int COMP_TYPE_SUBSCRIPTION_SINGLETON | comp type subscription singleton
+int ESCAPED_SINGLE_QUOTE_TYPE | escaped single quote type
+int HTML_SINGLETAG | html single tag
+int SINGLE_QUOTE_STATE | single quote state
+int SINGLE_QUOTE_TYPE | single quote type
+java.awt.Color SINGLE_QUOTED_COLOR | single quoted color
+java.lang.Object single_content | single content
+java.lang.String SINGLE_HEX_ECM | single hex ecm
+java.lang.String SINGLE_INSTANCE_PORT | single instance port
+java.lang.String singlePath | single path
+java.lang.String ST_DISK_READ_BYTES_SINGLE | st disk read bytes single
+java.lang.String ST_DISK_READ_REQUEST_SINGLE | st disk read request single
+java.lang.String ST_DISK_WRITE_BYTES_SINGLE | st disk write bytes single
+java.util.List<javax.jnlp.SingleInstanceListener> singleInstanceListeners | single instance listeners
+java.util.Map singleton_details | singleton details
+java.util.Map singletons | singletons
+javax.swing.Action copySingle | copy single
+long F_SINGLE_TARGET | f single target
+long total_single_bytes | total single bytes
+long total_single_requests_made | total single requests made
+megamek.client.ui.AWT.util.ImageFileFactory singleton | singleton
+megamek.client.ui.swing.util.ImageFileFactory singleton | singleton
+megamek.common.loaders.HeatSinkType SINGLE | single
+net.sourceforge.ganttproject.GanttProject ganttprojectSingleton | ganttproject singleton
+net.sourceforge.ganttproject.gui.GanttLookAndFeels singleton | singleton
+org.gudy.azureus2.core3.internat.LocaleUtil singleton | singleton
+org.gudy.azureus2.core3.ipfilter.impl.IpFilterManagerImpl singleton | singleton
+org.gudy.azureus2.core3.security.impl.SESecurityManagerImpl singleton | singleton
+org.gudy.azureus2.core3.stats.impl.StatsWriterPeriodicImpl singleton | singleton
+org.gudy.azureus2.core3.tracker.client.impl.bt.TRTrackerBTScraperImpl singleton | singleton
+org.gudy.azureus2.core3.tracker.client.impl.dht.TRTrackerDHTScraperImpl singleton | singleton
+org.gudy.azureus2.core3.tracker.client.impl.TRTrackerScraperImpl singleton | singleton
+org.gudy.azureus2.core3.tracker.host.impl.TRHostImpl singleton | singleton
+org.gudy.azureus2.core3.tracker.server.impl.TRTrackerServerNATChecker singleton | singleton
+org.gudy.azureus2.core3.util.ConcurrentHasher singleton | singleton
+org.gudy.azureus2.core3.util.NonDaemonTaskRunner singleton | singleton
+org.gudy.azureus2.platform.macosx.PlatformManagerImpl singleton | singleton
+org.gudy.azureus2.platform.PlatformManager singleton | singleton
+org.gudy.azureus2.platform.unix.PlatformManagerImpl singleton | singleton
+org.gudy.azureus2.platform.win32.access.impl.AEWin32AccessImpl singleton | singleton
+org.gudy.azureus2.platform.win32.PlatformManagerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.clientid.ClientIDManagerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.ddb.DDBaseImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.download.DownloadManagerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.installer.PluginInstallerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.PluginInitializer singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.PluginManagerDefaultsImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.PluginManagerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.sharing.ShareManagerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.sharing.test.ShareTester singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.test.Test singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.torrent.TorrentManagerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.tracker.TrackerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.ui.SWT.SWTManagerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.update.UpdateManagerImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.utils.resourcedownloader.ResourceDownloaderFactoryImpl singleton | singleton
+org.gudy.azureus2.pluginsimpl.local.utils.xml.rss.Test singleton | singleton
+org.gudy.azureus2.pluginsimpl.update.sf.impl2.SFPluginDetailsLoaderImpl singleton | singleton
+org.gudy.azureus2.plugins.utils.resourceuploader.ResourceUploaderFactory singleton | singleton
+org.gudy.azureus2.ui.jws.Main singleton | singleton
+org.gudy.azureus2.ui.swt.update.UpdateMonitor singleton | singleton
+org.gudy.azureus2.update.CoreUpdateChecker singleton | singleton
+org.jajuk.base.AlbumManager singleton | singleton
+org.jajuk.base.AuthorManager singleton | singleton
+org.jajuk.base.DeviceManager singleton | singleton
+org.jajuk.base.DirectoryManager singleton | singleton
+org.jajuk.base.exporters.XMLExporter singleton | singleton
+org.jajuk.base.FileManager singleton | singleton
+org.jajuk.base.PlaylistFileManager singleton | singleton
+org.jajuk.base.PlaylistManager singleton | singleton
+org.jajuk.base.StyleManager singleton | singleton
+org.jajuk.base.TrackManager singleton | singleton
+org.jajuk.base.TypeManager singleton | singleton
+org.pf.text.StringUtil singleton | singleton

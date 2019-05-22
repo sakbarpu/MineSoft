@@ -1,0 +1,7 @@
+boolean atEnd() | at end
+boolean atEOF() | at eof
+boolean atEOFOfCurrentStream() | at eof of current stream
+boolean atFirstItem() | at first item
+boolean atLastItem() | at last item
+boolean atOrigin() | at origin
+boolean atStart() | at start

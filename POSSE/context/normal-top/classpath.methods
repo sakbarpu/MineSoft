@@ -1,0 +1,10 @@
+boolean hasClasspathProblems() | has classpath problems
+File findFileOnClasspath(QString;) | find file on classpath
+freemind.controller.actions.generated.instance.PluginClasspath createPluginClasspath() | create plugin classpath
+freemind.controller.actions.generated.instance.PluginClasspathType createPluginClasspathType() | create plugin classpath type
+java.util.List getPluginClasspath() | get plugin classpath
+String createPluginClasspathString(QList;) | create plugin classpath string
+Vector getClasspath() | get classpath
+void rescanAdditionalClasspath() | rescan additional classpath
+void setClasspath(QVector;) | set classpath
+void setClasspathRef(Reference r) | set classpath ref

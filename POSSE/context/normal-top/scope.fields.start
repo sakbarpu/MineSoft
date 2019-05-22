@@ -1,0 +1,2 @@
+int SCOPE_PROVIDER | scope provider
+org.mozilla.javascript.tools.debugger.ScopeProvider scopeProvider | scope provider

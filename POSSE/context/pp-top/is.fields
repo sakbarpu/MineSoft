@@ -1,0 +1,88 @@
+boolean bIsCanceled | b is canceled
+boolean bIsContinueEnabled | b is continue enabled
+boolean bIsIntroEnabled | b is intro enabled
+boolean bIsPopulated | b is populated
+boolean bIsRepeatEnabled | b is repeat enabled
+boolean bIsShuffleEnabled | b is shuffle enabled
+boolean cachingIsEnabled | caching is enabled
+boolean isActivated | is activated
+boolean isAggregated | is aggregated
+boolean isAllQuoted | is all quoted
+boolean isAlphaSupported | is alpha supported
+boolean isAlreadyOpened | is already opened
+boolean isAnimated | is animated
+boolean isAssigned | is assigned
+boolean _isAutomaticTraceEnabled | is automatic trace enabled
+boolean isBlocked | is blocked
+boolean isCached | is cached
+boolean isCancelAllowed | is cancel allowed
+boolean isCanceled | is canceled
+boolean isChanged | is changed
+boolean is_closed | is closed
+boolean isClosed | is closed
+boolean isCollapsed | is collapsed
+boolean isColorChanged | is color changed
+boolean isCommited | is commited
+boolean is_connected | is connected
+boolean isConnected | is connected
+boolean isCreated | is created
+boolean isDecrypted | is decrypted
+boolean is_destroyed | is destroyed
+boolean isDisposed | is disposed
+boolean isDistracted | is distracted
+boolean isDocked | is docked
+boolean isDownloadMaxPinned | is download max pinned
+boolean isDownloadUnlimited | is download unlimited
+boolean _isEnabled | is enabled
+boolean isEnabled | is enabled
+boolean isFilled | is filled
+boolean isFixed | is fixed
+boolean isFlipped | is flipped
+boolean isGrouped | is grouped
+boolean isInitialized | is initialized
+boolean isInstalled | is installed
+boolean[] isLabelQuoted | is label quoted
+boolean isloaded | is loaded
+boolean _isLoaded | is loaded
+boolean isLoaded | is loaded
+boolean isLocked | is locked
+boolean isLogged | is logged
+boolean isMaterialised | is materialised
+boolean isMaximized | is maximized
+boolean isModified | is modified
+boolean isMouseEntered | is mouse entered
+boolean isNameQuoted | is name quoted
+boolean isNullValueAllowed | is null value allowed
+boolean is_paused | is paused
+boolean isPressed | is pressed
+boolean isPrintingAllowed | is printing allowed
+boolean _isProjectChanged | is project changed
+boolean isQueryCorrelated | is query correlated
+boolean isQuoted | is quoted
+boolean isRearMounted | is rear mounted
+boolean isRemembered | is remembered
+boolean isReplaced | is replaced
+boolean isResolved | is resolved
+boolean isRetryAllowed | is retry allowed
+boolean isReversed | is reversed
+boolean isRunProhibited | is run prohibited
+boolean isSaved | is saved
+boolean is_seed | is seed
+boolean isSelected | is selected
+boolean isSendingEnabled | is sending enabled
+boolean isSigned | is signed
+boolean is_skipped | is skipped
+boolean isStroked | is stroked
+boolean is_subscribed | is subscribed
+boolean isTitled | is titled
+boolean isUnloaded | is unloaded
+boolean isUploadMaxPinned | is upload max pinned
+int ACCESS_IS_DENIED | access is denied
+int COLUMN_IS_REFERENCED | column is referenced
+int CONNECTION_IS_CLOSED | connection is closed
+int FLAG_ISSAVED | flag iss av ed
+int JDBC_RESULTSET_IS_CLOSED | jdbc resultset is closed
+int STATEMENT_IS_CLOSED | statement is closed
+java.lang.String ATTRIBUTE_isPdfEmbedded | attribute is pdf embedded
+java.lang.String IS_DESTROYED | is destroyed
+java.lang.String OP_IS_CUSTOMISED | op is customised

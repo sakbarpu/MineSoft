@@ -1,0 +1,3 @@
+boolean isJavadocTabSelected() | is javadoc tab selected
+void javadocEnded(ZQFile;Z) | javadoc ended
+void javadocStarted() | javadoc started

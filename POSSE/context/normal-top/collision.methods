@@ -1,0 +1,8 @@
+boolean detectCollision(QPoint;) | detect collision
+Collision getCollision() | get collision
+MindMapArrowLink detectCollision(QPoint;) | detect collision
+TaskDependencyConstraint.Collision getCollision() | get collision
+void DefaultCollision(QGanttCalendar;IZ) | default collision
+void detectRootElementCollisions([QString;) | detect root element collisions
+void testHiddenCollision() | test hidden collision
+void testHiddenCollisionWithAliases() | test hidden collision with aliases

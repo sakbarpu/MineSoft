@@ -1,0 +1,53 @@
+boolean bAlreadyInitialized | b already initialized
+boolean bInitialized | b initialized
+boolean bIsIntroEnabled | b is intro enabled
+boolean check_interrupted | check interrupted
+boolean download_initiated | download initiated
+boolean INCOMING_CRYPTO_ALLOWED | incoming crypto allowed
+boolean INCOMING_HANDSHAKE_FALLBACK_ALLOWED | incoming handshake fallback allowed
+boolean infProtected | inf protected
+boolean initial_address_change_deferred | initial address change deferred
+boolean initialised | initialised
+boolean _initialized | initialized
+boolean initialized | initialized
+boolean initiated | initiated
+boolean init_tried | init tried
+boolean _interpreterRestarted | interpreter restarted
+boolean interrupted | interrupted
+boolean isInitialized | is initialized
+boolean isInstalled | is installed
+boolean PB_INVERTED | pb inverted
+boolean plugins_initialised | plugins initialised
+boolean pre_initialised | pre initialised
+boolean progressive_informed | progressive informed
+boolean restart_initiated | restart initiated
+boolean result_informed | result informed
+boolean result_input_submitted | result input submitted
+boolean scrollBarsInitialized | scroll bars initialized
+boolean searchResultsInitialized | search results initialized
+boolean TCP_INCOMING_ENABLED | tcp incoming enabled
+boolean UDP_INCOMING_ENABLED | udp incoming enabled
+byte NAT_CHECK_INITIATED | nat check initiated
+byte RELATIVE_SEEDING_UPLOAD_ONLY_INDICATED | relative seeding upload only indicated
+int EVENT_INITIALIZED | event initialized
+int incompleteQueued | incomplete queued
+int INF_MOTORIZED | inf motorized
+int INIT_DEFERRED | init deferred
+int INPUTREC_MODIFIED | input rec modified
+int INPUT_UNTERMINATED | input unterminated
+int INSERTIONS_NOTCOMMITTED | insertions not committed
+int interesting_published | interesting published
+int LDT_DESTROY_INITIATED | ldt destroy initiated
+int PEV_ALL_PLUGINS_INITIALISED | pev all plugins initialised
+int REQUIRE_TABLEITEM_INITIALIZED | require table item initialized
+int STATE_INITIALIZED | state initialized
+int SUBID_BT_INTERESTED | subid bt interested
+int TS_INITIALISED | ts initialised
+java.awt.Color INDIAN_RED | indian red
+java.lang.Character FL_INCOMPLETE_QUEUED | fl incomplete queued
+java.lang.Character FL_INCOMPLETE_STOPPED | fl incomplete stopped
+java.lang.String EVENT_INTRO_MODE_STATUS_CHANGED | event intro mode status changed
+java.lang.String ID_BT_INTERESTED | id bt interested
+java.lang.String STATUS_INSTALLED | status installed
+java.lang.String TYPEID_BUDDYINVITED | typeid buddy invited
+long HEARTBEAT_INTERVAL_PADDED | heartbeat interval padded

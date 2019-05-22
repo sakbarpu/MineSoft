@@ -1,0 +1,18 @@
+boolean cancel_download | cancel download
+edu.rice.cs.drjava.ui.ClipboardHistoryFrame.CloseAction _cancelAction | cancel action
+int _cancelIndex | cancel index
+int CANCEL_SNIPE | cancel snipe
+int _cancelSnipeQuant | cancel snipe quant
+java.awt.Button cancelB | cancel b
+java.lang.Object cancel_mutex | cancel mutex
+java.lang.String cancelSnipe | cancel snipe
+javax.swing.border.Border CANCEL_BORDER | cancel border
+javax.swing.JButton cancelB | cancel b
+javax.swing.JButton _cancelBtn | cancel btn
+javax.swing.JButton _cancelButton | cancel button
+javax.swing.JButton cancelButton | cancel button
+javax.swing.JButton _cancelCommandButton | cancel command button
+javax.swing.JPanel _cancelAndOKPanel | cancel and ok panel
+long cancelDelay | cancel delay
+net.sourceforge.ganttproject.action.CancelAction cancelAction | cancel action
+thePackage.Currency _cancelSnipeBid | cancel snipe bid

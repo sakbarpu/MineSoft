@@ -1,0 +1,257 @@
+boolean bogus_ygm_written | bogus ygm written
+boolean has_ShiftY | has shift y
+boolean has_Y | has y
+boolean NOT_GOOD_ENOUGH_FOR_AZ2_USERS_YET | not good enough for az 2  users yet
+boolean TRUNCZEROS_YES | trunc zeros yes
+boolean ygm_active | ygm active
+boolean ygm_pending | ygm pending
+boolean yy_at_bol | yy at bol
+boolean yy_eof_done | yy eof done
+boolean yy_last_was_cr | yy last was cr
+byte[] KEYA_IV | ke ya iv
+byte[] KEYC_IV | ke yc iv
+byte[] KEYD_IV | ke yd iv
+byte LAN_LOCAL_YES | lan local yes
+char yy_buffer | yy buffer
+com.aelitis.azureus.core.util.bloom.BloomFilter ygm_unauth_bloom | ygm unauth bloom
+com.eteks.sweethome3d.viewcontroller.PlanController.ControllerState cameraYawRotationState | camera yaw rotation state
+double[] deltaYXs | delta y xs
+double[] deltaYYs | delta yys
+double relativeY | relative y
+double scaleY | scale y
+double[] y | y
+double y1 | y 1
+double y2 | y 2
+double yOffset | y offset
+edu.rice.cs.drjava.config.IntegerOption WINDOW_Y | window y
+edu.rice.cs.drjava.model.definitions.indent.IndentRule _yesRule | yes rule
+float areaYOffset | area y offset
+float centerY | center y
+float deltaYToElevationPoint | delta y to elevation point
+float deltaYToOffsetPoint | delta y to offset point
+float deltaYToResizePoint | delta y to resize point
+float dgdY | dgd y
+float focusY | focus y
+float iconYaw | icon yaw
+float maxY | max y
+float MAX_Y | max y
+float minY | min y
+float nameYOffset | name y offset
+float oldAreaYOffset | old area y offset
+float oldNameYOffset | old name y offset
+float oldY | old y
+float oldYaw | old yaw
+float originY | origin y
+float saveMaxY | save max y
+float saveMinY | save min y
+float scaleDistanceYEnd | scale distance y end
+float scaleDistanceYStart | scale distance y start
+float viewYaw | view yaw
+float xOrY | x or y
+float y | y
+float yaw | yaw
+float yAxis | y axis
+float yDraggedPieceOfFurniture | y dragged piece of furniture
+float yEnd | y end
+float yLastEnd | y last end
+float yLastMouseMove | y last mouse move
+float yLastMousePress | y last mouse press
+float yMovedPieceOfFurniture | y moved piece of furniture
+float yOrigin | y origin
+float yPreviousPoint | y previous point
+float yStart | y start
+int actual_y | actual y
+int actualY | actual y
+int ANSWER_YES | answer yes
+int ASYOUTYPE_MODE | as you type mode
+int ASYOUTYPE_MODE_FILTER | as you type mode filter
+int ASYOUTYPE_MODE_FIND | as you type mode find
+int ASYOUTYPE_UPDATEDELAY | as you type update delay
+int basicYPos | basic y pos
+int BORDER_Y_SIZE | border y size
+int BUDDY_YES | buddy yes
+int CHECK_YGM_PERIOD | check ygm period
+int CHECK_YGM_TICKS | check ygm ticks
+int defLocY | def loc y
+int ELEMENTS_Y | elements y
+int endY | end y
+int FEATURE_NON_ECMA_GET_YEAR | feature non ecma get year
+int FIELD_YGM | field ygm
+int fixedY | fixed y
+int Id_getFullYear | id get full year
+int Id_getUTCFullYear | id get utc full year
+int Id_getYear | id get year
+int Id_setFullYear | id set full year
+int Id_setUTCFullYear | id set utc full year
+int Id_setYear | id set year
+int IMAGE_LED_YELLOW | image led yellow
+int INPUT_YES_NO | input yes no
+int INPUT_YES_NO_CANCEL | input yes no cancel
+int iY | i y
+int JP_YEN | jp yen
+int last_y | last y
+int lastY | last y
+int margY | marg y
+int min_size_y | min size y
+int MIN_SIZE_Y_DEFAULT | min size y default
+int minY | min y
+int m_nYear | m n year
+int MT_YES | mt yes
+int myBottomY | my bottom y
+int myFinishY | my finish y
+int myStartY | my start y
+int myTopY | my top y
+int myYOffset | my y offset
+int[] myYPoints | my y points
+int NOBUFFER_YET | no buffer yet
+int offsetY | offset y
+int originalParentShiftY | original parent shift y
+int originalShiftY | original shift y
+int originY | origin y
+int pbY | pb y
+int[] pointsY | points y
+int previousMouseY | previous mouse y
+int relYPos | rel y pos
+int RESTART_REQUIRED_YES | restart required yes
+int rootY | root y
+int shiftY | shift y
+int _ShiftY | shift y
+int SQL_INTERVAL_YEAR | sql interval year
+int SQL_INTERVAL_YEAR_TO_MONTH | sql interval year to month
+int startY | start y
+int stepY | step y
+int TILE_CENTER_Y | tile center y
+int tileGridYOffset | tile grid y offset
+int TILE_Y | tile y
+int T_YEAR | t year
+int y | y
+int _Y | y
+int y0 | y 0
+int y1 | y 1
+int Y1 | y 1
+int y2 | y 2
+int Y2 | y 2
+int Y3 | y 3
+int Y4 | y 4
+int yCoord | y coord
+int yDimension | y dimension
+int yDown | y down
+int year | year
+int YEAR | year
+int YEAR_BASE | year base
+int YES | yes
+int YESNO | yesno
+int YESNOCANCEL | yes no cancel
+int YES_NO_CANCEL_OPTION | yes no cancel option
+int YES_NO_OPTION | yes no option
+int YES_OPTION | yes option
+int YGM_BLOOM_LIFE_PERIOD | ygm bloom life period
+int YGM_BLOOM_LIFE_TICKS | ygm bloom life ticks
+int yLastMouseMove | y last mouse move
+int[] _yoffs | yoffs
+int yOffset | y offset
+int ySize | y size
+int[] y_speeds | y speeds
+int yvalue | yvalue
+int yy_acpt | yy acpt
+int YY_BOL | yy bol
+int yy_buffer_end | yy buffer end
+int yy_buffer_index | yy buffer index
+int yy_buffer_read | yy buffer read
+int YY_BUFFER_SIZE | yy buffer size
+int yy_buffer_start | yy buffer start
+int yy_cmap | yy cmap
+int YY_E_INTERNAL | yy e internal
+int YY_E_MATCH | yy e match
+int YY_END | yy end
+int YY_EOF | yy eof
+int YY_F | yy f
+int YYINITIAL | yyinitial
+int yy_lexical_state | yy lexical state
+int YY_NO_ANCHOR | yy no anchor
+int YY_NO_STATE | yy no state
+int YY_NOT_ACCEPT | yy not accept
+int yy_nxt | yy nxt
+int yy_rmap | yy rmap
+int YY_START | yy start
+int yy_state_dtrans | yy state dtrans
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionYValue | j r text expression y value
+java.awt.Button butYes | but yes
+java.awt.Checkbox m_cYear | m c year
+java.awt.Color LIGHT_GOLDENROD_YELLOW | light goldenrod yellow
+java.awt.Color LIGHT_YELLOW | light yellow
+java.awt.Color YELLOW | yellow
+java.awt.Color YELLOW_GREEN | yellow green
+java.awt.Label yourNameL | your name l
+java.awt.Shape CAMERA_YAW_ROTATION_INDICATOR | camera yaw rotation indicator
+java.awt.TextField yourNameF | your name f
+java.io.BufferedReader yy_reader | yy reader
+java.lang.Float y | y
+java.lang.Float yEnd | y end
+java.lang.Float yStart | y start
+java.lang.Integer CurYen | cur yen
+java.lang.Integer ID_WEEK_OF_YEAR | id week of year
+java.lang.Integer ID_YEAR | id year
+java.lang.Long MS_IN_YEAR | ms in year
+java.lang.String DISPLAY_POS_Y | display pos y
+java.lang.String DOOR_OR_WINDOW_SASH_Y_AXIS | door or window sash y axis
+java.lang.String FRAME_Y_VISUAL_PROPERTY | frame y visual property
+java.lang.String FURNITURE_ICON_YAW | furniture icon yaw
+java.lang.String FURNITURE_VIEWPORT_Y_VISUAL_PROPERTY | furniture viewport y visual property
+java.lang.String LIGHT_SOURCE_Y | light source y
+java.lang.String MECH_SELECTOR_INCLUDE_YEAR | mech selector include year
+java.lang.String mechYear | mech year
+java.lang.String MINIMAP_POS_Y | minimap pos y
+java.lang.String MINI_REPORT_POS_Y | mini report pos y
+java.lang.String MODIFIED_YES | modified yes
+java.lang.String nobufferYetString | no buffer yet string
+java.lang.String PATTERN_YEAR | pattern year
+java.lang.String PLAN_VIEWPORT_Y_VISUAL_PROPERTY | plan viewport y visual property
+java.lang.String RULER_POS_Y | ruler pos y
+java.lang.String ST_PEER_CONTROL_YIELD_COUNT | st peer control yield count
+java.lang.String techYear | tech year
+java.lang.String T_YEAR | t year
+java.lang.String WINDOW_POS_Y | window pos y
+java.lang.String XML_TRACK_YEAR | xml track year
+java.lang.String yAxisLabelExpression | y axis label expression
+java.lang.String YES | yes
+java.lang.String yes_str | yes str
+java.lang.String yValueExpression | y value expression
+java.lang.String yy_error_string | yy error string
+java.math.BigInteger y | y
+java.text.DateFormat ddMMMyyFormat | dd mmm yy format
+java.text.DateFormat ddMMMyyyyFormat | dd mmm yyyy format
+java.util.Comparator rowYPosComparator | row y pos comparator
+java.util.List new_ygm_buddies | new ygm buddies
+java.util.List recent_ygm | recent ygm
+java.util.regex.Pattern yesterdayPattern | yesterday pattern
+java.util.Vector xYZSeries | x yz series
+javax.swing.Action _yesAction | yes action
+javax.swing.JButton butYes | but yes
+javax.swing.JButton jbNextYear | jb next year
+javax.swing.JButton jbPrevYear | jb prev year
+javax.swing.JButton _yesButton | yes button
+javax.swing.JCheckBox m_cYear | m c year
+javax.swing.JLabel jLabelYouCan | j label you can
+javax.swing.JLabel jLabelYValueExpression | j label y value expression
+javax.swing.JLabel yEndLabel | y end label
+javax.swing.JLabel yLabel | y label
+javax.swing.JLabel yOriginLabel | y origin label
+javax.swing.JLabel yourNameL | your name l
+javax.swing.JLabel yStartLabel | y start label
+javax.swing.JMenuItem jmiDirResynchro | jmi dir res yn ch ro
+javax.swing.JSpinner yEndSpinner | y end spinner
+javax.swing.JSpinner yOriginSpinner | y origin spinner
+javax.swing.JSpinner ySpinner | y spinner
+javax.swing.JSpinner yStartSpinner | y start spinner
+javax.swing.JTextField yourNameF | your name f
+long latest_ygm_time | latest ygm time
+long lYear | l year
+long TEN_YEARS | ten years
+long yield_count | yield count
+net.sourceforge.ganttproject.gui.UIFacade.Choice YES | yes
+net.sourceforge.ganttproject.time.TimeUnit YEAR | year
+org.bouncycastle.math.ec.ECFieldElement y | y
+short y | y
+short y1 | y 1
+short y2 | y 2

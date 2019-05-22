@@ -1,0 +1,10 @@
+int failed_negative_bloom | failed negative bloom
+int failed_no_rendezvous | failed no rendezvous
+int FAILED_RENDEZVOUS_HISTORY_MAX | failed rendezvous history max
+int failed_transactions | failed transactions
+java.awt.List failedList | failed list
+java.util.List<java.lang.String> failedEquipment | failed equipment
+java.util.Map failed_rendezvous | failed rendezvous
+java.util.Set failed_ports | failed ports
+java.util.Vector failedEquipmentList | failed equipment list
+javax.swing.JList failedList | failed list

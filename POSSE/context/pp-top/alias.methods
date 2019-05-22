@@ -1,0 +1,2 @@
+boolean isAliasQuoted() | is alias quoted
+boolean isAntiAliasingEnabled() | is anti aliasing enabled

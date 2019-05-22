@@ -1,0 +1,47 @@
+EntityNotFoundDelegate getEntityNotFoundDelegate() | get entity not found delegate
+ExternalSeedPeer getDelegate() | get delegate
+InsertGeneratedIdentifierDelegate getInsertGeneratedIdentifierDelegate(QPostInsertIdentityPersister;QDialect;Z) | get insert generated identifier delegate
+IXMLValidator getDelegate() | get delegate
+Object _getDelegate() | get delegate
+OdalKeyedCache getDelegate() | get delegate
+PEPeer getDelegate() | get delegate
+PEPeerManager getDelegate() | get delegate
+PEPeerStats getDelegate() | get delegate
+RelOptPlanner chooseDelegate() | choose delegate
+TOTorrent getDelegate() | get delegate
+void BasicDelegate(QPostInsertIdentityPersister;QDialect;) | basic delegate
+void clearCaseDelegate(YPersistenceManager pmgr, YIdentifier id) | clear case delegate
+void ColorDelegate(QJButton;) | color delegate
+void connectToDelegate() | connect to delegate
+void DrawSWFFontDelegate(QJButton;) | draw swf font delegate
+void getDelegate() | get delegate
+void GetGeneratedKeysDelegate(QPostInsertIdentityPersister;QDialect;) | get generated keys delegate
+void getNodePath1Delegate() | get node path 1 delegate
+void InsertSelectDelegate(QPostInsertIdentityPersister;QDialect;) | insert select delegate
+void JdbcDelegate(QSessionImplementor;) | jdbc delegate
+void JtaDelegate(QSessionImplementor;) | jta delegate
+void SelectGeneratorDelegate(QPostInsertIdentityPersister;QDialect;QString;) | select generator delegate
+void setDelegate(QAESocksProxyPlugableConnection;) | set delegate
+void setDelegate(QDiskManagerFileInfo;) | set delegate
+void setDelegate(QGenericMessageConnectionAdapter;) | set delegate
+void setDelegate(QIXMLValidator;) | set delegate
+void _setDelegate(QObject;) | set delegate
+void setEntityNotFoundDelegate(QEntityNotFoundDelegate;) | set entity not found delegate
+void testAttrsDelegate() | test attrs delegate
+void testAttrsStarEndDelegate() | test attrs star end delegate
+void testExceptionsDelegate() | test exceptions delegate
+void testMultipleNodesAttrDelegate() | test multiple nodes attr delegate
+void testMultipleNodesDelegate() | test multiple nodes delegate
+void testNodesDelegate() | test nodes delegate
+void testNodesStarEndDelegate() | test nodes star end delegate
+void testNodesStarMiddleDelegate() | test nodes star middle delegate
+void testNodeStarAttrsStarDelegate() | test node star attrs star delegate
+void testSaveDelegate() | test save delegate
+void testSetAttrFromEmptyDelegate() | test set attr from empty delegate
+void testSetAttrNoOverwriteDelegate() | test set attr no overwrite delegate
+void testSetAttrOverwriteDelegate() | test set attr overwrite delegate
+void testSetFromNodeDelegate() | test set from node delegate
+void testSetNodeFromEmptyDelegate() | test set node from empty delegate
+void testSetNodeNoOverwriteDelegate() | test set node no overwrite delegate
+void testSetNodeOverwriteDelegate() | test set node overwrite delegate
+void torrentDelegate(QTOTorrent;QFile;) | torrent delegate

@@ -1,0 +1,8 @@
+boolean isEscapeProcessing | is escape processing
+boolean isProcessingLog | is processing log
+boolean isProcessingScript | is processing script
+boolean processing | processing
+boolean processing_complete | processing complete
+edu.rice.cs.drjava.ui.JarOptionsDialog.ProcessingFrame _processingFrame | processing frame
+int PROCESSING_POST_MULTIPLIER | processing post multiplier
+long PROCESSING_GET_LIMIT | processing get limit

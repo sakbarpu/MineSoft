@@ -1,0 +1,10 @@
+byte[] getPixelSink() | get pixel sink
+MiscType createCLDoubleHeatSink() | create cl double heat sink
+MiscType createCLLaserHeatSink() | create cl laser heat sink
+MiscType createHeatSink() | create heat sink
+MiscType createIS1CompactHeatSink() | create is 1 compact heat sink
+MiscType createISDoubleHeatSink() | create is double heat sink
+String getSink() | get sink
+void DataSink(QOutputStream;) | data sink
+void DataSink(QSaver;) | data sink
+void DataSink(QString;) | data sink

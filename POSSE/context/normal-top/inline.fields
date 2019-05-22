@@ -1,0 +1,5 @@
+boolean inlineIv | inline iv
+int EVAL_INLINE_SCRIPT | eval inline script
+int RCDATA_INLINE_EXTRAVARS | rcdata inline extra vars
+int RCDATA_INLINEURL_MISSING | rcdata inline url missing
+int RCDATA_INLINEUSERNAME_MISSING | rcdata inline username missing

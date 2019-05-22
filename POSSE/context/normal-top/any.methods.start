@@ -1,0 +1,7 @@
+boolean anyBiddingErrors(QComponent;QAuctionEntry;) | any bidding errors
+boolean anyEarlier(QAuctionEntry;) | any earlier
+boolean anyShellHaveStyle(I) | any shell have style
+boolean anySnipes() | any snipes
+String anyResponse([[B) | any response
+void anyEvent() | any event
+void AnyFileFilter() | any file filter

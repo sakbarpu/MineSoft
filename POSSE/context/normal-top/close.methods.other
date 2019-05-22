@@ -1,0 +1,60 @@
+Action getCloseAction() | get close action
+boolean isClosePath() | is close path
+boolean isClosePending() | is close pending
+boolean isOnCloseRelease() | is on close release
+boolean isShowCloseTicks() | is show close ticks
+double getCloseTo() | get close to
+double getCloseToDefault() | get close to default
+double getCloseToTolerance() | get close to tolerance
+int getAutoCloseInMS() | get auto close in ms
+int parseCloseBrackets(I) | parse close brackets
+int WindowsRegCloseKey(I) | windows reg close key
+JButton getCloseButton() | get close button
+long getCloseStatementCount() | get close statement count
+long getSessionCloseCount() | get session close count
+MenuItem addCloseDetailsMenuItem(QMenu;) | add close details menu item
+MenuItem addCloseDownloadBarsToMenu(QMenu;) | add close download bars to menu
+MenuItem addCloseTabMenuItem(QMenu;QMainWindow;) | add close tab menu item
+MenuItem addCloseWindowMenuItem(QMenu;) | add close window menu item
+String getCloseExpression() | get close expression
+String writeOpenCloseGroup(QPrintWriter;QString;QString;) | write open close group
+void addCloseButtonMouseListener(QMouseListener;) | add close button mouse listener
+void addCloseButton(QJPanel;) | add close button
+void addCloseClientListener(QCloseClientListener;) | add close client listener
+void addCloseListener(QActionListener;) | add close listener
+void addNewHomeCloseListener(QHome;QHomeFrameController;) | add new home close listener
+void assertCloseCount(I) | assert close count
+void DoCloseDown() | do close down
+void initApplyCloseButton() | init apply close button
+void JCloseTabIcon(Qjavax.swing.Icon;I) | j close tab icon
+void loadCloseables() | load close ables
+void logClosePreparedStatement() | log close prepared statement
+void logCloseResults() | log close results
+void receiveCloseCommand(QByteBuffer;) | receive close command
+void receivedCloseRequest(QMap;) | received close request
+void removeAndCloseConnection(QTRNonBlockingServerProcessor;) | remove and close connection
+void saveCloseables() | save close ables
+void sendCloseCommand(QUDPConnection;) | send close command
+void sendCloseMessage(QbuddyMessage;) | send close message
+void sendCloseRequest(Z) | send close request
+void setAutoCloseInMS(I) | set auto close in ms
+void setCloseExpression(QString;) | set close expression
+void setCloseListener(QcloseListener;) | set close listener
+void setClosePath(Z) | set close path
+void setCloseTo(D) | set close to
+void setCloseToDefault(D) | set close to default
+void setCloseToTolerance(D) | set close to tolerance
+void setShowCloseTicks(Z) | set show close ticks
+void setSkipCloseCheck(Z) | set skip close check
+void signalCloseAllServerConnections() | signal close all server connections
+void testBreakCloseBlockCommentWithStar() | test break close block comment with star
+void testCloseAllClosesProject() | test close all closes project
+void testCloseBracePrefix() | test close brace prefix
+void testCloseFileAllowAbandon() | test close file allow abandon
+void testCloseFileDisallowAbandon() | test close file disallow abandon
+void testCloseFiles() | test close files
+void testCloseMultipleFiles() | test close multiple files
+void testCloseUnmodifiedAutomatically() | test close unmodified automatically
+void testCompileMissingCloseCurly() | test compile missing close curly
+void testDeleteFileBeforeCloseAll() | test delete file before close all
+void triggerCloseListeners() | trigger close listeners

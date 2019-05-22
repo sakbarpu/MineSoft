@@ -1,0 +1,2 @@
+CONS DeletedManager() | deleted manager
+CONS ObjectDeletedException(QString;QSerializable;QString;) | object deleted exception

@@ -1,0 +1,5 @@
+void jButtonCreateNewLocaleActionPerformed(Qjava.awt.event.ActionEvent;) | j button create new locale action performed
+void jMenuItemReportLocaleActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item report locale action performed
+void jMenuLocaleFilesActionPerformed(Qjava.awt.event.ActionEvent;) | j menu locale files action performed
+void localeChanged(QLocale;) | locale changed
+void localeChanged(QLocale;QLocale;) | locale changed

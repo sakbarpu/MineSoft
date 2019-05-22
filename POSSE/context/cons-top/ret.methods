@@ -1,0 +1,22 @@
+CONS AbstractReturningDelegate(QPostInsertIdentityPersister;) | abstract returning delegate
+CONS AffiliateRetrieve() | affiliate retrieve
+CONS CollectionFetchReturn(QString;QNonScalarReturn;QString;QCollectionAliases;QEntityAliases;QLockMode;) | collection fetch return
+CONS CollectionReturn(QString;QString;QString;QCollectionAliases;QEntityAliases;QLockMode;) | collection return
+CONS EntityFetchReturn(QString;QEntityAliases;QNonScalarReturn;QString;QLockMode;) | entity fetch return
+CONS FetchReturn(QNonScalarReturn;QString;QString;QLockMode;) | fetch return
+CONS JRSubreportReturnValue() | jr subreport return value
+CONS JRSubreportReturnValueDialog(Qjava.awt.Dialog;Z) | jr subreport return value dialog
+CONS NativeSQLQueryCollectionReturn(QString;QString;QString;QMap;QLockMode;) | native sql query collection return
+CONS NativeSQLQueryJoinReturn(QString;QString;QString;QMap;QLockMode;) | native sql query join return
+CONS NativeSQLQueryNonScalarReturn(QString;QMap;QLockMode;) | native sql query non scalar return
+CONS NativeSQLQueryRootReturn(QString;QString;QLockMode;) | native sql query root return
+CONS NativeSQLQueryRootReturn(QString;QString;QMap;QLockMode;) | native sql query root return
+CONS NativeSQLQueryScalarReturn(QString;QType;) | native sql query scalar return
+CONS NonScalarReturn(QString;QLockMode;) | non scalar return
+CONS ResourceDownloaderRetryImpl(QResourceDownloaderBaseImpl;QResourceDownloader;I) | resource downloader retry impl
+CONS RetireAction(QFreeColClient;) | retire action
+CONS ReturnMetadata([QString;[QType;) | return metadata
+CONS RootReturn(QString;QString;QEntityAliases;QLockMode;) | root return
+CONS ScalarReturn(QType;QString;) | scalar return
+CONS SessionRetargetResponsePacket() | session retarget response packet
+CONS SQLQueryReturnProcessor([QNativeSQLQueryReturn;QSessionFactoryImplementor;) | sql query return processor

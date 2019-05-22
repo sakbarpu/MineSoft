@@ -1,0 +1,15 @@
+boolean fixupPosition() | fixup position
+GridLayout FixupLayout(QGridLayout;Z) | fixup layout
+int fixupStyle(I) | fixup style
+Object _fixupLocal() | fixup local
+String fixupColumnDefRead(QString;QResultSetMetaData;QString;QResultSet;I) | fixup column def read
+String fixupColumnDefRead(QTransferTable;QResultSetMetaData;QString;QResultSet;I) | fixup column def read
+String fixupColumnDefWrite(QString;QResultSetMetaData;QString;QResultSet;I) | fixup column def write
+String fixupColumnDefWrite(QTransferTable;QResultSetMetaData;QString;QResultSet;I) | fixup column def write
+void fixupActionBarSize() | fixup action bar size
+void fixupBlocks([B) | fixup blocks
+void fixupFileInfo([QfileInfoFacade;) | fixup file info
+void fixupJumps([B) | fixup jumps
+void _fixupRowCount() | fixup row count
+void fixupRowCount() | fixup row count
+void fixupSkips([B) | fixup skips

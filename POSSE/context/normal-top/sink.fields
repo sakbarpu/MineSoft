@@ -1,0 +1,21 @@
+boolean dblSinks | dbl sinks
+int hasLaserHeatSinks | has laser heat sinks
+int heatSinks | heat sinks
+int sinks | sinks
+int sinksOn | sinks on
+int sinksOnNextRound | sinks on next round
+java.awt.Button sinks2B | sinks 2 b
+java.awt.Color SINKHOLE | sinkhole
+java.awt.TextArea sinksR | sinks r
+java.lang.String heatSinks | heat sinks
+java.lang.String HEAT_SINKS | heat sinks
+java.lang.String heatSinkType | heat sink type
+javax.swing.JButton sinks2B | sinks 2 b
+javax.swing.JLabel sinksL | sinks l
+javax.swing.JTextArea sinksR | sinks r
+long F_DOUBLE_HEAT_SINK | f double heat sink
+long F_HEAT_SINK | f heat sink
+long F_LASER_HEAT_SINK | f laser heat sink
+megamek.client.ui.AWT.widget.TransparentLabel sinksL | sinks l
+megamek.common.loaders.HeatSinkType heatSinkType | heat sink type
+megamek.common.loaders.TechType heatSinkTechType | heat sink tech type

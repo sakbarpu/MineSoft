@@ -1,0 +1,17 @@
+boolean blankWhenNull | blank when null
+boolean bWasNull | b was null
+boolean hasNull | has null
+boolean isNull | is null
+boolean nonJoinIsNull | non join is null
+boolean notNull | not null
+boolean stopOnNull | stop on null
+byte[] BYTES_NULL | bytes null
+int ACONST_NULL | aconst null
+int IS_NULL | is null
+int JSTYPE_NULL | jstype null
+int SET_NULL | set null
+int TRY_TO_INSERT_NULL | try to insert null
+java.lang.String ATTRIBUTE_isBlankWhenNull | attribute is blank when null
+java.lang.String T_NULL | t null
+java.util.Map direct_originator_map_may_be_null | direct originator map may be null
+javax.swing.JCheckBox jCheckBoxBlankWhenNull | j check box blank when null

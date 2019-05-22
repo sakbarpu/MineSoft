@@ -1,0 +1,4 @@
+int operationType | operation type
+java.lang.String operationId | operation id
+java.lang.String operationID | operation id
+java.util.List operation_listeners | operation listeners

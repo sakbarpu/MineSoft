@@ -1,0 +1,16 @@
+int BUILDING | building
+int LOC_BUILDING | loc building
+int SHOW_BUILDING_HEIGHT | show building height
+int TYPE_BUILDING | type building
+java.awt.Polygon BUILDING_CF | building cf
+java.lang.String ADVANCED_BUILDING_TEXT_COLOR | advanced building text color
+java.util.Vector boardBuildings | board buildings
+java.util.Vector buildings | buildings
+megamek.client.ui.AWT.widget.PMSimpleLabel buildingHeightL | building height l
+megamek.client.ui.AWT.widget.PMSimpleLabel buildingHeightR | building height r
+megamek.client.ui.AWT.widget.PMSimpleLabel buildingTypeL | building type l
+megamek.client.ui.AWT.widget.PMSimpleLabel buildingTypeR | building type r
+megamek.client.ui.swing.widget.PMSimpleLabel buildingHeightL | building height l
+megamek.client.ui.swing.widget.PMSimpleLabel buildingHeightR | building height r
+megamek.client.ui.swing.widget.PMSimpleLabel buildingTypeL | building type l
+megamek.client.ui.swing.widget.PMSimpleLabel buildingTypeR | building type r

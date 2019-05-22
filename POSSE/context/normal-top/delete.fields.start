@@ -1,0 +1,19 @@
+boolean deleteFileOnCancel | delete file on cancel
+boolean deleteWhileInsert | delete while insert
+edu.rice.cs.drjava.config.ForcedChoiceOption DELETE_LL_CLASS_FILES | delete ll class files
+edu.rice.cs.util.swing.AsyncTask<java.util.List<java.io.File>,java.util.List<java.io.File>> _deleteFilesTask | delete files task
+freemind.modes.actions.DeleteChildAction deleteChild | delete child
+int deleteAction | delete action
+int DELETE_AFTER | delete after
+int DELETE_AFTER_ROW | delete after row
+int DELETE_BEFORE | delete before
+int DELETE_BEFORE_ROW | delete before row
+int DELETE_STATEMENT | delete statement
+int deleteWhileInsertInterval | delete while insert interval
+java.awt.event.ActionListener DELETE_WORD | delete word
+java.lang.String[] deleteHelp | delete help
+java.lang.String delete_sql | delete sql
+java.util.ArrayList<java.lang.String> DELETE_LL_CLASS_FILES_CHOICES | delete ll class files choices
+javax.swing.JButton deleteTextureButton | delete texture button
+javax.swing.JMenu _deleteSubmenu | delete submenu
+org.gudy.azureus2.plugins.ui.menus.MenuItemListener deleteAllResultsListener | delete all results listener

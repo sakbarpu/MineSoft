@@ -1,0 +1,75 @@
+boolean reportNode(IQInetAddress;I) | report node
+EvaluatorException reportRuntimeError0(QString;) | report runtime error 0
+EvaluatorException reportRuntimeError1(QString;QObject;) | report runtime error 1
+EvaluatorException reportRuntimeError2(QString;QObject;QObject;) | report runtime error 2
+EvaluatorException reportRuntimeError3(QString;QObject;QObject;QObject;) | report runtime error 3
+EvaluatorException reportRuntimeError4(QString;QObject;QObject;QObject;QObject;) | report runtime error 4
+EvaluatorException reportRuntimeError(QString;) | report runtime error
+EvaluatorException reportRuntimeError(QString;QString;IQString;I) | report runtime error
+int reportHam(String filename) | report ham
+int reportRelease() | report release
+int reportUsage() | report usage
+RuntimeException reportError(QString;) | report error
+RuntimeException reportMemberNotFound(QString;) | report member not found
+RuntimeException reportRuntimeError(QString;) | report runtime error
+RuntimeException reportRuntimeError(QString;QString;) | report runtime error
+String reportFrequencyTipText() | report frequency tip text
+void reportActivity(QResourceDownloader;QString;) | report activity
+void reportActivity(QString;) | report activity
+void reportAmountComplete(QResourceDownloader;J) | report amount complete
+void reportBytesRead(I) | report bytes read
+void reportCallsOnTerminal(String terminal, boolean flag) | report calls on terminal
+void reportComplete() | report complete
+void reportCompleteness(I) | report completeness
+void reportComplete(QMap;) | report complete
+void reportComplete(QNetworkAdminSpeedTesterResult;) | report complete
+void report_conflicts(Qterminal_set;) | report conflicts
+void reportContents() | report contents
+void reportContributor(QInetSocketAddress;) | report contributor
+void reportConversionError(QObject;QClass;) | report conversion error
+void reportCurrentTaskByKey(QString;) | report current task by key
+void reportCurrentTask(QAzureusCoreOperation;QString;) | report current task
+void reportCurrentTask(QString;) | report current task
+void reportDone() | report done
+void reportErrorMessage(QString;QString;IQString;IZ) | report error message
+void reportError(QRecognitionException;) | report error
+void reportError(QString;) | report error
+void reportError(QString;QException;) | report error
+void reportError(QString;QException;Z) | report error
+void report_error(QString;QObject;) | report error
+void reportError(QString;QString;) | report error
+void reportError(QString;QString;IQString;I) | report error
+void reportError(QString;Z) | report error
+void reportError(QThrowable;) | report error
+void reportError(QValidationEvent;) | report error
+void reportEvent(QValidatableObject;QException;) | report event
+void reportEvent(QValidatableObject;QString;) | report event
+void reportEvent(QValidatableObject;QValidationEvent;) | report event
+void reportException(QErrorReporter;QRhinoException;) | report exception
+void reportException(QRhinoException;) | report exception
+void reportFailedSupport(QBuddyPluginBuddyMessage;QBuddyPluginException;) | report failed support
+void report_fatal_error(QString;QObject;) | report fatal error
+void reportLastCommands() | report last commands
+void reportLastCommands(Z) | report last commands
+void reportMissingObjectError() | report missing object error
+void reportPercentageDone(I) | report percentage done
+void reportPercentComplete(QResourceDownloader;I) | report percent complete
+void reportPercent(I) | report percent
+void reportPercent(QAzureusCoreOperation;I) | report percent
+void reportProgress(I) | report progress
+void reportProgress(QExternalIPCheckerService;QString;) | report progress
+void reportProgress(QString;) | report progress
+void reportProgress(QString;QString;) | report progress
+void reportReceiveException(QException;) | report receive exception
+void reportReceiveException(QException;QStringBuffer;) | report receive exception
+void report_reduce_reduce(Qlalr_item;Qlalr_item;) | report reduce reduce
+void reportRelease(QRrdEntry;) | report release
+void reportSendException(QException;QSendPacket;) | report send exception
+void report_shift_reduce(Qlalr_item;I) | report shift reduce
+void reportSize(J) | report size
+void reportSizes(QString;) | report sizes
+void reportStage(QString;) | report stage
+void reportUsage(QRrdEntry;) | report usage
+void reportValue(String varName, Object value) | report value
+void reportWarning(QString;) | report warning
+void reportWarning(QString;QString;IQString;I) | report warning

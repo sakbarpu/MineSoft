@@ -1,0 +1,36 @@
+boolean _isWarning | is warning
+boolean LOG_WARNINGS | log warnings
+boolean reportWarnings | report warnings
+boolean WarningShown | warning shown
+edu.rice.cs.drjava.config.BooleanOption SHOW_DEPRECATION_WARNINGS | show deprecation warnings
+edu.rice.cs.drjava.config.BooleanOption SHOW_FALLTHROUGH_WARNINGS | show fallthrough warnings
+edu.rice.cs.drjava.config.BooleanOption SHOW_FINALLY_WARNINGS | show finally warnings
+edu.rice.cs.drjava.config.BooleanOption SHOW_PATH_WARNINGS | show path warnings
+edu.rice.cs.drjava.config.BooleanOption SHOW_SERIAL_WARNINGS | show serial warnings
+edu.rice.cs.drjava.config.BooleanOption SHOW_UNCHECKED_WARNINGS | show unchecked warnings
+int AT_WARNING | at warning
+int ICONWARNING | icon warning
+int INDENT_WARNING_THRESHOLD | indent warning threshold
+int INT_CORE_WARNING | int core warning
+int LT_WARNING | lt warning
+int _numWarnings | num warnings
+int _onlyWarnings | only warnings
+int SQLWARNING | sql warning
+int STATUSICON_WARNING | status icon warning
+int USER_REQUEST_WARNING | user request warning
+int WARNING | warning
+int warning_count | warning count
+int WARNINGS_LIMIT | warnings limit
+java.lang.Object rootWarning_mutex | root warning mutex
+java.lang.StringBuffer warning | warning
+java.lang.String ICON_WARNING | icon warning
+java.lang.String JUNIT_WARNING | junit warning
+java.lang.String T_SQLWARNING | t sql warning
+java.lang.String warning | warning
+java.sql.SQLWarning rootWarning | root warning
+java.util.Set instance_warnings | instance warnings
+java.util.Set persistent_warnings | persistent warnings
+long last_warning | last warning
+org.gudy.azureus2.core3.util.AESemaphore warning_sem | warning sem
+org.gudy.azureus2.plugins.ui.sidebar.SideBarVitalityImage warning | warning
+org.hsqldb.lib.HsqlArrayList sqlWarnings | sql warnings

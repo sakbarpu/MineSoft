@@ -1,0 +1,8 @@
+Expression syntaxError(String message) | syntax error
+void syntaxError(QErrorMessages;) | syntax error
+void syntaxError(QErrorMessages;I) | syntax error
+void syntaxError(QErrorMessages;II) | syntax error
+void syntax_error(QSymbol;) | syntax error
+void syntaxFailure() | syntax failure
+XMLParseException syntaxError(QString;) | syntax error
+XMLParseException syntaxError(QString;I) | syntax error

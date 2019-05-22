@@ -1,0 +1,2 @@
+void generateSuper(QClassFileWriter;QString;QString;QString;QString;[QClass;QClass;) | generate super
+void setParameterSuper(String key, int line, String action_parameter, int parameter_types) | set parameter super

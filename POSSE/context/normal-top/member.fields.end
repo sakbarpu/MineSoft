@@ -1,0 +1,3 @@
+int REF_MEMBER | ref member
+int REF_NS_MEMBER | ref ns member
+java.lang.String T_MEMBER | t member

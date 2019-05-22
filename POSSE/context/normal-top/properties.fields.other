@@ -1,0 +1,18 @@
+boolean system_properties_set | system properties set
+int HsqlProperties_load | hsql properties load
+it.businesslogic.ireport.gui.ElementPropertiesDialog elementPropertiesDialog | element properties dialog
+java.io.File autoPropertiesFile | auto properties file
+java.io.File DEFAULT_PROPERTIES_FILE | default properties file
+java.lang.String AZUREUS_PROPERTIES_KEY | azureus properties key
+java.lang.String DEFAULT_APPLICATION_PLUGIN_PROPERTIES_FILE | default application plugin properties file
+java.lang.String EVENT_CUSTOM_PROPERTIES_ADD | event custom properties add
+java.lang.String EVENT_CUSTOM_PROPERTIES_REMOVE | event custom properties remove
+java.lang.String PR_PROPERTIES_SET | pr properties set
+java.lang.String sPropertiesPrefix | s properties prefix
+java.util.LinkedHashMap hmPropertiesMetaInformation | hm properties meta information
+javax.swing.Action myTaskPropertiesAction | my task properties action
+net.sourceforge.ganttproject.action.GPAction myPropertiesAction | my properties action
+net.sourceforge.ganttproject.action.resource.ResourcePropertiesAction myResourcePropertiesAction | my resource properties action
+net.sourceforge.ganttproject.action.task.TaskPropertiesAction myTaskPropertiesAction | my task properties action
+net.sourceforge.ganttproject.task.TaskImpl.EventSender myPropertiesEventSender | my properties event sender
+org.gudy.azureus2.plugins.torrent.TorrentAttribute share_properties_attribute | share properties attribute

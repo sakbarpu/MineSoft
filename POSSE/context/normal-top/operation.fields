@@ -1,0 +1,17 @@
+boolean GET_PI_METHODS_OPERATIONAL_FLAG_DEFAULT | get pi methods operational flag default
+boolean operational | operational
+com.aelitis.azureus.core.AzureusCoreOperation core_operation | core operation
+freemind.modes.actions.SingleNodeOperation singleNodeOperation | single node operation
+int cessationOfOperation | cessation of operation
+int CESSATION_OF_OPERATION | cessation of operation
+int ET_OPERATION_COMPLETE | et operation complete
+int ET_OPERATION_STARTS | et operation starts
+int ET_OPERATION_TIMEOUT | et operation timeout
+int myOperation | my operation
+int operationType | operation type
+int UNSUPPORTED_INTERNAL_OPERATION | unsupported internal operation
+java.lang.String operation | operation
+java.lang.String operationId | operation id
+java.lang.String operationID | operation id
+java.util.List operation_listeners | operation listeners
+java.util.Vector undoOperations | undo operations

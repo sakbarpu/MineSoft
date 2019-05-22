@@ -1,0 +1,3 @@
+net.sourceforge.ganttproject.task.hierarchy.TaskHierarchyItem myTaskHierarchyItem | my task hierarchy item
+net.sourceforge.ganttproject.task.hierarchy.TaskHierarchyManagerImpl myHierarchyManager | my hierarchy manager
+net.sourceforge.ganttproject.task.TaskContainmentHierarchyFacade.Factory myTaskHierarchyFactory | my task hierarchy factory

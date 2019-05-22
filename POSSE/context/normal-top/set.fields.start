@@ -1,0 +1,32 @@
+boolean SET_ALPHA | set alpha
+boolean set_encoding | set encoding
+boolean _setToValue | set to value
+freemind.modes.actions.SetLinkByTextFieldAction setLinkByTextField | set link by text field
+int setAmmoTo | set ammo to
+int setArmorTo | set armor to
+int SET_DEFAULT | set default
+int SETELEM | set elem
+int SETELEM_OP | set elem op
+int SETNAME | set name
+int SET_NULL | set null
+int SET_OF | set of
+int SETPROP | set prop
+int SET_PROPERTY | set property
+int SETPROP_OP | set prop op
+int SET_REF | set ref
+int SET_REF_OP | set ref op
+int SET_SELECTED_FIRST_TICK | set selected first tick
+int SET_SELECTED_PERIOD | set selected period
+int SET_SELECTED_TICKS | set selected ticks
+int SETSESSIONATTR | set session attr
+int SET_SNIPE | set snipe
+int setType | set type
+java.awt.event.ActionListener _setSizeListener | set size listener
+java.lang.reflect.Method setValueMethod | set value method
+java.lang.String[] setHelp | set help
+java.lang.String SET_HIT_HEX | set hit hex
+javax.swing.Action setImageByFileChooser | set image by file chooser
+javax.swing.Action setLinkByFileChooser | set link by file chooser
+javax.swing.JButton setButton | set button
+megamek.client.ui.AWT.CommonSettingsDialog setdlg | set dlg
+megamek.client.ui.swing.CommonSettingsDialog setdlg | set dlg

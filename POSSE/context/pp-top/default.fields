@@ -1,0 +1,12 @@
+boolean defaultsNotRegistered | defaults not registered
+int CONFIG_DEFAULT_MAX_DOWNLOAD_SPEED | config default max download speed
+int CONFIG_DEFAULT_MIN_MAX_UPLOAD_SPEED | config default min max upload speed
+int defaultRed | default red
+java.awt.Checkbox defaultAutoejectDisabled | default autoeject disabled
+java.lang.String DEFAULT_AUTOEJECT_DISABLED | default autoeject disabled
+java.lang.String EVENT_COVER_DEFAULT_CHANGED | event cover default changed
+javax.swing.JCheckBox defaultAutoejectDisabled | default autoeject disabled
+megamek.client.ui.AWT.MechTileset.MechEntry default_tracked | default tracked
+megamek.client.ui.AWT.MechTileset.MechEntry default_wheeled | default wheeled
+megamek.client.ui.swing.MechTileset.MechEntry default_tracked | default tracked
+megamek.client.ui.swing.MechTileset.MechEntry default_wheeled | default wheeled

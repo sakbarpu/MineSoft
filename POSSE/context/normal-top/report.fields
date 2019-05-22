@@ -1,0 +1,111 @@
+boolean BAD_ROUTER_REPORT_FAIL | bad router report fail
+boolean hasReportedErrorFlag | has reported error flag
+boolean reportFontMode | report font mode
+boolean reportProgress | report progress
+boolean reportWarnings | report warnings
+com.aelitis.azureus.core.util.CopyOnWriteList reporterListeners | reporter listeners
+int CAUSEREPORT | cause report
+int COMMAND_SENDING_REPORTS | command sending reports
+int COMMAND_SENDING_REPORTS_ALL | command sending reports all
+int COMMAND_SENDING_REPORTS_SPECIAL | command sending reports special
+int COMMAND_SENDING_REPORTS_TACTICAL_GENIUS | command sending reports tactical genius
+int DSV_REJECTREPORT_PURGEFAIL | dsv reject report purge fail
+int DSV_REJECTREPORT_SETUPFAIL | dsv reject report setup fail
+int EVENT_AFTER_REPORT_INIT | event after report init
+int EVENT_BEFORE_REPORT_INIT | event before report init
+int GAME_REPORT | game report
+int latestReportType | latest report type
+int PHASE_END_REPORT | phase end report
+int PHASE_FIRING_REPORT | phase firing report
+int PHASE_INITIATIVE_REPORT | phase initiative report
+int PHASE_MOVEMENT_REPORT | phase movement report
+int PHASE_OFFBOARD_REPORT | phase offboard report
+int PHASE_PHYSICAL_REPORT | phase physical report
+int RECENT_REPORTS_HISTORY_MAX | recent reports history max
+int REJECTREPORT_BOTTOM | reject report bottom
+int REJECTREPORT_ROW | reject report row
+int REJECTREPORT_TOP | reject report top
+int reported_progress | reported progress
+int reporterCounter | reporter counter
+int reporterID | reporter id
+int REPORTER_VISIBILITY_SYSTEM | reporter visibility system
+int REPORTER_VISIBILITY_USER | reporter visibility user
+int reportHandling | report handling
+int reportHeight | report height
+int REPORT_TYPE | report type
+int REPORT_TYPE_CANCEL | report type cancel
+int REPORT_TYPE_DONE | report type done
+int REPORT_TYPE_ERROR | report type error
+int REPORT_TYPE_INIT | report type init
+int REPORT_TYPE_MODE_CHANGE | report type mode change
+int REPORT_TYPE_RETRY | report type retry
+int reportWidth | report width
+int ST_REPORTED_ERROR | st reported error
+it.businesslogic.ireport.gui.JReportFrame jReportFrame | j report frame
+it.businesslogic.ireport.gui.JReportFrame oldJReportFrame | old j report frame
+it.businesslogic.ireport.gui.JReportFrame reportFrame | report frame
+it.businesslogic.ireport.gui.JReportPanel jPanelReport | j panel report
+it.businesslogic.ireport.gui.MainFrame iReportMainFrame | i report main frame
+it.businesslogic.ireport.gui.ReportQueryDialog reportQueryDialog | report query dialog
+it.businesslogic.ireport.IReportConnection iReportConnection | i report connection
+it.businesslogic.ireport.IReportFont iReportFont | i report font
+it.businesslogic.ireport.ReportClassLoader reportClassLoader | report class loader
+it.businesslogic.ireport.Report currentReport | current report
+it.businesslogic.ireport.ReportElement reportElement | report element
+it.businesslogic.ireport.Report report | report
+java.awt.MenuItem viewRoundReport | view round report
+java.io.File reportDirectory | report directory
+java.lang.StringBuffer loadReport | load report
+java.lang.String dsvRejectReport | dsv reject report
+java.lang.String errorReporterProperty | error reporter property
+java.lang.String MINI_REPORT_POS_X | mini report pos x
+java.lang.String MINI_REPORT_POS_Y | mini report pos y
+java.lang.String MINI_REPORT_SIZE_HEIGHT | mini report size height
+java.lang.String MINI_REPORT_SIZE_WIDTH | mini report size width
+java.lang.String newReportFormat | new report format
+java.lang.String oldReportFormat | old report format
+java.lang.String phaseReport | phase report
+java.lang.String report | report
+java.lang.String reporterType | reporter type
+java.lang.String REPORTER_TYPE_DEFAULT | reporter type default
+java.lang.String reportFont | report font
+java.lang.String reportFormat | report format
+java.lang.String reportName | report name
+java.lang.String roundReport | round report
+java.util.ArrayList reportersRegistry | reporters registry
+java.util.Map recent_reports | recent reports
+java.util.Map tracker_report_map | tracker report map
+java.util.Stack reporterStack | reporter stack
+java.util.Vector<megamek.common.Report> vPhaseReport | v phase report
+java.util.Vector reports | reports
+java.util.Vector turnReports | turn reports
+java.util.Vector vPhaseReport | v phase report
+javax.swing.JCheckBoxMenuItem jCheckBoxMenuItemReportVirtualizer | j check box menu item report virtualizer
+javax.swing.JComboBox jComboBoxReportFont | j combo box report font
+javax.swing.JComboBox jComboBoxReportFonts | j combo box report fonts
+javax.swing.JLabel jLabelReportVirtualizerDirectory | j label report virtualizer directory
+javax.swing.JLabel jLabelReportVirtualizerSize | j label report virtualizer size
+javax.swing.JMenuItem jMenuItemReportImports | j menu item report imports
+javax.swing.JMenuItem jMenuItemReportLocale | j menu item report locale
+javax.swing.JMenuItem jMenuItemReportProperties | j menu item report properties
+javax.swing.JMenuItem jMenuItemReportQuery | j menu item report query
+javax.swing.JMenuItem jMenuItemReportQuery2 | j menu item report query 2
+javax.swing.JMenuItem jMenuItemReportSeries | j menu item report series
+javax.swing.JMenuItem viewRoundReport | view round report
+javax.swing.JPanel jPanelReportContainer | j panel report container
+javax.swing.JTextField jTextFieldReportFont | j text field report font
+long last_error_report | last error report
+long last_reported_total_received_data | last reported total received data
+long last_reported_total_received_discard | last reported total received discard
+megamek.common.GameReports gameReports | game reports
+org.gudy.azureus2.core3.util.AEMonitor latestReport_mon | latest report mon
+org.gudy.azureus2.ui.swt.progress.IProgressReporter pReporter | p reporter
+org.gudy.azureus2.ui.swt.progress.IProgressReporter[] pReporters | p reporters
+org.gudy.azureus2.ui.swt.progress.IProgressReporter updateReporter | update reporter
+org.gudy.azureus2.ui.swt.progress.IProgressReport latestProgressReport | latest progress report
+org.gudy.azureus2.ui.swt.progress.IProgressReport latestReport | latest report
+org.gudy.azureus2.ui.swt.progress.ProgressReporterStack progressReporters | progress reporters
+org.mozilla.javascript.ErrorReporter chainedReporter | chained reporter
+org.mozilla.javascript.ErrorReporter errorReporter | error reporter
+org.mozilla.javascript.tools.ToolErrorReporter errorReporter | error reporter
+org.mozilla.javascript.tools.ToolErrorReporter reporter | reporter

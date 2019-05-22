@@ -1,0 +1,10 @@
+boolean anyShellHaveStyle(I) | any shell have style
+boolean canHaveFoundingFathers() | can have founding fathers
+boolean canHaveResourceType(QResourceType;) | can have resource type
+boolean canHaveRiver() | can have river
+void addHavePiece(QPEPeer;I) | add have piece
+void ensureAllRowsHaveIndex() | ensure all rows have index
+void mustHaveXML() | must have xml
+void queueHaveMessage(IZ) | queue have message
+void setHaveRow(boolean haveRow) | set have row
+void setHaveVersion(BB) | set have version

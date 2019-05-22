@@ -1,0 +1,5 @@
+void instanceProduced(QInstanceEvent;) | instance produced
+void notifyInstanceProduced(QInstanceEvent;) | notify instance produced
+void notifyTestSetProduced(QTestSetEvent;) | notify test set produced
+void notifyTrainingSetProduced(QTrainingSetEvent;) | notify training set produced
+void secondInstanceProduced(QInstanceEvent;) | second instance produced

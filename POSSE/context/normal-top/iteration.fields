@@ -1,0 +1,9 @@
+int iterationCount | iteration count
+int MAX_ITERATIONS | max iterations
+int NUMBER_OF_ITERATIONS_PER_RUN | number of iterations per run
+int _numIterations | num iterations
+int PBE_ITERATIONS | pbe iterations
+java.math.BigInteger iterationCount | iteration count
+long iterationNumber | iteration number
+org.bouncycastle.asn1.DERInteger iterationCount | iteration count
+org.bouncycastle.asn1.DERInteger iterations | iterations

@@ -1,0 +1,3 @@
+boolean reservedKeywordAsIdentifier | reserved keyword as identifier
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_KEYWORD_COLOR | definitions keyword color
+int FEATURE_RESERVED_KEYWORD_AS_IDENTIFIER | feature reserved keyword as identifier

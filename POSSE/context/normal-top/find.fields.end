@@ -1,0 +1,3 @@
+int ASYOUTYPE_MODE_FIND | as you type mode find
+javax.swing.JButton jButtonCancelFind | j button cancel find
+javax.swing.JButton jButtonFind | j button find

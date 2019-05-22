@@ -1,0 +1,47 @@
+Ambience getFrom() | get from
+ArrayList getAllDirectoryFrom(QFile;) | get all directory from
+ArrayList getItemsFrom(I) | get items from
+boolean isAssignableFrom(QSchema;) | is assignable from
+boolean isConstructedFrom(QTimeUnit;) | is constructed from
+boolean readPieceFrom(QGPInputStream;) | read piece from
+boolean updateFrom(QSubscriptionResultImpl;) | update from
+boolean weaponFiredFrom(I) | weapon fired from
+BuildingType getUpgradesFrom() | get upgrades from
+Document documentFrom(QInputSource;) | document from
+Document documentFrom(QInputStream;) | document from
+Document documentFrom(QString;) | document from
+FileLocator createFrom(QFile;) | create from
+FileLocator createFrom(QFileLocator;[QString;) | create from
+GP4Piece readPieceFrom(QFile;) | read piece from
+Object readFrom(QResultSet;QCollectionPersister;QCollectionAliases;QObject;) | read from
+String[] copyFrom([QString;I) | copy from
+String[] copyFrom([QString;II) | copy from
+String createFrom(IQString;) | create from
+String getInfoTimeFrom() | get info time from
+String getObtainedFrom(QTOTorrent;) | get obtained from
+String readTextFrom(QFile;) | read text from
+String readTextFrom(QInputStream;) | read text from
+String readTextFrom(QString;) | read text from
+String startingFrom(QString;QString;) | starting from
+Variant CopySourceFrom() | copy source from
+Vector loadFrom(QFile;) | load from
+void addFrom(QString;QJoinSequence;) | add from
+void addFrom(QString;QString;QJoinSequence;) | add from
+void cloneFrom(QTRTrackerAnnouncer;) | clone from
+void copyBreakpointsFrom(QSourceInfo;) | copy breakpoints from
+void copyBytesFrom(byte srcBytes, int srcOffset, int nbBytesToCopy, int destOffset) | copy bytes from
+void copyFrom(QTileItemContainer;) | copy from
+void copyFrom(QTileItemContainer;Z) | copy from
+void copyFrom(QTileItemContainer;ZZ) | copy from
+void gradientLighterFrom(QColor;I) | gradient lighter from
+void loadFrom(QXMLElement;) | load from
+void parseGroupsFrom(String gs) | parse groups from
+void removeAllFrom(int i) | remove all from
+void removeFrom(Buildable b) | remove from
+void removeInfernoFrom(QCoords;) | remove inferno from
+void removeMinefieldsFrom(QCoords;) | remove minefields from
+void setFrom(QAmbience;) | set from
+void setFrom(String s) | set from
+void setObtainedFrom(QFile;QString;) | set obtained from
+void setObtainedFrom(QTOTorrent;QString;) | set obtained from
+void updateFrom(QTradeRoute;) | update from

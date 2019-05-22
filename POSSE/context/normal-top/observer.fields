@@ -1,0 +1,19 @@
+boolean observer | observer
+com.aelitis.azureus.core.util.CopyOnWriteList observers | observers
+com.eteks.sweethome3d.j3d.Component3DManager.RenderingErrorObserver renderingErrorObserver | rendering error observer
+com.eteks.sweethome3d.model.ObserverCamera observerCamera | observer camera
+com.eteks.sweethome3d.viewcontroller.HomeController3D.CameraControllerState observerCameraState | observer camera state
+float observerCameraFieldOfView | observer camera field of view
+float observerCameraZ | observer camera z
+float observerHeight | observer height
+float oldObserverCameraFieldOfView | old observer camera field of view
+float oldObserverCameraZ | old observer camera z
+int observerFieldOfViewInDegrees | observer field of view in degrees
+java.awt.image.ImageObserver observer | observer
+java.util.List myObservers | my observers
+java.util.List observers | observers
+javax.swing.JLabel observerFieldOfViewLabel | observer field of view label
+javax.swing.JLabel observerHeightLabel | observer height label
+javax.swing.JSpinner observerFieldOfViewSpinner | observer field of view spinner
+javax.swing.JSpinner observerHeightSpinner | observer height spinner
+javax.swing.JToggleButton.ToggleButtonModel viewFromObserverToggleModel | view from observer toggle model

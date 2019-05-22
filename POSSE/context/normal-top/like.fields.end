@@ -1,0 +1,4 @@
+char[] cLike | c like
+int Expression_resolveTypeForLike | expression resolve type for like
+int SPECIAL_D_LIKE | special d like
+java.lang.String T_LIKE | t like

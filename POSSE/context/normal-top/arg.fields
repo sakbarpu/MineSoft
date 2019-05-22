@@ -1,0 +1,42 @@
+boolean[] bArgNullable | b arg nullable
+edu.rice.cs.drjava.config.StringOption MASTER_JVM_ARGS | master jvm args
+edu.rice.cs.drjava.config.StringOption SLAVE_JVM_ARGS | slave jvm args
+int argCount | arg count
+int argsLen | args len
+int iArgCount | i arg count
+int[] iArgType | i arg type
+int Id_arguments | id arguments
+int INVALID_FUNCTION_ARGUMENT | invalid function argument
+int INVALID_JDBC_ARGUMENT | invalid jdbc argument
+int iSqlArgCount | i sql arg count
+int iSqlArgStart | i sql arg start
+int itsMaxCalleeArgs | its max callee args
+int MAXARGS | max args
+int PLVAR_TILDEDASH_NOMOREARGS | pl var tilde dash nom ore args
+int PREFERENCE_FIRST_ARG | preference first arg
+int PREFERENCE_SECOND_ARG | preference second arg
+java.lang.Class[] aArgClasses | a arg classes
+java.lang.Class[] argTypes | arg types
+java.lang.Class[] iviewClassArgs | iview class args
+java.lang.Object[] args | args
+java.lang.Object[] emptyArgs | empty args
+java.lang.Object[] originalArgs | original args
+java.lang.Object[][] stmtArgs | stmt args
+java.lang.String[] argNames | arg names
+java.lang.String[] args | args
+java.lang.String ARGUMENTS_DESCRIPTION_MESSAGE | arguments description message
+java.lang.String argValue | arg value
+java.lang.String DEFAULT_MAX_HEAP_SIZE_ARG | default max heap size arg
+java.lang.String INCORRECT_ARGUMENTS_MESSAGE | incorrect arguments message
+java.lang.String[] restArgs | rest args
+java.lang.String[] toolargs | tool args
+java.util.ArrayList<java.lang.String> _jvmArgs | jvm args
+java.util.List arg_names | arg names
+java.util.List arg_values | arg values
+org.gudy.azureus2.plugins.PluginManagerArgumentHandler arg_handler | arg handler
+org.hsqldb.Expression eArg | e arg
+org.hsqldb.Expression[] eArg | e arg
+org.hsqldb.Expression eArg2 | e arg 2
+short argsLocal | args local
+short itsOneArgArray | its one arg array
+short itsZeroArgArray | its zero arg array

@@ -1,0 +1,2 @@
+boolean isExecutable(DrawingView aView) | is executable
+void _setEnableExecutable(Z) | set enable executable

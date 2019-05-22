@@ -1,0 +1,3 @@
+List processingInstructions() | processing instructions
+List processingInstructions(QString;) | processing instructions
+void setProcessingInstructions(QList;) | set processing instructions

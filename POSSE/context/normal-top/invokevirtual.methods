@@ -1,0 +1,3 @@
+int transformInvokevirtualsIntoGetfields(QClassFile;QCodeIterator;I) | transform invokevirtuals into get fields
+int transformInvokevirtualsIntoPutfields(QClassFile;QCodeIterator;I) | transform invokevirtuals into put fields
+void transformInvokevirtualsIntoPutAndGetfields(QClassFile;) | transform invokevirtuals into put and get fields

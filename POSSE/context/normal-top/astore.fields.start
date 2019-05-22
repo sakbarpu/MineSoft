@@ -1,0 +1,4 @@
+int ASTORE_0 | astore  0
+int ASTORE_1 | astore  1
+int ASTORE_2 | astore  2
+int ASTORE_3 | astore  3

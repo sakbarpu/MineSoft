@@ -1,0 +1,6 @@
+boolean shouldBeStored() | should be stored
+long getDBValuesStored() | get db values stored
+long getTotalStoresReceived() | get total stores received
+void storeFailed() | store failed
+void storeFileDownloaded(QDownloadManager;[QDiskManagerFileInfo;Z) | store file downloaded
+void storeReceived() | store received

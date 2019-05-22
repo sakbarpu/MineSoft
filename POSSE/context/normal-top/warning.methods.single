@@ -1,0 +1,7 @@
+void warning(QErrorMessages;I) | warning
+void warning(QFile;QErrorMessages;II) | warning
+void warning(QSAXParseException;) | warning
+void warning(QString;) | warning
+void warning(QString;QString;IQString;I) | warning
+void warning(QTransformerException;) | warning
+void warning(QURL;QString;II) | warning

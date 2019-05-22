@@ -1,0 +1,8 @@
+boolean hasBeenDisplayed() | has been displayed
+boolean isDisplayed() | is displayed
+boolean isDisplayed(QString;) | is displayed
+boolean isDisplayed(QTabbedPanel;) | is displayed
+void displaySelected() | display selected
+void setBeenDisplayed(Z) | set been displayed
+void setchordFingeringDisplayed(Z) | setc ho rd fingering displayed
+void setDisplayed(Z) | set displayed

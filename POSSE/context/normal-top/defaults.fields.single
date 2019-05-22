@@ -1,0 +1,2 @@
+edu.rice.cs.drjava.config.DefaultOptionMap DEFAULTS | defaults
+org.syntax.jedit.TextAreaDefaults DEFAULTS | defaults

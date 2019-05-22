@@ -1,0 +1,2 @@
+boolean doorOrWindowBoundToWall | door or window bound to wall
+boolean movedDoorOrWindowBoundToWall | moved door or window bound to wall

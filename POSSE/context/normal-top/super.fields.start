@@ -1,0 +1,10 @@
+boolean superSeedMode | super seed mode
+edu.rice.cs.drjava.ui.predictive.PredictiveInputFrame.InfoSupplier<? super T>	_info | super t>	 info
+edu.rice.cs.util.docnavigation.INavigatorItemFilter<? super ItemT>	_filter | super item t>	 filter
+edu.rice.cs.util.swing.DisplayManager<? super ItemT>	_displayManager | super item t>	 display manager
+int superSeedModeCurrentPiece | super seed mode current piece
+int superSeedModeNumberOfAnnounces | super seed mode number of announces
+java.lang.Class superClass | super class
+java.lang.String SUPER_CLASS_NAME | super class name
+java.util.ArrayList<edu.rice.cs.util.docnavigation.INavigationListener<? super ItemT>>	navListeners | super item t>>	nav listeners
+org.gudy.azureus2.core3.peer.impl.control.SuperSeedPiece[] superSeedPieces | super seed pieces

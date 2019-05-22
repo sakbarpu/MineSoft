@@ -1,0 +1,51 @@
+byte MESSAGE_VERSION_INITIAL | message version initial
+byte MESSAGE_VERSION_SUPPORTS_PADDING | message version supports padding
+com.aelitis.azureus.core.peermanager.utils.PeerMessageLimiter message_limiter | message limiter
+com.aelitis.azureus.core.util.CopyOnWriteList messageHistory | message history
+com.aelitis.azureus.ui.swt.browser.msg.MessageDispatcherSWT messageDispatcherSWT | message dispatcher swt
+int MESSAGE_1 | message  1
+int MESSAGE_2 | message  2
+int message_count | message count
+int messageHistoryLimit | message history limit
+int message_id | message id
+int messageId | message id
+int message_in_bytes | message in bytes
+int message_in_count | message in count
+int message_length | message length
+int MESSAGE_NONE | message none
+int message_out_bytes | message out bytes
+int message_out_count | message out count
+int Message_Pair | message pair
+int MESSAGE_SENT | message sent
+int message_text_state | message text state
+int message_type | message type
+int _messageType | message type
+int MESSAGE_TYPE_CONNECT | message type connect
+int MESSAGE_TYPE_DATA | message type data
+int MESSAGE_TYPE_DISCONNECT | message type disconnect
+int MESSAGE_TYPE_ERROR | message type error
+java.lang.String MESSAGE_BUNDLE_PREFIX | message bundle prefix
+java.lang.String MESSAGE_DELIM | message delim
+java.lang.String messageFinisher | message finisher
+java.lang.String message_id | message id
+java.lang.String messageID | message id
+java.lang.String messagePrefix | message prefix
+java.lang.String MESSAGE_PREFIX | message prefix
+java.lang.String MESSAGE_PROPERTY | message property
+java.lang.String message_success | message success
+java.lang.String MESSAGE_TAG | message tag
+java.lang.String MESSAGE_TYPE_ID | message type id
+java.util.ArrayList messageListeners | message listeners
+java.util.HashMap message_counts | message counts
+java.util.List message_queue | message queue
+java.util.Map message_handlers | message handlers
+javax.swing.JLabel message0 | message 0
+javax.swing.JLabel message1 | message 1
+long messageCreatedOn | message created on
+net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel message0 | message 0
+net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel message1 | message 1
+net.sourceforge.ganttproject.gui.GanttStatusBar.MessagePanel message2 | message 2
+org.gudy.azureus2.core3.util.AEMonitor message_mon | message mon
+org.gudy.azureus2.core3.util.AESemaphore message_sem | message sem
+org.gudy.azureus2.core3.util.ByteArrayHashMap message_map | message map
+org.gudy.azureus2.pluginsimpl.local.messaging.MessageManagerImpl message_manager | message manager

@@ -1,0 +1,4 @@
+void decorateAction(QString;QAbstractAction;) | decorate action
+void decorateHook(QString;QHookDescriptor;QMindMapHook;) | decorate hook
+void decoratePropertyMapping(QString;QPropertyMapping;) | decorate property mapping
+WindowConfigurationStorage decorateDialog(QJDialog;QString;) | decorate dialog

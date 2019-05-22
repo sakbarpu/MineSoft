@@ -1,0 +1,3 @@
+int MAX_ACTIVE_TESTS | max active tests
+int selected_tests | selected tests
+java.util.List active_tests | active tests

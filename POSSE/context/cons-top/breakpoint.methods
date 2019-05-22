@@ -1,0 +1,2 @@
+CONS BreakpointsPanel(QMainFrame;QRegionManager<QBreakpoint;>;) | breakpoints panel
+CONS JPDABreakpoint(QOpenDefinitionsDocument;IIZQJPDADebugger;) | jpda breakpoint

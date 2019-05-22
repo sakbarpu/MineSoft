@@ -1,0 +1,2 @@
+edu.rice.cs.drjava.config.BooleanOption ALWAYS_SAVE_BEFORE_JAVADOC | always save before javadoc
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_OPEN_JAVADOC | key open javadoc

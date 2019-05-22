@@ -1,0 +1,2 @@
+CONS Targets(QASN1Sequence;) | targets
+CONS Targets([QTarget;) | targets

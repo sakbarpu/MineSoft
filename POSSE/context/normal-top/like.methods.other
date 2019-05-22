@@ -1,0 +1,3 @@
+boolean supportsLikeEscapeClause() | supports like escape clause
+Expression parseLikePredicate(QExpression;) | parse like predicate
+Object arriveLikeNode(LikeNode node, Object msg) | arrive like node

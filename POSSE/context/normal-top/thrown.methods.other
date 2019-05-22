@@ -1,0 +1,2 @@
+Iterable<QType;> getDeclaredThrownTypes() | get declared thrown types
+Throwable getThrownException() | get thrown exception

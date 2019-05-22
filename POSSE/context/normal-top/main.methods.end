@@ -1,0 +1,12 @@
+AIMain getAIMain() | get ai main
+Result getResultMain(QSession;) | get result main
+Table getMain() | get main
+void checkConnectionToFreeMindMain() | check connection to free mind main
+void emitMain() | emit main
+void generateMain(QClassFileWriter;) | generate main
+void invokeMain(QString;[QString;) | invoke main
+void objectMain([QString;) | object main
+void _runMain() | run main
+void runMain(QString;) | run main
+void setAIMain(QAIMain;) | set ai main
+void setDmzMain(DmzMain dmzMain) | set dmz main

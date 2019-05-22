@@ -1,0 +1,32 @@
+boolean anyBiddingErrors(QComponent;QAuctionEntry;) | any bidding errors
+boolean anyEarlier(QAuctionEntry;) | any earlier
+boolean anyShellHaveStyle(I) | any shell have style
+boolean anySnipes() | any snipes
+boolean containsAny([QBibtexEntry;) | contains any
+Boolean getAnyAllValue(QSession;QObject;QSubQuery;) | get any all value
+boolean hasAnyQueuedActions() | has any queued actions
+boolean isAnyCollectionProperty(QString;) | is any collection property
+boolean isAnyDeviceRefreshing() | is any device refreshing
+boolean isAnyType() | is any type
+boolean openExternalFileAnyFormat(QMetaData;QString;QExternalFileType;) | open external file any format
+Boolean testAnyAllCondition(QSession;QObject;) | test any all condition
+Expression parseAllAnyPredicate() | parse all any predicate
+Object getAnyLessThan(J) | get any less than
+Object getAnything() | get anything
+Object resolveAny(QString;QSerializable;QSessionImplementor;) | resolve any
+Result getHighestMeshIndexWithAnyPing() | get highest mesh index with any ping
+Shell findAnyShell() | find any shell
+String anyResponse([[B) | any response
+String getAny() | get any
+Type any(QType;QType;) | any
+void anyEvent() | any event
+void AnyFileFilter() | any file filter
+void bindAny(QElement;QAny;ZQMappings;) | bind any
+void caseAOomediatorAnykeyword(AOomediatorAnykeyword node) | case a oomediator anykeyword
+void cleanupAnyOrphanedSession(QSessionFactory;) | cleanup any orphaned session
+void markAnyTypeVariables([I) | mark any type variables
+void outAEffectAnykeyword(AEffectAnykeyword node) | out a effect anykeyword
+void prepareAnyImplicitJoins(QDotNode;) | prepare any implicit joins
+void setFindAnyOccurrence() | set find any occurrence
+void testAny() | test any
+void testAnyOccurrenceSearchIgnore() | test any occurrence search ignore

@@ -1,0 +1,3 @@
+void waitUntilClosed() | wait until closed
+void waitUntilFinished() | wait until finished
+void waitUntilInitialised() | wait until initialised

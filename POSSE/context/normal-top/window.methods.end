@@ -1,0 +1,69 @@
+boolean containsWindow(QClass;) | contains window
+boolean containsWindow(QString;) | contains window
+boolean isDoorOrWindow() | is door or window
+boolean _requestFocusInWindow() | request focus in window
+boolean requestFocusInWindow() | request focus in window
+boolean showPasswordWindow(QDisplay;) | show password window
+boolean showWindow(QClass;) | show window
+boolean showWindow(QContainer;) | show window
+Container getWindow(QClass;) | get window
+Container getWindow(QString;) | get window
+FileWindow getFileWindow(QString;) | get file window
+IMainWindow getMainWindow() | get main window
+int getMonitorAtWindow(Window win) | get monitor at window
+JajukWindow getWindow() | get window
+JConsoleWindow getConsoleWindow() | get console window
+JFrame showTableWindow(QTable;) | show table window
+JFrame showTreeWindow(QTree;QString;) | show tree window
+JMOSSendMessageDlg getMessageWindow(I) | get message window
+JMOSWindow getMainWindow() | get main window
+JReportFrame openNewReportWindow(QReport;) | open new report window
+LightBoxBrowserWindow openLoginWindow() | open login window
+LightBoxBrowserWindow openLoginWindow(QString;) | open login window
+MainWindow getMainWindow() | get main window
+MainWindow getOldMainWindow() | get old main window
+MainWindow getWindow() | get window
+org.gudy.azureus2.ui.swt.mainwindow.MainWindow createOldMainWindow() | create old main window
+org.gudy.azureus2.ui.swt.mainwindow.MainWindow getOldMainWindow(Z) | get old main window
+Shell getWizardWindow() | get wizard window
+String _openSwitcherWindow(Z) | open switcher window
+String openSwitcherWindow(Z) | open switcher window
+void addChildWindow(QJInternalFrame;) | add child window
+void addWindow(QShell;) | add window
+void buildWindow() | build window
+void centreWindow(QShell;) | centre window
+void checkForWhatsNewWindow() | check for whats new window
+void closeViewOrWindow() | close view or window
+void closeWindow() | close window
+void createFileWindow(QDim.SourceInfo;I) | create file window
+void createNewVisualizerWindow(QClassifier;QInstances;) | create new visualizer window
+void createWindow() | create window
+void createWindow(QIUIIntializer;) | create window
+void disposeWindow() | dispose window
+void initSplashWindow() | init splash window
+void loadImagesForSplashWindow(QDisplay;) | load images for splash window
+void locateChildWindow(QJInternalFrame;) | locate child window
+void ModifiedDoorOrWindow(QHomeDoorOrWindow;) | modified door or window
+void openDebugWindow(QDefaultRankCalculator;) | open debug window
+void openTorrentWindow() | open torrent window
+void _openTorrentWindow(QString;[QString;Z) | open torrent window
+void openTorrentWindow(QString;[QString;Z) | open torrent window
+void openWindow() | open window
+void openWindow(QShell;) | open window
+void openWindow(QVector<QParserResult;>;) | open window
+void removeChildWindow(QJInternalFrame;) | remove child window
+void removeWindow(QFileWindow;) | remove window
+void removeWindow(QShell;) | remove window
+void setAdjustForWindow(boolean TF) | set adjust for window
+void setDoorOrWindow(Z) | set door or window
+void setMainWindow(QMainWindow;) | set main window
+void setOpenWindow(boolean _open) | set open window
+void setOptSizeChildWindow(QJInternalFrame;) | set opt size child window
+void setRootWindow(QViewMap;QDockingWindow;) | set root window
+void setShowMainWindow(Z) | set show main window
+void showChoosableEncodingWindow(QShell;[QLocaleUtilDecoderCandidate;[QLocaleUtilDecoderCandidate;) | show choosable encoding window
+void showContentWindow(QString;QDirEntry;) | show content window
+void showMainWindow() | show main window
+void showSplashScreenWindow(QURL;) | show splash screen window
+void SplashWindow() | splash window
+Window getParentWindow(QComponent;) | get parent window

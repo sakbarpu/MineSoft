@@ -1,0 +1,3 @@
+java.lang.String MONKEY_WITH_INNER_CLASS | monkey with inner class
+java.lang.String STATIC_INNER_TEST_TEXT | static inner test text
+org.jhotdraw.draw.AttributeKey<java.lang.Double> STROKE_INNER_WIDTH_FACTOR | stroke inner width factor

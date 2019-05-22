@@ -1,0 +1,28 @@
+boolean isJAREntry() | is jar entry
+boolean isJarFile(QFile;) | is jar file
+byte[] loadJarData(QString;QString;) | load jar data
+File getCreateJarFile() | get create jar file
+File[] getHighestJarVersions([QFile;[QString;[QString;Z) | get highest jar versions
+File getJarFileFromClass(QClass;) | get jar file from class
+File getJarFileFromURL(QString;) | get jar file from url
+int getCreateJarFlags() | get create jar flags
+JPanel _makeJarFileSelector() | make jar file selector
+StringBuffer readJarFile(QString;) | read jar file
+String getAzureusJarPath() | get azureus jar path
+String getJAREntryName() | get jar entry name
+String getJarPath() | get jar path
+URL getJAREntryURL() | get jar entry url
+URL getJarLocation(QClass;) | get jar location
+void initJarOptionsDialog() | init jar options dialog
+void loadJarSigner() | load jar signer
+void openExtProcessJarFile(QFile;) | open ext process jar file
+void processJarFile(QFile;) | process jar file
+void resetJarOptionsDialogPosition() | reset jar options dialog position
+void setCreateJarFile(QFile;) | set create jar file
+void setCreateJarFlags(I) | set create jar flags
+void signJarFile(QFile;) | sign jar file
+void signJarFile(QFile;QOutputStream;) | sign jar file
+void signJarStream(QInputStream;QOutputStream;) | sign jar stream
+void testCreateJarFromDirectoryRecursive() | test create jar from directory recursive
+void testJarArchive() | test jar archive
+void writeJarOptions(String inputEntryOptionName, String outputEntryOptionName, ClassPath classPath) | write jar options

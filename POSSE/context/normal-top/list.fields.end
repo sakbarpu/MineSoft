@@ -1,0 +1,175 @@
+boolean hasUnitList | has unit list
+boolean isFixedConstantValueList | is fixed constant value list
+boolean _isList | is list
+byte FLAG_ADDED_TO_RANGE_LIST | flag added to range list
+com.aelitis.azureus.ui.swt.skin.SWTSkinObject soSideBarList | so side bar list
+com.aelitis.azureus.ui.swt.views.skin.widgets.FriendsList buddyList | buddy list
+com.aelitis.azureus.ui.swt.views.skin.widgets.FriendsList inviteeList | invitee list
+double[] itsConstantList | its constant list
+edu.rice.cs.drjava.config.FontOption FONT_DOCLIST | font doc list
+edu.rice.cs.drjava.ui.config.VectorFileOptionComponent _excludedFilesList | excluded files list
+edu.rice.cs.drjava.ui.config.VectorFileOptionComponent _extraClassPathList | extra class path list
+edu.rice.cs.util.swing.FontChooser.NwList _fontList | font list
+edu.rice.cs.util.swing.FontChooser.NwList _sizeList | size list
+edu.rice.cs.util.swing.FontChooser.NwList _styleList | style list
+int ERROR_IN_CONSTRAINT_COLUMN_LIST | error in constraint column list
+int MAX_TEMPLATE_LIST | max template list
+int MODE_FROM_LIST | mode from list
+int[] myDeletedList | my deleted list
+int[] myList | my list
+int NULL_IN_VALUE_LIST | null in value list
+int[][] rootsList | roots list
+int typeAEList | type ae list
+java.awt.Button butLoadList | but load list
+java.awt.Button butSaveList | but save list
+java.awt.Color[] LONG_LIST | long list
+java.awt.Color[] MEDIUM_LIST | medium list
+java.awt.Color[] SHORT_LIST | short list
+java.awt.FileDialog dlgLoadList | dlg load list
+java.awt.FileDialog dlgSaveList | dlg save list
+java.awt.List failedList | failed list
+java.awt.List lisStartList | lis start list
+java.awt.List locList | loc list
+java.awt.List m_mechList | m mech list
+java.awt.List narcList | narc list
+java.awt.List playerList | player list
+java.awt.List slotList | slot list
+java.awt.List weaponList | weapon list
+java.awt.MenuItem viewPlayerList | view player list
+java.awt.Paint[] myList | my list
+java.lang.Object[][] cmdList | cmd list
+java.lang.String BRI_SESSION_SCOPE_IN_LIST | bri session scope in list
+java.lang.String BRI_TEMPORARY_SCOPE_IN_LIST | bri temporary scope in list
+java.lang.String BRI_TRANSACTION_SCOPE_IN_LIST | bri transaction scope in list
+java.lang.String[] emptyRightsList | empty rights list
+java.lang.String[] extension_list | extension list
+java.lang.String ICON_LIST | icon list
+java.lang.String MENU_ID_DETAILED_LIST | menu id detailed list
+java.lang.String[] MONTHS_LIST | months list
+java.lang.String[] noCacheExtList | no cache ext list
+java.lang.String[] sURLWhiteList | s url white list
+java.lang.String TK_ANNOUNCE_LIST | tk announce list
+java.lang.String VIEW_TRACK_LIST | view track list
+java.util.ArrayList btFileList | bt file list
+java.util.ArrayList columnStateList | column state list
+java.util.ArrayList cpNodesArrayList | cp nodes array list
+java.util.ArrayList custom_style_client_list | custom style client list
+java.util.ArrayList dayList | day list
+java.util.ArrayList disposeList | dispose list
+java.util.ArrayList historyList | history list
+java.util.ArrayList localActionList | local action list
+java.util.ArrayList mechImageList | mech image list
+java.util.ArrayList<megamek.common.Mounted> ammoList | ammo list
+java.util.ArrayList<megamek.common.Mounted> equipmentList | equipment list
+java.util.ArrayList<megamek.common.Mounted> miscList | misc list
+java.util.ArrayList<megamek.common.Mounted> weaponList | weapon list
+java.util.ArrayList paused_list | paused list
+java.util.ArrayList playNowList | play now list
+java.util.ArrayList torrentList | torrent list
+java.util.LinkedList historyList | history list
+java.util.LinkedList<java.beans.PropertyChangeListener> _listenerList | listener list
+java.util.LinkedList<java.lang.ref.WeakReference<edu.rice.cs.drjava.model.definitions.DefinitionsDocument.WrappedPosition>> _wrappedPosList | wrapped pos list
+java.util.LinkedList register_cancel_list | register cancel list
+java.util.List adsDMList | ads dm list
+java.util.List adSupportedDMList | ad supported dm list
+java.util.List buddiesList | buddies list
+java.util.List buddyList | buddy list
+java.util.List clock_change_list | clock change list
+java.util.List _configTabList | config tab list
+java.util.List contentList | content list
+java.util.List dispList | disp list
+java.util.List disposeList | dispose list
+java.util.List dos_list | dos list
+java.util.List fileList | file list
+java.util.List icon_list | icon list
+java.util.List _item_list | item list
+java.util.List<javax.swing.KeyStroke> strokeList | stroke list
+java.util.List loaded_pi_list | loaded pi list
+java.util.List m_formList | m form list
+java.util.List my_list | my list
+java.util.List ourInfoList | our info list
+java.util.List peer_list | peer list
+java.util.List piece_check_result_list | piece check result list
+java.util.List pingTimeList | ping time list
+java.util.List request_list | request list
+java.util.List _serverList | server list
+java.util.List sweepList | sweep list
+java.util.List wait_until_idle_list | wait until idle list
+java.util.Map dataList | data list
+java.util.Set _aucList | auc list
+java.util.Set globalPatternList | global pattern list
+java.util.SortedMap myDistance2dependencyList | my distance 2 dependency list
+java.util.Vector actionPairList | action pair list
+java.util.Vector CLASS_LIST | class list
+java.util.Vector coordsList | coords list
+java.util.Vector failedEquipmentList | failed equipment list
+java.util.Vector favoriteFilesList | favorite files list
+java.util.Vector fileList | file list
+java.util.Vector<java.lang.String> authorsList | authors list
+java.util.Vector<java.lang.String> stylesList | styles list
+java.util.Vector recentFilesList | recent files list
+java.util.Vector recentProjectsList | recent projects list
+java.util.Vector vList | v list
+javax.swing.ButtonGroup buttonGroupFramesList | button group frames list
+javax.swing.DefaultListModel buttonList | button list
+javax.swing.DefaultListModel deletedButtonList | deleted button list
+javax.swing.DefaultListModel deletedIconList | deleted icon list
+javax.swing.DefaultListModel iconList | icon list
+javax.swing.DefaultListModel myDaysOffList | my days off list
+javax.swing.event.EventListenerList listenerList | listener list
+javax.swing.JButton butLoadList | but load list
+javax.swing.JButton butSaveList | but save list
+javax.swing.JComboBox periodList | period list
+javax.swing.JComboBox tabList | tab list
+javax.swing.JFileChooser dlgLoadList | dlg load list
+javax.swing.JFileChooser dlgSaveList | dlg save list
+javax.swing.JList availableTexturesList | available textures list
+javax.swing.JList failedList | failed list
+javax.swing.JList _historyList | history list
+javax.swing.JList lisStartList | lis start list
+javax.swing.JList locList | loc list
+javax.swing.JList _matchList | match list
+javax.swing.JList m_mechList | m mech list
+javax.swing.JList narcList | narc list
+javax.swing.JList playerList | player list
+javax.swing.JList slotList | slot list
+javax.swing.JList threadList | thread list
+javax.swing.JList weaponList | weapon list
+javax.swing.JMenuItem jMenuItemCloseAllExceptThisFromList | j menu item close all except this from list
+javax.swing.JMenuItem jMenuItemCloseAllFromList | j menu item close all from list
+javax.swing.JMenuItem jMenuItemCloseFromList | j menu item close from list
+javax.swing.JMenuItem jMenuItemRevertToSavedFromList | j menu item revert to saved from list
+javax.swing.JMenuItem jMenuItemSaveAllFromList | j menu item save all from list
+javax.swing.JMenuItem jMenuItemSaveAsFromList | j menu item save as from list
+javax.swing.JMenuItem jMenuItemSaveFromList | j menu item save from list
+javax.swing.JMenuItem viewPlayerList | view player list
+net.sourceforge.ganttproject.shape.JPaintList backgroundList | background list
+net.sourceforge.ganttproject.shape.JPaintList foregroundList | foreground list
+net.sourceforge.ganttproject.shape.JPaintList patternList | pattern list
+net.sourceforge.ganttproject.shape.ShapePaint[] PATTERN_LIST | pattern list
+org.bouncycastle.asn1.x509.TBSCertList tbsCertList | tbs cert list
+org.gudy.azureus2.core3.config.StringList dirList | dir list
+org.gudy.azureus2.plugins.ui.config.LabelParameter ignored_devices_list | ignored devices list
+org.gudy.azureus2.ui.swt.config.StringListParameter versionList | version list
+org.hsqldb.Constraint[] constraintList | constraint list
+org.hsqldb.DatabaseObjectNames constraintNameList | constraint name list
+org.hsqldb.DatabaseObjectNames indexNameList | index name list
+org.hsqldb.DatabaseObjectNames triggerNameList | trigger name list
+org.hsqldb.Expression[] valueList | value list
+org.hsqldb.HsqlNameManager.HsqlName[] colList | col list
+org.hsqldb.Index[] indexList | index list
+org.hsqldb.lib.HashMap nameList | name list
+org.hsqldb.lib.HashMappedList columnList | column list
+org.hsqldb.lib.HashMappedList tableList | table list
+org.hsqldb.lib.HashMappedList tableUpdateList | table update list
+org.hsqldb.lib.HashMappedList userList | user list
+org.hsqldb.lib.HashMap textCacheList | text cache list
+org.hsqldb.lib.HashSet hList | h list
+org.hsqldb.lib.HsqlArrayList bundleList | bundle list
+org.hsqldb.lib.HsqlArrayList rowActionList | row action list
+org.hsqldb.lib.HsqlArrayList subQueryList | sub query list
+org.hsqldb.store.ValuePoolHashMap[] poolList | pool list
+org.mozilla.javascript.regexp.RECharSet[] classList | class list
+thePackage.Auctions auctionList | auction list
+thePackage.ColumnStateList columnStateList | column state list
+thePackage.ColumnStateList mColumnStateList | m column state list

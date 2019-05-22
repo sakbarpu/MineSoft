@@ -1,0 +1,7 @@
+java.lang.String columnAlias | column alias
+java.lang.String[] dbAlias | db alias
+java.lang.String DEFAULT_ALIAS | default alias
+java.lang.String S_ALIAS | s alias
+java.lang.String tableAlias | table alias
+java.lang.String T_ALIAS | t alias
+org.hsqldb.lib.HashMap hAlias | h alias

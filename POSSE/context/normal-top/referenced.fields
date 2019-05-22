@@ -1,0 +1,5 @@
+int SEQUENCE_REFERENCED_BY_VIEW | sequence referenced by view
+int TABLE_REFERENCED_CONSTRAINT | table referenced constraint
+int TABLE_REFERENCED_VIEW | table referenced view
+java.util.Set idReferencedObjects | id referenced objects
+java.util.Set<java.net.URL> referencedDocuments | referenced documents

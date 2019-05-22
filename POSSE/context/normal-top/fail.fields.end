@@ -1,0 +1,37 @@
+boolean BAD_ROUTER_REPORT_FAIL | bad router report fail
+boolean permanent_fail | permanent fail
+int AUTOCOMMIT_FETCHFAIL | autocommit fetch fail
+int AUTOMATIC_FAIL | automatic fail
+int BANG_COMMAND_FAIL | bang command fail
+int BINARY_FILEFAIL | binary file fail
+int CONNDATA_RETRIEVAL_FAIL | conn data retrieval fail
+int CONNECTION_FAIL | connection fail
+int DSV_RECIN_FAIL | dsv rec in fail
+int DSV_REJECTFILE_PURGEFAIL | dsv reject file purge fail
+int DSV_REJECTFILE_SETUPFAIL | dsv reject file setup fail
+int DSV_REJECTREPORT_PURGEFAIL | dsv reject report purge fail
+int DSV_REJECTREPORT_SETUPFAIL | dsv reject report setup fail
+int DUMPLOAD_FAIL | dump load fail
+int FILE_APPENDFAIL | file append fail
+int FILE_READFAIL | file read fail
+int FILE_WRITEFAIL | file write fail
+int INPUTFILE_CLOSEFAIL | inputfile close fail
+int INPUTREADER_CLOSEFAIL | input reader close fail
+int INSERTION_PREPAREFAIL | insertion prepare fail
+int METADATA_FETCH_FAIL | metadata fetch fail
+int PASSWORD_READFAIL | password read fail
+int PL_BLOCK_FAIL | pl block fail
+int PL_TEMPFILE_FAIL | pl tempfile fail
+int PRIMARYINPUT_ACCESSFAIL | primary input access fail
+int QUERY_METADATAFAIL | query metadata fail
+int RCDATA_GENFROMVALUES_FAIL | rcdata gen from values fail
+int READ_CONVERTFAIL | read convert fail
+int RETRIEVE_NEST_ROLE_FAIL | retrieve nest role fail
+int SQL_FAIL | sql fail
+int SQLFILE_EXECUTE_FAIL | sql file execute fail
+int SQLFILE_READFAIL | sql file read fail
+int SQLTEMPFILE_FAIL | sql tempfile fail
+int STATUS_LOGON_FAIL | status logon fail
+int TEMPFILE_REMOVAL_FAIL | tempfile removal fail
+java.lang.Object SP_CONSEC_FAIL | sp consec fail
+long last_fail | last fail

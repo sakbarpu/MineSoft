@@ -1,0 +1,4 @@
+CONS AbstractReturningDelegate(QPostInsertIdentityPersister;) | abstract returning delegate
+CONS AbstractSelectingDelegate(QPostInsertIdentityPersister;) | abstract selecting delegate
+CONS NestableDelegate(QNestable;) | nestable delegate
+CONS PeerForeignDelegate(QPeerManagerImpl;QPeer;) | peer foreign delegate

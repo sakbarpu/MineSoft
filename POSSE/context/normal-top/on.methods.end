@@ -1,0 +1,36 @@
+boolean getGoOn() | get go on
+boolean isBidOn() | is bid on
+boolean isCriticalPathOn() | is critical path on
+boolean isOn() | is on
+boolean isProjectBoundariesOptionOn() | is project boundaries option on
+boolean isRedlineOn() | is redline on
+boolean memoryDumpOn() | memory dump on
+boolean supportsCommentOn() | supports comment on
+long getCreatedOn() | get created on
+long getExpiresOn(QTOTorrent;) | get expires on
+long getMetaDataRefreshOn(QTOTorrent;) | get meta data refresh on
+long getNextScrapeCheckOn() | get next scrape check on
+long getReadOn() | get read on
+long getRefreshOn(QTOTorrent;) | get refresh on
+long getSharedOn() | get shared on
+String formatCommentOn(QString;) | format comment on
+Timestamp getLastUpdatedOn() | get last updated on
+void addDescOn(int idx, Log log) | add desc on
+void commaAfterOn() | comma after on
+void hourglassOn() | hourglass on
+void invokeOn(QNode;) | invoke on
+void resetDatasetBasedOn(QIndexes;) | reset dataset based on
+void setCreatedOn(J) | set created on
+void setCriticalPathOn(Z) | set critical path on
+void setExpiresOn(QTOTorrent;J) | set expires on
+void setGoOn(Z) | set go on
+void setMetaDataRefreshOn(QTOTorrent;J) | set meta data refresh on
+void setOn(Z) | set on
+void setReadOn(J) | set read on
+void setRedlineOn(Z) | set redline on
+void setSharedOn(J) | set shared on
+void setTimeOn() | set time on
+void setVerboseOn() | set verbose on
+void splashOn() | splash on
+void testSetFetchDirectiion() | test set fetch direct ii on
+void turnChecksOn() | turn checks on

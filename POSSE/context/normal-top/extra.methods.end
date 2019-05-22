@@ -1,0 +1,3 @@
+JComponent getExtra(QString;QFieldEditor;) | get extra
+String getExtra() | get extra
+void printHelpExtra(QPrintStream;QList;) | print help extra

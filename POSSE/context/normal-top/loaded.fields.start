@@ -1,0 +1,4 @@
+boolean loadedWithoutErrors | loaded without errors
+java.util.List loaded_pi_list | loaded pi list
+java.util.Vector loadedUnits | loaded units
+thePackage.GZip _loadedPage | loaded page

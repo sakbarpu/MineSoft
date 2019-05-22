@@ -1,0 +1,2 @@
+CONS FieldRemapper(II[QFieldRemapping;) | field remapper
+CONS FieldRemapping(QString;QString;) | field remapping

@@ -1,0 +1,1 @@
+CONS GrabKeyDialog(QFreeMindMain;QDialog;QKeyBinding;QVector;QBuffer;) | grab key dialog

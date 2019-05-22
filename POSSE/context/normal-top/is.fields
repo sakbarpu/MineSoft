@@ -1,0 +1,398 @@
+boolean active_subs_download_is_auto | active subs download is auto
+boolean bgIsOpaque | bg is opaque
+boolean bIsCachingDescriptions | b is caching descriptions
+boolean bIsFirstPriority | b is first priority
+boolean bIsTextDefault | b is text default
+boolean bLastIsShown | b last is shown
+boolean bMouseClickIsDefaultSelection | b mouse click is default selection
+boolean bTitleIsMinWidth | b title is min width
+boolean check_is_full_check | check is full check
+boolean closeIsActive | close is active
+boolean delegate_is_https | delegate is https
+boolean fsIsIgnoreCase | fs is ignore case
+boolean has_IsLeft | has is left
+boolean has_IsPluginBase | has is plugin base
+boolean isActive | is active
+boolean isAddBuddyMode | is add buddy mode
+boolean isAdmin | is admin
+boolean isAdminDirect | is admin direct
+boolean isAllcaps | is all caps
+boolean isAlreadyDead | is already dead
+boolean isAnimating | is animating
+boolean is_anonymous | is anonymous
+boolean isAPart | is a part
+boolean is_async | is async
+boolean is_atom | is atom
+boolean isAutoCommit | is auto commit
+boolean isAutoIncrement | is auto increment
+boolean isAutoRemove | is auto remove
+boolean isAutorotate | is auto rotate
+boolean isAZ3 | is az 3
+boolean isAZ3_ADV | is az 3  adv
+boolean _isBackgroundColor | is background color
+boolean _isBoldText | is bold text
+boolean is_bucket_entry | is bucket entry
+boolean isBusy | is busy
+boolean isCanonical | is canonical
+boolean isCaseSensitive | is case sensitive
+boolean is_changing_links | is changing links
+boolean isConnectorsVisible | is connectors visible
+boolean isConnectToDecorator | is connect to decorator
+boolean isConstraint | is constraint
+boolean isCreatingFile | is creating file
+boolean isCriticalPathOn | is critical path on
+boolean isCurrency | is currency
+boolean _isCurrent | is current
+boolean isCurrentOuter | is current outer
+boolean isCut | is cut
+boolean isDefinitelyWritable | is definitely writable
+boolean isDelete | is delete
+boolean isDescending | is descending
+boolean isDiggingIn | is digging in
+boolean is_dirty | is dirty
+boolean isDirty | is dirty
+boolean isDisposeFromListener | is dispose from listener
+boolean isDisposing | is disposing
+boolean isDistinct | is distinct
+boolean isDistinctAggregate | is distinct aggregate
+boolean isDistinctSelect | is distinct select
+boolean isDlg | is dlg
+boolean isDocDirty | is doc dirty
+boolean isDone | is done
+boolean isDragging | is dragging
+boolean isDRM | is drm
+boolean isDump | is dump
+boolean _isDutch | is dutch
+boolean isEditMode | is edit mode
+boolean isEmailDisplayOnly | is email display only
+boolean _isEMId | is em id
+boolean isEndPos | is end pos
+boolean _isEscape | is escape
+boolean isEscapeProcessing | is escape processing
+boolean isExistsPredicate | is exists predicate
+boolean _isExplicit | is explicit
+boolean isFirstFocusGain | is first focus gain
+boolean isFirstTime | is first time
+boolean isFixedConstantValueList | is fixed constant value list
+boolean isForPrompting | is for prompting
+boolean _isForward | is forward
+boolean isForward | is forward
+boolean isFreeBSD | is free bsd
+boolean isGrappleAttacker | is grapple attacker
+boolean isGTK | is gtk
+boolean isGunEmplacement | is gun emplacement
+boolean isHidden | is hidden
+boolean _isHighBidder | is high bidder
+boolean isHit | is hit
+boolean isHullDown | is hull down
+boolean isIconHidden | is icon hidden
+boolean isIdentity | is identity
+boolean[] isIdentity | is identity
+boolean isIgnite | is ignite
+boolean isIgnoreCase | is ignore case
+boolean is_inbound_connection | is inbound connection
+boolean isIndeterminate | is indeterminate
+boolean isInErrorState | is in error state
+boolean isInf | is inf
+boolean isInJoin | is in join
+boolean isInsert | is insert
+boolean isInteractive | is interactive
+boolean isInternal | is internal
+boolean isIntKey | is int key
+boolean isIntValue | is int value
+boolean isItalic | is italic
+boolean is_jar | is jar
+boolean isJava1dot5dot0_16 | is java 1 dot 5 dot 0   16
+boolean isLazy | is lazy
+boolean ISLEAF | is leaf
+boolean isLeft | is left
+boolean _IsLeft | is left
+boolean isLinux | is linux
+boolean _isList | is list
+boolean isLong | is long
+boolean isLongKey | is long key
+boolean isLongValue | is long value
+boolean isMe | is me
+boolean isMech | is mech
+boolean isMemory | is memory
+boolean isMilestone | is milestone
+boolean isMimetic | is mimetic
+boolean _isModifiedSinceSave | is modified since save
+boolean is_monitor | is monitor
+boolean isMovable | is movable
+boolean isMultiFindFirst | is multi find first
+boolean isNativeSheet | is native sheet
+boolean isNestedTransaction | is nested transaction
+boolean isNetConn | is net conn
+boolean isNetwork | is network
+boolean _isNew | is new
+boolean isNewNode | is new node
+boolean isNio | is nio
+boolean is_no_delay | is no delay
+boolean isNonCyclic | is non cyclic
+boolean isNoValue | is no value
+boolean isNull | is null
+boolean isNullable | is nullable
+boolean isObjectKey | is object key
+boolean isObjectValue | is object value
+boolean isOK | is ok
+boolean isOmni | is omni
+boolean isOnlyDown | is only down
+boolean isOnlyUp | is only up
+boolean isOnlyViewer | is only viewer
+boolean is_optimistic | is optimistic
+boolean is_optimistic_unchoke | is optimistic unchoke
+boolean isOracle | is oracle
+boolean isOSX | is osx
+boolean isOuterJoin | is outer join
+boolean isPaintingCanvas | is painting canvas
+boolean isParam | is param
+boolean isParameterDescription | is parameter description
+boolean isPavementStep | is pavement step
+boolean isPercentageInUse | is percentage in use
+boolean isPermanent | is permanent
+boolean isPhysical | is physical
+boolean isPhysicalTarget | is physical target
+boolean is_plain | is plain
+boolean isPlatformContent | is platform content
+boolean isPluginBase | is plugin base
+boolean _IsPluginBase | is plugin base
+boolean isPrefix | is prefix
+boolean isPreparedForPrinting | is prepared for printing
+boolean isPreserveAspectRatio | is preserve aspect ratio
+boolean isPreviousState | is previous state
+boolean isPrimaryKey | is primary key
+boolean isPrintInFirstWholeBand | is print in first whole band
+boolean isPrinting | is printing
+boolean isPrintRepeatedValues | is print repeated values
+boolean isPrintWhenDetailOverflows | is print when detail overflows
+boolean is_priority | is priority
+boolean _isPrivate | is private
+boolean isProcessingLog | is processing log
+boolean isProcessingScript | is processing script
+boolean isProjectTask | is project task
+boolean isProne | is prone
+boolean isProto | is proto
+boolean isPrototypePropertyImmune | is prototype property immune
+boolean is_public | is public
+boolean isPublic | is public
+boolean isQuadratic | is quadratic
+boolean isReadingPortfolio | is reading portfolio
+boolean isReadOnly | is read only
+boolean is_ready | is ready
+boolean isReady | is ready
+boolean is_ready_for_read | is ready for read
+boolean is_ready_for_write | is ready for write
+boolean isRedlineOn | is redline on
+boolean isRegistrationStillOpen | is registration still open
+boolean isRelativeToFigureBounds | is relative to figure bounds
+boolean isRemoteOpen | is remote open
+boolean isRemoveLineWhenBlank | is remove line when blank
+boolean isReprintHeaderOnEachPage | is reprint header on each page
+boolean _isReserve | is reserve
+boolean isResetPageNumber | is reset page number
+boolean isResizable | is resizable
+boolean[] isRetry | is retry
+boolean isRole | is role
+boolean isRowCount | is row count
+boolean is_running | is running
+boolean isRunning | is running
+boolean isSafeMode | is safe mode
+boolean isScrolling | is scrolling
+boolean isSearchable | is searchable
+boolean isSeedingView | is seeding view
+boolean _isSeller | is seller
+boolean isSet | is set
+boolean isSettingSQLExpression | is setting sql expression
+boolean isShareMode | is share mode
+boolean isShowing | is showing
+boolean isShowingEmpty | is showing empty
+boolean isShown | is shown
+boolean isShutdown | is shutdown
+boolean isShuttingDown | is shutting down
+boolean isSignificant | is significant
+boolean isSilent | is silent
+boolean isSimple | is simple
+boolean isSimpleCamo | is simple camo
+boolean isSimpleFocus | is simple focus
+boolean isSimpleLookup | is simple lookup
+boolean isSingleton | is singleton
+boolean isSolaris | is solaris
+boolean isSolid | is solid
+boolean isSplit | is split
+boolean isStackingViolation | is stacking violation
+boolean isStandalone | is standalone
+boolean isStart | is start
+boolean isStartNewColumn | is start new column
+boolean isStartNewPage | is start new page
+boolean isStatePersistent | is state persistent
+boolean isStatic | is static
+boolean isStealthy | is stealthy
+boolean isStopping | is stopping
+boolean isStoredFileAccess | is stored file access
+boolean isStyledText | is styled text
+boolean isSummaryNewPage | is summary new page
+boolean isSys | is sys
+boolean isTemp | is temp
+boolean isText | is text
+boolean isTipPossible | is tip possible
+boolean isTitleNewPage | is title new page
+boolean isTLS | is tls
+boolean isTopLevel | is top level
+boolean isTransactionRunning | is transaction running
+boolean isTSQL | is tsql
+boolean isTurning | is turning
+boolean isUnderline | is underline
+boolean isUndoable | is undoable
+boolean isUndoAction | is undo action
+boolean isUnique | is unique
+boolean isUnix | is unix
+boolean isUnmarshalInProgress | is unmarshal in progress
+boolean _isUpdating | is updating
+boolean isUsingCache | is using cache
+boolean isUsingMASC | is using masc
+boolean is_utf8 | is utf 8
+boolean isValid | is valid
+boolean isVehicle | is vehicle
+boolean isVerbose | is verbose
+boolean isVertical | is vertical
+boolean isView | is view
+boolean is_visible | is visible
+boolean isVisible | is visible
+boolean _isWaiting | is waiting
+boolean _isWarning | is warning
+boolean isWindows | is windows
+boolean isWindows95 | is windows 95
+boolean isWindows9598ME | is windows 9598 me
+boolean isWindows98 | is windows 98
+boolean isWindowsME | is windows me
+boolean isWindowsVista | is windows vista
+boolean isWindowsXP | is windows xp
+boolean isWorking | is working
+boolean isWorkingTime | is working time
+boolean isWritable | is writable
+boolean[] isWritable | is writable
+boolean isWritten | is written
+boolean local_is_complete | local is complete
+boolean nonJoinIsNull | non join is null
+boolean preentered_text_is_old_value | preentered text is old value
+boolean remote_is_complete | remote is complete
+boolean spotlightIsActive | spotlight is active
+boolean TABLE_GRIDLINE_IS_ALTERNATING_COLOR | table gridline is alternating color
+boolean taskIsMilestone | task is milestone
+boolean taskIsProjectTask | task is project task
+boolean timer_is_adjusting | timer is adjusting
+boolean xmlIsAttribute | xml is attribute
+boolean xmlIsTagContent | xml is tag content
+byte[] BYTES_IS | bytes is
+byte FLAG_SORTVALUEISTEXT | flag sortvalue istext
+byte FLAG_TOOLTIPISAUTO | flag tooltip isauto
+byte is_lan_local | is lan local
+double ISBA_ARMOR | is ba armor
+int COLUMN_IS_IN_CONSTRAINT | column is in constraint
+int COLUMN_IS_IN_INDEX | column is in index
+int CONNECTION_IS_BROKEN | connection is broken
+int DATABASE_IS_MEMORY_ONLY | database is memory only
+int DATABASE_IS_READONLY | database is readonly
+int DATABASE_IS_SHUTDOWN | database is shutdown
+int DATA_FILE_IS_FULL | data file is full
+int DATA_IS_READONLY | data is readonly
+int Id_isFinite | id is finite
+int Id_isNaN | id is na n
+int Id_isPrototypeOf | id is prototype of
+int Id_isXMLName | id is xml name
+int Id_propertyIsEnumerable | id property is enumerable
+int indexIsRange | index is range
+int INFO_ISOLATION | info isolation
+int IPROXY_STRING_IS_COMPILABLE | iproxy string is compilable
+int IS | is
+int isDraggedOver | is dragged over
+int ISHL | ishl
+int ISHR | ishr
+int IS_NULL | is null
+int isNullable | is nullable
+int ISNUMBER_PROP | is number prop
+int[] IS_NUM_OF_SLOTS | is num of slots
+int isolationMode | isolation mode
+int isReadOnlyConnection | is read only connection
+int isReadOnlyDatabase | is read only database
+int isReadOnlyDatabaseFiles | is read only database files
+int ISTORE | istore
+int ISTORE_0 | istore  0
+int ISTORE_1 | istore  1
+int ISTORE_2 | istore  2
+int ISTORE_3 | istore  3
+int ISUB | isub
+int LOC_IS_1 | loc is  1
+int LOC_IS_2 | loc is  2
+int LOC_IS_3 | loc is  3
+int LOC_IS_4 | loc is  4
+int LOC_IS_5 | loc is  5
+int LOC_IS_6 | loc is  6
+int myIsolationLevel | my isolation level
+int myProgressIs | my progress is
+int NAME_RELATIVE_TO_CRL_ISSUER | name relative to crl issuer
+int NO_DATA_IS_AVAILABLE | no data is available
+int TECH_BASE_IS | tech base is
+int T_IS_LEVEL_1 | t is level  1
+int T_IS_LEVEL_2 | t is level  2
+int T_IS_LEVEL_2_ALL | t is level  2  all
+int T_IS_LEVEL_3 | t is level  3
+java.awt.datatransfer.DataFlavor _isoFlavor | iso flavor
+java.awt.Polygon frontIS | front is
+java.awt.Polygon leftIS | left is
+java.awt.Polygon leftIS1 | left is 1
+java.awt.Polygon leftIS2 | left is 2
+java.awt.Polygon rearIS | rear is
+java.awt.Polygon rightIS | right is
+java.awt.Polygon rightIS1 | right is 1
+java.awt.Polygon rightIS2 | right is 2
+java.awt.Polygon rotorIS | rotor is
+java.awt.Polygon turretIS | turret is
+java.io.BufferedInputStream is | is
+java.io.InputStream is | is
+java.io.InputStreamReader _erris | err is
+java.io.InputStreamReader _is | is
+java.lang.reflect.Method methodIsExternallyPlayable | method is externally playable
+java.lang.String ATTRIBUTE_isBlankWhenNull | attribute is blank when null
+java.lang.String ATTRIBUTE_isBold | attribute is bold
+java.lang.String ATTRIBUTE_isDefault | attribute is default
+java.lang.String ATTRIBUTE_isItalic | attribute is italic
+java.lang.String ATTRIBUTE_isStrikeThrough | attribute is strike through
+java.lang.String ATTRIBUTE_isStyledText | attribute is styled text
+java.lang.String ATTRIBUTE_isUnderline | attribute is underline
+java.lang.String FAQ_TOPIC_WHAT_IS_SECURE_SHARING | faq topic what is secure sharing
+java.lang.String IS_DISPOSABLE_NARC_AMMO | is disposable narc ammo
+java.lang.String IS_DISPOSABLE_SRM2_AMMO | is disposable srm 2  ammo
+java.lang.String IS_HIT | is hit
+java.lang.String[] IS_LOCATION_ABBRS | is location abbrs
+java.lang.String[] IS_LOCATION_NAMES | is location names
+java.lang.String[][] ISO8859_1_ARRAY | iso 8859   1  array
+java.lang.String IS_REAR | is rear
+java.lang.String IS_SPREAD | is spread
+java.lang.String PARAM_IS_OFFLINE | param is offline
+java.lang.String T_IS | t is
+java.lang.String XML_TYPE_IS_MUSIC | xml type is music
+java.security.PermissionCollection _statisPermissions | stat is permissions
+java.util.List is_seeds | is seeds
+java.util.regex.Pattern isAgeBasedPattern | is age based pattern
+javax.swing.JCheckBox jCheckBoxImageIsLazy | j check box image is lazy
+javax.swing.JCheckBox jCheckBoxIsForPrompting | j check box is for prompting
+net.sourceforge.ganttproject.calendar.GPCalendar myJanuaryFirstIsHolidayCalendar | my january first is holiday calendar
+org.bouncycastle.asn1.DERBitString issuerUID | issuer uid
+org.bouncycastle.asn1.DERBitString issuerUniqueId | issuer unique id
+org.bouncycastle.asn1.DERBitString issuerUniqueID | issuer unique id
+org.bouncycastle.asn1.DERObjectIdentifier CertificateIssuer | certificate issuer
+org.bouncycastle.asn1.DERObjectIdentifier id_ad_caIssuers | id ad ca issuers
+org.bouncycastle.asn1.DERObjectIdentifier IssuerAlternativeName | issuer alternative name
+org.bouncycastle.asn1.DERObjectIdentifier IssuingDistributionPoint | issuing distribution point
+org.bouncycastle.asn1.pkcs.IssuerAndSerialNumber issuerAndSerialNumber | issuer and serial number
+org.bouncycastle.asn1.x509.AttCertIssuer issuer | issuer
+org.bouncycastle.asn1.x509.GeneralNames cRLIssuer | c rl issuer
+org.bouncycastle.asn1.x509.GeneralNames issuer | issuer
+org.bouncycastle.asn1.x509.GeneralNames issuerName | issuer name
+org.bouncycastle.asn1.x509.X509Name issuer | issuer
+org.gudy.azureus2.ui.swt.views.IView[] viewVivaldis | view viv ald is
+org.jhotdraw.draw.AttributeKey<java.lang.Boolean> IS_QUADRATIC | is quadratic
+org.jhotdraw.draw.AttributeKey<java.lang.Boolean> IS_STROKE_DASH_FACTOR | is stroke dash factor
+org.jhotdraw.draw.AttributeKey<java.lang.Boolean> IS_STROKE_MITER_LIMIT_FACTOR | is stroke miter limit factor

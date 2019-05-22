@@ -1,0 +1,3 @@
+CONS BouncyCastleProvider() | bouncy castle provider
+CONS CAST5CBCParameters([BI) | cast 5 cbc parameters
+CONS CAST5CBCParameters(QASN1Sequence;) | cast 5 cbc parameters

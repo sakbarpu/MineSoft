@@ -1,0 +1,19 @@
+boolean isLoadedAtStartup() | is loaded at startup
+Class findLoadedClassHelper(QString;) | find loaded class helper
+Class peerFindLoadedClass(QString;) | peer find loaded class
+CollectionPersister getLoadedCollectionPersister(QPersistentCollection;QEventSource;) | get loaded collection persister
+CollectionPersister getLoadedPersister() | get loaded persister
+Instrument getLoadedInstruments() | get loaded instruments
+Iterator getLoadedElementsIterator(QSessionImplementor;QCollectionType;QObject;) | get loaded elements iterator
+Object getLoadedCollectionOwnerOrNull(QPersistentCollection;) | get loaded collection owner or null
+Object getLoadedOwnerOrNull(QPersistentCollection;QEventSource;) | get loaded owner or null
+Object[] getLoadedState() | get loaded state
+Object getLoadedValue(QString;) | get loaded value
+Serializable getLoadedCollectionOwnerIdOrNull(QCollectionEntry;) | get loaded collection owner id or null
+Serializable getLoadedCollectionOwnerIdOrNull(QPersistentCollection;) | get loaded collection owner id or null
+Serializable getLoadedKey() | get loaded key
+Serializable getLoadedOwnerIdOrNull(QPersistentCollection;QEventSource;) | get loaded owner id or null
+Vector getLoadedUnits() | get loaded units
+void filterLoadedProperties() | filter loaded properties
+void setLoadedAtStartup(Z) | set loaded at startup
+void setLoadedPersister(QCollectionPersister;) | set loaded persister

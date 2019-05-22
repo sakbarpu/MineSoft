@@ -1,0 +1,7 @@
+boolean bOnceConnected | b once connected
+boolean http_only_detected | http only detected
+boolean seeding_only_mode_allowed | seeding only mode allowed
+boolean track_only_decentralsed | track only decentral sed
+byte RELATIVE_SEEDING_UPLOAD_ONLY_INDICATED | relative seeding upload only indicated
+byte RELATIVE_SEEDING_UPLOAD_ONLY_SEED | relative seeding upload only seed
+long FLAG_ONLY_EVER_SEEDED | flag only ever seeded

@@ -1,0 +1,6 @@
+CONS DefinitionsDocument(QGlobalEventNotifier;) | definitions document
+CONS DefinitionsDocument(QGlobalEventNotifier;QCompoundUndoManager;) | definitions document
+CONS DefinitionsDocument(QIndenter;QGlobalEventNotifier;) | definitions document
+CONS DefinitionsDocumentTest(QString;) | definitions document test
+CONS DefinitionsEditorKit(QGlobalEventNotifier;) | definitions editor kit
+CONS DefinitionsPane(QMainFrame;QOpenDefinitionsDocument;) | definitions pane

@@ -1,0 +1,3 @@
+boolean isStrictJPAQLCompliance() | is strict jpaql compliance
+Vector getServerCompliance() | get server compliance
+void setStrictJPAQLCompliance(Z) | set strict jpaql compliance

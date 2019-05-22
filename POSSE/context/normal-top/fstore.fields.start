@@ -1,0 +1,4 @@
+int FSTORE_0 | fstore  0
+int FSTORE_1 | fstore  1
+int FSTORE_2 | fstore  2
+int FSTORE_3 | fstore  3

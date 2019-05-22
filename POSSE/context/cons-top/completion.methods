@@ -1,0 +1,6 @@
+CONS AsyncCompletionArgs(QR;QException;Z) | async completion args
+CONS AsyncCompletionArgs(QR;Z) | async completion args
+CONS AutoCompletion(QJComboBox;) | auto completion
+CONS CompletionItem(QString;) | completion item
+CONS CompletionItem(QString;I) | completion item
+CONS SwarmAverageCompletion(QString;) | swarm average completion

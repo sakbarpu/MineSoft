@@ -1,0 +1,192 @@
+AEProxyAddressMapper getSingleton() | get singleton
+AEWin32Access getSingleton(Z) | get singleton
+AZInstanceManager getSingleton(QAzureusCore;) | get singleton
+AzureusCore getSingleton() | get singleton
+BibtexEntry getSingleCitation(QString;) | get single citation
+BibtexEntry singleFromString(QString;) | single from string
+boolean callSingleInstanceServer([QString;) | call single instance server
+boolean getSingleModeFlag() | get single mode flag
+boolean isEscapedSingleQuote() | is escaped single quote
+boolean isSingleplayer() | is single player
+boolean isSingleQuote() | is single quote
+boolean isSingleRowLoader() | is single row loader
+boolean isSingleTile(II) | is single tile
+boolean isSingleton() | is singleton
+boolean isSingletonTag(QString;) | is singleton tag
+boolean isSingleUnitField() | is single unit field
+boolean singleton() | singleton
+byte[] deriveSingletonShortID(QMap;) | derive singleton short id
+CacheFileManager getSingleton() | get singleton
+CacheFileManager getSingleton(QString;) | get singleton
+ClientIDManagerImpl getSingleton() | get singleton
+ClipboardHistoryModel singleton() | singleton
+ConcurrentHasher getSingleton() | get singleton
+ConnectionManagerImpl getSingleton(QAzureusCore;) | get singleton
+CryptoManager getSingleton() | get singleton
+CustomizationManager getSingleton() | get singleton
+DDBaseImpl getSingleton(QAzureusCore;) | get singleton
+DiscreteFunction fitForSingleCluster(QDoubleVector;I) | fit for single cluster
+double singleVariance(DDD) | single variance
+DownloadManagerEnhancer getSingleton() | get singleton
+DownloadManagerImpl getSingleton(QAzureusCore;) | get singleton
+DrJavaErrorWindow singleton() | singleton
+E getSingle() | get single
+FastVector singleConsequence(QInstances;) | single consequence
+FastVector singleConsequence(QInstances;IQFastVector;) | single consequence
+FastVector singletons(QInstances;) | singletons
+FastVector singletons(QInstances;QInstances;) | singletons
+FMFileManager getSingleton() | get singleton
+FoldAction createSingleFoldAction(ZQMindMapNode;Z) | create single fold action
+FromElement locateSingleFromElement() | locate single from element
+GanttProject getGanttProjectSingleton() | get gantt project singleton
+HTTPNetworkManager getSingleton() | get singleton
+IncomingConnectionManager getSingleton() | get singleton
+InetAddress getSingleHomedServiceBindAddress() | get single homed service bind address
+InetAddress getSingleHomedServiceBindAddress(I) | get single homed service bind address
+int compareSingleField(QString;QBibtexEntry;QBibtexEntry;) | compare single field
+int rangeSingle(QString;) | range single
+IpFilterManager getSingleton() | get singleton
+KnowledgeFlowApp getSingleton() | get singleton
+LightWeightSeedManager getSingleton() | get singleton
+LocaleUtil getSingleton() | get singleton
+Logger getSingleton() | get singleton
+long getTotalSingleBytes() | get total single bytes
+long getTotalSingleRequests() | get total single requests
+MagnetURIHandler getSingleton() | get singleton
+Main getSingleton() | get singleton
+Main getSingleton([QString;) | get singleton
+Map getSingletonDetails() | get singleton details
+Map getSingletonMap(QString;QURL;ZI) | get singleton map
+MCGroup getSingleton(QMCGroupAdapter;QString;II[QString;) | get singleton
+MCGroupImpl getSingleton(QMCGroupAdapter;QString;II[QString;) | get singleton
+MessageManager getSingleton() | get singleton
+MessageManagerImpl getSingleton(QAzureusCore;) | get singleton
+MetaSearchManager getSingleton() | get singleton
+Method findSingleMethod([QMethod;QString;) | find single method
+MiscType createSingleHexECM() | create single hex ecm
+NatPMPDevice getSingleton(QNATPMPDeviceAdapter;) | get singleton
+NatPMPDeviceImpl getSingletonObject(QNATPMPDeviceAdapter;) | get singleton object
+NetworkAdmin getSingleton() | get singleton
+NetworkManager getSingleton() | get singleton
+Node selectSingleNode(QString;) | select single node
+NodeView getNextSiblingSingle() | get next sibling single
+NodeView getPreviousSiblingSingle() | get previous sibling single
+NonDaemonTaskRunner getSingleton() | get singleton
+Object getSingleResult(EntityLoader loader) | get single result
+Object loadSingleRow(QResultSet;QSessionImplementor;QQueryParameters;Z) | load single row
+PeerControlScheduler getSingleton() | get singleton
+PeerManager getSingleton() | get singleton
+PeerNATTraverser getSingleton() | get singleton
+PlatformManager getSingleton() | get singleton
+PlatformManagerImpl getSingleton() | get singleton
+PluginInitializer getSingleton(QAzureusCore;QAzureusCoreOperation;) | get singleton
+PluginInstallerImpl getSingleton(QPluginManager;) | get singleton
+PluginManagerDefaults getSingleton() | get singleton
+PluginManagerImpl getSingleton(QPluginInitializer;) | get singleton
+ResourceDownloaderFactory getSingleton() | get singleton
+ResourceUploaderFactory getSingleton() | get singleton
+Result getSingleResult(QSession;I) | get single result
+Result newSingleColumnResult(QString;I) | new single column result
+SESecurityManagerImpl getSingleton() | get singleton
+SFPluginDetailsLoader getSingleton() | get singleton
+ShareManagerImpl getSingleton() | get singleton
+ShareTester getSingleton() | get singleton
+SSDPCore getSingleton(QUPnPSSDPAdapter;QString;II[QString;) | get singleton
+String getSingleIndex() | get single index
+String processDMLWithSingleResult(QConnection;QString;) | process dml with single result
+String removeSingleBracesAroundCapitals(QString;) | remove single braces around capitals
+StringUtil getSingleton() | get singleton
+Subscription createSingletonRSS(QString;QURL;I) | create singleton rss
+Subscription createSingletonRSSSupport(QString;QURL;ZIIZ) | create singleton rss support
+SubscriptionImpl createSingletonSubscription(QMap;IZ) | create singleton subscription
+SubscriptionImpl lookupSingletonRSS(QString;QURL;ZI) | lookup singleton rss
+SubscriptionManager getSingleton() | get singleton
+SubscriptionManager getSingleton(Z) | get singleton
+SubscriptionManager getStandaloneSingleton(Z) | get standalone singleton
+SWTManagerImpl getSingleton() | get singleton
+TCPNetworkManager getSingleton() | get singleton
+Test getSingleton() | get singleton
+TorrentManagerImpl getSingleton() | get singleton
+Tracker getSingleton() | get singleton
+Transferable copySingle() | copy single
+TransportCryptoManager getSingleton() | get singleton
+TRHost getSingleton() | get singleton
+TRTrackerScraper getSingleton() | get singleton
+TRTrackerServerNATChecker getSingleton() | get singleton
+UDPNetworkManager getSingleton() | get singleton
+UpdateManager getSingleton(QAzureusCore;) | get singleton
+UpdateMonitor getSingleton(QAzureusCore;) | get singleton
+UploadSlotManager getSingleton() | get singleton
+UPnP getSingleton(QUPnPAdapter;[QString;) | get singleton
+UPnPMappingManager getSingleton(QUPnPPlugin;) | get singleton
+VersionCheckClient getSingleton() | get singleton
+VirtualAcceptSelector getSingleton() | get singleton
+void addSingleInstanceListener(QSingleInstanceListener;) | add single instance listener
+void appendSingleWordOption(List list, String name, boolean on) | append single word option
+void ASingleBuildingPanel(QBuilding;) | a single building panel
+void ASingleTilePanel(QColonyTile;II) | a single tile panel
+void BibtexSingleField(QString;) | bibtex single field
+void BibtexSingleField(QString;Z) | bibtex single field
+void BibtexSingleField(QString;ZD) | bibtex single field
+void BibtexSingleField(QString;ZDI) | bibtex single field
+void BibtexSingleField(QString;ZI) | bibtex single field
+void BibtexSingleField(QTXMLReader;QElement;) | bibtex single field
+void calculateSingleArrayGradient([QColor;[QColor;F) | calculate single array gradient
+void checkSingleEntry(QBibtexEntry;) | check single entry
+void checkSingletonPublish(QSubscriptionImpl;) | check singleton publish
+void createSingleton([QString;) | create singleton
+void doSingleClick(QMouseEvent;III) | do single click
+void doSingle(QSearcher;I) | do single
+void evaluateNominalSplitSingle(IQPredictionNode;QInstances;QInstances;) | evaluate nominal split single
+void evaluateNumericSplitSingle(IQPredictionNode;QInstances;QInstances;QInstances;) | evaluate numeric split single
+void exportSingleEvent(File file, IComponentInfo component, ICalendarStore store) | export single event
+void generateAttributeIndicesSingle() | generate attribute indices single
+void generateSingleScalarColumn(QHqlSqlWalkerNode;I) | generate single scalar column
+void goDownAllPathsSingle(QPredictionNode;QInstances;QInstances;) | go down all paths single
+void goDownHeaviestPathSingle(QPredictionNode;QInstances;QInstances;) | go down heaviest path single
+void goDownRandomPathSingle(QPredictionNode;QInstances;QInstances;) | go down random path single
+void goDownZpurePathSingle(QPredictionNode;QInstances;QInstances;) | go down zp ure path single
+void initializeSingleton() | initialize singleton
+void invokeListenersSingle(QObject;) | invoke listeners single
+void launchSingleInstanceServer() | launch single instance server
+void outASingleTermUpdate(ASingleTermUpdate node) | out a single term update
+void paintSingleCoordBorder(QGraphics;IIQColor;) | paint single coord border
+void parseSingleStandardNumber(QString;QString;QString;QHashMap<QString;QString;>;) | parse single standard number
+void putMappingWithAlphanumericSingleId(MappingWithAlphanumericSingleId mapping, Class myClass, String recordId) | put mapping with alphanumeric single id
+void removeSingleInstanceListener(QSingleInstanceListener;) | remove single instance listener
+void searchForBestTestSingle() | search for best test single
+void searchForBestTestSingle(QPredictionNode;QInstances;QInstances;) | search for best test single
+void selectSingleEntry(I) | select single entry
+void setSingleColor(QColorScheme;) | set single color
+void setSingleIndex(QString;) | set single index
+void setSingleInstanceHandler(IQPluginManagerArgumentHandler;) | set single instance handler
+void setSingleNodeOperation(QSingleNodeOperation;) | set single node operation
+void setSinglePlayerOptions(Z) | set single player options
+void setSingleplayer(Z) | set single player
+void setSingle(QString;) | set single
+void setSingleton(QStringUtil;) | set singleton
+void singleAuthor(QStringBuffer;QString;) | single author
+void singleAuthor(QStringBuffer;QString;I) | single author
+void startSingleplayerGame(QString;IZI) | start single player game
+void testCommandLineSingleBib() | test command line single bib
+void testCommandLineSinglePdf() | test command line single pdf
+void testCommentOutSingleLine() | test comment out single line
+void testDoubleEclipsesSingle() | test double eclipses single
+void testFromSingle2() | test from single 2
+void testFromStringSingle() | test from string single
+void testIndentedSingleLineContract() | test indented single line contract
+void testInterpretJavaSingleQuotedArgs() | test interpret java single quoted args
+void testSingleEclipsesDouble() | test single eclipses double
+void testSingleLineContract() | test single line contract
+void testTokenizeSingleQuotedArgs() | test tokenize single quoted args
+void testUncommentIgnoreSingleLine() | test uncomment ignore single line
+void testUncommentSingleLine() | test uncomment single line
+void testWriteSingleUpdatesDCAndInfo() | test write single updates dc and info
+void updateSingleHash(QHashWrapper;Z) | update single hash
+void updateSingleHash(QHashWrapper;ZZ) | update single hash
+void writeSingleColumnResult(QResult;) | write single column result
+VuzeCryptoManager getSingleton() | get singleton
+VuzeFileHandler getSingleton() | get singleton
+WeaponType createBASingleFlamer() | create ba single flamer
+WeaponType createBASingleMG() | create ba single mg
+WeaponType createBASingleSmallPulseLaser() | create ba single small pulse laser

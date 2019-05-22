@@ -1,0 +1,17 @@
+edu.rice.cs.util.text.SwingDocument NULL_DOCUMENT | null document
+int NULL_ELEMENT | null element
+int NULLIF | null if
+int NULL_IN_VALUE_LIST | null in value list
+int NULL_NAME | null name
+java.awt.Insets nullInsets | null insets
+java.io.File NULL_FILE | null file
+java.lang.Object NULLKEY | null key
+java.lang.Object NULL_OBJECT | null object
+java.lang.String nullRepToken | null rep token
+java.lang.String NULLSIG | null sig
+java.lang.String NULL_STR | null str
+java.lang.String NULL_STRING | null string
+java.util.List null_values | null values
+javax.swing.KeyStroke NULL_KEYSTROKE | null keystroke
+org.mozilla.javascript.UniqueTag NULL_VALUE | null value
+thePackage.EventLogger.EntryStatus nullStatus | null status

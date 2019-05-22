@@ -1,0 +1,5 @@
+int DSTORE | dstore
+int DSTORE_0 | dstore  0
+int DSTORE_1 | dstore  1
+int DSTORE_2 | dstore  2
+int DSTORE_3 | dstore  3

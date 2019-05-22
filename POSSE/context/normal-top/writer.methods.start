@@ -1,0 +1,3 @@
+void _writerDelay() | writer delay
+void writer__setArgs(int rNumArgs, String rArgs) | writer  set args
+void WriterThread() | writer thread

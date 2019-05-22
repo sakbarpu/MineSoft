@@ -1,0 +1,133 @@
+boolean forUpdateOfColumns() | for update of columns
+boolean getUpdateIncrementalClassifier() | get update incremental classifier
+boolean hasPartialUpdateComponentGeneration(QComponent;) | has partial update component generation
+boolean hasUpdateGeneratedProperties() | has update generated properties
+boolean hasUpdateGeneratedValues() | has update generated values
+boolean invokeUpdateLifecycle(QObject;QEntityPersister;QEventSource;) | invoke update lifecycle
+boolean isAutoUpdateSchema() | is auto update schema
+boolean isCustomUpdateCallable() | is custom update callable
+boolean isRowUpdatePossible() | is row update possible
+boolean isUpdateCallable() | is update callable
+boolean isUpdateCallable(I) | is update callable
+boolean isUpdateCount() | is update count
+boolean isUpdateDM(QDownloadManager;) | is update dm
+boolean isUpdateNecessary(QFlushEntityEvent;) | is update necessary
+boolean isUpdateNecessary(QFlushEntityEvent;Z) | is update necessary
+boolean locatorsUpdateCopy() | locators update copy
+boolean supportsForUpdateNowait() | supports for update nowait
+boolean supportsForUpdateOf() | supports for update of
+CompiledStatement compileUpdateStatement() | compile update statement
+ContributionUpdateStrategy getContributionUpdateStrategy() | get contribution update strategy
+double calculateUpdateValue(JDJD) | calculate update value
+ExecuteUpdateResultCheckStyle getCustomSQLUpdateCheckStyle() | get custom sql update check style
+ExecuteUpdateResultCheckStyle getUpdateCheckStyle() | get update check style
+int checkForUpdateSupport(QUpdateChecker;[QString;Z) | check for update support
+int createOrUpdateMedicalReferenceList(Vector v, ConsensusStudy cns) | create or update medical reference list
+int doUpdateRows(QSerializable;QPersistentCollection;QSessionImplementor;) | do update rows
+int getLastUpdateTime() | get last update time
+int getUpdateAction() | get update action
+int getUpdateCheckSecs() | get update check secs
+int getUpdateCount() | get update count
+int[] getUpdateCounts() | get update counts
+int getUpdateOutputSize(I) | get update output size
+long getCollectionUpdateCount() | get collection update count
+long getEntityUpdateCount() | get entity update count
+long getLastUpdateCheck() | get last update check
+long getLastUpdateTime() | get last update time
+long getUpdateCount() | get update count
+long requestUpdateSupport() | request update support
+MenuItem addCheckUpdateMenuItem(QMenu;) | add check update menu item
+MergeEventListener[] getSaveOrUpdateCopyEventListeners() | get save or update copy event listeners
+Object fireSaveOrUpdateCopy(QMergeEvent;) | fire save or update copy
+Object saveOrUpdateCopy(QObject;) | save or update copy
+Object saveOrUpdateCopy(QObject;QSerializable;) | save or update copy
+Object saveOrUpdateCopy(QString;QObject;) | save or update copy
+Object saveOrUpdateCopy(QString;QObject;QSerializable;) | save or update copy
+Packet createPlayerUpdatePacket(I) | create player update packet
+Packet createUpdateBuildingCFPacket(QVector;) | create update building cf packet
+PostCollectionUpdateEventListener[] getPostCollectionUpdateEventListeners() | get post collection update event listeners
+PostUpdateEventListener[] getPostCommitUpdateEventListeners() | get post commit update event listeners
+PostUpdateEventListener[] getPostUpdateEventListeners() | get post update event listeners
+PreCollectionUpdateEventListener[] getPreCollectionUpdateEventListeners() | get pre collection update event listeners
+PreUpdateEventListener[] getPreUpdateEventListeners() | get pre update event listeners
+Reader getUpdateReader(QFile;) | get update reader
+Result executeUpdateStatement(QCompiledStatement;) | execute update statement
+SaveOrUpdateEventListener[] getSaveOrUpdateEventListeners() | get save or update event listeners
+SaveOrUpdateEventListener[] getUpdateEventListeners() | get update event listeners
+Serializable getUpdateId(QObject;QEntityPersister;QSerializable;QEntityMode;) | get update id
+String addUpdateListener(QFileUpdateListener;QFile;) | add update listener
+String buildUpdateQuery() | build update query
+String[] generateSchemaUpdateScript(QDialect;QDatabaseMetadata;) | generate schema update script
+String generateUpdateGeneratedValuesSelectString() | generate update generated values select string
+String generateUpdateRowString() | generate update row string
+String generateUpdateString([ZI[QObject;Z) | generate update string
+String generateUpdateString([ZIZ) | generate update string
+String generateVersionIncrementUpdateString() | generate version increment update string
+String getForUpdateNowaitString() | get for update nowait string
+String getForUpdateNowaitString(QString;) | get for update nowait string
+String getForUpdateString() | get for update string
+String getForUpdateString(QLockMode;) | get for update string
+String getForUpdateString(QString;) | get for update string
+String getIdentityUpdateDDL(QTable;) | get identity update ddl
+String[] getSQLLazyUpdateByRowIdStrings() | get sql lazy update by row id strings
+String[] getSQLLazyUpdateStrings() | get sql lazy update strings
+String[] getSQLUpdateByRowIdStrings() | get sql update by row id strings
+String getSQLUpdateRowString() | get sql update row string
+String[] getSQLUpdateStrings() | get sql update strings
+String[] getUpdateStrings(ZZ) | get update strings
+String getUpdateUIName() | get update ui name
+String getUpdateURL() | get update url
+UpdateCheckInstance createEmptyUpdateCheckInstance(IQString;) | create empty update check instance
+UpdateCheckInstance createEmptyUpdateCheckInstance(IQString;Z) | create empty update check instance
+UpdateCheckInstance createUpdateCheckInstance() | create update check instance
+UpdateCheckInstance createUpdateCheckInstance(IQString;) | create update check instance
+UpdateManager getUpdateManager() | get update manager
+UpdaterEntry getUpdateInfo() | get update info
+UpdateTimestampsCache getUpdateTimestampsCache() | get update timestamps cache
+ValueInclusion determineUpdateValueGenerationType(QProperty;QStandardProperty;) | determine update value generation type
+ValueInclusion[] getPropertyUpdateGenerationInclusions() | get property update generation inclusions
+void actualUpdateClassifier(QInstance;) | actual update classifier
+void clearUpdateLists(QHashMappedList;) | clear update lists
+void DoUpdateAll() | do update all
+void enableUpdateChecks() | enable update checks
+void fireSaveOrUpdateCopy(QMap;QMergeEvent;) | fire save or update copy
+void invokeUpdateListeners(QRatingInfoList;) | invoke update listeners
+void onPostUpdateCollection(QPostCollectionUpdateEvent;) | on post update collection
+void onPreUpdateCollection(QPreCollectionUpdateEvent;) | on pre update collection
+void onUpdateChildrenHook(QMindMapNode;) | on update children hook
+void onUpdateNodeHook() | on update node hook
+void postUpdateUI() | post update ui
+void processUpdateGeneratedProperties(QSerializable;QObject;[QObject;QSessionImplementor;) | process update generated properties
+void receiveBuildingUpdateCF(QPacket;) | receive building update cf
+void recursiveCallUpdateHooks(QMindMapNode;QMindMapNode;) | recursive call update hooks
+void registerUpdateChecker() | register update checker
+void removeUpdateListener(QString;) | remove update listener
+void saveOrUpdateCopy(QString;QObject;QMap;) | save or update copy
+void sendStageUpdateToListeners(QString;) | send stage update to listeners
+void sendUpdateEntity(QEntity;) | send update entity
+void setAutoUpdateSchema(Z) | set auto update schema
+void setDefaultUpdateCheckSecs(I) | set default update check secs
+void setLastUpdateCheck(J) | set last update check
+void setLastUpdateTime(J) | set last update time
+void setLocalUpdateCheckSecs(I) | set local update check secs
+void setPostCollectionUpdateEventListeners([QPostCollectionUpdateEventListener;) | set post collection update event listeners
+void setPostCommitUpdateEventListeners([QPostUpdateEventListener;) | set post commit update event listeners
+void setPostUpdateEventListeners([QPostUpdateEventListener;) | set post update event listeners
+void setPreCollectionUpdateEventListeners([QPreCollectionUpdateEventListener;) | set pre collection update event listeners
+void setPreUpdateEventListeners([QPreUpdateEventListener;) | set pre update event listeners
+void setSaveOrUpdateCopyEventListeners([QMergeEventListener;) | set save or update copy event listeners
+void setSaveOrUpdateEventListeners([QSaveOrUpdateEventListener;) | set save or update event listeners
+void setUpdateDividerWidth(I) | set update divider width
+void setUpdateEventListeners([QSaveOrUpdateEventListener;) | set update event listeners
+void setUpdateIncrementalClassifier(Z) | set update incremental classifier
+void setUpdateURL(QString;) | set update url
+void showScriptAutoUpdateDialog() | show script auto update dialog
+void showScriptManualUpdateDialog(QString;QString;I) | show script manual update dialog
+void startMetaServerUpdateThread() | start meta server update thread
+void startUpdateUI() | start update ui
+void stopUpdateUI() | stop update ui
+void testEntityUpdateExternal() | test entity update external
+void testInteractionsLiveUpdateClassPath() | test interactions live update class path
+void testLiveUpdateOfHistoryMaxSize() | test live update of history max size
+void testLiveUpdateOfIndentLevel() | test live update of indent level
+void triggerMetaDataUpdateListeners(QTOTorrent;) | trigger meta data update listeners

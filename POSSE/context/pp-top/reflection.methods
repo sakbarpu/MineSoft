@@ -1,0 +1,2 @@
+String getReflectionOptimizationEnabled() | get reflection optimization enabled
+void setReflectionOptimizationEnabled(QString;) | set reflection optimization enabled

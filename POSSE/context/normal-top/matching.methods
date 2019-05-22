@@ -1,0 +1,26 @@
+AbstractGroup[] getMatchingGroups(QBibtexEntry;) | get matching groups
+Archive findMatchingArchive(QFetchRequest;) | find matching archive
+Archive getMatchingArchive() | get matching archive
+int consumeToMatchingBrace(QStringBuffer;[CI) | consume to matching brace
+int findMatchingBracket(QDocument;I) | find matching bracket
+int getIndexOfFirstMatchingProperty(QList;QString;) | get index of first matching property
+int getMatchingArchiveIndex(QRrdDb;IQRrdDb;) | get matching archive index
+int getMatchingDatasourceIndex(QRrdDb;IQRrdDb;) | get matching datasource index
+List getMatching(QString;) | get matching
+List<QT;> getMatchingItems() | get matching items
+Tuple getMatchingTuple(QDocument;) | get matching tuple
+void findMatchingMethods(String id, JavaType argTypes, boolean checkArgs, boolean allowConversion, boolean allowVarArgs, JavaStructuredType typeContext, Set<JavaFunction> foundMethods) | find matching methods
+void gotoFileMatchingMask(QString;) | goto file matching mask
+void showMatchingGroups([QBibtexEntry;Z) | show matching groups
+void testConsumeToMatchingBrace() | test consume to matching brace
+void testFragmentIgnoreCaseSetMatching() | test fragment ignore case set matching
+void testFragmentIgnoreCaseSetNotMatching() | test fragment ignore case set not matching
+void testFragmentSetMatching() | test fragment set matching
+void testFragmentSetNotMatching() | test fragment set not matching
+void testGetMatchingMessagesFromTopic() | test get matching messages from topic
+void testIgnoreCaseSetMatching() | test ignore case set matching
+void testIgnoreCaseSetNotMatching() | test ignore case set not matching
+void testNonMatchingQuotes() | test non matching quotes
+void testSetMatching() | test set matching
+void testSetNotMatching() | test set not matching
+void updateMatchingStrings(QArrayList<QT;>;) | update matching strings

@@ -1,0 +1,5 @@
+boolean isDeadNote() | is dead note
+void removeDeadAttacks() | remove dead attacks
+void removeDeadServers() | remove dead servers
+void setDeadNote(Z) | set dead note
+void timeoutDeadKeys() | timeout dead keys

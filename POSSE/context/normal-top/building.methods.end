@@ -1,0 +1,31 @@
+boolean isInBuilding(QIGame;IQCoords;) | is in building
+boolean isInBuilding(QIGame;QEntity;) | is in building
+boolean isInBuilding(QIGame;QEntity;QCoords;) | is in building
+boolean isInSameBuilding(QIGame;QEntity;QTargetable;) | is in same building
+BuildableType getCurrentlyBuilding() | get currently building
+Building createBuilding(QBuildingType;) | create building
+Building createBuilding(QString;QColony;QBuildingType;) | create building
+Building createBuilding(QString;QColony;QBuildingType;ZQConnection;) | create building
+Building createFreeBuilding(QBuildingType;) | create free building
+Building getBuilding() | get building
+Building getBuilding(QBuildingType;) | get building
+Building getLocalBuilding(QBuilding;) | get local building
+Element createBuilding(QConnection;QElement;) | create building
+Element payForBuilding(QConnection;QElement;) | pay for building
+Element setCurrentlyBuilding(QConnection;QElement;) | set currently building
+int checkMovementInBuilding(QMoveStep;QMoveStep;QCoords;QCoords;) | check movement in building
+int getPriceForBuilding() | get price for building
+PilotingRollData rollMovementInBuilding(QBuilding;IQString;) | roll movement in building
+Report damageBuilding(QBuilding;I) | damage building
+Report damageBuilding(QBuilding;IQString;) | damage building
+void addBuilding(QBuilding;) | add building
+void collapseBuilding(QBuilding;) | collapse building
+void collapseBuilding(QBuilding;QHashtable;) | collapse building
+void collapseBuilding(QVector;) | collapse building
+void payForBuilding() | pay for building
+void payForBuilding(QColony;) | pay for building
+void placeBuilding(QIBoard;QBuildingTemplate;) | place building
+void setCurrentlyBuilding(QBuildableType;) | set currently building
+void setCurrentlyBuilding(QColony;QBuildableType;) | set currently building
+void startBuilding(QString;I) | start building
+void stopBuilding() | stop building

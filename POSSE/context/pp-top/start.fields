@@ -1,0 +1,18 @@
+boolean bOverrideStartModeToStopped | b override start mode to stopped
+boolean core_started | core started
+boolean myDependenciesSectionStarted | my dependencies section started
+boolean _started | started
+boolean started | started
+boolean test_started | test started
+boolean wasForceStarted | was force started
+byte PIECE_STARTED | piece started
+int ET_STARTED | et started
+int EV_STARTED | ev started
+int STARTMODE_FORCESTARTED | start mode forces tar ted
+int STARTMODE_QUEUED | start mode queued
+int STARTMODE_STOPPED | start mode stopped
+int TS_STARTED | ts started
+java.lang.String CORE_PARAM_BOOLEAN_NEW_TORRENTS_START_AS_STOPPED | core param boolean new torrents start as stopped
+java.util.HashMap groupStarted | group started
+long time_download_started | time download started
+long _timeStarted | time started

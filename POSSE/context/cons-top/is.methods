@@ -1,0 +1,22 @@
+CONS AttCertIssuer(QGeneralNames;) | att cert issuer
+CONS AttCertIssuer(QV2Form;) | att cert issuer
+CONS AttributeCertificateIssuer(QAttCertIssuer;) | attribute certificate issuer
+CONS AttributeCertificateIssuer(QX500Principal;) | attribute certificate issuer
+CONS AttributeCertificateIssuer(QX509Principal;) | attribute certificate issuer
+CONS ColumnIsPrivate(QString;) | column is private
+CONS ColumnIsSeeding(QString;) | column is seeding
+CONS FileIsADirectoryException(QString;) | file is a directory exception
+CONS IsEdgeFunction() | is edge function
+CONS IsNodeFunction() | is node function
+CONS ISO18033KDFParameters([B) | iso 18033 kdf parameters
+CONS ISO9796d1Encoding(QAsymmetricBlockCipher;) | iso 9796 d 1 encoding
+CONS IssuerAndSerialNumber(QASN1Sequence;) | issuer and serial number
+CONS IssuerAndSerialNumber(QX509Name;QBigInteger;) | issuer and serial number
+CONS IssuerAndSerialNumber(QX509Name;QDERInteger;) | issuer and serial number
+CONS IssuerSerial(QASN1Sequence;) | issuer serial
+CONS IssuerSerial(QGeneralNames;QDERInteger;) | issuer serial
+CONS IssuingDistributionPoint(QASN1Sequence;) | issuing distribution point
+CONS IssuingDistributionPoint(QDistributionPointName;ZZQReasonFlags;ZZ) | issuing distribution point
+CONS QuestionBraceIsCurly(QIndentRule;QIndentRule;) | question brace is curly
+CONS QuestionBraceIsParenOrBracket(QIndentRule;QIndentRule;) | question brace is paren or bracket
+CONS QuestionCurrLineIsWingComment(QIndentRule;QIndentRule;) | question curr line is wing comment

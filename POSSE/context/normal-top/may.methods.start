@@ -1,0 +1,4 @@
+boolean mayDrawPopup() | may draw popup
+boolean mayExecute(QString;) | may execute
+boolean maySend(QString;QString;QMap;) | may send
+boolean maySubmitSurvey() | may submit survey

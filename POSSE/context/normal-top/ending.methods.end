@@ -1,0 +1,6 @@
+int getNumberOfAlternateEnding() | get number of alternate ending
+String getEnding() | get ending
+String recodeEnding(QString;) | recode ending
+String removeEnding(QString;) | remove ending
+void flushEnding() | flush ending
+void setNumberOfAlternateEnding(I) | set number of alternate ending

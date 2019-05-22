@@ -1,0 +1,2 @@
+com.aelitis.azureus.core.networkmanager.admin.impl.NetworkAdminSpeedTesterImpl tester | tester
+com.aelitis.azureus.plugins.net.netstatus.NetStatusProtocolTester tester | tester

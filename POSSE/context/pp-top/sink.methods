@@ -1,0 +1,1 @@
+boolean isStateChanged(EventChannelDescription sinkEventChannel) | is state changed

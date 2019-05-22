@@ -1,0 +1,18 @@
+boolean must_init_core | must init core
+int ENUM_INIT_KEYS | enum init keys
+int ENUM_INIT_VALUES | enum init values
+int FAIL_INIT_DELAY | fail init delay
+int INTERESTING_INIT_MIN_OTHERS | interesting init min others
+int INTERESTING_INIT_MIN_OURS | interesting init min ours
+int INTERESTING_INIT_RAND_OTHERS | interesting init rand others
+int INTERESTING_INIT_RAND_OURS | interesting init rand ours
+int MIN_ADDRESS_CHANGE_PERIOD_INIT_DEFAULT | min address change period init default
+int NATMAP_INIT_RETRY | nat map init retry
+java.lang.reflect.Method Throwable_initCause | throwable init cause
+java.lang.String FUNCTION_INIT_SIGNATURE | function init signature
+java.lang.String REGEXP_INIT_METHOD_NAME | regexp init method name
+java.lang.String REGEXP_INIT_METHOD_SIGNATURE | regexp init method signature
+java.lang.String XML_INIT_CLASS | xml init class
+long SCRAPE_INITDELAY_ERROR_TORRENTS | scrape init delay error torrents
+long SCRAPE_INITDELAY_STOPPED_TORRENTS | scrape init delay stopped torrents
+long STATS_INIT_PERIOD | stats init period

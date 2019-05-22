@@ -1,0 +1,5 @@
+boolean isNestedTransaction | is nested transaction
+int nestedOldTransIndex | nested old trans index
+java.lang.String NESTED_CLASSES_TEXT | nested classes text
+net.sourceforge.ganttproject.task.hierarchy.TaskHierarchyItem myFirstNestedItem | my first nested item
+org.mozilla.javascript.InterpreterData[] itsNestedFunctions | its nested functions

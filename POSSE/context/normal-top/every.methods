@@ -1,0 +1,1 @@
+void flushEverythingToExecutions(QFlushEvent;) | flush everything to executions

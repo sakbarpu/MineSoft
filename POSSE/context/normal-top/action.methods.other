@@ -1,0 +1,122 @@
+ActionFactory getActionFactory() | get action factory
+ActionListener getActionListener(QJFrame;) | get action listener
+ActionManager getActionManager() | get action manager
+ActionPair getActionPair(QMindMapArrowLinkModel;ZZ) | get action pair
+ActionPair getActionPair(QMindMapArrowLink;QPoint;QPoint;) | get action pair
+ActionPair getActionPair(QMindMapLink;) | get action pair
+ActionPair getActionPair(QMindMapLink;QColor;) | get action pair
+ActionPair getActionPair(QMindMapNode;I) | get action pair
+ActionPair getActionPair(QMindMapNode;III) | get action pair
+ActionPair getActionPair(QMindMapNode;QMindIcon;) | get action pair
+ActionPair getActionPair(QMindMapNode;QMindMapNode;) | get action pair
+ActionPair getActionPair(QMindMapNode;QString;) | get action pair
+ActionPair getActionPair(QMindMapNode;Z) | get action pair
+ActionParameter addActionParameter2(QString;QString;) | add action parameter 2
+ActionQueue getActionQueue() | get action queue
+boolean isActionAvailable(int action) | is action available
+boolean isActionNecessary(QParserResult;) | is action necessary
+boolean showActionTipMessage(QString;) | show action tip message
+Class getDoActionClass() | get do action class
+freemind.controller.actions.generated.instance.AddArrowLinkXmlActionType createAddArrowLinkXmlActionType() | create add arrow link xml action type
+freemind.controller.actions.generated.instance.AddCloudXmlActionType createAddCloudXmlActionType() | create add cloud xml action type
+freemind.controller.actions.generated.instance.AddIconActionType createAddIconActionType() | create add icon action type
+freemind.controller.actions.generated.instance.AddLinkXmlActionType createAddLinkXmlActionType() | create add link xml action type
+freemind.controller.actions.generated.instance.ArrowLinkArrowXmlActionType createArrowLinkArrowXmlActionType() | create arrow link arrow xml action type
+freemind.controller.actions.generated.instance.ArrowLinkColorXmlActionType createArrowLinkColorXmlActionType() | create arrow link color xml action type
+freemind.controller.actions.generated.instance.ArrowLinkPointXmlActionType createArrowLinkPointXmlActionType() | create arrow link point xml action type
+freemind.controller.actions.generated.instance.BoldNodeActionType createBoldNodeActionType() | create bold node action type
+freemind.controller.actions.generated.instance.CloudColorXmlActionType createCloudColorXmlActionType() | create cloud color xml action type
+freemind.controller.actions.generated.instance.CollaborationActionType createCollaborationActionType() | create collaboration action type
+freemind.controller.actions.generated.instance.CompoundActionType createCompoundActionType() | create compound action type
+freemind.controller.actions.generated.instance.CutNodeActionType createCutNodeActionType() | create cut node action type
+freemind.controller.actions.generated.instance.DeleteNodeActionType createDeleteNodeActionType() | create delete node action type
+freemind.controller.actions.generated.instance.EdgeColorFormatActionType createEdgeColorFormatActionType() | create edge color format action type
+freemind.controller.actions.generated.instance.EdgeStyleFormatActionType createEdgeStyleFormatActionType() | create edge style format action type
+freemind.controller.actions.generated.instance.EdgeWidthFormatActionType createEdgeWidthFormatActionType() | create edge width format action type
+freemind.controller.actions.generated.instance.EditNodeActionType createEditNodeActionType() | create edit node action type
+freemind.controller.actions.generated.instance.FoldActionType createFoldActionType() | create fold action type
+freemind.controller.actions.generated.instance.FontNodeActionType createFontNodeActionType() | create font node action type
+freemind.controller.actions.generated.instance.FontSizeNodeActionType createFontSizeNodeActionType() | create font size node action type
+freemind.controller.actions.generated.instance.HookNodeActionType createHookNodeActionType() | create hook node action type
+freemind.controller.actions.generated.instance.ItalicNodeActionType createItalicNodeActionType() | create italic node action type
+freemind.controller.actions.generated.instance.MenuActionBase createMenuActionBase() | create menu action base
+freemind.controller.actions.generated.instance.MenuActionType createMenuActionType() | create menu action type
+freemind.controller.actions.generated.instance.MenuCheckedActionType createMenuCheckedActionType() | create menu checked action type
+freemind.controller.actions.generated.instance.MoveNodesActionType createMoveNodesActionType() | create move nodes action type
+freemind.controller.actions.generated.instance.MoveNodeXmlActionType createMoveNodeXmlActionType() | create move node xml action type
+freemind.controller.actions.generated.instance.NewNodeActionType createNewNodeActionType() | create new node action type
+freemind.controller.actions.generated.instance.NodeBackgroundColorFormatActionType createNodeBackgroundColorFormatActionType() | create node background color format action type
+freemind.controller.actions.generated.instance.NodeColorFormatActionType createNodeColorFormatActionType() | create node color format action type
+freemind.controller.actions.generated.instance.NodeStyleFormatActionType createNodeStyleFormatActionType() | create node style format action type
+freemind.controller.actions.generated.instance.PasteNodeActionType createPasteNodeActionType() | create paste node action type
+freemind.controller.actions.generated.instance.PluginActionType createPluginActionType() | create plugin action type
+freemind.controller.actions.generated.instance.RemoveAllIconsXmlActionType createRemoveAllIconsXmlActionType() | create remove all icons xml action type
+freemind.controller.actions.generated.instance.RemoveArrowLinkXmlActionType createRemoveArrowLinkXmlActionType() | create remove arrow link xml action type
+freemind.controller.actions.generated.instance.RemoveLastIconXmlActionType createRemoveLastIconXmlActionType() | create remove last icon xml action type
+freemind.controller.actions.generated.instance.RevertXmlActionType createRevertXmlActionType() | create revert xml action type
+freemind.controller.actions.generated.instance.SelectNodeActionType createSelectNodeActionType() | create select node action type
+freemind.controller.actions.generated.instance.UnderlinedNodeActionType createUnderlinedNodeActionType() | create underlined node action type
+freemind.controller.actions.generated.instance.UndoXmlActionType createUndoXmlActionType() | create undo xml action type
+ImprovementActionType getImprovementActionType(QString;) | get improvement action type
+int getPaintActionLocation() | get paint action location
+List<QImprovementActionType;> getImprovementActionTypeList() | get improvement action type list
+List<QRandomChoice<QMonarchAction;>;> getActionChoices() | get action choices
+long getActionInterval() | get action interval
+long nextActionTimestamp() | next action timestamp
+ObjectFactory getActionXmlFactory() | get action xml factory
+PropertyChangeListener createActionPropertyChangeListener(QAction;) | create action property change listener
+String getActionName(QActionListener;) | get action name
+String getActionResource() | get action resource
+String getActionValue(IQAuctionEntry;) | get action value
+String getAdvancedActionTitle() | get advanced action title
+String lastActionMsg() | last action msg
+void addActionForKeyStroke(QKeyStroke;QAction;) | add action for key stroke
+void addActionListener(ActionListener listener) | add action listener
+void addActionListener(QActionListener;) | add action listener
+void addActionListener(Qjava.awt.event.ActionListener;) | add action listener
+void addActionToActionVector(QVector;QVector;QVector;QAction;) | add action to action vector
+void addActionToMap(QActionType;QMap<QHomePieceOfFurniture.SortableProperty;QAction;>;QHomePieceOfFurniture.SortableProperty;) | add action to map
+void addActionToMenu(QActionType;QJMenu;) | add action to menu
+void addActionToMenu(QActionType;ZQJMenu;) | add action to menu
+void addActionToPopupMenu(QActionType;QJPopupMenu;) | add action to popup menu
+void addActionToToolBar(QActionType;QJToolBar;) | add action to tool bar
+void addAdditionActionListener(QActionListener;) | add addition action listener
+void addCheckBoxActionListener(QActionListener;) | add check box action listener
+void addDefaultActionListener(QActionListener;) | add default action listener
+void addToggleActionToMenu(QActionType;QJToggleButton.ToggleButtonModel;QButtonGroup;QJMenu;) | add toggle action to menu
+void addToggleActionToMenu(QActionType;ZQJToggleButton.ToggleButtonModel;QButtonGroup;QJMenu;) | add toggle action to menu
+void addToggleActionToPopupMenu(QActionType;QJToggleButton.ToggleButtonModel;QButtonGroup;QJPopupMenu;) | add toggle action to popup menu
+void addToggleActionToToolBar(QActionType;QJToggleButton.ToggleButtonModel;QButtonGroup;QJToolBar;) | add toggle action to tool bar
+void ButtonActionBuilder(QButton;I) | button action builder
+void ButtonActionWriter(QTagWriter;IQVector;) | button action writer
+void ClipActionBuilder(QSymbol;QMatrix;QAlphaTransform;IQString;IZ) | clip action builder
+void do_action_table(QPrintWriter;Qparse_action_table;Z) | do action table
+void emit_action_code(QPrintWriter;Qproduction;) | emit action code
+void emitActionTable() | emit action table
+void findActionStates() | find action states
+void fireActionEvent() | fire action event
+void fireActionEvent(QActionEvent;) | fire action event
+void fixupActionBarSize() | fixup action bar size
+void InsertActionSorter() | insert action sorter
+void PopupItemActionListener(I) | popup item action listener
+void readActionProperties(QUserPreferences;QClass<*>;QString;) | read action properties
+void readActionPropertyValues(QString;QString;QClassLoader;) | read action property values
+void refreshActionState() | refresh action state
+void removeActionListener(ActionListener listener) | remove action listener
+void removeActionListener(QActionListener;) | remove action listener
+void removeActionListener(Qjava.awt.event.ActionListener;) | remove action listener
+void removeAdditionActionListener(QActionListener;) | remove addition action listener
+void resetDisplayedActionTips() | reset displayed action tips
+void resetIgnoredActionTips() | reset ignored action tips
+void SelectAllNoneActionListener(QSelectionState;) | select all none action listener
+void setActionCommand(QString;) | set action command
+void setActionInterval(J) | set action interval
+void setActionListener(QActionListener;) | set action listener
+void setActionMap(QActionMap;) | set action map
+void setAdditionalActionPerfomer(QIAdditionalActionPerformer;) | set additional action perf om er
+void setAdditionalActionPerformer(QIAdditionalActionPerformer;) | set additional action performer
+void setSWFActionBlock(SWFActionBlock acts) | set swf action block
+void showActionLabel(QLabel;Z) | show action label
+void synchActionLabels(QIProgressReport;) | synch action labels
+void testReadActionXmlConfiguration() | test read action xml configuration
+void UnitButtonActionPropertyChangeListener(QAbstractButton;) | unit button action property change listener

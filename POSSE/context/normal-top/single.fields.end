@@ -1,0 +1,5 @@
+int BOUNCE_SINGLE | bounce single
+java.lang.String ST_DISK_READ_BYTES_SINGLE | st disk read bytes single
+java.lang.String ST_DISK_READ_REQUEST_SINGLE | st disk read request single
+java.lang.String ST_DISK_WRITE_BYTES_SINGLE | st disk write bytes single
+javax.swing.Action copySingle | copy single

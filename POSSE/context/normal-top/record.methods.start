@@ -1,0 +1,23 @@
+boolean recordAssociationsSupport([B[QSubscriptionImpl;Z) | record associations support
+void recordAssociations([B[QSubscriptionImpl;Z) | record associations
+void recordAttlistDeclaration(QString;QString;ZQString;QString;QString;) | record attlist declaration
+void recordCharData(QString;) | record char data
+void recordComment(QString;) | record comment
+void recordCurrentAddress(QString;) | record current address
+void recordDocEnd() | record doc end
+void recordDocStart() | record doc start
+void recordDoctypeDeclaration(QString;QString;QString;) | record doctype declaration
+void recordElementDeclaration(QString;QString;) | record element declaration
+void recordElementEnd(QString;) | record element end
+void recordElementStart(QString;QHashtable;) | record element start
+void recordEntityDeclaration(QString;QString;QString;QString;QString;) | record entity declaration
+void recordErrorOrigin(QString;IQString;I) | record error origin
+void recordLookup([B) | record lookup
+void recordMessage(IQString;QString;QString;[QObject;I) | record message
+void recordNotationDeclaration(QString;QString;QString;) | record notation declaration
+void recordPeer(QString;[BQString;IZ) | record peer
+void recordPI(QString;QString;) | record pi
+void recordSelectionState() | record selection state
+void recordSkew(QInetSocketAddress;J) | record skew
+void recordUserAbort() | record user abort
+void recordUserInput(QString;) | record user input

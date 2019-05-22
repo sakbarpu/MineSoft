@@ -1,0 +1,6 @@
+File findFileOnClasspath(QString;) | find file on classpath
+freemind.controller.actions.generated.instance.PluginClasspath createPluginClasspath() | create plugin classpath
+java.util.List getPluginClasspath() | get plugin classpath
+Vector getClasspath() | get classpath
+void rescanAdditionalClasspath() | rescan additional classpath
+void setClasspath(QVector;) | set classpath

@@ -1,0 +1,4 @@
+Exception exception() | exception
+InterpretResult exception(QInterpreterException;) | exception
+void Exception(QString;) | exception
+void Exception(QThrowable;) | exception

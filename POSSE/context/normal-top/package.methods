@@ -1,0 +1,65 @@
+boolean isDebianPackageList(String path) | is debian package list
+boolean isInIncludedPackage(QString;) | is in included package
+boolean isPackageWord(I) | is package word
+boolean isSamePackage(String packageName, TypeSummary parentSummary) | is same package
+boolean setPackageScope(QString;) | set package scope
+Collection getPluginsPackages() | get plugins packages
+File _parsePackagesFile(QFile;QFile;) | parse packages file
+LinkedList<QString;> packageExplore(QString;QFile;) | package explore
+long buildFromPackages(QOutputStream;QClassLoader;[QString;QMap;QString;) | build from packages
+Object getPackageProperty(QString;QScriptable;) | get package property
+Object js_importPackage([QObject;) | js import package
+PackageBinding getCurrentPackage() | get current package
+Package getPackages() | get packages
+s_acs_acs getPackageDependencies(String s_baseDir, int i_subDirLevels, Outputter optr_dbg, String as_acceptPkgPre, boolean b_crashIfSelfDependent, FileFilter file_filter) | get package dependencies
+Set getResoucesInPackage(QString;) | get resouces in package
+String displayPackageInfo(String pkgName) | display package info
+String getDefaultPackage() | get default package
+String getFullPackage() | get full package
+String getMappingPackage() | get mapping package
+String getPackage() | get package
+String getPackageDir(QString;) | get package dir
+String getPackageName() | get package name
+String getPackageNameFromDocument() | get package name from document
+String getPackageName(QString;) | get package name
+String getPackage(QString;) | get package
+String getPackageQualifier() | get package qualifier
+String getSite(String request, String site, String packageName, String className, String extra) | get site
+String packageNameToPath(QString;) | package name to path
+Vector findPackages() | find packages
+void emit_package(QPrintWriter;) | emit package
+void forcePackage(QString;QScriptable;) | force package
+void importPackage(QContext;QScriptable;[QObject;QFunction;) | import package
+void importPackage(QNativeJavaPackage;) | import package
+void packagerMsg(String info) | packager msg
+void processPackage(QJComponent;QString;Qweka.gui.HierarchyPropertyParser;) | process package
+void setDefaultPackage(QString;) | set default package
+void setPackage(QString;) | set package
+void setPackage(String s) | set package
+void testCompileClassPathOKDefaultPackage() | test compile class path ok default package
+void testCompileClassPathOKDifferentPackages() | test compile class path ok different packages
+void testCompilePackageAsField() | test compile package as field
+void testCompilePackageAsField2() | test compile package as field 2
+void testCompileWithPackageStatementInsideClass() | test compile with package statement inside class
+void testFileDefaultPackage() | test file default package
+void testFileOnePackage() | test file one package
+void testFilesMultiplePackages() | test files multiple packages
+void testFilesOnePackage() | test files one package
+void testGetMultipleSourceRootsDefaultPackage() | test get multiple source roots default package
+void testGetSourceRootDefaultPackage() | test get source root default package
+void testGetSourceRootPackageOneDeepValid() | test get source root package one deep valid
+void testGetSourceRootPackageThreeDeepInvalid() | test get source root package three deep invalid
+void testGetSourceRootPackageThreeDeepValid() | test get source root package three deep valid
+void testGetSourceRootPackageThreeDeepValidRelative() | test get source root package three deep valid relative
+void testPackageDependencies() | test package dependencies
+void testPackageExplore() | test package explore
+void testStringPackageRecognition() | test string package recognition
+void textGetPackageNameWithPackageStatementAfterImport() | text get package name with package statement after import
+void textPackageNameEmpty() | text package name empty
+void textPackageNameSimple() | text package name simple
+void textPackageNameWeird1() | text package name weird 1
+void textPackageNameWeird2() | text package name weird 2
+void textQualifiedClassNameWithoutPackage() | text qualified class name without package
+void textQualifiedClassNameWithPackage() | text qualified class name with package
+void XXXtestGetPackageDir() | xxx test get package dir
+void XXXtestStepOverWithPackage() | xxx test step over with package

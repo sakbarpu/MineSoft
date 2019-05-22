@@ -1,0 +1,2 @@
+int BINARY_FILEFAIL | binary file fail
+int BINARY_LOADEDBYTESINTO | binary loaded bytes into

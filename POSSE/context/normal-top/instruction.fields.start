@@ -1,0 +1,4 @@
+int instructionCount | instruction count
+int instructionThreshold | instruction threshold
+javax.swing.JLabel _instructionLabel | instruction label
+org.bouncycastle.asn1.DERObjectIdentifier InstructionCode | instruction code

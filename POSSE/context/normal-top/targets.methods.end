@@ -1,0 +1,12 @@
+boolean getTrackerTargets(QDownload;I) | get tracker targets
+boolean updateTargets(QDownload;I) | update targets
+Enumeration getNemesisTargets(QEntity;QCoords;) | get nemesis targets
+List getVivaldiTargets([B[D) | get vivaldi targets
+Target[] getTargets() | get targets
+trackerTarget[] getTargets(Z) | get targets
+Vector getSuitableTargets(QEventSetDescriptor;) | get suitable targets
+Vector getValidTargets(QEntity;) | get valid targets
+void cacheVisibleTargets() | cache visible targets
+void clearVisibleTargets() | clear visible targets
+void parseSubmissionTargets(Node parentNode) | parse submission targets
+void pingTargets(QInetAddress;IQNetworkAdminRoutesListener;) | ping targets

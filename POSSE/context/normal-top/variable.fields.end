@@ -1,0 +1,16 @@
+boolean testVariable | test variable
+float TONNAGE_VARIABLE | tonnage variable
+int BV_VARIABLE | bv variable
+int COST_VARIABLE | cost variable
+int CRITICALS_VARIABLE | criticals variable
+int DAMAGE_VARIABLE | damage variable
+int OBJECT_VARIABLE | object variable
+it.businesslogic.ireport.JRVariable tmpVariable | tmp variable
+java.lang.String subreportVariable | subreport variable
+java.lang.String toVariable | to variable
+javax.swing.JButton jButtonDeleteVariable | j button delete variable
+javax.swing.JButton jButtonModifyVariable | j button modify variable
+javax.swing.JButton jButtonNewVariable | j button new variable
+javax.swing.JComboBox jComboBoxSubreportVariable | j combo box subreport variable
+javax.swing.JComboBox jComboBoxVariable | j combo box variable
+javax.swing.JMenuItem jMenuItemNewVariable | j menu item new variable

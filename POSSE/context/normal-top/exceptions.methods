@@ -1,0 +1,9 @@
+JCheckBoxMenuItem getBreakOnExceptions() | get break on exceptions
+LinkedList<QDJError;> _parseExceptions2CompilerErrors(QLinkedList<QJExprParseException;>;) | parse exceptions 2 compiler errors
+List getExceptions() | get exceptions
+void logExceptions(QSQLException;) | log exceptions
+void logExceptions(QSQLException;QString;) | log exceptions
+void setBreakOnExceptions(Z) | set break on exceptions
+void testExceptions() | test exceptions
+void testExceptionsDelegate() | test exceptions delegate
+void testGetNodesExceptions() | test get nodes exceptions

@@ -1,0 +1,2 @@
+boolean autoCryptoFallback() | auto crypto fallback
+void copyData_FALLBACK(QRaster;QWritableRaster;) | copy data fallback

@@ -1,0 +1,10 @@
+Access getAccessGlobal() | get access global
+boolean hasExplicitGlobal() | has explicit global
+boolean hasGlobal() | has global
+BufferedImage createImageGlobal(III) | create image global
+ContextFactory getGlobal() | get global
+Global getGlobal() | get global
+ScriptableObject getGlobal(QContext;) | get global
+void calculateDimensionsGlobal(II) | calculate dimensions global
+void initGlobal(QContextFactory;) | init global
+void initGlobal(QSecurityController;) | init global

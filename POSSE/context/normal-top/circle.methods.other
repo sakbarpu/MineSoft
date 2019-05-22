@@ -1,0 +1,5 @@
+CircleIterator getCircleIterator(QPosition;ZI) | get circle iterator
+Figure readCircleElement(QIXMLElement;) | read circle element
+void setCircleArray(int i, Circle circle) | set circle array
+void testPrototypeCircleLeadsToException() | test prototype circle leads to exception
+void writeCircleElement(QIXMLElement;QSVGEllipseFigure;) | write circle element

@@ -1,0 +1,3 @@
+int ACTUATOR_UPPER_ARM | actuator upper arm
+int ACTUATOR_UPPER_LEG | actuator upper leg
+int Id_toUpperCase | id to upper case

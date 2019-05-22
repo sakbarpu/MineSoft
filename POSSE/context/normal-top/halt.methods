@@ -1,0 +1,5 @@
+boolean isHaltOnError() | is halt on error
+SchemaExport setHaltOnError(Z) | set halt on error
+void halt() | halt
+void setHaltonerror(Z) | set haltonerror
+void setHaltOnError(Z) | set halt on error

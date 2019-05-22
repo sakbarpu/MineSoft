@@ -1,0 +1,30 @@
+boolean getUpperCase() | get upper case
+boolean isAlphaUpper(C) | is alpha upper
+boolean isAlphaUpper(QString;) | is alpha upper
+boolean storesUpperCaseIdentifiers() | stores upper case identifiers
+boolean storesUpperCaseQuotedIdentifiers() | stores upper case quoted identifiers
+boolean upperNumericBoundIsOpen() | upper numeric bound is open
+double getInterpolationParameterUpperBound() | get interpolation parameter upper bound
+double getUpperBound() | get upper bound
+double getUpperBoundMinSupport() | get upper bound min support
+double getUpperNumericBound() | get upper numeric bound
+double getUpperValue() | get upper value
+int calcUpperChildShift(QNodeView;QLinkedList;) | calc upper child shift
+int getRunUpper() | get run upper
+int getUpper() | get upper
+int getUpperChildShift() | get upper child shift
+int getUpperSize() | get upper size
+int rangeUpper(QString;) | range upper
+String interpolationParameterUpperBoundTipText() | interpolation parameter upper bound tip text
+String toUpperCase(QString;) | to upper case
+String toUpperFirstLetter(QString;) | to upper first letter
+String upperBoundMinSupportTipText() | upper bound min support tip text
+String upperSizeTipText() | upper size tip text
+void setInterpolationParameterUpperBound(D) | set interpolation parameter upper bound
+void setRootUpperChildShift(II) | set root upper child shift
+void setRunUpper(I) | set run upper
+void setUpperBoundMinSupport(D) | set upper bound min support
+void setUpperChildShift(I) | set upper child shift
+void setUpper(I) | set upper
+void setUpperSize(I) | set upper size
+void testToUpperCharFirst() | test to upper char first

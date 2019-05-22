@@ -1,0 +1,4 @@
+int ALOAD_0 | aload  0
+int ALOAD_1 | aload  1
+int ALOAD_2 | aload  2
+int ALOAD_3 | aload  3

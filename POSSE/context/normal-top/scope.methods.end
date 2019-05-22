@@ -1,0 +1,23 @@
+boolean getIgnoreDynamicScope() | get ignore dynamic scope
+boolean hasCompileFunctionsWithDynamicScope() | has compile functions with dynamic scope
+boolean hasScope() | has scope
+boolean isUseDynamicScope() | is use dynamic scope
+boolean setPackageScope(QString;) | set package scope
+Integer getBRIScope() | get bri scope
+int getScope(String scopeName) | get scope
+Scope getScope() | get scope
+Scriptable checkDynamicScope(QScriptable;QScriptable;) | check dynamic scope
+Scriptable getParentScope() | get parent scope
+Scriptable getScope() | get scope
+Scriptable getTopCallScope(QContext;) | get top call scope
+Scriptable getTopLevelScope(QScriptable;) | get top level scope
+Scriptable newCatchScope(QThrowable;QScriptable;QString;QContext;QScriptable;) | new catch scope
+void addDialectScope(QString;) | add dialect scope
+void setCompileFunctionsWithDynamicScope(Z) | set compile functions with dynamic scope
+void setParentScope(QScriptable;) | set parent scope
+void setScope(QScriptable;) | set scope
+void setScope(String scope) | set scope
+void testAliasScope() | test alias scope
+void testNotInScope() | test not in scope
+XMLLib bindToScope(QScriptable;) | bind to scope
+XMLLib extractFromScope(QScriptable;) | extract from scope

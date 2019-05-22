@@ -1,0 +1,5 @@
+int Id_importPackage | id import package
+java.lang.String DEBUG_CLASS_WITH_PACKAGE | debug class with package
+java.lang.String JGOODIES_PACKAGE | jgoodies package
+java.lang.String PLASTIC_THEMES_PACKAGE | plastic themes package
+java.lang.String targetPackage | target package

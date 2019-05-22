@@ -1,0 +1,5 @@
+int LSTORE | lstore
+int LSTORE_0 | lstore  0
+int LSTORE_1 | lstore  1
+int LSTORE_2 | lstore  2
+int LSTORE_3 | lstore  3

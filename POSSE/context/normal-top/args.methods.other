@@ -1,0 +1,8 @@
+boolean aggregateFuncNoArgsHasParenthesis(QString;QQueryTranslatorImpl;) | aggregate func no args has parenthesis
+boolean isVarArgsConstructor() | is var args constructor
+boolean isVarArgsMethod() | is var args method
+int[] getArgsToConvert([QClass;) | get args to convert
+Object[] getArgsArray([QObject;[DII) | get args array
+String getNonOptionArgsUsage() | get non option args usage
+void MasterJVMArgsListener(QJFrame;) | master jvm args listener
+void SlaveJVMArgsListener(QJFrame;) | slave jvm args listener

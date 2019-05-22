@@ -1,0 +1,4 @@
+boolean mustExcludeDirectories() | must exclude directories
+boolean mustIncludeDirectories() | must include directories
+void mustHaveXML() | must have xml
+void mustMatchToken(IQString;) | must match token

@@ -1,0 +1,33 @@
+ArrayList getSelectedNodesSortedByY() | get selected nodes sorted by y
+ArrayList getSelectedsSortedByY() | get selecteds sorted by y
+ArrayList<QFile;> getSortedByRate() | get sorted by rate
+boolean isFurnitureSortedPropertyBackwardCompatible(QHomePieceOfFurniture.SortableProperty;) | is furniture sorted property backward compatible
+boolean nullsAreSortedAtEnd() | nulls are sorted at end
+boolean nullsAreSortedAtStart() | nulls are sorted at start
+boolean nullsAreSortedHigh() | nulls are sorted high
+boolean nullsAreSortedLow() | nulls are sorted low
+double computeSortedInfo(QInstances;[[I[[D[D) | compute sorted info
+EventList<[QString;> getSortedList() | get sorted list
+HomePieceOfFurniture.SortableProperty getFurnitureSortedProperty() | get furniture sorted property
+IntIterator rangeSortedBy(QString;DDI) | range sorted by
+IntIterator rangeSortedBy(QString;FFI) | range sorted by
+IntIterator rangeSortedBy(QString;III) | range sorted by
+IntIterator rangeSortedBy(QString;JJI) | range sorted by
+IntIterator rangeSortedBy(QString;QObject;QObject;I) | range sorted by
+IntIterator rowsSortedBy(QString;Z) | rows sorted by
+IpRange[] getSortedRanges([QIpRange;) | get sorted ranges
+List getSortedTaskActivities() | get sorted task activities
+List<QAbstractGoods;> getSortedPotential() | get sorted potential
+List<QBibtexEntry;> getSortedEntries(QBibtexDatabase;QSet<QString;>;Z) | get sorted entries
+List<QOpenDefinitionsDocument;> getSortedOpenDefinitionsDocuments() | get sorted open definitions documents
+List<QWorkLocationPlan;> getSortedWorkLocationPlans() | get sorted work location plans
+Map getFilesSortedToProject(List filesToCheck) | get files sorted to project
+PeerItem[] getExchangedPeersSortedByLeastPopularFirst() | get exchanged peers sorted by least popular first
+SortedList<QBibtexEntry;> getSortedForTable() | get sorted for table
+SubQuery[] getSortedSubqueries() | get sorted subqueries
+Vector getSortedProperties(QVector;) | get sorted properties
+Vector getSortedSiblings(QMindMapNode;) | get sorted siblings
+void assertFurnitureIsSortedByName(QJTable;Z) | assert furniture is sorted by name
+void insertFolderSortedInto(QInnerNode<*QItemT;>;QInnerNode<*QItemT;>;) | insert folder sorted into
+void insertNodeSortedInto(QLeafNode<QItemT;>;QInnerNode<*QItemT;>;) | insert node sorted into
+void setFurnitureSortedProperty(QHomePieceOfFurniture.SortableProperty;) | set furniture sorted property

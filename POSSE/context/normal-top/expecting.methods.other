@@ -1,0 +1,2 @@
+boolean isExpectingCollectionIndex() | is expecting collection index
+void setExpectingCollectionIndex() | set expecting collection index

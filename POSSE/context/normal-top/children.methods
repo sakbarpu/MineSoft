@@ -1,0 +1,79 @@
+ArrayList getChildren() | get children
+ArrayList<QIXMLElement;> getChildren() | get children
+AST findTypeInChildren(QAST;I) | find type in children
+boolean getAllowsChildren() | get allows children
+boolean getAppliesToChildren() | get applies to children
+boolean hasChildren() | has children
+boolean hasChildren(TreeListDialogField field, Object element) | has children
+double[] cuScoresForChildren(QInstance;) | cu scores for children
+Element getAllChildrenWithAttribute(Element root, String elementname, String attribname, String attribval) | get all children with attribute
+Enumeration children() | children
+Enumeration enumerateChildren() | enumerate children
+Enumeration<QGroupTreeNode;> children() | children
+FastVector getChildren() | get children
+FastVector getChildren(I) | get children
+int countChildren() | count children
+int countChildrenWithTerms() | count children with terms
+int getAccessibleChildrenCount() | get accessible children count
+int getChildrenCount() | get children count
+int getMaxKMeansForChildren() | get max k means for children
+int numChildren() | num children
+Iterator children() | children
+Iterator children(QNode;) | children
+Iterator getCascadableChildrenIterator(QEventSource;QCollectionType;QObject;) | get cascadable children iterator
+Iterator getChildren() | get children
+Iterator iterateChildren() | iterate children
+Iterator<QIXMLElement;> iterateChildren() | iterate children
+Iterator sortedChildren(QNodeItem;) | sorted children
+java.util.List<QFigure;> getChildren() | get children
+java.util.List<QFigure;> getChildrenFrontToBack() | get children front to back
+java.util.Vector getChildren() | get children
+LinkedList getChildrenViews() | get children views
+List collectChildren(QAST;QFilterPredicate;) | collect children
+List getChildren() | get children
+List<QRegion;> getChildren() | get children
+OutputFileEntry getEntry(X10FunctionEnum function, X10Pair pair, AST node, AST children) | get entry
+ShareResource[] getChildren() | get children
+SimpleXMLParserDocumentNode[] getChildren() | get children
+String[] childrenValues() | children values
+String maxKMeansForChildrenTipText() | max k means for children tip text
+StylePattern getChildrenStylePattern() | get children style pattern
+SWTSkinObject[] getChildren() | get children
+VariableNode[] children(QVariableNode;) | children
+Vector getChildren() | get children
+void addChildrenFromTextFiles(File inFiles) | add children from text files
+void addChildrenToBack(QNode;) | add children to back
+void addChildrenToFront(QNode;) | add children to front
+void addChildrenToTree(QGOETreeNode;QHierarchyPropertyParser;) | add children to tree
+void addListenerAndChildren(QComposite;IQListener;) | add listener and children
+void addMenuAndNonTextChildren(QComposite;QMenu;) | add menu and non text children
+void adjustChildren(QParams;D) | adjust children
+void basicRemoveAllChildren() | basic remove all children
+void basicSetAttributeOnChildren(QAttributeKey;QObject;) | basic set attribute on children
+void cleanVoidChildren() | clean void children
+void collectChildren(QList;QAST;QFilterPredicate;) | collect children
+void drawChildren(QGraphics2D;) | draw children
+void onAddChildren(QMindMapNode;) | on add children
+void onRemoveChildren(QMindMapNode;QMindMapNode;) | on remove children
+void onUpdateChildrenHook(QMindMapNode;) | on update children hook
+void outputChildren(QConsoleInput;QString;QShareResourceDirContents;) | output children
+void paintChildren(QGraphics;) | paint children
+void readChildren(QXMLStreamReader;) | read children
+void readChildren(QXMLStreamReader;QSpecification;) | read children
+void recursiveCallAddChildren(QMindMapNode;QMindMapNode;) | recursive call add children
+void recursiveCallRemoveChildren(QMindMapNode;QMindMapNode;QMindMapNode;) | recursive call remove children
+void removeAllChildren() | remove all children
+void rewriteAsObjectChildren(QNode;QNode;) | rewrite as object children
+void scanChildren([CIII) | scan children
+void setChildren(CCFChild c) | set children
+void setChildrenFG(QControl;QColor;) | set children fg
+void setChildren(Qjava.util.Vector;) | set children
+void setChildren(QList<QRegion;>;) | set children
+void setChildrenStylePattern(QStylePattern;) | set children style pattern
+void setDebugAndChildren(Z) | set debug and children
+void setMaxKMeansForChildren(I) | set max k means for children
+void setOptionalUiChildren(OptionalUiChildrenInterface child) | set optional ui children
+void setStateToAllChildren(QUnitState;) | set state to all children
+void updateChildrenItems(TreeItem parent) | update children items
+void updateRelativeYOfChildren(QNodeView;QLinkedList;) | update relative y of children
+void writeChildren(QXMLStreamWriter;) | write children

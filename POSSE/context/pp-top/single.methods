@@ -1,0 +1,4 @@
+boolean getSingletonPublishAttempted() | get singleton publish attempted
+void setSingletonPublishAttempted() | set singleton publish attempted
+void singleButtonActionPerformed(Qjava.awt.event.ActionEvent;) | single button action performed
+void singleRadioButtonActionPerformed(Qjava.awt.event.ActionEvent;) | single radio button action performed

@@ -1,0 +1,11 @@
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> INTERACTIONS_AUTO_IMPORT_CLASSES | interactions auto import classes
+int JAR_CLASSES | jar classes
+java.lang.Class[] aArgClasses | a arg classes
+java.lang.Class[] colClasses | col classes
+java.lang.Class[] columnClasses | column classes
+java.lang.Class<com.sun.j3d.loaders.Loader>[] additionalLoaderClasses | additional loader classes
+java.lang.String ADDITIONAL_LOADER_CLASSES | additional loader classes
+java.util.HashMap cachedClasses | cached classes
+java.util.Hashtable javaAdapterGeneratedClasses | java adapter generated classes
+javax.swing.JCheckBox _jarClasses | jar classes
+org.hsqldb.lib.HashSet illegalParameterClasses | illegal parameter classes

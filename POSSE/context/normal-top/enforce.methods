@@ -1,0 +1,6 @@
+Object enforceSize(QObject;IIIZ) | enforce size
+void enforce1charBH(QString;C) | enforce 1 char bh
+void enforce1charSpecial(QString;C) | enforce 1 char special
+void enforceFieldValueLimits([QObject;[I) | enforce field value limits
+void enforceNodesLimit(TAgent agent) | enforce nodes limit
+void enforceNullConstraints([QObject;) | enforce null constraints

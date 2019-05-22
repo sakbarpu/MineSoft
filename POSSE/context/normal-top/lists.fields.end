@@ -1,0 +1,5 @@
+java.util.List _allLists | all lists
+java.util.List trackerUrlLists | tracker url lists
+org.gudy.azureus2.core3.disk.impl.piecemapper.DMPieceList[] piece_lists | piece lists
+org.hsqldb.lib.HsqlArrayList[] triggerLists | trigger lists
+org.hsqldb.lib.IntKeyHashMap hRightsLists | h rights lists

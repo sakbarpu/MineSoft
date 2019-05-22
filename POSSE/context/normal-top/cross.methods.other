@@ -1,0 +1,18 @@
+boolean getCrossValidate() | get cross validate
+boolean getUseCrossOver() | get use cross over
+boolean getUseCrossValidation() | get use cross validation
+int getASCrossvalidationFolds() | get as cross validation folds
+int getClassifierCrossvalidationFolds() | get classifier cross validation folds
+int getCrossreferencedEntriesCount() | get cross referenced entries count
+int getCrossVal() | get cross val
+ResultSet getCrossReference(QString;QString;QString;QString;QString;QString;) | get cross reference
+String useCrossOverTipText() | use cross over tip text
+String useCrossValidationTipText() | use cross validation tip text
+void addCrossJoin(QString;QString;) | add cross join
+void findParamsByCrossValidation(IQInstances;QRandom;) | find params by cross validation
+void setCrossSections(String value) | set cross sections
+void setCrossVal(I) | set cross val
+void setCrossValidate(Z) | set cross validate
+void setUseCrossOver(Z) | set use cross over
+void setUseCrossValidation(Z) | set use cross validation
+void testCrossRefCompleter() | test cross ref completer

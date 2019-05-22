@@ -1,0 +1,6 @@
+double[] structureCosts | structure costs
+int structureFlags | structure flags
+int[] structureLevels | structure levels
+int structureType | structure type
+java.lang.String[] structureNames | structure names
+java.lang.String structureType | structure type

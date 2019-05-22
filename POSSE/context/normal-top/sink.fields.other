@@ -1,0 +1,3 @@
+java.lang.String heatSinkType | heat sink type
+megamek.common.loaders.HeatSinkType heatSinkType | heat sink type
+megamek.common.loaders.TechType heatSinkTechType | heat sink tech type

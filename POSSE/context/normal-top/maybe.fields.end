@@ -1,0 +1,3 @@
+byte LAN_LOCAL_MAYBE | lan local maybe
+int BUDDY_MAYBE | buddy maybe
+int RESTART_REQUIRED_MAYBE | restart required maybe

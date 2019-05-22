@@ -1,0 +1,2 @@
+boolean sso_problem_reported | sso problem reported
+boolean ttl_problem_reported | ttl problem reported

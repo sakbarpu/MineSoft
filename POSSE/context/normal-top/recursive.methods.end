@@ -1,0 +1,10 @@
+boolean getRecursive() | get recursive
+boolean isRecursive() | is recursive
+Promise<Integer> callRecursive(int i, int sum) | call recursive
+void addDirectoryRecursive(QFile;QString;) | add directory recursive
+void addDirectoryRecursive(QFile;QString;QFileFilter;) | add directory recursive
+void deleteRecursive(QFile;) | delete recursive
+void expandRecursive(QJTree;QTreePath;Z) | expand recursive
+void setRecursive(Z) | set recursive
+void setStyleRecursive(QMindMapNode;) | set style recursive
+void testCreateJarFromDirectoryRecursive() | test create jar from directory recursive

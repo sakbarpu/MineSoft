@@ -1,0 +1,14 @@
+boolean isActionNecessary(QParserResult;) | is action necessary
+boolean isCollectionDirtyCheckNecessary(QEntityPersister;QStatus;) | is collection dirty check necessary
+boolean isUpdateNecessary(QFlushEntityEvent;) | is update necessary
+boolean isUpdateNecessary(QFlushEntityEvent;Z) | is update necessary
+boolean registerCallbackIfNecessary() | register callback if necessary
+boolean substituteValuesIfNecessary(QObject;QSerializable;[QObject;QEntityPersister;QSessionImplementor;) | substitute values if necessary
+Object createProxyIfNecessary(QLoadEvent;QEntityPersister;QEntityKey;QLoadEventListener.LoadType;QPersistenceContext;) | create proxy if necessary
+String getFromResourceIfNecessary(QString;) | get from resource if necessary
+void addAssociationToJoinTreeIfNecessary(QAssociationType;[QString;QString;QString;II) | add association to join tree if necessary
+void createTemporaryTableIfNecessary(QQueryable;QSessionImplementor;) | create temporary table if necessary
+void createXmlTemplateIfNecessary(QString;QString;) | create xml template if necessary
+void dropTemporaryTableIfNecessary(QQueryable;QSessionImplementor;) | drop temporary table if necessary
+void mutateRowValueConstructorSyntaxesIfNecessary(QType;QType;) | mutate row value constructor syntaxes if necessary
+void setIfNecessary(QBibtexEntry;QString;QString;) | set if necessary

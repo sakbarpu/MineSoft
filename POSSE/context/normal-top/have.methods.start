@@ -1,0 +1,7 @@
+boolean haveCommonElement([I[II) | have common element
+boolean haveEqualArrays([I[II) | have equal arrays
+boolean haveEqualArrays([QObject;[QObject;I) | have equal arrays
+boolean haveEqualSets([I[II) | have equal sets
+boolean haveTestsRun() | have tests run
+void haveNewPiece(I) | have new piece
+void havePiece(IIQPEPeer;) | have piece

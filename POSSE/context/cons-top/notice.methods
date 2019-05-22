@@ -1,0 +1,7 @@
+CONS NoticeReference(IQString;QASN1Sequence;) | notice reference
+CONS NoticeReference(QASN1Sequence;) | notice reference
+CONS NoticeReference(QString;QASN1Sequence;) | notice reference
+CONS NoticeReference(QString;QVector;) | notice reference
+CONS UserNotice(QASN1Sequence;) | user notice
+CONS UserNotice(QNoticeReference;QDisplayText;) | user notice
+CONS UserNotice(QNoticeReference;QString;) | user notice

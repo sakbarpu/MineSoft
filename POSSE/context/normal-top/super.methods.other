@@ -1,0 +1,23 @@
+boolean canToggleSuperSeedMode() | can toggle super seed mode
+boolean isSuperSeeding() | is super seeding
+boolean isSuperSeedMode() | is super seed mode
+boolean isSupertask() | is super task
+int getNbSuperSeeds() | get nb super seeds
+MiscType createSuperCharger() | create super charger
+ResultSet getSuperTables(QString;QString;QString;) | get super tables
+ResultSet getSuperTypes(QString;QString;QString;) | get super types
+Task getSupertask() | get super task
+Type getSuperType(QTypeSystem;) | get super type
+void addSuperTypes() | add super types
+void initialiseSuperSeedMode() | initialise super seed mode
+void recalculateSupertaskCompletionPercentageBottomUp(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task completion percentage bottom up
+void recalculateSupertaskCompletionPercentage(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task completion percentage
+void recalculateSupertaskScheduleBottomUp(QSet;QTaskContainmentHierarchyFacade;) | recalculate super task schedule bottom up
+void recalculateSupertaskSchedule(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task schedule
+void setNbSuperSeedsFromHTML(QString;) | set nb super seeds from html
+void setSuperSeedMode(Z) | set super seed mode
+void testErrorInSuperClass() | test error in super class
+void testLoopingDependencyTargetedAtSupertask() | test looping dependency targeted at super task
+void testSupertaskDurationShrinksWhenNestedTasksShrink() | test super task duration shrinks when nested tasks shrink
+void updatePeersInSuperSeedMode() | update peers in super seed mode
+void updateSuperSeedPiece(QPEPeer;I) | update super seed piece

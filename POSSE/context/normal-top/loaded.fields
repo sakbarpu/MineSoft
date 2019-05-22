@@ -1,0 +1,6 @@
+boolean loadedWithoutErrors | loaded without errors
+int BINARY_LOADEDBYTESINTO | binary loaded bytes into
+java.util.List loaded_pi_list | loaded pi list
+java.util.Vector loadedUnits | loaded units
+long plugin_ids_loaded_at | plugin ids loaded at
+thePackage.GZip _loadedPage | loaded page

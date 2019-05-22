@@ -1,0 +1,180 @@
+ActionMessages deleteCompany(Company company) | delete company
+boolean deleteAtom(Atom atom) | delete atom
+boolean deleteAutoSaveFile(QBasePanel;) | delete auto save file
+boolean deleteDirectory(QFile;) | delete directory
+boolean deleteFirstToLast(QStringBuffer;QString;QString;QString;QString;) | delete first to last
+boolean deleteLockFile() | delete lock file
+boolean deleteLockFile(QFile;) | delete lock file
+boolean deleteObjectElem(QScriptable;QObject;QContext;) | delete object elem
+boolean deleteOlderVersions(QFile;) | delete older versions
+boolean deleteOrphans() | delete orphans
+boolean deletePluginFile(QFile;) | delete plugin file
+boolean deletePlugin(QNameAndVersion;) | delete plugin
+boolean deleteProperty(QScriptable;I) | delete property
+boolean deleteRange(QStringBuffer;II) | delete range
+boolean deleteRecursively(QFile;) | delete recursively
+boolean deleteRegexPair(QStringBuffer;QString;QString;) | delete regex pair
+boolean deleteTab(QString;Z) | delete tab
+boolean deleteWithRecycle(QFile;) | delete with recycle
+FastVector deleteInfrequentSequences(QFastVector;J) | delete infrequent sequences
+FastVector deleteItemSets(QFastVector;II) | delete item sets
+int deleteByWhere(String where) | delete by where
+int deleteParent(IQInstances;) | delete parent
+int deleteRight(QIterator;) | delete right
+int deleteRouter(QRouterInfo;) | delete router
+int deleteRow() | delete row
+ResourceColumn deleteCustomColumn(QString;) | delete custom column
+Sequence deleteEvent(QString;) | delete event
+String deleteEmptyBinsTipText() | delete empty bins tip text
+String _deleteSemiColon(QString;) | delete semi colon
+void DeleteAction() | delete action
+void deleteAlias(QConsoleInput;QString;) | delete alias
+void deleteAllDescriptions() | delete all descriptions
+void deleteAllOwners() | delete all owners
+void deleteAllResults() | delete all results
+void DeleteArcAction(II) | delete arc action
+void deleteArc(II) | delete arc
+void deleteArc(IQString;) | delete arc
+void deleteArc([QString;) | delete arc
+void deleteArc(QString;I) | delete arc
+void deleteArc(QString;QString;) | delete arc
+void deleteAssignment(QProjectResource;) | delete assignment
+void deleteAssignments([QResourceAssignment;) | delete assignments
+void deleteAsxFile(QDownloadManager;) | delete asx file
+void deleteAttribute() | delete attribute
+void deleteAttributeAt(I) | delete attribute at
+void deleteAttributeAt(IZ) | delete attribute at
+void deleteAttributes() | delete attributes
+void deleteAttributes([I) | delete attributes
+void deleteAttributeType(I) | delete attribute type
+void deleteAttribute(Z) | delete attribute
+void deleteAuction(QAuctionEntry;) | delete auction
+void deleteAzpdFile(QDownloadManager;) | delete az pd file
+void deleteBackgroundImage() | delete background image
+void deleteBackup() | delete backup
+void deleteChatMessage(QChatMessage;) | delete chat message
+void deleteClassificationItem(String classifID) | delete classification item
+void DeleteComment(QAuctionEntry;) | delete comment
+void deleteCon() | delete con
+void deleteConnectionPopup(QVector;II) | delete connection popup
+void deleteCustomColumn(QString;) | delete custom column
+void deleteDashboard(IDashboard dashboard) | delete dashboard
+void deleteData() | delete data
+void deleteDatabase(QString;) | delete database
+void deleteDataFileContents(QTOTorrent;QString;QString;) | delete data file contents
+void deleteDataFiles() | delete data files
+void deleteDataFiles(QTOTorrent;QString;QString;) | delete data files
+void deleteDependency(QTaskDependency;) | delete dependency
+void deleteDimensionLine(QDimensionLine;) | delete dimension line
+void deleteDirectory() | delete directory
+void deleteDirectoryOnExit(QFile;) | delete directory on exit
+void deleteDir(File dir) | delete dir
+void deleteDirs() | delete dirs
+void deleteDomain(WikiDomain domain) | delete domain
+void deleteElem(QScriptable;J) | delete elem
+void deleteEntity(QEventSource;QObject;QEntityEntry;ZQEntityPersister;QSet;) | delete entity
+void deleteEntity(QString;) | delete entity
+void delete_entry(QAuctionEntry;) | delete entry
+void deleteEvent(QString;) | delete event
+void deleteFeedback() | delete feedback
+void deleteFile(QFile;) | delete file
+void deleteFile(String fileName) | delete file
+void deleteFile(Z) | delete file
+void deleteFurniture(QList<QHomePieceOfFurniture;>;) | delete furniture
+void deleteGraftedCases(QInstances;) | delete graf ted cases
+void deleteHome(QHome;) | delete home
+void deleteInstance() | delete instance
+void deleteInstanceAt(I) | delete instance at
+void deleteInstanceAt(IZ) | delete instance at
+void DeleteInstance(QInstance;) | delete instance
+void deleteInstances() | delete instances
+void deleteInstances([I) | delete instances
+void deleteInstance(Z) | delete instance
+void deleteInternal() | delete internal
+void DeleteItem(QInteger;) | delete item
+void DeleteItem(QString;) | delete item
+void deleteItems(QList<+QSelectable;>;) | delete items
+void deleteKey(IQString;) | delete key
+void deleteKey(IQString;Z) | delete key
+void deleteLabel(QLabel;) | delete label
+void deleteLastParent(QInstances;) | delete last parent
+void deleteLineCommentSlashOpensBlockComment() | delete line comment slash opens block comment
+void deleteLines(II) | delete lines
+void DeleteListener() | delete listener
+void deleteLocal() | delete local
+void deleteLockUse(int index) | delete lock use
+void deleteLog() | delete log
+void deleteMessage(QBuddyPluginBuddyMessage;) | delete message
+void deleteNewAndOldFiles() | delete new and old files
+void deleteNewBackup() | delete new backup
+void deleteNewScript() | delete new script
+void deleteNextChar(QActionEvent;) | delete next char
+void deleteNoCheckFromLog(QSession;[QObject;) | delete no check from log
+void deleteNoCheck(QSession;QRow;Z) | delete no check
+void deleteNoCheckRollback(QSession;QRow;Z) | delete no check rollback
+void DeleteNodeAction(I) | delete node action
+void deleteNode(I) | delete node
+void deleteNode(QMindMapNode;) | delete node
+void deleteNode(QString;) | delete node
+void deleteNoRefCheck(QSession;QRow;) | delete no ref check
+void deleteObject(OID oid) | delete object
+void deleteObject(QSelectable;) | delete object
+void deleteObsoleteContent(QSet<QURL;>;QString;) | delete obsolete content
+void deleteOnExit() | delete on exit
+void deleteOnExit(QFile;) | delete on exit
+void deleteOrphans(QString;QPersistentCollection;) | delete orphans
+void deleteOrResetFreePos(QDatabase;QString;) | delete or reset free pos
+void deletePieceOfFurniture(QHomePieceOfFurniture;) | delete piece of furniture
+void deletePluginsOnStartup([QString;) | delete plugins on startup
+void deletePortMapping(ZI) | delete port mapping
+void deletePortMapping(ZII) | delete port mapping
+void deleteProperty() | delete property
+void deleteRecentConnectionSettings() | delete recent connection settings
+void deleteRecentHomes() | delete recent homes
+void deleteRec(int i_key) | delete rec
+void deleteRecursive(QFile;) | delete recursive
+void deleteReferenceableElement(IMReferenceableElement elem) | delete referenceable element
+void deleteReply(I) | delete reply
+void deleteReply(QBuddyPluginBuddyMessage;) | delete reply
+void deleteRequest(I) | delete request
+void deleteRequest(QBuddyPluginBuddyMessage;) | delete request
+void deleteResilientConfigFile(QString;) | delete resilient config file
+void deleteResource(QProjectResource;) | delete resource
+void deleteResources() | delete resources
+void deleteResources([QProjectResource;) | delete resources
+void deleteResults([QString;) | delete results
+void deleteRole(QRole;) | delete role
+void deleteRoom(QRoom;) | delete room
+void deleteRow() | delete row
+void DeleteRowAction() | delete row action
+void deleteRows(QPersistentCollection;QSerializable;QSessionImplementor;) | delete rows
+void deleteSearch(QSearcher;) | delete search
+void deleteSelectedElements() | delete selected elements
+void deleteSelection() | delete selection
+void DeleteSelectionAction(QFastVector;) | delete selection action
+void deleteSelection(QFastVector;) | delete selection
+void deleteSelf() | delete self
+void deleteShortcut(MenuShortcut shortcut) | delete shortcut
+void deleteStorageKey(QstorageKey;) | delete storage key
+void deleteStringAttributes() | delete string attributes
+void deleteTaskDep(long sid, long tid) | delete task dep
+void deleteTask(QTask;) | delete task
+void deleteTasks(Z) | delete tasks
+void deleteTest() | delete test
+void deleteTexture(QCatalogTexture;) | delete texture
+void deleteThreadVars() | delete thread vars
+void deleteToolTipFeedback() | delete tool tip feedback
+void deleteTorrentFile() | delete torrent file
+void deleteTorrent(QShareItemImpl;) | delete torrent
+void deleteTransientEntity(QEventSource;QObject;ZQEntityPersister;QSet;) | delete transient entity
+void deleteTransition(I) | delete transition
+void DeleteUserCommand() | delete user command
+void deleteUser(QString;) | delete user
+void deleteValue(IQString;QString;) | delete value
+void deleteWall(QWall;) | delete wall
+void deleteWithMissingClass() | delete with missing class
+void deleteWithMissing(I) | delete with missing
+void deleteWithMissing(QAttribute;) | delete with missing
+void deleteWithoutUndo(QMindMapNode;) | delete without undo
+void deleteXBRecord(QConnection;) | delete xb record
+void deleteZipTable() | delete zip table

@@ -1,0 +1,20 @@
+boolean addExtraClassPath(QFile;) | add extra class path
+boolean isExtraLazy() | is extra lazy
+Collection getExtraFilters() | get extra filters
+double calcScoreWithExtraParent(II) | calc score with extra parent
+double measureExtraArcs() | measure extra arcs
+float getStrokeWidthExtraMargin(QList<QSelectable;>;) | get stroke width extra margin
+Iterable<QFile;> getExtraClassPath() | get extra class path
+Iterable<QFile;> getExtraCP() | get extra cp
+Map getExtraProperties() | get extra properties
+Scriptable getExtraMethodSource(QContext;) | get extra method source
+SelectFragment setExtraSelectList(QCaseFragment;QString;) | set extra select list
+SelectFragment setExtraSelectList(QString;) | set extra select list
+String getExtraNameCharacters() | get extra name characters
+void addExtraClassPath(QFile;) | add extra class path
+void addExtraCommand(QString;) | add extra command
+void addExtraCP(QFile;) | add extra cp
+void addExtraJoins(QJoinFragment;QString;QJoinable;Z) | add extra joins
+void buildExtraSchedules(List<Schedule> schedules, Schedule schedule, List<Map.Entry<CourseDescriptor,SortedSet<UniqueSection>>> extra, int index) | build extra schedules
+void setExtraClassPath(QIterable<QFile;>;) | set extra class path
+void setExtraLazy(Z) | set extra lazy

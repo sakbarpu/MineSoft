@@ -1,0 +1,15 @@
+boolean continuationException | continuation exception
+boolean sawSecurityException | saw security exception
+boolean syntaxException | syntax exception
+com.aelitis.azureus.core.diskmanager.cache.CacheFileManagerException pending_exception | pending exception
+int ECMAERROR_EXCEPTION | ecma error exception
+int EVALUATOR_EXCEPTION | evaluator exception
+int JAVASCRIPT_EXCEPTION | javascript exception
+int UNEXPECTED_EXCEPTION | unexpected exception
+java.lang.Exception _caughtException | caught exception
+java.lang.Exception encapsulatedException | encapsulated exception
+java.lang.Exception myException | my exception
+java.lang.Exception _startupException | startup exception
+java.lang.String REPLY_EXCEPTION | reply exception
+java.lang.Throwable lastProcessedException | last processed exception
+org.gudy.azureus2.core3.util.ListenerManagerDispatcherWithException target_with_exception | target with exception

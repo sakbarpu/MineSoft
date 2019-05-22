@@ -1,0 +1,22 @@
+boolean listsAreIdentical(QList;QList;) | lists are identical
+LispList readLists() | read lists
+List getTaskLoadsLists(QList;) | get task loads lists
+List initDownloadManagerLists([QDownloadManager;) | init download manager lists
+List<QList<QList<QString;>;>;> commandLineToLists(QString;) | command line to lists
+Map getNamedParameterLists() | get named parameter lists
+String[] appendLists([QString;[QString;) | append lists
+String expandParameterLists(QMap;) | expand parameter lists
+void addLists() | add lists
+void _addToStyleLists(IQString;QString;) | add to style lists
+void checkColumnLists() | check column lists
+void clearUpdateLists(QHashMappedList;) | clear update lists
+void compareLists(QHsqlArrayList;QHsqlLinkedList;QVector;) | compare lists
+void constructTrackerUrlLists(Z) | construct tracker url lists
+void createTransportLists() | create transport lists
+void loadFileLists() | load file lists
+void setupAttribLists() | setup attrib lists
+void testCommandLineToLists() | test command line to lists
+void testCommandLineToLists_Pipe() | test command line to lists pipe
+void testCommandLineToLists_PipeAndSeq() | test command line to lists pipe and seq
+void testCommandLineToLists_Seq() | test command line to lists seq
+void testLists() | test lists

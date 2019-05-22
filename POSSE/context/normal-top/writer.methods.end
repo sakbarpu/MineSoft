@@ -1,0 +1,29 @@
+boolean getCreateWriter() | get create writer
+boolean isWriter() | is writer
+BufferedWriter getWriter() | get writer
+DMWriter createWriter(QDiskManagerHelper;) | create writer
+java.io.PrintWriter getLogWriter() | get log writer
+JComponentWriter getWriter() | get writer
+JComponentWriter getWriter(QString;) | get writer
+PrintWriter getErrWriter() | get err writer
+PrintWriter getLogWriter() | get log writer
+PrintWriter getPrintWriter() | get print writer
+RrdWriter getRrdWriter() | get rrd writer
+ScriptWriterBase newScriptWriter(QDatabase;QString;ZZI) | new script writer
+VerifyingWriter getWriter() | get writer
+void ButtonActionWriter(QTagWriter;IQVector;) | button action writer
+void exportReportToWriter() | export report to writer
+void exportToOoWriter(QFile;) | export to oo writer
+void registerWriter(QString;) | register writer
+void resetWriter() | reset writer
+void setErrWriter(QPrintWriter;) | set err writer
+void setLogWriter(PrintWriter out) | set log writer
+void setLogWriter(QPrintWriter;) | set log writer
+void setOutputWriter(QWriter;) | set output writer
+void testOBJWriter() | test obj writer
+void unregisterWriter(QString;) | unregister writer
+XMLWriter createWriter(QOutputStream;) | create writer
+XMLWriter createWriter(QOutputStream;QString;) | create writer
+XMLWriter createWriter(QWriter;) | create writer
+XMLWriter createWriter(QWriter;QString;) | create writer
+XmlWriter createXmlWriter() | create xml writer

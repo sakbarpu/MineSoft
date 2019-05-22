@@ -1,0 +1,9 @@
+AST checkSyntax(QString;ZZ) | check syntax
+boolean supportsRowValueConstructorSyntax() | supports row value constructor syntax
+File convertFromURLSyntax(QFile;) | convert from url syntax
+void alterSyntax() | alter syntax
+void mutateRowValueConstructorSyntax(I) | mutate row value constructor syntax
+void setSyntax() | set syntax
+void setSyntax(QStreamTokenizer;) | set syntax
+void testCommandSyntax() | test command syntax
+void testConfigure_RealmSyntax() | test configure realm syntax

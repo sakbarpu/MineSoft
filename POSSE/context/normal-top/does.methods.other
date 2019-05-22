@@ -1,0 +1,10 @@
+void assertInteractionsDoesNotContain(QString;) | assert interactions does not contain
+void assertInteractionsDoesNotMatch(QString;) | assert interactions does not match
+void testApplyDoesChangeConfig() | test apply does change config
+void testCancelDoesNotChangeConfig() | test cancel does not change config
+void testDoesNotEndWithParenDelim() | test does not end with paren delim
+void testDoesNotStartWithPrefix() | test does not start with prefix
+void testIndentDoesNothing() | test indent does nothing
+void testLineDoesNotContainColon() | test line does not contain colon
+void testLineDoesNotContainColonDueToComments() | test line does not contain colon due to comments
+void testLineDoesNotContainColonDueToQuotes() | test line does not contain colon due to quotes

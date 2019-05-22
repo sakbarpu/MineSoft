@@ -1,0 +1,20 @@
+boolean hasAfterTransactionCompletion() | has after transaction completion
+boolean needsMD5CheckOnCompletion(I) | needs md 5 check on completion
+boolean waitForCompletion(J) | wait for completion
+long getEstimatedSecondsToCompletion() | get estimated seconds to completion
+SaveLocationChange onCompletion(QDownloadManager;) | on completion
+SaveLocationChange onCompletion(QDownload;ZZ) | on completion
+void afterCompletion(I) | after completion
+void afterTransactionCompletion() | after transaction completion
+void afterTransactionCompletion(QTransaction;) | after transaction completion
+void afterTransactionCompletion(Z) | after transaction completion
+void afterTransactionCompletion(ZQTransaction;) | after transaction completion
+void beforeCompletion() | before completion
+void beforeTransactionCompletion(QTransaction;) | before transaction completion
+void checkCompletion() | check completion
+void CommandlineCompletion() | commandline completion
+void doCommandlineCompletion(QKeyEvent;) | do commandline completion
+void notifyLocalSynchsAfterTransactionCompletion(I) | notify local synchs after transaction completion
+void notifyLocalSynchsBeforeTransactionCompletion() | notify local synchs before transaction completion
+void onCompletion(QDownload;) | on completion
+void waitForCompletion() | wait for completion

@@ -1,0 +1,4 @@
+int WARNING | warning
+java.lang.StringBuffer warning | warning
+java.lang.String warning | warning
+org.gudy.azureus2.plugins.ui.sidebar.SideBarVitalityImage warning | warning

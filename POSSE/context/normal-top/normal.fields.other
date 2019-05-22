@@ -1,0 +1,6 @@
+boolean TRACK_NORMAL_DEFAULT | track normal default
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_NORMAL_COLOR | definitions normal color
+int aggressive_np_normal_priority_count | aggressive np normal priority count
+int next_normal_position | next normal position
+net.sourceforge.ganttproject.gui.options.model.ColorOption myResourceNormalLoadOption | my resource normal load option
+org.gudy.azureus2.plugins.ui.config.BooleanParameter track_normal_when_offline | track normal when offline

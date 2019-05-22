@@ -1,0 +1,7 @@
+DHTSpeedTester getSpeedTester() | get speed tester
+NetStatusProtocolTester getProtocolTester() | get protocol tester
+NetworkAdminSpeedTester getTester() | get tester
+String getTester() | get tester
+void setSpeedTester(QDHTSpeedTester;) | set speed tester
+void setTester() | set tester
+void setTTester() | set t tester

@@ -1,0 +1,53 @@
+int RT_ANNOUNCE | rt announce
+int rtArmor | rt armor
+int RT_AZ | rt az
+int RT_AZ2_REPLY_CHAT | rt az 2  reply chat
+int RT_AZ2_REPLY_MESSAGE | rt az 2  reply message
+int RT_AZ2_REPLY_SEND_TORRENT | rt az 2  reply send torrent
+int RT_AZ2_REPLY_TRACK | rt az 2  reply track
+int RT_AZ2_REQUEST_CHAT | rt az 2  request chat
+int RT_AZ2_REQUEST_MESSAGE | rt az 2  request message
+int RT_AZ2_REQUEST_SEND_TORRENT | rt az 2  request send torrent
+int RT_AZ2_REQUEST_TRACK | rt az 2  request track
+int RT_BIND_REPLY | rt bind reply
+int RT_BIND_REQUEST | rt bind request
+int RT_CLOSE_REPLY | rt close reply
+int RT_CLOSE_REQUEST | rt close request
+int RT_CONNECT_REPLY | rt connect reply
+int RT_CONNECT_REQUEST | rt connect request
+int RT_DECODE_FAILS | rt decode fails
+int RT_ERROR | rt error
+int RT_FILE_NOT_FOUND | rt file not found
+int RT_FULL_SCRAPE | rt full scrape
+int RT_HASH_FAILS | rt hash fails
+int RT_INTERNAL_FRAGMENT | rt internal fragment
+int RT_INTERNAL_REPLY_CLOSE | rt internal reply close
+int RT_INTERNAL_REPLY_PING | rt internal reply ping
+int RT_INTERNAL_REQUEST_CLOSE | rt internal request close
+int RT_INTERNAL_REQUEST_PING | rt internal request ping
+int RT_NONE | rt none
+int RT_OTHER | rt other
+int RT_PUNCH_REPLY | rt punch reply
+int RT_PUNCH_REQUEST | rt punch request
+int RT_QUERY | rt query
+int RT_QUERY_REPLY | rt query reply
+int RT_QUERY_REQUEST | rt query request
+int RT_READ_FAILS | rt read fails
+int RT_REPLY_DATA | rt reply data
+int RT_REPLY_ERROR | rt reply error
+int RT_REQUEST_DATA | rt request data
+int RT_SCRAPE | rt scrape
+int RT_SUCCESS | rt success
+int RT_TOO_BIG | rt too big
+int RT_TUNNEL_INBOUND | rt tunnel inbound
+int RT_TUNNEL_OUTBOUND | rt tunnel outbound
+int RT_UNKNOWN | rt unknown
+int RT_UNSUPPORTED_ENCODING | rt unsupported encoding
+int RT_WRITE_FAILS | rt write fails
+int RT_ZERO_LENGTH | rt zero length
+java.lang.String rtArmor | rt armor
+java.lang.String RT_META_SEARCH_TEMPLATES | rt meta search templates
+java.lang.String RT_SUBSCRIPTIONS | rt subscriptions
+long[] rtas | rt as
+long[] rtCriticals | rt criticals
+megamek.common.loaders.ArmorType rtArmorType | rt armor type

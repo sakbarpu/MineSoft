@@ -1,0 +1,42 @@
+boolean assumedComplete | assumed complete
+boolean bExportComplete | b export complete
+boolean bLayoutComplete | b layout complete
+boolean deploymentComplete | deployment complete
+boolean handshake_complete | handshake complete
+boolean init_complete | init complete
+boolean _initComplete | init complete
+boolean initComplete | init complete
+boolean initialisation_complete | initialisation complete
+boolean loadingComplete | loading complete
+boolean local_is_complete | local is complete
+boolean msg_id_read_complete | msg id read complete
+boolean outbound_connections_complete | outbound connections complete
+boolean platformLoginComplete | platform login complete
+boolean processing_complete | processing complete
+boolean publish_handling_complete | publish handling complete
+boolean remote_is_complete | remote is complete
+boolean startup_complete | startup complete
+boolean task_complete | task complete
+int CHECK_REASON_COMPLETE | check reason complete
+int DUG_IN_COMPLETE | dug in complete
+int ET_COMPLETE | et complete
+int ET_OPERATION_COMPLETE | et operation complete
+int LDT_DOWNLOADCOMPLETE | ldt download complete
+int numComplete | num complete
+int numErrorComplete | num error complete
+int numErrorInComplete | num error in complete
+int percent_complete | percent complete
+int percentComplete | percent complete
+int PEV_INITIAL_SHARING_COMPLETE | pev initial sharing complete
+int posComplete | pos complete
+int scrape_complete | scrape complete
+int TOOLTIPLISTENER_HOVERCOMPLETE | tooltip listener hover complete
+int TORRENTS_COMPLETE | torrents complete
+java.lang.String OP_STREAMCOMPLETE | op stream complete
+java.lang.String TABLE_MYTORRENTS_COMPLETE | table mytorrents complete
+java.lang.String TYPEID_DL_COMPLETE | typeid dl complete
+java.util.List listenersLayoutComplete | listeners layout complete
+javax.swing.JCheckBox cbComplete | cb complete
+long processLastComplete | process last complete
+long sos_complete | sos complete
+org.gudy.azureus2.core3.util.AESemaphore crypto_complete | crypto complete

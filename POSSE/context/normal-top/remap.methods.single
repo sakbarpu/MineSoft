@@ -1,0 +1,5 @@
+void remap(QHashMap;) | remap
+void remap(QHashMap<QFigure;QFigure;>;) | remap
+void remap(QMap;) | remap
+void remap(QMap<QFigure;QFigure;>;) | remap
+void remap(QResult;) | remap

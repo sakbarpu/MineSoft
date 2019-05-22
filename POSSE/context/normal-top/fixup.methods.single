@@ -1,0 +1,2 @@
+boolean fixup() | fixup
+ProjectFileIR fixup(QProjectFileIR;) | fixup

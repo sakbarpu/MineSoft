@@ -1,0 +1,2 @@
+boolean runTestSuite() | run test suite
+TestResult runSuite(QTestSuite;) | run suite

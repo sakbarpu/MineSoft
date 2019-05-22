@@ -1,0 +1,26 @@
+AliasGenerator getAliasGenerator() | get alias generator
+HashMap getAliasMap() | get alias map
+HashMap getInverseAliasMap() | get inverse alias map
+int getMaxAliasLength() | get max alias length
+int getSQLAliasCount() | get sql alias count
+java.lang.String getAliasName() | get alias name
+String generateAliasRoot(QString;) | generate alias root
+String getAliasName() | get alias name
+String getAliasName(QString;) | get alias name
+String[] getSqlAliasSuffixes() | get sql alias suffixes
+String[] getSubclassColumnAliasClosure() | get subclass column alias closure
+String[] getSubclassFormulaAliasClosure() | get subclass formula alias closure
+String getUnquotedAliasString(QString;) | get unquoted alias string
+String getUnquotedAliasString(QString;I) | get unquoted alias string
+String toAliasString(QString;) | to alias string
+String[] toAliasStrings([QString;) | to alias strings
+String toUnquotedAliasString(QString;) | to unquoted alias string
+String[] toUnquotedAliasStrings([QString;) | to unquoted alias strings
+void addAliasElement(Element e) | add alias element
+void addPathAliasAndJoin(QString;QString;QJoinSequence;) | add path alias and join
+void antiAliasFillRaster([IIIIIII) | anti alias fill raster
+void createAliasCriteriaMap() | create alias criteria map
+void createCriteriaSQLAliasMap() | create criteria sql alias map
+void setAliasName(Qjava.lang.String;) | set alias name
+void setAliasName(QString;QString;) | set alias name
+void testAliasScope() | test alias scope

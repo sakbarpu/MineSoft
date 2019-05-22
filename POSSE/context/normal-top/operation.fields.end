@@ -1,0 +1,6 @@
+com.aelitis.azureus.core.AzureusCoreOperation core_operation | core operation
+freemind.modes.actions.SingleNodeOperation singleNodeOperation | single node operation
+int cessationOfOperation | cessation of operation
+int CESSATION_OF_OPERATION | cessation of operation
+int myOperation | my operation
+int UNSUPPORTED_INTERNAL_OPERATION | unsupported internal operation

@@ -1,0 +1,9 @@
+boolean isClassname(QString;) | is classname
+boolean isValidClassname(QString;) | is valid classname
+boolean isValidClassname(QString;QString;) | is valid classname
+String getClassname() | get classname
+String getClassname(QString;) | get classname
+String getStemmerClassname(QString;) | get stemmer classname
+String overrideClassname(QObject;) | override classname
+String overrideClassname(QString;) | override classname
+void setClassname(QString;) | set classname

@@ -1,0 +1,118 @@
+boolean BAD_ROUTER_REPORT_FAIL | bad router report fail
+boolean logged_failure | logged failure
+boolean permanent_fail | permanent fail
+boolean showFailedEquip | show failed equip
+boolean[] slice_alloc_fails | slice alloc fails
+boolean udp_fallback_for_failed_connection | udp fallback for failed connection
+com.aelitis.azureus.core.util.bloom.BloomFilter kb_verify_fail_bloom | kb verify fail bloom
+int AUTOCOMMIT_FETCHFAIL | autocommit fetch fail
+int AUTOMATIC_FAIL | automatic fail
+int BANG_COMMAND_FAIL | bang command fail
+int BINARY_FILEFAIL | binary file fail
+int bundle_fail_count | bundle fail count
+int CONNDATA_RETRIEVAL_FAIL | conn data retrieval fail
+int connect_failure_count | connect failure count
+int CONNECTION_FAIL | connection fail
+int consec_connect_fails | consec connect fails
+int consec_fails | consec fails
+int consec_failures | consec failures
+int consecutive_fails | consecutive fails
+int DSV_RECIN_FAIL | dsv rec in fail
+int DSV_REJECTFILE_PURGEFAIL | dsv reject file purge fail
+int DSV_REJECTFILE_SETUPFAIL | dsv reject file setup fail
+int DSV_REJECTREPORT_PURGEFAIL | dsv reject report purge fail
+int DSV_REJECTREPORT_SETUPFAIL | dsv reject report setup fail
+int DUMPLOAD_FAIL | dump load fail
+int FAIL | fail
+int FAIL_BADMULTI | fail bad multi
+int FAIL_CONNECT | fail connect
+int fail_count | fail count
+int failCount | fail count
+int failed_negative_bloom | failed negative bloom
+int failed_no_rendezvous | failed no rendezvous
+int FAILED_RENDEZVOUS_HISTORY_MAX | failed rendezvous history max
+int failed_transactions | failed transactions
+int fail_index | fail index
+int FAIL_INIT_DELAY | fail init delay
+int FAIL_MAX_DELAY | fail max delay
+int FAIL_PARSE | fail parse
+int fail_percentage | fail percentage
+int FAIL_PERCENTAGE | fail percentage
+int failure_added_time | failure added time
+int _failureCount | failure count
+int _failures | failures
+int failure_type | failure type
+int FILE_APPENDFAIL | file append fail
+int FILE_READFAIL | file read fail
+int FILE_WRITEFAIL | file write fail
+int INPUTFILE_CLOSEFAIL | inputfile close fail
+int INPUTREADER_CLOSEFAIL | input reader close fail
+int INSERTION_PREPAREFAIL | insertion prepare fail
+int interpreterResetFailedCount | interpreter reset failed count
+int listenFailCounts | listen fail counts
+int LOCK_FILE_ACQUISITION_FAILURE | lock file acquisition failure
+int[] MASC_FAILURE | masc failure
+int max_fails_for_live | max fails for live
+int max_fails_for_unknown | max fails for unknown
+int MAX_STARTUP_FAILURES | max startup failures
+int METADATA_FETCH_FAIL | metadata fetch fail
+int METADATA_FETCH_FAILFOR | metadata fetch fail for
+int NATResultNetFailure | nat result net failure
+int OUTCOME_FAILED_NO_REND | outcome failed no rend
+int OUTCOME_FAILED_OTHER | outcome failed other
+int PASSWORD_READFAIL | password read fail
+int PL_BLOCK_FAIL | pl block fail
+int PL_TEMPFILE_FAIL | pl tempfile fail
+int PRIMARYINPUT_ACCESSFAIL | primary input access fail
+int QUERY_METADATAFAIL | query metadata fail
+int RCDATA_GENFROMVALUES_FAIL | rcdata gen from values fail
+int READ_CONVERTFAIL | read convert fail
+int rendevzous_fail_count | rendevzous fail count
+int RENDEZVOUS_PING_FAIL_LIMIT | rendezvous ping fail limit
+int RETRIEVE_NEST_ROLE_FAIL | retrieve nest role fail
+int RT_DECODE_FAILS | rt decode fails
+int RT_HASH_FAILS | rt hash fails
+int RT_READ_FAILS | rt read fails
+int RT_WRITE_FAILS | rt write fails
+int SELECTOR_FAILURE_THRESHOLD | selector failure threshold
+int SERIALIZATION_FAILURE | serialization failure
+int SQL_FAIL | sql fail
+int SQLFILE_EXECUTE_FAIL | sql file execute fail
+int SQLFILE_READFAIL | sql file read fail
+int SQLTEMPFILE_FAIL | sql tempfile fail
+int STATUS_LOGON_FAIL | status logon fail
+int TEMPFILE_REMOVAL_FAIL | tempfile removal fail
+int total_fails | total fails
+java.awt.List failedList | failed list
+java.lang.Object MS_UPDATE_CONSEC_FAIL_KEY | ms update consec fail key
+java.lang.Object SCHEDULER_FAILED_SCAN_CONSEC_KEY | scheduler failed scan consec key
+java.lang.Object SCHEDULER_FAILED_SCAN_TIME_KEY | scheduler failed scan time key
+java.lang.Object SP_CONSEC_FAIL | sp consec fail
+java.lang.String failure_reason | failure reason
+java.lang.String IGNORE_FAILED_EQUIP | ignore failed equip
+java.lang.String last_failed_user_pw | last failed user pw
+java.lang.String MONKEYTEST_FAIL_TEXT | monkeytest fail text
+java.lang.String SHOW_FAILEDEQUIP | show failed equip
+java.lang.String STATUS_CLIENT_FAILURE | status client failure
+java.lang.String STATUS_FAILURE | status failure
+java.lang.Throwable read_select_failure | read select failure
+java.lang.Throwable write_select_failure | write select failure
+java.util.Hashtable hFailedFiles | h failed files
+java.util.List<java.lang.String> failedEquipment | failed equipment
+java.util.Map failed_rendezvous | failed rendezvous
+java.util.Set failed_ports | failed ports
+java.util.Vector failedEquipmentList | failed equipment list
+java.util.Vector ignoreFailedEquip | ignore failed equip
+javax.swing.JList failedList | failed list
+javax.swing.text.SimpleAttributeSet TEST_FAIL_ATTRIBUTES | test fail attributes
+long first_fail_or_last_alive_time | first fail or last alive time
+long hash_fail_bytes | hash fail bytes
+long kb_verify_fail_bloom_create_time | kb verify fail bloom create time
+long last_fail | last fail
+long last_failed_read | last failed read
+long last_failed_user_pw_time | last failed user pw time
+long last_failure | last failure
+long saved_hashfails | saved hash fails
+net.sourceforge.ganttproject.document.ProxyDocument.FailureState myFailureState | my failure state
+org.gudy.azureus2.core3.torrent.TOTorrentException fixup_failure | fixup failure
+org.gudy.azureus2.ui.swt.components.BufferedLabel hashFails | hash fails

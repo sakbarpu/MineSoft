@@ -1,0 +1,441 @@
+ActionListener getColorChangedAction() | get color changed action
+Album changeAlbumName(QAlbum;QString;) | change album name
+Appearance createAppearanceWithChangeCapabilities() | create appearance with change capabilities
+Author changeAuthorName(QAuthor;QString;) | change author name
+boolean applyChanges(Z) | apply changes
+boolean askForApplyChanges() | ask for apply changes
+boolean canChangeSecondaryFacing() | can change secondary facing
+boolean change() | change
+boolean changeChecker() | change checker
+boolean changeLocale(QLocale;) | change locale
+boolean changeLocale(QLocale;Z) | change locale
+boolean changePassword(Qjava.lang.String;Qjava.lang.String;) | change password
+boolean changesFound() | changes found
+boolean changesMade() | changes made
+boolean changeToMode(QString;) | change to mode
+boolean changeToPhysical() | change to physical
+boolean entryEditorAllowsChange() | entry editor allows change
+boolean forcePingSourceChange([QSpeedManagerPingSource;) | force ping source change
+boolean getCanChangeClassInDialog() | get can change class in dialog
+boolean getSortByLastChangeDate() | get sort by last change date
+boolean getVisuallyChangedSinceLastRefresh() | get visually changed since last refresh
+boolean getVisuallyChangedSinceRefresh() | get visually changed since refresh
+boolean hasChanges() | has changes
+boolean hasDownloadChange() | has download change
+boolean hasTorrentChange() | has torrent change
+boolean hasUnsavedChanges() | has unsaved changes
+boolean isChangeCellFG() | is change cell fg
+boolean isChangeFG() | is change fg
+boolean isChangePbm() | is change pbm
+boolean isChangeRowFG() | is change row fg
+boolean isSelectedChangeFileExt() | is selected change file ext
+boolean makeChange(QBasePanel;QBibtexDatabase;QNamedCompound;) | make change
+boolean saveChanges() | save changes
+boolean saveChanges(Z) | save changes
+boolean separatCharHasChange() | se par at char has change
+boolean supportsLobValueChangePropogation() | supports lob value change propogation
+boolean tryToChangeToMapModule(QString;) | try to change to map module
+Collection getPropertyChangeListeners() | get property change listeners
+Date getLastChangedDate() | get last changed date
+Date getStateChangeDate(QDate;QTimeUnit;ZZ) | get state change date
+Date getStateChangeDate(QDate;Z) | get state change date
+double[] getChangeInWeights() | get change in weights
+Element changeState(QConnection;QElement;) | change state
+Element changeWorkType(QConnection;QElement;) | change work type
+EntityReader changeReaders() | change readers
+EventListenerList removeAllChangeListeners() | remove all change listeners
+File changeFileDirectory(QFile;QDirectory;) | change file directory
+File changeFileName(Qorg.jajuk.base.File;QString;) | change file name
+GameTurn changeToNextTurn() | change to next turn
+GP4MixTableChange readMixTableChange() | read mix table change
+IBasicOption changedOption() | changed option
+IChange createChange(IProgressMonitor pm, ICompilationUnit cu) | create change
+IChange createChange(IProgressMonitor pm, IPackageFragmentRoot root) | create change
+int changeBlockToAggregation(DomainBlock block) | change block to aggregation
+int getAndResetNumLinesChangedAfter() | get and reset num lines changed after
+int getChangeCount() | get change count
+int getChangeDuration() | get change duration
+int getMaxElevationChange() | get max elevation change
+int getMinChange() | get min change
+int getNumberOfChangesSinceLastSave() | get number of changes since last save
+int stackChange(I) | stack change
+IPropertyable changeItem(QIPropertyable;QString;QObject;QHashSet;) | change item
+java.lang.String formatChangePasswordString(QJUserDetails;Qjava.lang.String;) | format change password string
+java.lang.String getPrintWhenGroupChanges() | get print when group changes
+JCheckBoxMenuItem changeMenuLabel(QJCheckBoxMenuItem;QString;) | change menu label
+JMenu changeMenuLabel(QJMenu;QString;) | change menu label
+JMenuItem changeMenuLabel(QJMenuItem;QString;) | change menu label
+JMenuItem getMniChangeCost() | get mni change cost
+List getChangeValueDispatchers() | get change value dispatchers
+long getLastChangeTime() | get last change time
+long getLastSortValueChange() | get last sort value change
+long getNeededUndonePieceChange() | get needed undone piece change
+long getSpeedChangeTime(J) | get speed change time
+ModelMessage checkForGovMgtChangeMessage() | check for gov mgt change message
+Packet createHexChangePacket(QCoords;QIHex;) | create hex change packet
+PageChangerUpdater createPageChanger() | create page changer
+PlaylistFile changePlaylistFileName(QPlaylistFile;QString;) | change playlist file name
+PolygonAttributes createPolygonAttributesWithChangeCapabilities() | create polygon attributes with change capabilities
+PropertyChangeListener createActionPropertyChangeListener(QAction;) | create action property change listener
+PropertyChangeListener[] getPropertyChangeListeners() | get property change listeners
+PropertyChangeListener[] getPropertyChangeListeners(QString;) | get property change listeners
+RoleSet getChangedRoleSet() | get changed role set
+String changeCase() | change case
+String changeCase(QString;CQWarn;) | change case
+String changeCase(QString;I) | change case
+String[] changeCase([QString;I) | change case
+String changeCase(QString;IZ) | change case
+String changeFileExtension(QString;QString;) | change file extension
+String changeSeparator(String path) | change separator
+String minChangeTipText() | min change tip text
+Style changeStyleName(QStyle;QString;) | change style name
+TileType getChange(QTileType;) | get change
+Track changeTrackAlbum(QTrack;QString;QHashSet;) | change track album
+Track changeTrackAuthor(QTrack;QString;QHashSet;) | change track author
+Track changeTrackComment(QTrack;QString;QHashSet;) | change track comment
+Track changeTrackName(QTrack;QString;QHashSet;) | change track name
+Track changeTrackOrder(QTrack;JQHashSet;) | change track order
+Track changeTrackRate(QTrack;J) | change track rate
+Track changeTrackStyle(QTrack;QString;QHashSet;) | change track style
+Track changeTrackYear(QTrack;JQHashSet;) | change track year
+void addAndFirePropertyChangeListener(QNetworkAdminPropertyChangeListener;) | add and fire property change listener
+void addChangeListener(ChangeListener listener) | add change listener
+void addChangeListener(DatasetChangeListener listener) | add change listener
+void addChangeListener(QChangeListener;) | add change listener
+void addChangeListener(QParameterChangeListener;) | add change listener
+void addChangeListener(QShareResourceListener;) | add change listener
+void addChangeListeners(QBackgroundImageWizardController;) | add change listeners
+void addChangeRightsAction(QString;QString;) | add change rights action
+void addChangeValueDispatcher(QChangeValueDispatcher;) | add change value dispatcher
+void addChangeValueListener(QChangeValueListener;) | add change value listener
+void addColorsChangedListener(QParameterListener;) | add colors changed listener
+void addCountChangeListener(QTableCountChangeListener;) | add count change listener
+void addDatabaseChangeListener(QDatabaseChangeListener;) | add database change listener
+void addHistoryChangedListener(QHistoryChangedListener;) | add history changed listener
+void addMouseImageChangeListeners(QControl;) | add mouse image change listeners
+void addOnLanguageChangedListener(QLanguageChangedListener;) | add on language changed listener
+void addOptionChangeListener(QGPOptionChangeListener;) | add option change listener
+void addPreferenceChangeListener(QIPreferenceChangeListener;) | add preference change listener
+void addPropertyChangeListener(PropertyChangeListener listener) | add property change listener
+void addPropertyChangeListener(QFreemindPropertyListener;) | add property change listener
+void addPropertyChangeListener(QNetworkAdminPropertyChangeListener;) | add property change listener
+void addPropertyChangeListener(QPropertyChangeListener;) | add property change listener
+void addPropertyChangeListener(QProperty;QPropertyChangeListener;) | add property change listener
+void addPropertyChangeListener(QString;QPropertyChangeListener;) | add property change listener
+void addPropertyChangeListener(QUIPropertyChangeListener;) | add property change listener
+void addPropertyChangeListener(QVetoableChangeListener;) | add property change listener
+void addPropertyChangeListenersSubFlow(QPropertyChangeListener;) | add property change listeners sub flow
+void addProvidersChangeListener(QprovidersChangeListener;) | add providers change listener
+void addReportSubDatasetChangedListener(Qit.businesslogic.ireport.gui.event.ReportSubDatasetChangedListener;) | add report sub dataset changed listener
+void addResultChangedListener(QResultChangedListener;) | add result changed listener
+void addSheetPropertyValueChangedListener(Qit.businesslogic.ireport.gui.event.SheetPropertyValueChangedListener;) | add sheet property value changed listener
+void addStyleChangedListener(Qit.businesslogic.ireport.gui.event.StyleChangedListener;) | add style changed listener
+void addSubDatasetObjectChangedListener(Qit.businesslogic.ireport.gui.event.SubDatasetObjectChangedListener;) | add sub dataset object changed listener
+void addTableDataSourceChangedListener(QTableDataSourceChangedListener;Z) | add table data source changed listener
+void addValueChangedListener(Qit.businesslogic.ireport.gui.event.ValueChangedListener;) | add value changed listener
+void addVetoableChangeListener(QString;QVetoableChangeListener;) | add vetoable change listener
+void applyChanges() | apply changes
+void assertActiveCompilerChangedCount(I) | assert active compiler changed count
+void assertCaseChangerL(QString;QString;) | assert case changer l
+void assertCaseChangerT(QString;QString;) | assert case changer t
+void assertCaseChangerU(QString;QString;) | assert case changer u
+void assertInterpreterChangedCount(I) | assert interpreter changed count
+void assertRegionChangedCount(I) | assert region changed count
+void attributeSelectionChange(QAttributePanelEvent;) | attribute selection change
+void beginChangeTaskEndInteraction(QMouseEvent;QTaskBoundaryChartItem;) | begin change task end interaction
+void beginChangeTaskProgressInteraction(QMouseEvent;QTaskProgressChartItem;) | begin change task progress interaction
+void beginChangeTaskStartInteraction(QMouseEvent;QTaskBoundaryChartItem;) | begin change task start interaction
+void boardChangedEntity(QBoardViewEvent;) | board changed entity
+void boardChangedHex(QBoardEvent;) | board changed hex
+void cancelChanges() | cancel changes
+void CapabilitiesFilterChangeEvent(QObject;QCapabilities;) | capabilities filter change event
+void caseChange(I) | case change
+void changeAmmoType(QAmmoType;) | change ammo type
+void changeAntialias(QString;) | change antialias
+void changeArrowsOfArrowLink(QMindMapArrowLinkModel;ZZ) | change arrows of arrow link
+void changeAttribute() | change attribute
+void changeAttribute(QColor;) | change attribute
+void changeAttributes() | change attributes
+void changeBackgroundColor(QColor;) | change background color
+void changeChildCloudIterativeLevels(I) | change child cloud iterative levels
+void changeColor(QTableCell;QDownload;I) | change color
+void changeColumnIndicator() | change column indicator
+void changeConnectionStatus(QJPlugin;I) | change connection status
+void changeConnectionStatus(Qorg.planetamessenger.plugin.JPlugin;I) | change connection status
+void changeCurrentlySelectedContent(QString;[QISelectedContent;) | change currently selected content
+void changeCurrentlySelectedContent(QString;[QISelectedContent;QTableView;) | change currently selected content
+void changeCustomColumnDefaultValue(QString;QObject;) | change custom column default value
+void changeCustomColumnName(QString;QString;) | change custom column name
+void changeDate(QGregorianCalendar;) | change date
+void changeDefaultValue(QString;QObject;) | change default value
+void changeDir() | change dir
+void changeDirSelectedTorrents([QDownloadManager;QShell;) | change dir selected torrents
+void changeDocumentText(QString;QOpenDefinitionsDocument;) | change document text
+void changeDrawingType(I) | change drawing type
+void changedUpdate(QDocumentEvent;) | changed update
+void changedUpdate(QDocumentEvent;QShape;QViewFactory;) | changed update
+void changedUpdate(Qjavax.swing.event.DocumentEvent;) | changed update
+void changeFileDestination([I) | change file destination
+void changeFile(Qorg.jajuk.base.File;Qorg.jajuk.base.File;) | change file
+void changeFile([QString;) | change file
+void changeFile(QString;QFile;) | change file
+void changeFontSize(I) | change font size
+void changeHeaderFilePath(String NewHeaderFilePath) | change header file path
+void changeHighlight(QObject;II) | change highlight
+void changeID(QString;QString;) | change id
+void changeInclination(IIII) | change inclination
+void changeInclination(IIQNodeView;QPoint;) | change inclination
+void changeInputListener(QInputListener;QInputListener;) | change input listener
+void changeInputNum(II) | change input num
+void changeIterativeLevel(I) | change iterative level
+void changeLanguage() | change language
+void changeLanguageOfMenu() | change language of menu
+void changeLanguage(QGanttLanguage;) | change language
+void changeLength(D) | change length
+void changeLength(I) | change length
+void changeLife(Player player, int newValue) | change life
+void changeLines() | change lines
+void changeLocation(QSaveLocationChange;) | change location
+void changeLookAndFeel(QGanttLookAndFeelInfo;) | change look and feel
+void changeMode() | change mode
+void changeMovementPolicy(String strView, String strPolicy) | change movement policy
+void changeNameOfTask() | change name of task
+void changeNode(QMindMapNode;QString;) | change node
+void changeOrder(QDefaultListModel;QDefaultListModel;) | change order
+void changeOutputNum(II) | change output num
+void changePageOrientation(I) | change page orientation
+void changePeerState(I) | change peer state
+void changePeople(QList;) | change people
+void changePhase(I) | change phase
+void changePlaylistFile(QPlaylistFile;QPlaylistFile;) | change playlist file
+void changePoint2(II) | change point 2
+void changePort(I) | change port
+void changePriority(I[QTableRowCore;) | change priority
+void change(QString;) | change
+void changeRegion(QBrowserDocumentRegion;QLambda<QBrowserDocumentRegion;QObject;>;) | change region
+void changeRegion(QR;QLambda<QR;QObject;>;) | change region
+void changeRelationWithPlayer(QPlayer;QStance;) | change relation with player
+void changeScale() | change scale
+void changeScan(QFile;) | change scan
+void changeSelection(QString;) | change selection
+void changeState(QUnit;QUnitState;) | change state
+void changeStatus(QJPlugin;I) | change status
+void changeStatus(Qorg.planetamessenger.plugin.JPlugin;I) | change status
+void changeSubscription(QSideBar;QSubscription;) | change subscription
+void changeSubscription(QSubscriptionImpl;) | change subscription
+void ChangeTabAction(QCardLayout;QJPanel;QString;) | change tab action
+void ChangeTabAction(Z) | change tab action
+void changeTable() | change table
+void ChangeTaskBoundaryInteraction(QMouseEvent;QTaskBoundaryChartItem;) | change task boundary interaction
+void ChangeTaskEndInteraction(QMouseEvent;QTaskBoundaryChartItem;) | change task end interaction
+void ChangeTaskProgressInteraction(QMouseEvent;QTaskProgressChartItem;) | change task progress interaction
+void ChangeTaskStartInteraction(QMouseEvent;QTaskBoundaryChartItem;) | change task start interaction
+void changeTeam(I) | change team
+void changeText(QString;) | change text
+void changeTheme(Theme theme) | change theme
+void changeToAnotherMap(QString;) | change to another map
+void changeToMapModule(QString;) | change to map module
+void changeToMapOfMode(Mode mode) | change to map of mode
+void changeToMapOfMode(QMode;) | change to map of mode
+void changeToNextTurn() | change to next turn
+void changeTurnIndex(I) | change turn index
+void ChangeTypeAction(QBibtexEntryType;QBasePanel;) | change type action
+void changeType([QBibtexEntry;QBibtexEntryType;) | change type
+void changeType(QBibtexEntry;QBibtexEntryType;) | change type
+void changeType(QBibtexEntryType;) | change type
+void changeUID(JJQString;QString;) | change uid
+void changeValue(QChangeValueEvent;) | change value
+void changeValueRandomly(QRandom;IIQInstance;Z) | change value randomly
+void changeView() | change view
+void changeViewMode(I) | change view mode
+void changeWindowedMode(Z) | change windowed mode
+void changeWorkImprovementType(QUnit;QTileImprovementType;) | change work improvement type
+void changeWorkingDirectory(QFile;) | change working directory
+void changeWorkingDirectory(QString;) | change working directory
+void changeWorkType(QUnit;QGoodsType;) | change work type
+void checkLocaleChange() | check locale change
+void clearChanges() | clear changes
+void columnChange() | column change
+void connectionChange(QConnectionEvent;) | connection change
+void customColumsChange(QCustomColumEvent;) | custom colums change
+void deactivate(boolean changeFocus) | deactivate
+void detectFormatChanges(QXmlAction;) | detect format changes
+void DoEndPhaseChanges(QVector<QReport;>;) | do end phase changes
+void enumChangeObject(QIdEnumeration;) | enum change object
+void externalAddressChange(QDHTTransportUDPContactImpl;QInetSocketAddress;Z) | external address change
+void FieldChange(QString;QBibtexEntry;QBibtexEntry;QString;QString;QString;) | field change
+void fireChangeEvent() | fire change event
+void fireChangeEvent(int property) | fire change event
+void fireChangeValueEvent(QChangeValueEvent;) | fire change value event
+void fireCustomColumnsChange(QCustomColumEvent;) | fire custom columns change
+void fireExpressionChange() | fire expression change
+void fireIndexedPropertyChange(QString;III) | fire indexed property change
+void fireIndexedPropertyChange(QString;IQObject;QObject;) | fire indexed property change
+void fireIndexedPropertyChange(QString;IZZ) | fire indexed property change
+void fireOnChangePassword(Qjava.lang.String;) | fire on change password
+void fireOnChangePrivacy([Qjava.lang.Object;) | fire on change privacy
+void fireOnPasswordChangedSuccessfull() | fire on password changed successfull
+void firePropertyChangedEvent(QString;QObject;QObject;) | fire property changed event
+void firePropertyChangeEvent(QString;QObject;QObject;) | fire property change event
+void firePropertyChangeImpl(QObject;QString;QObject;QObject;) | fire property change impl
+void firePropertyChange(int propertyId) | fire property change
+void firePropertyChange(QPropertyChangeEvent;) | fire property change
+void firePropertyChange(QString;) | fire property change
+void firePropertyChange(QString;II) | fire property change
+void firePropertyChange(QString;QObject;QObject;) | fire property change
+void firePropertyChange(QString;ZZ) | fire property change
+void firePropertyChange(String propertyName, int oldValue, int newValue) | fire property change
+void fireProvidersChangeListeners() | fire providers change listeners
+void fireSelectionChangedEvent() | fire selection changed event
+void fireStateChange(I) | fire state change
+void fireVetoableChange(String name, Object o, Object n) | fire vetoable change
+void flushChangeRecords() | flush change records
+void formPropertyChange(Qjava.beans.PropertyChangeEvent;) | form property change
+void FurnitureCatalogChangeListener(QFurnitureCatalogController;) | furniture catalog change listener
+void FurnitureCatalogChangeListener(QHomeController;) | furniture catalog change listener
+void gameEntityChange(QGameEntityChangeEvent;) | game entity change
+void gamePhaseChange(QGamePhaseChangeEvent;) | game phase change
+void gamePhaseChange(QGameTurnChangeEvent;) | game phase change
+void gamePlayerChange(QGamePlayerChangeEvent;) | game player change
+void gameSettingsChange(QGameSettingsChangeEvent;) | game settings change
+void gameTurnChange(QGameTurnChangeEvent;) | game turn change
+void hostTorrentStateChange(QTRHostTorrent;) | host torrent state change
+void informPrioritiesChange(QList;) | inform priorities change
+void informPriorityChange(QDiskManagerFileInfo;) | inform priority change
+void informURLChange(QURL;QURL;Z) | inform url change
+void insertMetaDataChange(QString;QVector<QString;>;) | insert meta data change
+void JSpinnerChanger(QClass<*>;QJComponent;) | j spinner changer
+void jSpinnerLeftPropertyChange(Qjava.beans.PropertyChangeEvent;) | j spinner left property change
+void jSpinnerNumberDecimalsPropertyChange(Qjava.beans.PropertyChangeEvent;) | j spinner number decimals property change
+void JTextFieldChanger(QJTextField;) | j text field changer
+void LanguageChangeListener(QFurnitureTableColumnModel;) | language change listener
+void LanguageChangeListener(QHelpController;) | language change listener
+void LanguageChangeListener(QHelpPane;) | language change listener
+void LanguageChangeListener(QHomeController;) | language change listener
+void LanguageChangeListener(QHomePane;) | language change listener
+void LanguageChangeListener(QJFrame;QHomeFramePane;) | language change listener
+void LanguageChangeListener(QPhotoPanel;) | language change listener
+void LanguageChangeListener(QResourceAction;QClass<*>;QString;) | language change listener
+void madeChange() | made change
+void makeChanges(QBasePanel;QParserResult;ZZQString;) | make changes
+void MetaDataChangeUnit(IQString;QVector<QString;>;) | meta data change unit
+void nodeChangedAction() | node changed action
+void nodeChangedMapInternal(QTreeNode;) | node changed map internal
+void notifyBreakpointChange(QBreakpoint;) | notify breakpoint change
+void notifyChangeListeners() | notify change listeners
+void notifyHistoryChangedListeners() | notify history changed listeners
+void onChangePasswordError(J) | on change password error
+void onChangePassword(Qjava.lang.String;) | on change password
+void onChangePrivacy(Qjava.lang.String;I) | on change privacy
+void onLineChange(QContext;I) | on line change
+void onPasswordChangedSuccessfull() | on password changed successfull
+void parseChangeRecord(QInStream;IQSWFVectors;QSWFShape;Z[I[I) | parse change record
+void postChange(QTrack;QTrack;QHashSet;) | post change
+void preferenceChange(QPreferenceChangeEvent;) | preference change
+void printDebugChanges(QString;[QString;[QString;QString;QString;ZQDefaultRankCalculator;) | print debug changes
+void propertyChange(Qjava.beans.PropertyChangeEvent;) | property change
+void propertyChange(QPropertyChangeEvent;) | property change
+void receiveEntityAmmoChange(QPacket;I) | receive entity ammo change
+void receiveEntityModeChange(QPacket;I) | receive entity mode change
+void receiveEntitySystemModeChange(QPacket;I) | receive entity system mode change
+void registerClockChangeListener(QChangeListener;) | register clock change listener
+void removeChangeListener(ChangeListener listener) | remove change listener
+void removeChangeListener(DataSourceChangeListener listener) | remove change listener
+void removeChangeListener(QChangeListener;) | remove change listener
+void removeChangeListener(QParameterChangeListener;) | remove change listener
+void removeChangeListener(QShareResourceListener;) | remove change listener
+void removeColorsChangedListener(QParameterListener;) | remove colors changed listener
+void removeDatabaseChangeListener(QDatabaseChangeListener;) | remove database change listener
+void removeHistoryChangedListener(QHistoryChangedListener;) | remove history changed listener
+void removePreferenceChangeListener(QIPreferenceChangeListener;) | remove preference change listener
+void removePropertyChangeListener(PropertyChangeListener arg0) | remove property change listener
+void removePropertyChangeListener(QNetworkAdminPropertyChangeListener;) | remove property change listener
+void removePropertyChangeListener(QPropertyChangeListener;) | remove property change listener
+void removePropertyChangeListener(QProperty;QPropertyChangeListener;) | remove property change listener
+void removePropertyChangeListener(QString;QPropertyChangeListener;) | remove property change listener
+void removePropertyChangeListener(QUIPropertyChangeListener;) | remove property change listener
+void removePropertyChangeListener(QVetoableChangeListener;) | remove property change listener
+void removePropertyChangeListenersSubFlow(QPropertyChangeListener;) | remove property change listeners sub flow
+void removePropertyChangeListener(String propertyName, PropertyChangeListener listener) | remove property change listener
+void removeReportSubDatasetChangedListener(Qit.businesslogic.ireport.gui.event.ReportSubDatasetChangedListener;) | remove report sub dataset changed listener
+void removeResultChangedListener(QResultChangedListener;) | remove result changed listener
+void removeSheetPropertyValueChangedListener(Qit.businesslogic.ireport.gui.event.SheetPropertyValueChangedListener;) | remove sheet property value changed listener
+void removeStateChangeListener(StateChangeListener listener) | remove state change listener
+void removeStyleChangedListener(Qit.businesslogic.ireport.gui.event.StyleChangedListener;) | remove style changed listener
+void removeSubDatasetObjectChangedListener(Qit.businesslogic.ireport.gui.event.SubDatasetObjectChangedListener;) | remove sub dataset object changed listener
+void removeTableDataSourceChangedListener(QTableDataSourceChangedListener;) | remove table data source changed listener
+void removeValueChangedListener(Qit.businesslogic.ireport.gui.event.ValueChangedListener;) | remove value changed listener
+void removeVetoableChangeListener(QString;QVetoableChangeListener;) | remove vetoable change listener
+void removeViewChangeListener(ViewChangeListener vsl) | remove view change listener
+void reviewChanges() | review changes
+void RulersVisibilityChangeListener(QHomePane;QJScrollPane;QHomeController;) | rulers visibility change listener
+void saveChanges() | save changes
+void saveChangesAndReviewNext() | save changes and review next
+void saveChanges(QProject;) | save changes
+void sendAmmoChange(III) | send ammo change
+void sendChangedCFBuildings(QVector<QBuilding;>;) | send changed cf buildings
+void sendChangedHex(QCoords;) | send changed hex
+void sendModeChange(III) | send mode change
+void sendSystemModeChange(III) | send system mode change
+void setAppearanceChangeCapability(QNode;) | set appearance change capability
+void setArcChangeInProcess(boolean flag) | set arc change in process
+void setCanChangeClassInDialog(Z) | set can change class in dialog
+void setChangeCellFG(Z) | set change cell fg
+void setChangeDuration(I) | set change duration
+void setChangeFG(Z) | set change fg
+void setChangeListenerIcon(QChangeListener;) | set change listener icon
+void setChangeListener(QChangeListener;) | set change listener
+void setChangerId(Long changerId) | set changer id
+void setChangeRowFG(Z) | set change row fg
+void setEnablePluginCoreConfigChange(Z) | set enable plugin core config change
+void setHasUnsavedChanges(Z) | set has unsaved changes
+void setImageChangeTexts(QUserPreferences;) | set image change texts
+void setLastChangedDate(QDate;) | set last changed date
+void setLastSortValueChange(J) | set last sort value change
+void setMinChange(I) | set min change
+void setModelChangeTexts(QUserPreferences;) | set model change texts
+void setNonUndoableChange(Z) | set non undoable change
+void setOnChange(String script) | set on change
+void setPrintWhenGroupChanges(Qjava.lang.String;) | set print when group changes
+void setPropertyChangeListener(QPropertyChangeListener;) | set property change listener
+void setSortByLastChangeDate(Z) | set sort by last change date
+void setSpeedChangeTime(J) | set speed change time
+void signalChangeMyDisplayedItems(LinkableObject oldItem, LinkableObject newItem) | signal change my displayed items
+void stackChange(I) | stack change
+void statusChangeNotify(StatusObservable observed) | status change notify
+void testApplyDoesChangeConfig() | test apply does change config
+void testCancelDoesNotChangeConfig() | test cancel does not change config
+void testChangeCase() | test change case
+void testChangeCaseStringArrayInt() | test change case string array int
+void testChangeCaseStringInt() | test change case string int
+void testCorrectFilesAfterIncorrectChanges() | test correct files after incorrect changes
+void testExternalAddressChange() | test external address change
+void testInstanceIDChange() | test instance id change
+void testInteractionsCanSeeChangedClass() | test interactions can see changed class
+void testLanguageChange() | test language change
+void testSetChangeInputListener() | test set change input listener
+void testTaskScheduleEventIsSendOnTaskDurationChange() | test task schedule event is send on task duration change
+void testTaskScheduleEventIsSendOnTaskEndChange() | test task schedule event is send on task end change
+void testTaskScheduleEventIsSendOnTaskStartChange() | test task schedule event is send on task start change
+void testTransportIDChange() | test transport id change
+void testUnsavedAndUnCompiledChanges() | test unsaved and un compiled changes
+void TexturesCatalogChangeListener(QHomeController;) | textures catalog change listener
+void TimerColorChanger() | timer color changer
+void triggerChangeListener(QString;QString;) | trigger change listener
+void triggerChangeListener(QVuzeBuddy;) | trigger change listener
+void triggerChangeListener(QVuzeBuddy;Z) | trigger change listener
+void triggerColumnSizeChange() | trigger column size change
+void triggerFocusChangedListeners(QTableRowCore;) | trigger focus changed listeners
+void triggerLanguageChange() | trigger language change
+void triggerOrderChangedListener() | trigger order changed listener
+void UnitButtonActionPropertyChangeListener(QAbstractButton;) | unit button action property change listener
+void unregisterClockChangeListener(QChangeListener;) | unregister clock change listener
+void updateNumber(StructuredCounter counter, HashSet<INumberedElement> changedStructures) | update number
+void updateParametersConfig(double newValues, boolean changeDirectory) | update parameters config
+void updateStatusChanger(QUpdateCheckInstance;) | update status changer
+void UserPreferencesChangeListener(QFurnitureTable;) | user preferences change listener
+void UserPreferencesChangeListener(QPlanComponent;) | user preferences change listener
+void UserPreferencesPropertiesChangeListener(QHomeController;) | user preferences properties change listener
+void vetoableChange(QPropertyChangeEvent;) | vetoable change
+void willChange() | will change
+void writeChangeRecord() | write change record

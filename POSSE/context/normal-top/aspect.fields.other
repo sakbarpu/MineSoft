@@ -1,0 +1,4 @@
+boolean isPreserveAspectRatio | is preserve aspect ratio
+com.eteks.sweethome3d.model.AspectRatio photoAspectRatio | photo aspect ratio
+float view3DAspectRatio | view 3 d aspect ratio
+java.lang.String photoAspectRatioName | photo aspect ratio name

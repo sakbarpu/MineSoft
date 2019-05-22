@@ -1,0 +1,17 @@
+boolean antiAliasingAvailable | anti aliasing available
+boolean _antiAliasText | anti alias text
+int ALIAS | alias
+int ANTI_ALIAS_IMPL | anti alias impl
+int SYSTEM_ALIASES | system aliases
+java.lang.String alias | alias
+java.lang.String ALIASES_CONFIG_FILE | aliases config file
+java.lang.String columnAlias | column alias
+java.lang.String[] dbAlias | db alias
+java.lang.String DEFAULT_ALIAS | default alias
+java.lang.String S_ALIAS | s alias
+java.lang.String tableAlias | table alias
+java.lang.String T_ALIAS | t alias
+java.util.Properties aliases | aliases
+org.hsqldb.lib.HashMap hAlias | h alias
+org.hsqldb.lib.HashMappedList columnAliases | column aliases
+org.hsqldb.lib.IntValueHashMap typeAliases | type aliases

@@ -1,0 +1,48 @@
+boolean DEBUGCODE | debug code
+boolean _indentNonCode | indent non code
+boolean printICode | print i code
+byte[] itsCodeAttribute | its code attribute
+byte[] itsCodeBuffer | its code buffer
+byte[] itsICode | its i code
+edu.rice.cs.drjava.config.BooleanOption SHOW_CODE_PREVIEW_POPUPS | show code preview popups
+int CLASS_CODE_BOOLEAN | class code boolean
+int CLASS_CODE_BYTE | class code byte
+int CLASS_CODE_CHAR | class code char
+int CLASS_CODE_DOUBLE | class code double
+int CLASS_CODE_FLOAT | class code float
+int CLASS_CODE_INT | class code int
+int CLASS_CODE_LONG | class code long
+int CLASS_CODE_OBJECT | class code object
+int CLASS_CODE_SHORT | class code short
+int code | code
+int CodeBufferSize | code buffer size
+int ConstructorId_fromCharCode | constructor id from char code
+int errCode | err code
+int ERROR_CODE | error code
+int[] errorCodes | error codes
+int exitCode | exit code
+int hash_code | hash code
+int hashCode | hash code
+int Id_charCodeAt | id char code at
+int iExitCode | i exit code
+int itsCodeBufferTop | its code buffer top
+int itsICodeTop | its i code top
+int key_hash_code | key hash code
+int response_code | response code
+it.businesslogic.ireport.ScriptletCode scripletCode | scriplet code
+java.lang.Class codegenClass | codegen class
+java.lang.String code | code
+java.lang.String formatCode | format code
+java.lang.String getCookiesCode | get cookies code
+java.lang.String userCode | user code
+java.net.URL codeBase | code base
+java.util.HashMap az_style_code_map | az style code map
+java.util.HashMap code_portions | code portions
+java.util.HashMap mainline_style_code_map | mainline style code map
+java.util.HashMap shadow_style_code_map | shadow style code map
+org.bouncycastle.asn1.DERObjectIdentifier InstructionCode | instruction code
+org.bouncycastle.asn1.DERObjectIdentifier POSTAL_CODE | postal code
+org.bouncycastle.asn1.DERObjectIdentifier ReasonCode | reason code
+org.bouncycastle.asn1.x509.KeyPurposeId id_kp_codeSigning | id kp code signing
+org.hsqldb.lib.IntValueHashMap classCodeMap | class code map
+org.mozilla.javascript.optimizer.Codegen codegen | codegen

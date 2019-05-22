@@ -1,0 +1,38 @@
+boolean isAnimated() | is animated
+boolean isAntiAliasingEnabled() | is anti aliasing enabled
+boolean isAnyCacheModified() | is any cache modified
+boolean isAnyPolicyInhibited() | is any policy inhibited
+boolean isAnyTextCacheModified() | is any text cache modified
+boolean isTextAntialiased() | is text antialiased
+CONS Any2LsRGBRed(QCachableRed;) | any 2 ls rgb red
+CONS Any2sRGBRed(QCachableRed;) | any 2 s rgb red
+int getAnimateSpeed() | get animate speed
+void ancestorAdded(QAncestorEvent;) | ancestor added
+void ancestorAdded(Qjavax.swing.event.AncestorEvent;) | ancestor added
+void ancestorMoved(QAncestorEvent;) | ancestor moved
+void ancestorMoved(Qjava.awt.event.HierarchyEvent;) | ancestor moved
+void ancestorMoved(Qjavax.swing.event.AncestorEvent;) | ancestor moved
+void ancestorRemoved(QAncestorEvent;) | ancestor removed
+void ancestorRemoved(Qjavax.swing.event.AncestorEvent;) | ancestor removed
+void ancestorResized(Qjava.awt.event.HierarchyEvent;) | ancestor resized
+void animationEnded(QAnimator;) | animation ended
+void animationStarted(QAnimator;) | animation started
+void announceDetailsChanged() | announce details changed
+void anotherNodeSelected(QMindMapNode;) | another node selected
+void changeLookAndFeelOrLanguageButtonActionPerformed(Qjava.awt.event.ActionEvent;) | change look and feel or language button action performed
+void checkSpeedAndReserved() | check speed and reserved
+void formAncestorResized(Qjava.awt.event.HierarchyEvent;) | form ancestor resized
+void jButtonFormatShrinkAncestorAdded(Qjavax.swing.event.AncestorEvent;) | j button format shrink ancestor added
+void jMenuItemtileAnodineActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item tile anodine action performed
+void jPanel1AncestorResized(Qjava.awt.event.HierarchyEvent;) | j panel 1 ancestor resized
+void jPanelReportAncestorAdded(Qjavax.swing.event.AncestorEvent;) | j panel report ancestor added
+void jRTextExpressionAreaAnchorNameTextChanged() | j r text expression area anchor name text changed
+void jRTextExpressionAreaAnchorTextChanged() | j r text expression area anchor text changed
+void lookAndFeelChanged(Qjava.awt.event.ItemEvent;) | look and feel changed
+void setAnimated() | set animated
+void setAnimated(Z) | set animated
+void setAnimateSpeed(I) | set animate speed
+void _shutdownAndWaitForInteractionEnded() | shutdown and wait for interaction ended
+void testCompileAbortsIfAnyUnsaved() | test compile aborts if any unsaved
+void testCompileActiveSavedAnyUnsavedButSaveWhenAsked() | test compile active saved any unsaved but save when asked
+void testCompileAnyUnsavedButSaveWhenAsked() | test compile any unsaved but save when asked

@@ -1,0 +1,140 @@
+boolean assumeInitiallyDown | assume initially down
+boolean bInit | b init
+boolean fully_initialise | fully initialise
+boolean has_received_initial_pex | has received initial pex
+boolean init | init
+boolean init_complete | init complete
+boolean _initComplete | init complete
+boolean initComplete | init complete
+boolean initCtlScroll | init ctl scroll
+boolean initialisation_complete | initialisation complete
+boolean initialising | initialising
+boolean initializing | initializing
+boolean initiator | initiator
+boolean initLicense | init license
+boolean must_init_core | must init core
+boolean test_initiator | test initiator
+byte[] BYTES_C_ID_INIT | bytes c id init
+byte MESSAGE_VERSION_INITIAL | message version initial
+com.aelitis.azureus.core.AzureusCoreOperation initialisation_op | initialisation op
+com.aelitis.azureus.core.peermanager.nat.PeerNATInitiator initiator | initiator
+com.aelitis.azureus.ui.IUIIntializer initializer | initializer
+com.aelitis.azureus.ui.IUIIntializer uiInitializer | ui initializer
+com.eteks.sweethome3d.model.Camera initialCamera | initial camera
+float initial_error | initial error
+float myInitialDuration | my initial duration
+int BAD_BLOOM_INITIAL | bad bloom initial
+int COMMAND_REROLL_INITIATIVE | command reroll initiative
+int DEFAULT_INITIAL_CAPACITY | default initial capacity
+int DEFAULT_MINIMUM_INITIAL_BUFFER_SECS_FOR_ETA | default minimum initial buffer secs for eta
+int ENUM_INIT_KEYS | enum init keys
+int ENUM_INIT_VALUES | enum init values
+int EVENT_AFTER_COLUMN_INIT | event after column init
+int EVENT_AFTER_GROUP_INIT | event after group init
+int EVENT_AFTER_PAGE_INIT | event after page init
+int EVENT_AFTER_REPORT_INIT | event after report init
+int EVENT_BEFORE_COLUMN_INIT | event before column init
+int EVENT_BEFORE_GROUP_INIT | event before group init
+int EVENT_BEFORE_PAGE_INIT | event before page init
+int EVENT_BEFORE_REPORT_INIT | event before report init
+int FAIL_INIT_DELAY | fail init delay
+int INIT_BAD | init bad
+int INIT_CACHE_SIZE | init cache size
+int _initHScroll | init h scroll
+int INITIAL | initial
+int initialAlpha | initial alpha
+int INITIAL_BLOCKSIZE | initial blocksize
+int initialBV | initial bv
+int initialCapacity | initial capacity
+int INITIAL_DELAY | initial delay
+int INITIAL_FREE_POS | initial free pos
+int INITIAL_IDLE_AVERAGE | initial idle average
+int INITIAL_INDENT_PROP | initial indent prop
+int initialisation_state | initialisation state
+int INITIALIZING | initializing
+int INITIAL_LAST_SEQUENCE | initial last sequence
+int INITIAL_MAX_ICODE_LENGTH | initial max icode length
+int initialMaxNumberOfPanels | initial max number of panels
+int INITIAL_NUMBERTABLE_SIZE | initial number table size
+int INITIAL_STRINGTABLE_SIZE | initial string table size
+int INIT_IMMEDIATE | init immediate
+int initIOBufferSize | init io buffer size
+int INIT_OK | init ok
+int _initSelEnd | init sel end
+int _initSelStart | init sel start
+int INIT_UNKNOWN | init unknown
+int _initVScroll | init v scroll
+int INTERESTING_INIT_MIN_OTHERS | interesting init min others
+int INTERESTING_INIT_MIN_OURS | interesting init min ours
+int INTERESTING_INIT_RAND_OTHERS | interesting init rand others
+int INTERESTING_INIT_RAND_OURS | interesting init rand ours
+int MAX_INCOMING_INITIAL_PACKET_SIZE | max incoming initial packet size
+int MIN_ADDRESS_CHANGE_PERIOD_INIT_DEFAULT | min address change period init default
+int MINIMUM_INITIAL_BUFFER_SECS | minimum initial buffer secs
+int minimum_initial_buffer_secs_for_eta | minimum initial buffer secs for eta
+int MIN_INCOMING_INITIAL_PACKET_SIZE | min incoming initial packet size
+int NATMAP_INIT_RETRY | nat map init retry
+int OK_BLOOM_INITIAL | ok bloom initial
+int OP_INITIALISATION | op initialisation
+int PEV_INITIALISATION_PROGRESS_PERCENT | pev initialisation progress percent
+int PEV_INITIALISATION_PROGRESS_TASK | pev initialisation progress task
+int PEV_INITIALISATION_UI_COMPLETES | pev initialisation ui completes
+int PEV_INITIAL_SHARING_COMPLETE | pev initial sharing complete
+int PHASE_INITIATIVE | phase initiative
+int PHASE_INITIATIVE_REPORT | phase initiative report
+int READ_BUFFER_INITIAL | read buffer initial
+int REPORT_TYPE_INIT | report type init
+int S_INIT | s init
+int SPEED_CONTROL_INITIAL_DELAY | speed control initial delay
+int SQL_INITIAL | sql initial
+int STATE_INIT | state init
+int STATE_INITIALIZING | state initializing
+int STATE_NON_INIT | state non init
+int STATUS_INITALISING | status initalising
+int ST_INITIALIZING | st initializing
+int TYPE_INITIALIZE | type initialize
+int VERSION_INITIAL | version initial
+int WMP_MINIMUM_INITIAL_BUFFER_SECS_FOR_ETA | wmp minimum initial buffer secs for eta
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionAreaInitialExpression | j r text expression area initial expression
+java.awt.Button rerollInitiativeB | reroll initiative b
+java.lang.Object initialiser_key | initialiser key
+java.lang.reflect.Method Throwable_initCause | throwable init cause
+java.lang.String FUNCTION_INIT_SIGNATURE | function init signature
+java.lang.String initialValueExpression | initial value expression
+java.lang.String ManagerItem_initializing | manager item initializing
+java.lang.String MODEL_INITIATED_PROPERTY_NAME | model initiated property name
+java.lang.String REGEXP_INIT_METHOD_NAME | regexp init method name
+java.lang.String REGEXP_INIT_METHOD_SIGNATURE | regexp init method signature
+java.lang.String T_INITIAL | t initial
+java.lang.String XML_INIT_CLASS | xml init class
+java.lang.Throwable init_error | init error
+java.net.URL initial_url | initial url
+java.nio.ByteBuffer initial_data | initial data
+java.nio.ByteBuffer initial_data_in | initial data in
+java.nio.ByteBuffer initial_data_out | initial data out
+java.util.List initializedPages | initialized pages
+java.util.List initThreads | init threads
+java.util.List myInitialStarts | my initial starts
+java.util.Map initiators | initiators
+java.util.Vector initiativeRerollRequests | initiative reroll requests
+javax.swing.JButton rerollInitiativeB | reroll initiative b
+long INITIAL_CONNECTION_ID | initial connection id
+long initial_connect_time | initial connect time
+long provider_initial_position | provider initial position
+long SCRAPE_INITDELAY_ERROR_TORRENTS | scrape init delay error torrents
+long SCRAPE_INITDELAY_STOPPED_TORRENTS | scrape init delay stopped torrents
+long STATS_INIT_PERIOD | stats init period
+megamek.common.InitiativeRoll initiative | initiative
+net.sourceforge.ganttproject.GanttCalendar myInitialEnd | my initial end
+net.sourceforge.ganttproject.GanttCalendar myInitialStart | my initial start
+net.sourceforge.ganttproject.task.TaskLength myInitialLength | my initial length
+org.bouncycastle.asn1.DERObjectIdentifier INITIALS | initials
+org.gudy.azureus2.core3.util.AESemaphore initialised_sem | initialised sem
+org.gudy.azureus2.core3.util.AESemaphore initial_refresh_sem | initial refresh sem
+org.gudy.azureus2.core3.util.AESemaphore initial_search_sem | initial search sem
+org.gudy.azureus2.core3.util.AESemaphore init_sem | init sem
+org.gudy.azureus2.core3.util.AESemaphore init_task | init task
+org.gudy.azureus2.pluginsimpl.local.PluginInitializer initialiser | initialiser
+org.gudy.azureus2.pluginsimpl.local.PluginInitializer plugin_initializer | plugin initializer
+org.gudy.azureus2.ui.swt.mainwindow.Initializer initializer | initializer
+org.hsqldb.HsqlNameManager.HsqlName initialSchema | initial schema

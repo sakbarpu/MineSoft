@@ -1,0 +1,4 @@
+boolean bMustExit | b must exit
+boolean _mustExist | must exist
+boolean must_init_core | must init core
+byte FLAG_MUSTREFRESH | flag must refresh

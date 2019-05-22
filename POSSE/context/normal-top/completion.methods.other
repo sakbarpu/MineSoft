@@ -1,0 +1,14 @@
+File getCompletionDirectory(QDownloadManager;) | get completion directory
+int getAverageCompletionInThousandNotation() | get average completion in thousand notation
+int getCompletionPercentage() | get completion percentage
+RecalculateTaskCompletionPercentageAlgorithm getRecalculateTaskCompletionPercentageAlgorithm() | get recalculate task completion percentage algorithm
+void addCompletionListener(QDownloadCompletionListener;) | add completion listener
+void addCompletionListener(QMessageCompletionListener;) | add completion listener
+void checkCompletionState() | check completion state
+void recalculateSupertaskCompletionPercentageBottomUp(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task completion percentage bottom up
+void recalculateSupertaskCompletionPercentage(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task completion percentage
+void removeCompletionListener(QDownloadCompletionListener;) | remove completion listener
+void removeCompletionListener(QMessageCompletionListener;) | remove completion listener
+void setCompletionPercentage(I) | set completion percentage
+void setInputCompletionCommand(QRunnable;) | set input completion command
+void triggerCompletionListeners(ZQObject;) | trigger completion listeners

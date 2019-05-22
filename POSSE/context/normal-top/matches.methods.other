@@ -1,0 +1,4 @@
+boolean addressMatchesID() | address matches id
+boolean isMatchesNull() | is matches null
+void _assertInteractionMatchesHelper(QString;Z) | assert interaction matches helper
+void setMatchesNull(Z) | set matches null

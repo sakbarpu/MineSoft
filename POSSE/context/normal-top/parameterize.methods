@@ -1,0 +1,3 @@
+double[] chordLengthParameterize([QPoint2D.Double;II) | chord length parameterize
+void ParameterizedTimeUnitImpl(QDate;) | parameterized time unit impl
+void parameterizeService(Parameters params) | parameterize service

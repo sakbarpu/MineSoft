@@ -1,0 +1,26 @@
+boolean isEquivalentToBetweenPredicateAugmentedWithLike() | is equivalent to between predicate augmented with like
+boolean supportsLikeEscapeClause() | supports like escape clause
+double getLikelihoodThreshold() | get likelihood threshold
+double getLogLikelihood() | get log likelihood
+double likelihoodRatio([D[D) | likelihood ratio
+double likelihoodRatio([D[D[D) | likelihood ratio
+double logLikelihood() | log likelihood
+double logLikelihoodAfter() | log likelihood after
+double logLikelihood([[D[[D) | log likelihood
+double logLikelihood([DI) | log likelihood
+double logLikelihoodEstimate(IQInstance;DI) | log likelihood estimate
+double negativeLogLikelihood([[D[[D) | negative log likelihood
+Example enableLike() | enable like
+Example enableLike(QMatchMode;) | enable like
+Expression parseLikePredicate(QExpression;) | parse like predicate
+Object arriveLikeNode(LikeNode node, Object msg) | arrive like node
+SimpleExpression like(QObject;) | like
+SimpleExpression like(QString;QMatchMode;) | like
+SimpleExpression like(QString;QObject;) | like
+SimpleExpression like(QString;QString;QMatchMode;) | like
+String likelihoodThresholdTipText() | likelihood threshold tip text
+void computelogLikelihood([DQInstances;) | compute log likelihood
+void computeLogLikelihood([DQInstances;) | compute log likelihood
+void resolveTypeForLike(QSession;) | resolve type for like
+void setLikelihoodThreshold(D) | set likelihood threshold
+void setUnlessAntLike(String version) | set unless ant like

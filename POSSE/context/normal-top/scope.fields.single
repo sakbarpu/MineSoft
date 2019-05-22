@@ -1,0 +1,3 @@
+int SCOPE | scope
+org.mozilla.javascript.ScriptableObject scope | scope
+org.mozilla.javascript.Scriptable scope | scope

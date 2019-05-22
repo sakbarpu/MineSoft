@@ -1,0 +1,11 @@
+ConfigurationManager initialiseFromMap(QMap;) | initialise from map
+void initialiseActivityGroup() | initialise activity group
+void initialiseDBGroup() | initialise db group
+void initialiseForm(ToolParent theParent) | initialise form
+void initialiseGeneralGroup() | initialise general group
+void initialiseMethodReturn() | initialise method return
+void initialiseOperationDetailsGroup() | initialise operation details group
+void initialisePlugin(QList;) | initialise plugin
+void initialisePlugins() | initialise plugins
+void initialiseSuperSeedMode() | initialise super seed mode
+void initialiseTransportDetailsGroup() | initialise transport details group

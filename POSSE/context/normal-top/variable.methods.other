@@ -1,0 +1,24 @@
+boolean supportsVariableLimit() | supports variable limit
+ExpandVariableContext getVariableContext() | get variable context
+int resolveVariableCost(QEntity;) | resolve variable cost
+it.businesslogic.ireport.JRVariable readVariableElement(QNode;) | read variable element
+Option<QString;> getVariableToString(QString;[I) | get variable to string
+Option<QString;> getVariableType(QString;[I) | get variable type
+Set<QString;> getVariableNames() | get variable names
+String getVariableToString(QString;[I) | get variable to string
+String getVariableType() | get variable type
+String getVariableType(QString;[I) | get variable type
+String getVariableValue(QString;) | get variable value
+String getVariableValue(String variableName) | get variable value
+UResult unifyVariableSignature(VariableSignature vSig, Signature sigB) | unify variable signature
+VariableDecls getVariableDecls() | get variable decls
+VariableKind getVariableKind(PsiVariable psiVariable) | get variable kind
+void addVariableDescriptor(QString;QString;II) | add variable descriptor
+void _insertVariableCommand() | insert variable command
+void lookForVariableAccess(QOptFunctionNode;QNode;) | look for variable access
+void pushNewVariablePropertiesTuple(VariablePropertiesTuple variablePropertiesTuple) | push new variable properties tuple
+void setVariableC(int value) | set variable c
+void testInteractionsVariableWithLowercaseClassName() | test interactions variable with lowercase class name
+void visitLocalVariableTableAttrInfo(ClassFile classFile, MethodInfo methodInfo, CodeAttrInfo codeAttrInfo, LocalVariableTableAttrInfo localVariableTableAttrInfo) | visit local variable table attr info
+void visitLocalVariableTypeInfo(Clazz clazz, Method method, CodeAttribute codeAttribute, LocalVariableTypeInfo localVariableTypeInfo) | visit local variable type info
+void visitVariableDefinition(JVariableDefinition self, int modifiers, CType type, String ident, JExpression expr) | visit variable definition

@@ -1,0 +1,14 @@
+boolean containsOutScopeReadOnly(String fieldName) | contains out scope read only
+int readScopeWireFormat([BI) | read scope wire format
+int writeScopeWireFormat([BI) | write scope wire format
+Object getTopScopeValue(QScriptable;QObject;) | get top scope value
+Object topScopeName(QContext;QScriptable;QString;) | top scope name
+ScopeProvider newScopeProvider(QScriptable;) | new scope provider
+ScriptableObject getLibraryScopeOrNull(QScriptable;) | get library scope or null
+String getColScopeCat(I) | get col scope cat
+String getColScopeSchem(I) | get col scope schem
+String getColScopeTable(I) | get col scope table
+void exportAsScopeProperty() | export as scope property
+void setScopeProvider(QScopeProvider;) | set scope provider
+void testMessageTag1ArgNamePropertyNoScopeAlternateBundle() | test message tag 1 arg name property no scope alternate bundle
+XMLLib extractFromScopeOrNull(QScriptable;) | extract from scope or null

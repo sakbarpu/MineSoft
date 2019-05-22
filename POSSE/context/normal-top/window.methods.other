@@ -1,0 +1,82 @@
+boolean getAutomaticMultiWindowSupport() | get automatic multi window support
+boolean getMainWindowStatus() | get main window status
+boolean isChatWindowVisible() | is chat window visible
+FontUIResource getWindowTitleFont() | get window title font
+freemind.controller.actions.generated.instance.NormalWindowConfigurationStorage createNormalWindowConfigurationStorage() | create normal window configuration storage
+freemind.controller.actions.generated.instance.NormalWindowConfigurationStorageType createNormalWindowConfigurationStorageType() | create normal window configuration storage type
+freemind.controller.actions.generated.instance.OptionPanelWindowConfigurationStorage createOptionPanelWindowConfigurationStorage() | create option panel window configuration storage
+freemind.controller.actions.generated.instance.OptionPanelWindowConfigurationStorageType createOptionPanelWindowConfigurationStorageType() | create option panel window configuration storage type
+freemind.controller.actions.generated.instance.TimeWindowColumnSetting createTimeWindowColumnSetting() | create time window column setting
+freemind.controller.actions.generated.instance.TimeWindowColumnSettingType createTimeWindowColumnSettingType() | create time window column setting type
+freemind.controller.actions.generated.instance.TimeWindowConfigurationStorage createTimeWindowConfigurationStorage() | create time window configuration storage
+freemind.controller.actions.generated.instance.TimeWindowConfigurationStorageType createTimeWindowConfigurationStorageType() | create time window configuration storage type
+freemind.controller.actions.generated.instance.WindowConfigurationStorage createWindowConfigurationStorage() | create window configuration storage
+GeneralPath getDoorOrWindowSashShape(QHomeDoorOrWindow;QSash;) | get door or window sash shape
+int getWindowID() | get window id
+int getWindowPosX() | get window pos x
+int getWindowPosY() | get window pos y
+int getWindowSize() | get window size
+int getWindowSizeHeight() | get window size height
+int getWindowSizeWidth() | get window size width
+Iterator getWindowList() | get window list
+java.awt.Dimension getMainWindowSize() | get main window size
+java.awt.Dimension getProfileWindowSize() | get profile window size
+java.awt.Dimension getProtocolWindowSize() | get protocol window size
+java.awt.Dimension getWindowSize() | get window size
+java.awt.Point getMainWindowLocation() | get main window location
+java.awt.Point getProfileWindowLocation() | get profile window location
+java.awt.Point getProtocolWindowLocation() | get protocol window location
+java.awt.Point getWindowLocation() | get window location
+java.util.List getTimeWindowColumnSetting() | get time window column setting
+JMenu getWindowMenu() | get window menu
+MenuItem addCloseWindowMenuItem(QMenu;) | add close window menu item
+MenuItem addMinimizeWindowMenuItem(QMenu;) | add minimize window menu item
+MenuItem addZoomWindowMenuItem(QMenu;) | add zoom window menu item
+MenuItem createWindowMenuItem(QMenu;) | create window menu item
+Point getStoredWindowSize() | get stored window size
+Sash[] getDoorOrWindowSashes(QResourceBundle;IFF) | get door or window sashes
+Shape getDoorOrWindowShapeAtWallIntersection(QHomeDoorOrWindow;) | get door or window shape at wall intersection
+String getNewProjectWizardWindowTitle() | get new project wizard window title
+String getWindowState() | get window state
+String getWindowTitle() | get window title
+String getWindowType() | get window type
+void addPopupWindowEventListener(QJPopupWindowEventListener;) | add popup window event listener
+void addWindowAddedListener(QListener;) | add window added listener
+void addWindowListener(QWindowListener;) | add window listener
+void addWindowMenu() | add window menu
+void addWindowMenu(QShell;) | add window menu
+void addWindowMenuToFrame(QJFrame;QSweetHome3D;Z) | add window menu to frame
+void addWindowRemovedListener(QListener;) | add window removed listener
+void appendWindowMenuItems(QMenu;) | append window menu items
+void centerWindowRelativeTo(QShell;QControl;) | center window relative to
+void createWindowMenu() | create window menu
+void formWindowClosing(Qjava.awt.event.WindowEvent;) | form window closing
+void IconifyingWindowAdapter(QJFrame;) | iconifying window adapter
+void installModalWindowAdapter(QWindow;QRunnable1<-QWindowEvent;>;QRunnable1<-QWindowEvent;>;) | install modal window adapter
+void installWindowListenerForSavingUserBeans() | install window listener for saving user beans
+void LogWindowPrintStream(QLogWindow;QPrintStream;QString;) | log window print stream
+void paintDoorOrWindowSashes(QGraphics2D;QHomeDoorOrWindow;FQColor;) | paint door or window sashes
+void processWindowEvent(QWindowEvent;) | process window event
+void removeModalWindowAdapter(QWindow;) | remove modal window adapter
+void removePopupWindowEventListener(QJPopupWindowEventListener;) | remove popup window event listener
+void removeWindowAddedListener(QListener;) | remove window added listener
+void removeWindowRemovedListener(QListener;) | remove window removed listener
+void setMainWindowProperties(Qjava.awt.Point;Qjava.awt.Dimension;Z) | set main window properties
+void setMessageWindowHeight(int height) | set message window height
+void setProfileWindowProperties(Qjava.awt.Point;Qjava.awt.Dimension;) | set profile window properties
+void setProtocolWindowProperties(Qjava.awt.Point;Qjava.awt.Dimension;) | set protocol window properties
+void setWindowHeight(int height) | set window height
+void setWindowID(I) | set window id
+void setWindowListener(QWindowListener;) | set window listener
+void setWindowPosition(II) | set window position
+void setWindowPosX(I) | set window pos x
+void setWindowPosY(I) | set window pos y
+void setWindowProperties(Qjava.awt.Point;Qjava.awt.Dimension;ZI) | set window properties
+void setWindowSizeHeight(I) | set window size height
+void setWindowSize(I) | set window size
+void setWindowSize(II) | set window size
+void setWindowSizeWidth(I) | set window size width
+void updateMenuWindowList() | update menu window list
+void updateShapeNamesAndWindowPanesTransparency(QScene;) | update shape names and window panes transparency
+void updateWindowUI(QWindow;) | update window ui
+Window getWindowForComponent(QComponent;) | get window for component

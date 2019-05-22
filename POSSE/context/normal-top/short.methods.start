@@ -1,0 +1,2 @@
+byte[] shortToByteArray(S) | short to byte array
+String shortTitle() | short title

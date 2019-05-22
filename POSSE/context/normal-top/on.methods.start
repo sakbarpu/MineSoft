@@ -1,0 +1,165 @@
+boolean onBuddyRequestAuthorization(Qjava.lang.String;Qjava.lang.String;) | on buddy request authorization
+boolean onDelete(QSession;) | on delete
+boolean onFlushDirty(QObject;QSerializable;[QObject;[QObject;[QString;[QType;) | on flush dirty
+boolean onLoad(QObject;QSerializable;[QObject;[QString;[QType;) | on load
+boolean onMatch() | on match
+boolean onPreDelete(QPreDeleteEvent;) | on pre delete
+boolean onPreInsert(QPreInsertEvent;) | on pre insert
+boolean onPreUpdate(QPreUpdateEvent;) | on pre update
+boolean onSameC3NetworkAs(QEntity;) | on same c 3 network as
+boolean onSave(QObject;QSerializable;[QObject;[QString;[QType;) | on save
+boolean onSave(QSession;) | on save
+boolean onScreen(II) | on screen
+boolean onScreen(QPosition;) | on screen
+boolean onSendMessage(Qorg.planetamessenger.plugin.JContactListItem;Qjava.lang.String;) | on send message
+boolean onUnit(QGraphics;IIII) | on unit
+boolean onUpdate(QSession;) | on update
+EvaluatorException on_same_pair_fail(QIdValuePair;QIdValuePair;) | on same pair fail
+int onStartEscapeSequence(QString;QStringBuffer;I) | on start escape sequence
+RuntimeException onEmptyStackTopRead() | on empty stack top read
+RuntimeException onInvalidIndex(II) | on invalid index
+RuntimeException onSeledMutation() | on sel ed mutation
+SaveLocationChange onCompletion(QDownloadManager;) | on completion
+SaveLocationChange onCompletion(QDownload;ZZ) | on completion
+SaveLocationChange onInitialisation(QDownloadManager;) | on initialisation
+SaveLocationChange onInitialization(QDownload;ZZ) | on initialization
+SaveLocationChange onRemoval(QDownloadManager;) | on removal
+SaveLocationChange onRemoval(QDownload;ZZ) | on removal
+String onDemandDirectoryTipText() | on demand directory tip text
+String onID(QIdentifiableObject;QString;) | on id
+String onID(QXMLSerializable;QString;) | on id
+String onIDREF(QIdentifiableObject;) | on idref
+String onIDREF(QXMLSerializable;QString;) | on idref
+String onPrepareStatement(QString;) | on prepare statement
+symbol on_symbol() | on symbol
+void onAccept(Qjava.net.Socket;) | on accept
+void onAddChild(QMindMapNode;) | on add child
+void onAddChildren(QMindMapNode;) | on add children
+void onAddPlugin(Qorg.planetamessenger.plugin.JPlugin;) | on add plugin
+void onAddUserToContactList(Qjava.lang.String;) | on add user to contact list
+void onAuthorizeBuddy(Qjava.lang.String;) | on authorize buddy
+void onAutoFlush(QAutoFlushEvent;) | on auto flush
+void onBuddyDetails(Qjava.lang.String;) | on buddy details
+void onBuddyRequestAuthorization(JQjava.lang.String;) | on buddy request authorization
+void onCancel() | on cancel
+void onChangePasswordError(J) | on change password error
+void onChangePassword(Qjava.lang.String;) | on change password
+void onChangePrivacy(Qjava.lang.String;I) | on change privacy
+void onChangingDates() | on changing dates
+void onClick() | on click
+void onClose() | on close
+void onClose(Qjava.net.Socket;) | on close
+void onCollectionRecreate(QObject;QSerializable;) | on collection recreate
+void onCollectionRemove(QObject;QSerializable;) | on collection remove
+void onCollectionUpdate(QObject;QSerializable;) | on collection update
+void onCompletion(QDownload;) | on completion
+void onConnectError(QSession;) | on connect error
+void onCreate() | on create
+void onCreatePlugin(Qorg.planetamessenger.plugin.JPlugin;) | on create plugin
+void onCreateUserError() | on create user error
+void onDelete() | on delete
+void onDelete(QDeleteEvent;) | on delete
+void onDelete(QDeleteEvent;QSet;) | on delete
+void onDelete(QObject;QSerializable;[QObject;[QString;[QType;) | on delete
+void onDeniedHost(QString;) | on denied host
+void onDestroy() | on destroy
+void onDestroyPlugin(Qorg.planetamessenger.plugin.JPlugin;) | on destroy plugin
+void onDirtyCheck(QDirtyCheckEvent;) | on dirty check
+void OnDoubleClick(QJTable;QObject;QMouseEvent;) | on double click
+void onEnter(QContext;QScriptable;QScriptable;[QObject;) | on enter
+void onEvent(QPerformanceEvent;) | on event
+void onEvict(QEvictEvent;) | on evict
+void onExceptionThrown(QContext;QThrowable;) | on exception thrown
+void onExit(QContext;ZQObject;) | on exit
+void onFileChosen(QFile;) | on file chosen
+void onFinish() | on finish
+void onFlushEntity(QFlushEntityEvent;) | on flush entity
+void onFlush(QFlushEvent;) | on flush
+void onHide(QJPopupWindow;) | on hide
+void onHostKeyMismatch(QString;QSshPublicKey;QSshPublicKey;) | on host key mismatch
+void onID(QDatatype;QString;) | on id
+void onIncomingMessage(QJOscarLib.Integration.Event.IncomingMessageEvent;) | on incoming message
+void onIncomingUrl(QJOscarLib.Integration.Event.IncomingUrlEvent;) | on incoming url
+void onIncomingUser(QJOscarLib.Integration.Event.IncomingUserEvent;) | on incoming user
+void onInitializeCollection(QInitializeCollectionEvent;) | on initialize collection
+void onLineChange(QContext;I) | on line change
+void onLoad(QLoadEvent;QLoadEventListener.LoadType;) | on load
+void onLoad(QLoadEvent;QLoadType;) | on load
+void onLoad(QSession;QSerializable;) | on load
+void onLock(QLockEvent;) | on lock
+void onLoginError(J) | on login error
+void onLogin(Qjava.lang.String;I) | on login
+void onLogout() | on logout
+void onLooseFocusHook() | on loose focus hook
+void onMaximizeMinimize() | on maximize minimize
+void onMerge(QMergeEvent;) | on merge
+void onMerge(QMergeEvent;QMap;) | on merge
+void onMessageError(J) | on message error
+void onMessage(Qorg.planetamessenger.plugin.JContactListItem;) | on message
+void onMessageSent(J) | on message sent
+void onMouseClick(QMouseEvent;) | on mouse click
+void onMouseDown(QMouseEvent;) | on mouse down
+void onMouseExit(QMouseEvent;) | on mouse exit
+void onMouseOverHook() | on mouse over hook
+void onMouseOver(QMouseEvent;) | on mouse over
+void onMouseUp(QMouseEvent;) | on mouse up
+void onNew() | on new
+void onNewChild(QMindMapNode;) | on new child
+void onNewTab(Qorg.planetamessenger.plugin.JContactListItem;) | on new tab
+void onNoteEvent(QPerformanceNoteEvent;) | on note event
+void onOffgoingUser(QJOscarLib.Integration.Event.OffgoingUserEvent;) | on off going user
+void onOfflineMessage(QJOscarLib.Integration.Event.OfflineMessageEvent;) | on offline message
+void onOk() | on ok
+void onOK() | on ok
+void onPasswordChangedSuccessfull() | on password changed successfull
+void onPersist(QPersistEvent;) | on persist
+void onPersist(QPersistEvent;QMap;) | on persist
+void onPlaylist(QPlaylist;) | on playlist
+void onPostDelete(QPostDeleteEvent;) | on post delete
+void onPostInsert(QPostInsertEvent;) | on post insert
+void onPostLoad(QPostLoadEvent;) | on post load
+void onPostRecreateCollection(QPostCollectionRecreateEvent;) | on post recreate collection
+void onPostRemoveCollection(QPostCollectionRemoveEvent;) | on post remove collection
+void onPostUpdateCollection(QPostCollectionUpdateEvent;) | on post update collection
+void onPostUpdate(QPostUpdateEvent;) | on post update
+void onPrefixMapping(QString;QString;) | on prefix mapping
+void onPreLoad(QPreLoadEvent;) | on pre load
+void onPreRecreateCollection(QPreCollectionRecreateEvent;) | on pre recreate collection
+void onPreRemoveCollection(QPreCollectionRemoveEvent;) | on pre remove collection
+void onPreUpdateCollection(QPreCollectionUpdateEvent;) | on pre update collection
+void onReceiveFocusHook() | on receive focus hook
+void onReceiveMessage(JQjava.util.GregorianCalendar;Qjava.lang.String;) | on receive message
+void onReceive(Qjava.net.DatagramPacket;) | on receive
+void onReceive(Qjava.net.Socket;) | on receive
+void onRefresh(QRefreshEvent;) | on refresh
+void onRefresh(QRefreshEvent;QMap;) | on refresh
+void onRegisterExistingUser(Qjava.lang.String;Qjava.lang.String;Qjava.lang.String;) | on register existing user
+void onRegisterNewUser(Qjava.lang.String;Qjava.lang.StringBuffer;Qjava.lang.String;) | on register new user
+void onRegisterUserSucessfull() | on register user sucessfull
+void onRemoveChild(QMindMapNode;) | on remove child
+void onRemoveChildren(QMindMapNode;QMindMapNode;) | on remove children
+void onRemovePlugin(Qorg.planetamessenger.plugin.JPlugin;) | on remove plugin
+void onRemoveUserFromContactList(Qjava.lang.String;) | on remove user from contact list
+void onReplicate(QReplicateEvent;) | on replicate
+void onRequestAuthorization(Qjava.lang.String;Qjava.lang.String;) | on request authorization
+void onResize() | on resize
+void onSave() | on save
+void onSaveOrUpdate(QSaveOrUpdateEvent;) | on save or update
+void onSealedMutation() | on sealed mutation
+void onSelect() | on select
+void onSelectHost() | on select host
+void onSendMessage(JQjava.lang.String;) | on send message
+void onSendMessage(Qjava.lang.String;Qjava.lang.String;) | on send message
+void onSend(Qjava.net.DatagramPacket;) | on send
+void onSend(Qjava.net.Socket;) | on send
+void onShow(QJPopupWindow;) | on show
+void onStart() | on start
+void onStatusError(I) | on status error
+void onTimer(QPerformanceTimerEvent;) | on timer
+void onTrack(QTrack;) | on track
+void onUnauthorizeBuddy(Qjava.lang.String;) | on unauthorize buddy
+void onUnknownHost(QString;QSshPublicKey;) | on unknown host
+void onUnregisterUser() | on unregister user
+void onUnregisterUserSucessfull() | on unregister user sucessfull
+void onUpdateChildrenHook(QMindMapNode;) | on update children hook
+void onUpdateNodeHook() | on update node hook

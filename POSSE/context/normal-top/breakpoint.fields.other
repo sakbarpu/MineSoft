@@ -1,0 +1,6 @@
+edu.rice.cs.drjava.config.BooleanOption WARN_BREAKPOINT_OUT_OF_SYNC | warn breakpoint out of sync
+edu.rice.cs.drjava.config.ColorOption DEBUG_BREAKPOINT_COLOR | debug breakpoint color
+edu.rice.cs.drjava.config.ColorOption DEBUG_BREAKPOINT_DISABLED_COLOR | debug breakpoint disabled color
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_DEBUG_BREAKPOINT_PANEL | key debug breakpoint panel
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_DEBUG_BREAKPOINT_TOGGLE | key debug breakpoint toggle
+edu.rice.cs.drjava.ui.ReverseHighlighter.DrJavaHighlightPainter DISABLED_BREAKPOINT_PAINTER | disabled breakpoint painter

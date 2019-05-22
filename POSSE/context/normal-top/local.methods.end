@@ -1,0 +1,34 @@
+boolean determineLocal() | determine local
+boolean isLANLocal() | is lan local
+boolean isLocal() | is local
+boolean isOrHasBeenLocal() | is or has been local
+byte[] diversifyKeyLocal([BI) | diversify key local
+ChargeLocal createNewChargeLocal(ChargeInfo info) | create new charge local
+FromElement findJoinByPathLocal(QString;) | find join by path local
+int allocLocal() | alloc local
+int toLocal(I) | to local
+Node createUseLocal(QNode;) | create use local
+Object _fixupLocal() | fixup local
+Object getThreadLocal(QObject;) | get thread local
+Object _setLocal() | set local
+RPObject _lookupLocal(J) | lookup local
+RPObject _lookupLocal(QObject;) | lookup local
+short getNewWordLocal() | get new word local
+short getNewWordPairLocal() | get new word pair local
+String getCurrentElementLocal() | get current element local
+String getLocal() | get local
+Variable addLocal(Type type) | add local
+void addLocal(QConsoleInput;QString;QString;ZZ) | add local
+void defineLocal() | define local
+void deleteLocal() | delete local
+void putThreadLocal(QObject;QObject;) | put thread local
+void registerLocal(QString;QString;) | register local
+void releaseLocal(I) | release local
+void releaseWordLocal(S) | release word local
+void releaseWordpairLocal(S) | release word pair local
+void removeThreadLocal(QObject;) | remove thread local
+void setLocal(QString;) | set local
+void setLocal(Z) | set local
+void setStateToLocal() | set state to local
+void setSystemLocal() | set system local
+void updateLocal(QSet;IQMap;) | update local

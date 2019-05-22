@@ -1,0 +1,7 @@
+Coords getEntityActualPosition(QEntity;) | get entity actual position
+FormatStyle determineActualStyle(QFormatStyle;) | determine actual style
+int getActualIndex(I) | get actual index
+int getActualRowCount() | get actual row count
+int getActualRow(I) | get actual row
+Reader getActualReader(QFile;) | get actual reader
+String getActualPath() | get actual path

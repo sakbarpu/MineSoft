@@ -1,0 +1,10 @@
+boolean bAlreadyInitialized | b already initialized
+boolean bInitialized | b initialized
+boolean _initialized | initialized
+boolean initialized | initialized
+boolean isInitialized | is initialized
+boolean scrollBarsInitialized | scroll bars initialized
+boolean searchResultsInitialized | search results initialized
+int EVENT_INITIALIZED | event initialized
+int REQUIRE_TABLEITEM_INITIALIZED | require table item initialized
+int STATE_INITIALIZED | state initialized

@@ -1,0 +1,6 @@
+int bundleHandle | bundle handle
+int LAST_ERROR_HANDLE | last error handle
+int NATIVE_HANDLE | native handle
+int serverBundleHandle | server bundle handle
+int webBundleHandle | web bundle handle
+org.jhotdraw.draw.Handle masterHandle | master handle

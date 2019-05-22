@@ -1,0 +1,44 @@
+boolean testVariable | test variable
+byte VARIABLE_KEYWORD | variable keyword
+float TONNAGE_VARIABLE | tonnage variable
+int BV_VARIABLE | bv variable
+int COST_VARIABLE | cost variable
+int CRITICALS_VARIABLE | criticals variable
+int DAMAGE_VARIABLE | damage variable
+int MAX_VARIABLES | max variables
+int OBJECT_VARIABLE | object variable
+int T_TARGSYS_VARIABLE_RANGE | t targsys variable range
+int VARIABLE | variable
+int VARIABLE_PROP | variable prop
+it.businesslogic.ireport.gui.JDragTable jTableVariables | j table variables
+it.businesslogic.ireport.JRVariable tmpVariable | tmp variable
+java.lang.String GET_VARIABLE_SIG | get variable sig
+java.lang.String subreportVariable | subreport variable
+java.lang.String toVariable | to variable
+java.lang.String VARIABLES_CATEGORY | variables category
+java.util.HashMap<java.lang.String,java.util.Stack<edu.rice.cs.drjava.config.VariableProperty>> _variables | variables
+java.util.Vector clipboardVariables | clipboard variables
+java.util.Vector variables | variables
+javax.swing.ImageIcon folderVariablesIcon | folder variables icon
+javax.swing.ImageIcon variablesIcon | variables icon
+javax.swing.JButton jButtonDeleteVariable | j button delete variable
+javax.swing.JButton jButtonModifyVariable | j button modify variable
+javax.swing.JButton jButtonNewVariable | j button new variable
+javax.swing.JButton jButtonVariables | j button variables
+javax.swing.JComboBox jComboBoxSubreportVariable | j combo box subreport variable
+javax.swing.JComboBox jComboBoxVariable | j combo box variable
+javax.swing.JLabel variablesLabel | variables label
+javax.swing.JMenuItem jMenuItemNewVariable | j menu item new variable
+javax.swing.JMenuItem jMenuItemVariables | j menu item variables
+javax.swing.JMenu jMenuVariables | j menu variables
+javax.swing.JPanel jPanelVariables | j panel variables
+javax.swing.JPopupMenu jPopupMenuVariables | j popup menu variables
+javax.swing.JToolBar variableButtonsToolBar | variable buttons tool bar
+javax.swing.tree.DefaultMutableTreeNode variablesNode | variables node
+long TO_DEFAULT_VARIABLE_PIECE_NUM_LOWER | to default variable piece num lower
+long TO_DEFAULT_VARIABLE_PIECE_NUM_UPPER | to default variable piece num upper
+long TO_DEFAULT_VARIABLE_PIECE_SIZE_MAX | to default variable piece size max
+long TO_DEFAULT_VARIABLE_PIECE_SIZE_MIN | to default variable piece size min
+org.mozilla.javascript.ObjArray itsVariables | its variables
+org.mozilla.javascript.ObjToIntMap itsVariableNames | its variable names
+short variableObjectLocal | variable object local

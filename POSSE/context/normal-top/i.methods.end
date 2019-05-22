@@ -1,0 +1,3 @@
+boolean hasC3i() | has c 3 i
+MiscType createC3I() | create c 3 i
+String _format_i(int value) | format i

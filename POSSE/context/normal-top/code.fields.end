@@ -1,0 +1,20 @@
+boolean DEBUGCODE | debug code
+boolean _indentNonCode | indent non code
+boolean printICode | print i code
+byte[] itsICode | its i code
+int ConstructorId_fromCharCode | constructor id from char code
+int errCode | err code
+int ERROR_CODE | error code
+int exitCode | exit code
+int hash_code | hash code
+int hashCode | hash code
+int iExitCode | i exit code
+int key_hash_code | key hash code
+int response_code | response code
+it.businesslogic.ireport.ScriptletCode scripletCode | scriplet code
+java.lang.String formatCode | format code
+java.lang.String getCookiesCode | get cookies code
+java.lang.String userCode | user code
+org.bouncycastle.asn1.DERObjectIdentifier InstructionCode | instruction code
+org.bouncycastle.asn1.DERObjectIdentifier POSTAL_CODE | postal code
+org.bouncycastle.asn1.DERObjectIdentifier ReasonCode | reason code

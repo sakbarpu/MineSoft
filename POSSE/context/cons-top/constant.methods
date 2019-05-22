@@ -1,0 +1,5 @@
+CONS ConstantColumn(QClass;QObject;) | constant column
+CONS ConstantPool(QClassFileWriter;) | constant pool
+CONS ConstantProperty(QString;QString;QString;) | constant property
+CONS Constant(QElement;QFieldMetaInfo.Optype;QArrayList<QAttribute;>;) | constant
+CONS SVGConstants() | svg constants

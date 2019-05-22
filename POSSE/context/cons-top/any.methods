@@ -1,0 +1,5 @@
+CONS Any2LsRGBRed(QCachableRed;) | any 2 ls rgb red
+CONS Any2sRGBRed(QCachableRed;) | any 2 s rgb red
+CONS Any(QTable;) | any
+CONS AnyType() | any type
+CONS AnyType(QType;QType;) | any type

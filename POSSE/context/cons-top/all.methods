@@ -1,0 +1,11 @@
+CONS AllEntriesGroup() | all entries group
+CONS AllocationTagHandler(QResourceManager;QTaskManager;QRoleManager;) | allocation tag handler
+CONS AllTests(QString;) | all tests
+CONS AllTransfersBar(QGlobalManager;QShell;) | all transfers bar
+CONS RemoveAllIconsAction(QModeController;QIconAction;) | remove all icons action
+CONS SaveAllAction(QJabRefFrame;) | save all action
+CONS SeeAllCommand(QServer;) | see all command
+CONS SelectAllAction() | select all action
+CONS SelectAllAction(QModeController;) | select all action
+CONS TaskAllocationsPanel(QTask;QHumanResourceManager;QRoleManager;Z) | task allocations panel
+CONS UnfoldAll() | unfold all

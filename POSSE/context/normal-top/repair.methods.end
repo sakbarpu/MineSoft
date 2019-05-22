@@ -1,0 +1,2 @@
+boolean isUnderRepair() | is under repair
+int getTurnsForRepair() | get turns for repair

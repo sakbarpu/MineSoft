@@ -1,0 +1,2 @@
+CONS GeneratedCollectionAliases(QCollectionPersister;QString;) | generated collection aliases
+CONS GeneratedCollectionAliases(QMap;QCollectionPersister;QString;) | generated collection aliases

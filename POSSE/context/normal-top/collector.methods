@@ -1,0 +1,4 @@
+void collectExpressions(JRExpressionCollector collector) | collect expressions
+void Collector() | collector
+void ColumnCollector(Z) | column collector
+void startGarbageCollector() | start garbage collector

@@ -1,0 +1,9 @@
+Column getConstantColumn(QClass;QObject;) | get constant column
+int addConstantDouble(double val) | add constant double
+Object getConstantValue(QString;) | get constant value
+String getConstantName(QClass;I) | get constant name
+String getStaticConstantWrapperType(D) | get static constant wrapper type
+void addConstantColumn(QString;QClass;QObject;) | add constant column
+void emitConstantDudeInitializers(QClassFileWriter;) | emit constant dude initializers
+void setConstantValue(QDotNode;QString;QObject;) | set constant value
+void visitConstantElementValue(Clazz clazz, Annotation annotation, ConstantElementValue constantElementValue) | visit constant element value

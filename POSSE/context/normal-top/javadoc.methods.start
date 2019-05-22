@@ -1,0 +1,5 @@
+boolean _javadocMainHasExecuteMethod(QClass;) | javadoc main has execute method
+void javadocAll(QDirectorySelector;QFileSaveSelector;) | javadoc all
+void _javadocAllWorker(QFile;QFileSaveSelector;) | javadoc all worker
+void JavadocCustomParamsListener(QJFrame;) | javadoc custom params listener
+void javadocDocument(QOpenDefinitionsDocument;QFileSaveSelector;) | javadoc document

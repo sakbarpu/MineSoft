@@ -1,0 +1,32 @@
+AttributeCertificateHolder getHolder() | get holder
+boolean hasHolder(QEntityMode;) | has holder
+Class getHolderClass() | get holder class
+Holder getHolder() | get holder
+HolderInstantiator createClassicHolderInstantiator(QConstructor;QResultTransformer;) | create classic holder instantiator
+HolderInstantiator getHolderInstantiator() | get holder instantiator
+HolderInstantiator getHolderInstantiator(QResultTransformer;QResultTransformer;[QString;) | get holder instantiator
+HolderInstantiator getHolderInstantiator(QResultTransformer;[QString;) | get holder instantiator
+ImageHolderFigure createImageHolder(QInputStream;) | create image holder
+IPermission pHolder2AddArray(IUpdatingPermissionManager upm, ArrayList holders) | p holder 2 add array
+JPanel makeHolderPanelForToolBarBean(QString;QObject;ZQString;Z) | make holder panel for tool bar bean
+List getSelectedProjectHolderTreeNodes() | get selected project holder tree nodes
+PersistentCollection getCollectionHolder(QObject;) | get collection holder
+PersistentCollection removeCollectionHolder(QObject;) | remove collection holder
+String resolvePlaceHolder(QString;) | resolve place holder
+StructuredMenuHolder getMenuHolder() | get menu holder
+void addCollectionHolder(QPersistentCollection;) | add collection holder
+void AuctionListHolder(QString;) | auction list holder
+void AuctionListHolder(QString;QColor;) | auction list holder
+void AuctionListHolder(QString;ZZ) | auction list holder
+void BooleanHolder() | boolean holder
+void BooleanHolder(Z) | boolean holder
+void IconsHolder(QMindMapNode;) | icons holder
+void IntHolder() | int holder
+void IntHolder(I) | int holder
+void NodeHolder(QMindMapNode;) | node holder
+void ObjectHolder() | object holder
+void resolvePlaceHolders(QProperties;) | resolve place holders
+void SeparatorHolder() | separator holder
+void setHolderClass(QClass;) | set holder class
+void setHolder(QHolder;) | set holder
+void setRootTagHolder(RootTagHolder inRth) | set root tag holder

@@ -1,0 +1,43 @@
+boolean shouldAllowMessage(QModelMessage;) | should allow message
+boolean shouldAutoClose() | should auto close
+boolean shouldBackup() | should backup
+boolean shouldBeHidden() | should be hidden
+boolean shouldCallNewTurn(QFreeColGameObject;) | should call new turn
+boolean shouldCollectText() | should collect text
+boolean shouldDeployForRound(I) | should deploy for round
+boolean shouldDeploy(I) | should deploy
+boolean shouldDeployThisRound() | should deploy this round
+boolean shouldDisplayUsage() | should display usage
+boolean shouldDoExhaustive() | should do exhaustive
+boolean shouldExecute() | should execute
+boolean shouldGenerate(J) | should generate
+boolean shouldGenerate(QFile;) | should generate
+boolean shouldGetAllProperties(QObject;) | should get all properties
+boolean _shouldGoIntoHistory(II) | should go into history
+boolean shouldGoToStop(QStop;) | should go to stop
+boolean shouldIgnore() | should ignore
+boolean _shouldIgnore(IQOpenDefinitionsDocument;) | should ignore
+boolean shouldIndent(II) | should indent
+boolean shouldInstrumentClass(QString;) | should instrument class
+boolean shouldInstrumentField(QString;QString;) | should instrument field
+boolean shouldIsolateTemporaryTableDDL() | should isolate temporary table ddl
+boolean shouldOverwriteCurrentVersion(QObject;QObject;QObject;QVersionType;) | should overwrite current version
+boolean shouldRevertFile(QOpenDefinitionsDocument;) | should revert file
+boolean shouldRun() | should run
+boolean shouldSelectCell(QEventObject;) | should select cell
+boolean shouldSelectCell(Qjava.util.EventObject;) | should select cell
+boolean shouldShowHighlightsInSource() | should show highlights in source
+boolean shouldStopThread() | should stop thread
+boolean shouldTransformFieldAccess(QString;QString;QString;) | should transform field access
+boolean shouldUpdate(QKeyStroke;QAction;) | should update
+boolean shouldUpdate(QString;QString;) | should update
+boolean shouldUseMenu() | should use menu
+boolean shouldWait() | should wait
+boolean shouldYieldFocus(QJComponent;) | should yield focus
+boolean theBodyShouldBeEvaluatedAgain() | the body should be evaluated again
+String accessModifiersAsShouldBe(IMethodInfo oldmth, IMethodInfo newmth) | access modifiers as should be
+void assertShouldRevertFileCount(I) | assert should revert file count
+void setShouldCheckConflict(Z) | set should check conflict
+void testJsonHashShouldNotReturnBuildSinceForNonActiveBuild() | test json hash should not return build since for non active build
+void testShouldBeAbleToReturnLastSuccessfulBuild() | test should be able to return last successful build
+void XXXtestThreadShouldDie() | xxx test thread should die

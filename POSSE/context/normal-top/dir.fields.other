@@ -1,0 +1,32 @@
+boolean bSkipDataDirModify | b skip data dir modify
+edu.rice.cs.util.swing.DirectorySelectorComponent _buildDirSelector | build dir selector
+edu.rice.cs.util.swing.DirectorySelectorComponent _workDirSelector | work dir selector
+int ST_DIR_CONTENTS | st dir contents
+java.lang.String CONFIG_ROOT_DIR_DEFAULT | config root dir default
+java.lang.String MENU_ID_SHARE_DIR_CONTENT | menu id share dir content
+java.lang.String MENU_ID_SHARE_DIR_CONTENT_RECURSE | menu id share dir content recurse
+java.lang.String SUGGESTED_DIR_NAME | suggested dir name
+javax.swing.event.DocumentListener _workDirDocumentListener | work dir document listener
+javax.swing.JButton _commandWorkDirBtn | command work dir btn
+javax.swing.JButton jButtonVirtualizerDirBrowse | j button virtualizer dir browse
+javax.swing.JMenuItem jmiDirAddFavorites | jmi dir add favorites
+javax.swing.JMenuItem jmiDirCDDBQuery | jmi dir cddb query
+javax.swing.JMenuItem jmiDirCopy | jmi dir copy
+javax.swing.JMenuItem jmiDirCreatePlaylist | jmi dir create playlist
+javax.swing.JMenuItem jmiDirCut | jmi dir cut
+javax.swing.JMenuItem jmiDirDelete | jmi dir delete
+javax.swing.JMenuItem jmiDirDesynchro | jmi dir desynchro
+javax.swing.JMenuItem jmiDirExport | jmi dir export
+javax.swing.JMenuItem jmiDirPaste | jmi dir paste
+javax.swing.JMenuItem jmiDirPlay | jmi dir play
+javax.swing.JMenuItem jmiDirPlayRepeat | jmi dir play repeat
+javax.swing.JMenuItem jmiDirPlayShuffle | jmi dir play shuffle
+javax.swing.JMenuItem jmiDirProperties | jmi dir properties
+javax.swing.JMenuItem jmiDirPush | jmi dir push
+javax.swing.JMenuItem jmiDirRefactor | jmi dir refactor
+javax.swing.JMenuItem jmiDirResynchro | jmi dir res yn ch ro
+javax.swing.JPanel jPanelCompileDir1 | j panel compile dir 1
+javax.swing.JPanel jPanelCompileDir2 | j panel compile dir 2
+javax.swing.JTextPane _commandWorkDirLine | command work dir line
+javax.swing.JTextPane _commandWorkDirLinePreview | command work dir line preview
+javax.swing.text.StyledDocument _commandWorkDirLineDoc | command work dir line doc

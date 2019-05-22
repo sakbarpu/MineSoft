@@ -1,0 +1,3 @@
+int successorTaskID | successor task id
+org.mozilla.javascript.ObjToIntMap successors | successors
+org.mozilla.javascript.optimizer.Block[] itsSuccessors | its successors

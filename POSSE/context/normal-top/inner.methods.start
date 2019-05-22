@@ -1,0 +1,3 @@
+double innerProduct(QDoubleVector;) | inner product
+double innerProduct(QInstance;QInstance;) | inner product
+void InnerMenuKeyListener() | inner menu key listener

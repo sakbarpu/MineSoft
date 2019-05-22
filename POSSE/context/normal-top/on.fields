@@ -1,0 +1,250 @@
+boolean ALLOW_ONLY_AZ3 | allow only az 3
+boolean attOnLand | att on land
+boolean bDeleteFileOnCancel | b delete file on cancel
+boolean breakOnEnter | break on enter
+boolean breakOnExceptions | break on exceptions
+boolean breakOnReturn | break on return
+boolean bStopOnceBandwidthMet | b stop once bandwidth met
+boolean bTriggerOnFocusOut | b trigger on focus out
+boolean buddy_seeding_only | buddy seeding only
+boolean closeOnESC | close on esc
+boolean compileSelectedOnly | compile selected only
+boolean continueOnError | continue on error
+boolean databaseReadOnly | database read only
+boolean data_stats_only | data stats only
+boolean debug_thread_pool_log_on | debug thread pool log on
+boolean deleteFileOnCancel | delete file on cancel
+boolean displayShadowOnFloor | display shadow on floor
+boolean ENABLE_ON_HOVER | enable on hover
+boolean _eofOn00 | eof on 00
+boolean filesReadOnly | files read only
+boolean goOn | go on
+boolean hidePopupOnFocusLoss | hide popup on focus loss
+boolean hitBackspaceOnSelection | hit backspace on selection
+boolean includeOnlyTemporaryContent | include only temporary content
+boolean isCriticalPathOn | is critical path on
+boolean isEmailDisplayOnly | is email display only
+boolean isOnlyDown | is only down
+boolean isOnlyUp | is only up
+boolean isOnlyViewer | is only viewer
+boolean isReadOnly | is read only
+boolean isRedlineOn | is redline on
+boolean isReprintHeaderOnEachPage | is reprint header on each page
+boolean loadOnStartup | load on startup
+boolean logging_on | logging on
+boolean minimizeOnClear | minimize on clear
+boolean minimizeOnEmpty | minimize on empty
+boolean mouseDownOn | mouse down on
+boolean MOUSE_ONLY_UP_EXITS | mouse only up exits
+boolean old_seeding_only | old seeding only
+boolean on | on
+boolean onCommitPreserve | on commit preserve
+boolean one_off_discard_done | one off discard done
+boolean onePiecePerBlock | one piece per block
+boolean oneUse | one use
+boolean online | online
+boolean onlyContainsAttributeCerts | only contains attribute certs
+boolean onlyContainsCACerts | only contains ca certs
+boolean onlyContainsUserCerts | only contains user certs
+boolean onlyOneTask | only one task
+boolean onlyPavement | only pavement
+boolean onlySelectedItems | only selected items
+boolean parentActivatedOnce | parent activated once
+boolean potentially_seeding_only_mode | potentially seeding only mode
+boolean prevStepOnPavement | prev step on pavement
+boolean readOnly | read only
+boolean relayoutOnTextChange | relayout on text change
+boolean saveEventsOnClose | save events on close
+boolean seeding_only | seeding only
+boolean seeding_only_mode | seeding only mode
+boolean shownOnce | shown once
+boolean SHOW_ONLINE_BORDER | show online border
+boolean SHOW_ONLINE_STATUS | show online status
+boolean shutdownOnNoConnection | shutdown on no connection
+boolean sortOnValues | sort on values
+boolean stopOnNull | stop on null
+boolean storeOnInsert | store on insert
+boolean summaryOnNewPage | summary on new page
+boolean SUPPORT_ONLINE_STATUS | support online status
+boolean targetOnLand | target on land
+boolean titleOnNewPage | title on new page
+boolean TRIGGER_PAINT_ON_SELECTIONS | trigger paint on selections
+boolean uploadOnly | upload only
+boolean web_password_https_only | web password https only
+byte[] DigitOnes | digit ones
+byte FLAG_SESSION_ONLY | flag session only
+byte[] oneByte | one byte
+byte REOP_EOLONLY | reop eol only
+byte REOP_WNONBDRY | reop wn on bd ry
+byte S_ONE | s one
+com.aelitis.azureus.core.util.bloom.BloomFilter filter_one | filter one
+edu.rice.cs.drjava.model.ClipboardHistoryModel ONLY | only
+edu.rice.cs.drjava.model.compiler.CompilerInterface ONLY | only
+edu.rice.cs.drjava.model.debug.NoDebuggerAvailable ONLY | only
+edu.rice.cs.drjava.model.definitions.reducedmodel.Free ONLY | only
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideBlockComment ONLY | only
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideDoubleQuote ONLY | only
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideLineComment ONLY | only
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideSingleQuote ONLY | only
+edu.rice.cs.drjava.model.definitions.reducedmodel.Stutter ONLY | only
+edu.rice.cs.drjava.model.MultiThreadedTestCase.ExceptionHandler ONLY | only
+edu.rice.cs.drjava.model.repl.InteractionsModel.NoInputListener ONLY | only
+edu.rice.cs.drjava.model.repl.newjvm.InterpreterJVM ONLY | only
+edu.rice.cs.drjava.platform.DefaultPlatform ONLY | only
+edu.rice.cs.drjava.platform.PlatformSupport ONLY | only
+edu.rice.cs.drjava.project.ProjectFileParserFacade ONLY | only
+edu.rice.cs.drjava.project.ProjectFileParser.NameVisitor ONLY | only
+edu.rice.cs.drjava.project.ProjectFileParser.NumberVisitor ONLY | only
+edu.rice.cs.drjava.project.ProjectFileParser ONLY | only
+edu.rice.cs.drjava.project.ProjectFileParser.PathListVisitor ONLY | only
+edu.rice.cs.drjava.project.ProjectFileParser.WatchListVisitor ONLY | only
+edu.rice.cs.drjava.project.XMLProjectFileParser ONLY | only
+edu.rice.cs.drjava.ui.ClassPathFilter ONLY | only
+edu.rice.cs.drjava.ui.KeyBindingManager ONLY | only
+edu.rice.cs.util.FileOps.NullFile ONLY | only
+edu.rice.cs.util.newjvm.IntegratedMasterSlaveTest.CounterSlave ONLY | only
+edu.rice.cs.util.sexp.Empty ONLY | only
+edu.rice.cs.util.sexp.Tokens.BackSlashToken ONLY | only
+edu.rice.cs.util.sexp.Tokens.LeftParenToken ONLY | only
+edu.rice.cs.util.sexp.Tokens.RightParenToken ONLY | only
+freemind.extensions.HookInstanciationMethod Once | once
+freemind.extensions.HookInstanciationMethod OnceForAllNodes | once for all nodes
+freemind.extensions.HookInstanciationMethod OnceForRoot | once for root
+int ANNOUNCE_MAX_DERIVED_ONLY | announce max derived only
+int azconst_avail | azc on st avail
+int BRING_TO_FRON | bring to fr on
+int COCKPIT_ON | cockpit on
+int CONCUR_READ_ONLY | concur read only
+int DATABASE_IS_MEMORY_ONLY | database is memory only
+int DATABASE_ONLINE | database online
+int decipherOnly | decipher only
+int encipherOnly | encipher only
+int eventOn | event on
+int FIELD_ONLINE | field online
+int highestDownloadOnlyResult | highest download only result
+int hoveringOn | hovering on
+int Icode_ONE | icode one
+int INTERVAL_INVALID_ONLY | interval invalid only
+int isReadOnlyConnection | is read only connection
+int isReadOnlyDatabase | is read only database
+int isReadOnlyDatabaseFiles | is read only database files
+int lastUploadOnlyResult | last upload only result
+int LDT_SEEDING_ONLY | ldt seeding only
+int MAINLOOP_ONE_SECOND_INTERVAL | mainloop one second interval
+int max_upload_rate_bps_seeding_only | max upload rate bps seeding only
+int MESSAGING_BT_ONLY | messaging bt only
+int MODE_ON | mode on
+int MODE_READ_ONLY | mode read only
+int NOTIFY_ONCE | notify once
+int ON | on
+int one | one
+int ONE_HOUR | one hour
+int ONEK | on ek
+int ONE_MINUTE | one minute
+int ONE_SECOND | one second
+int online_status | online status
+int ONLY | only
+int ONLY_BODY_FLAG | only body flag
+int _onlyWarnings | only warnings
+int rememberOnlyIfButton | remember only if button
+int RESULTSET_FORWARD_ONLY | resultset forward only
+int SEEDONLY_SHIFT | seed only shift
+int SERVER_STATE_ONLINE | server state online
+int sinksOn | sinks on
+int sinksOnNextRound | sinks on next round
+int STATUS_ONLINE | status online
+int STEP_CLIMB_MODE_ON | step climb mode on
+int ST_ONLINE | st online
+int TEST_TYPE_DOWNLOAD_ONLY | test type download only
+int TEST_TYPE_UPLOAD_ONLY | test type upload only
+int THREAD_LINGER_ON_IDLE_PERIOD | thread linger on idle period
+int TYPE_FORWARD_ONLY | type forward only
+int TYPE_ONCE_EVER | type once ever
+int TYPE_ONCE_PER_SESSION | type once per session
+int TYPE_TEXT_ONLY | type text only
+java.awt.geom.Point2D.Float one | one
+java.lang.Double minusOneObj | minus one obj
+java.lang.Double oneObj | one obj
+java.lang.Integer NEGATIVE_ONE | negative one
+java.lang.Long ONE | one
+java.lang.Object remembered_on_behalf_of | remembered on behalf of
+java.lang.Object THOMBSTONE | thom bst one
+java.lang.reflect.Method reflectOnUsableSpace | reflect on usable space
+java.lang.String ABC_CLASS_ONE | abc class one
+java.lang.String CONF_SHOW_TIP_ON_STARTUP | conf show tip on startup
+java.lang.String CORE_PARAM_BOOLEAN_AUTO_SPEED_ON | core param boolean auto speed on
+java.lang.String formatOneDown | format one down
+java.lang.String GLOBAL_RATING_REFRESH_ON | global rating refresh on
+java.lang.String ICON_PREFIX_ON | icon prefix on
+java.lang.String ICONS_ONLY | icons only
+java.lang.String MEM_ONLY_TORRENT_PATH | mem only torrent path
+java.lang.String MEMORY_DUMP_ON | memory dump on
+java.lang.String onErrorType | on error type
+java.lang.String OP_CLOSE_PARAM_ON_CLOSE | op close param on close
+java.lang.String redirect_on_not_found | redirect on not found
+java.lang.String sDefaultSortOn | s default sort on
+java.lang.String TEST_ONE | test one
+java.lang.String TEXT_ONLY | text only
+java.lang.String T_ON | t on
+java.lang.String T_ONLY | t only
+java.lang.String TOR_AZ_PROP_EXPIRESON | tor az prop expires on
+java.lang.String TOR_AZ_PROP_METADATA_REFRESHON | tor az prop metadata refresh on
+java.lang.String VER_AZ_ONE_MAJ_TWO_MIN_PLUS_MNEMONIC | ver az one maj two min plus mnemonic
+java.lang.String VER_AZ_SKIP_FIRST_ONE_MAJ_TWO_MIN | ver az skip first one maj two min
+java.lang.String VER_BITS_ON_WHEELS | ver bits on wheels
+java.math.BigInteger MINUS_ONE | minus one
+java.math.BigInteger ONE | one
+java.util.ArrayList ontopImages | on top images
+java.util.Map fluffThombstone | fluff thom bst one
+java.util.Map limited_online_tracking | limited online tracking
+java.util.Map online_buddy_ips | online buddy ips
+java.util.regex.Pattern numbersOnlyDatePattern | numbers only date pattern
+java.util.Set online_buddies | online buddies
+java.util.Vector interruptOnlyItems | interrupt only items
+java.util.Vector runOnlyItems | run only items
+java.util.Vector vSwitchOn | v switch on
+javax.swing.Icon _iconOn | icon on
+javax.swing.Icon myIconOnMouseOver | my icon on mouse over
+javax.swing.JCheckBox jCheckBoxSummaryOnNewPage | j check box summary on new page
+javax.swing.JCheckBox jCheckBoxTitleOnNewPage | j check box title on new page
+javax.swing.JCheckBoxMenuItem breakOnEnter | break on enter
+javax.swing.JCheckBoxMenuItem breakOnExceptions | break on exceptions
+javax.swing.JCheckBoxMenuItem breakOnReturn | break on return
+javax.swing.JComboBox jComboBoxImageOnError | j combo box image on error
+javax.swing.JMenuItem jMenuItemPasteOnBand | j menu item paste on band
+long addedOn | added on
+long buddySyncOnShareMinTime | buddy sync on share min time
+long createdOn | created on
+long F_INFANTRY_ONLY | f infantry only
+long FLAG_DO_NOT_DELETE_DATA_ON_REMOVE | flag do not delete data on remove
+long FLAG_MOVE_ON_COMPLETION_DONE | flag move on completion done
+long F_ONESHOT | f oneshot
+long last_time_online | last time online
+long lCancelSelectionTriggeredOn | l cancel selection triggered on
+long lCDActivelyChangedOn | l cd actively changed on
+long lClosedOn | l closed on
+long lDLActivelyChangedOn | l dl actively changed on
+long lEnterOn | l enter on
+long lLastColumnResizeOn | l last column resize on
+long lLastSortedOn | l last sorted on
+long messageCreatedOn | message created on
+long nextScrapeCheckOn | next scrape check on
+long ONE_DAY | one day
+long readOn | read on
+long saved_SecondsOnlySeeding | saved seconds only seeding
+long sharedOn | shared on
+long startedOn | started on
+long timeAvailLessThanOne | time avail less than one
+long total_bytes_on_transfer_queues | total bytes on transfer queues
+long widthSetOn | width set on
+net.sourceforge.ganttproject.gui.options.model.ColorOption myTaskOnScheduleColor | my task on schedule color
+org.bouncycastle.asn1.x509.ReasonFlags onlySomeReasons | only some reasons
+org.gudy.azureus2.core3.util.FrequencyLimitedDispatcher check_seeding_only_state_dispatcher | check seeding only state dispatcher
+org.gudy.azureus2.plugins.ui.config.BooleanParameter remove_unauthorised_seeding_only | remove unauthorised seeding only
+org.gudy.azureus2.plugins.ui.config.BooleanParameter track_limited_when_online | track limited when online
+org.gudy.azureus2.plugins.ui.config.StringListParameter online_status_param | online status param
+org.hsqldb.Result updateOneResult | update one result
+org.jhotdraw.draw.Constrainer onConstrainer | on constrainer
+org.mozilla.javascript.optimizer.DataFlowBitSet itsLiveOnEntrySet | its live on entry set
+org.mozilla.javascript.optimizer.DataFlowBitSet itsLiveOnExitSet | its live on exit set
+short itsOneArgArray | its one arg array

@@ -1,0 +1,5 @@
+int getTick() | get tick
+long getNextTick() | get next tick
+Tick getTick(int row) | get tick
+void setNextTick(J) | set next tick
+void timerTick() | timer tick

@@ -1,0 +1,15 @@
+CONS LocaleDecoderImpl(QLocaleUtilDecoder;) | locale decoder impl
+CONS LocaleEditorDialog(Qjava.awt.Frame;Z) | locale editor dialog
+CONS LocaleResourceFilesDialog(Qjava.awt.Dialog;Z) | locale resource files dialog
+CONS LocaleResourceFilesDialog(Qjava.awt.Frame;Z) | locale resource files dialog
+CONS LocaleUtil() | locale util
+CONS LocaleUtilDecoderCandidate(I) | locale util decoder candidate
+CONS LocaleUtilDecoderFallback(I) | locale util decoder fallback
+CONS LocaleUtilDecoderReal(IQCharsetDecoder;) | locale util decoder real
+CONS LocaleUtilEncodingException([QString;[QString;) | locale util encoding exception
+CONS LocaleUtilEncodingException(QThrowable;) | locale util encoding exception
+CONS LocaleUtilEncodingException(Z) | locale util encoding exception
+CONS LocaleUtilitiesImpl(QPluginInterface;) | locale utilities impl
+CONS LocaleUtilSWT(QAzureusCore;) | locale util swt
+CONS NewLocaleFileDialog(Qjava.awt.Dialog;Z) | new locale file dialog
+CONS NewLocaleFileDialog(Qjava.awt.Frame;Z) | new locale file dialog

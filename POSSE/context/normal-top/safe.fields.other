@@ -1,0 +1,4 @@
+boolean isSafeMode | is safe mode
+boolean TEST_SAFE_MODE | test safe mode
+int MAX_CHANNELS_PER_SAFE_SELECTOR | max channels per safe selector
+int MAX_SAFEMODE_SELECTORS | max safe mode selectors

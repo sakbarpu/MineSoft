@@ -1,0 +1,10 @@
+boolean removeProcessingInstruction(QString;) | remove processing instruction
+Element addProcessingInstruction(QString;QMap;) | add processing instruction
+Element addProcessingInstruction(QString;QString;) | add processing instruction
+ProcessingInstruction processingInstruction(QString;) | processing instruction
+String getInstruction() | get instruction
+void newProcessingInstruction(QString;QReader;) | new processing instruction
+void processingInstruction(QString;QString;) | processing instruction
+void processingInstruction(String target, String data) | processing instruction
+void setInstruction(QString;) | set instruction
+void visitLookUpSwitchInstruction(ClassFile classFile, MethodInfo methodInfo, CodeAttrInfo codeAttrInfo, int offset, LookUpSwitchInstruction lookUpSwitchInstruction) | visit look up switch instruction

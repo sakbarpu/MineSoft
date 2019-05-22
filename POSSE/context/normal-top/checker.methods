@@ -1,0 +1,8 @@
+boolean changeChecker() | change checker
+DMChecker createChecker(QDiskManagerHelper;) | create checker
+DMChecker getChecker() | get checker
+String checker(QString;QString;) | checker
+UpdateChecker[] getCheckers() | get checkers
+void Checker() | checker
+void Checker(I) | checker
+void registerUpdateChecker() | register update checker

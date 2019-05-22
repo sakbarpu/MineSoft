@@ -1,0 +1,8 @@
+int CYCLE | cycle
+java.lang.String T_CYCLE | t cycle
+java.util.List listenersLifeCycle | listeners life cycle
+long cycleNo | cycle no
+long FORCE_CHECK_CYCLES | force check cycles
+long TIME_BETWEEN_FORCED_CYCLE_REMOVALS | time between forced cycle removals
+org.apache.batik.ext.awt.MultipleGradientPaint.CycleMethodEnum cycleMethod | cycle method
+org.apache.batik.ext.awt.MultipleGradientPaint.CycleMethodEnum NO_CYCLE | no cycle

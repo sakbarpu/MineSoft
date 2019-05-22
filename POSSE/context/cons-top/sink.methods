@@ -1,0 +1,2 @@
+CONS AbstractDataSink() | abstract data sink
+CONS HeatSinkType(QString;I) | heat sink type

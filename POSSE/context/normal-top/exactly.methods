@@ -1,0 +1,5 @@
+boolean exactlyEqual(QArcDef;) | exactly equal
+boolean exactlyEqual(QDsDef;) | exactly equal
+boolean hasExactlyOneChild(QAST;) | has exactly one child
+StringBuffer parseBracketedTextExactly() | parse bracketed text exactly
+StringBuffer parseQuotedFieldExactly() | parse quoted field exactly

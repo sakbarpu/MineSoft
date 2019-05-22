@@ -1,0 +1,8 @@
+boolean bHasBeenRated | b has been rated
+boolean bShouldBeDisplayed | b should be displayed
+boolean hasBeenCalled | has been called
+boolean has_been_closed | has been closed
+java.lang.String SETTING_V2_BETA_ENABLED | setting v 2  beta enabled
+java.util.HashSet nodesToBeUpdated | nodes to be updated
+org.gudy.azureus2.plugins.download.Download download_being_removed | download being removed
+org.gudy.azureus2.plugins.tracker.TrackerTorrent torrent_being_removed | torrent being removed

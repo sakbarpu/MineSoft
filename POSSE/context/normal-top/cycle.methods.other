@@ -1,0 +1,7 @@
+CycleMethodEnum getCycleMethod() | get cycle method
+MultipleGradientPaint.CycleMethodEnum translateSVGSpreadToCycleMethod(QElement;) | translate svg spread to cycle method
+String getCycleEnd() | get cycle end
+String getCycleStart() | get cycle start
+String translateCycleMethodToSVG(QMultipleGradientPaint.CycleMethodEnum;) | translate cycle method to svg
+void addLifeCycleListener(QTableLifeCycleListener;) | add life cycle listener
+void triggerLifeCycleListener(I) | trigger life cycle listener

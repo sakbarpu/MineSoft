@@ -1,0 +1,25 @@
+boolean inputAsFile | input as file
+byte[] inputPad | input pad
+edu.rice.cs.drjava.model.repl.InputListener _inputListener | input listener
+edu.rice.cs.drjava.ui.config.KeyStrokeOptionComponent.GetKeyDialog.InputField _inputField | input field
+int INPUTERR_EXITVAL | input err exit val
+int INPUT_MOVEDTOBUFFER | input moved tob uff er
+int INPUT_OK | input ok
+int INPUT_OK_CANCEL | input ok cancel
+int INPUTREADER_CLOSEFAIL | input reader close fail
+int INPUT_RETRY_CANCEL | input retry cancel
+int INPUT_RETRY_CANCEL_IGNORE | input retry cancel ignore
+int input_type | input type
+int INPUT_YES_NO | input yes no
+int INPUT_YES_NO_CANCEL | input yes no cancel
+java.awt.TextField inputField | input field
+java.io.InputStream input_stream | input stream
+java.lang.Object inputValue | input value
+java.lang.Runnable _inputCompletionCommand | input completion command
+java.lang.String INPUT_BOX_STYLE | input box style
+java.lang.String INPUT_BOX_SYMBOL | input box symbol
+java.lang.String INPUT_ENTERED_NAME | input entered name
+java.util.List<org.jhotdraw.draw.InputFormat> inputFormats | input formats
+javax.swing.JPanel _inputAndClearPanel | input and clear panel
+javax.swing.JTextField inputField | input field
+org.syntax.jedit.InputHandler inputHandler | input handler

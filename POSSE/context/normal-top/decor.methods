@@ -1,0 +1,32 @@
+AbstractAction getUpdatedDecoree() | get updated decoree
+boolean isConnectToDecorator() | is connect to decorator
+double getDecorationRadius(QFigure;) | get decoration radius
+double getDecoratorPathRadius(QFigure;) | get decorator path radius
+double getDecoratorPathRadius(Qorg.jhotdraw.draw.Figure;) | get decorator path radius
+ElementDecorator newElementDecorator(SchemaAnnotationOwner pParent, SchemaElement pElement, ParserData pParserData, Element pNode, Element pDecoratorNode) | new element decorator
+Figure getDecorator() | get decorator
+GeneralPath getDecoratorPath(QFigure;) | get decorator path
+GeneralPath getDecoratorPath(Qorg.jhotdraw.draw.Figure;) | get decorator path
+GeneralPath getTransformedDecoratorPath(QFigure;QPoint2D.Double;QPoint2D.Double;) | get transformed decorator path
+PropertyMapping getDecoratedPropertyMapping(QString;) | get decorated property mapping
+Rectangle2D getDecoratedBounds(Diagram diagram, Figure figure, Rectangle2D rcBounds) | get decorated bounds
+VisualItem getDecoratedItem() | get decorated item
+VisualTable addDecorators(QString;QString;) | add decorators
+VisualTable addDecorators(QString;QString;QPredicate;) | add decorators
+VisualTable addDecorators(QString;QString;QPredicate;QSchema;) | add decorators
+VisualTable addDecorators(QString;QString;QSchema;) | add decorators
+void AbstractDecoratedAction(QAction;) | abstract decorated action
+void addStrokeDecorationButtonTo(QJToolBar;QDrawingEditor;) | add stroke decoration button to
+void configureSourceViewerDecorationSupport() | configure source viewer decoration support
+void decorateAction(QString;QAbstractAction;) | decorate action
+void DecoratedAction(QAbstractAction;Z) | decorated action
+void decorateHook(QString;QHookDescriptor;QMindMapHook;) | decorate hook
+void decoratePropertyMapping(QString;QPropertyMapping;) | decorate property mapping
+void drawDecorator(QGraphics2D;) | draw decorator
+void readDecorator(QDOMInput;) | read decorator
+void setConnectToDecorator(Z) | set connect to decorator
+void setDecorator(QFigure;) | set decorator
+void setDecorator(String value) | set decorator
+void updateDecoratorBounds() | update decorator bounds
+void writeDecorator(QDOMOutput;) | write decorator
+WindowConfigurationStorage decorateDialog(QJDialog;QString;) | decorate dialog

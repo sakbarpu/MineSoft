@@ -1,0 +1,28 @@
+boolean closeAfterAnimation | close after animation
+boolean _closeDone | close done
+boolean closeIsActive | close is active
+boolean closeOnESC | close on esc
+boolean close_pending | close pending
+com.aelitis.azureus.ui.swt.shells.LightBoxBrowserWindow.closeListener closeListener | close listener
+int closeCount | close count
+int CLOSE_CURSORS_AT_COMMIT | close cursors at commit
+int CLOSE_DELAY | close delay
+int close_delay_period_ms | close delay period ms
+java.awt.Button closeButton | close button
+java.awt.event.ActionListener _closeListener | close listener
+java.lang.Object _closeLock | close lock
+java.lang.String closeExpression | close expression
+java.util.List close_queue | close queue
+java.util.Timer closeTimer | close timer
+java.util.Vector closeClientListeners | close client listeners
+javax.swing.Action _closeAction | close action
+javax.swing.Action _closeScriptAction | close script action
+javax.swing.JButton closeBtn | close btn
+javax.swing.JButton _closeButton | close button
+javax.swing.JButton closeButton | close button
+javax.swing.JPanel closeButtonPanel | close button panel
+javax.swing.JPanel _closePanel | close panel
+long CLOSE_DELAY | close delay
+org.gudy.azureus2.core3.util.AEMonitor close_queue_mon | close queue mon
+org.gudy.azureus2.core3.util.AESemaphore close_queue_sem | close queue sem
+org.gudy.azureus2.ui.swt.components.widgets.BubbleButton closeButton | close button

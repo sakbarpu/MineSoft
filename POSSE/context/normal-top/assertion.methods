@@ -1,0 +1,2 @@
+int getNumberOfAssertions() | get number of assertions
+void setAllowAssertions(Z) | set allow assertions

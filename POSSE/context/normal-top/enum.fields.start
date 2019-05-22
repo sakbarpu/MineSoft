@@ -1,0 +1,9 @@
+boolean enumValues | enum values
+int ENUM_ID | enum id
+int ENUM_INIT_KEYS | enum init keys
+int ENUM_INIT_VALUES | enum init values
+int ENUM_NEXT | enum next
+java.lang.Object[][] enumTagArray | enum tag array
+java.lang.String enumStr | enum str
+java.util.HashMap<java.lang.Class,java.lang.String> enumClassToNameMap | enum class to name map
+java.util.HashMap<java.lang.Enum,java.lang.String> enumToValueMap | enum to value map

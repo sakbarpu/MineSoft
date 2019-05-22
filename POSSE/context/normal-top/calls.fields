@@ -1,0 +1,8 @@
+boolean itsContainsCalls0 | its contains calls 0
+boolean itsContainsCalls1 | its contains calls 1
+int direct_calls_ok | direct calls ok
+int http_calls_ok | http calls ok
+int Icode_CALLSPECIAL | icode calls pe ci al
+java.awt.Label labCallsign | lab callsign
+java.util.Hashtable possibleDirectCalls | possible direct calls
+javax.swing.JLabel labCallsign | lab callsign

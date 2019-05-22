@@ -1,0 +1,14 @@
+CONS AbstractPreDatabaseOperationEvent(QEventSource;QObject;QSerializable;QEntityPersister;) | abstract pre database operation event
+CONS BandDraggedOperation(QJReportFrame;QBand;) | band dragged operation
+CONS BulkOperationCleanupAction(QSessionImplementor;[QQueryable;) | bulk operation cleanup action
+CONS BulkOperationCleanupAction(QSessionImplementor;QSet;) | bulk operation cleanup action
+CONS ChangeEmentsOrderOperation(QJReportFrame;) | change ements order operation
+CONS DeleteElementsOperation(QJReportFrame;) | delete elements operation
+CONS FormatElementsOperation(QJReportFrame;I) | format elements operation
+CONS GroupEmentsOperation(QJReportFrame;) | group ements operation
+CONS InsertElementOperation(QJReportFrame;QReportElement;) | insert element operation
+CONS PasteStyleOperation(QJReportFrame;) | paste style operation
+CONS RemoveMarginsOperation(QJReportFrame;IIII) | remove margins operation
+CONS ReplacedElementsOperation(QJReportFrame;) | replaced elements operation
+CONS TransformElementsOperation(QJReportFrame;) | transform elements operation
+CONS UnGroupEmentsOperation(QJReportFrame;) | un group ements operation

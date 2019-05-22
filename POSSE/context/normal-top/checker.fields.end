@@ -1,0 +1,6 @@
+byte[] duplicate_peer_checker | duplicate peer checker
+java.lang.String PID_CORE_PATCH_CHECKER | pid core patch checker
+java.lang.String PID_CORE_UPDATE_CHECKER | pid core update checker
+java.lang.String PID_PLATFORM_CHECKER | pid platform checker
+java.lang.String PID_PLUGIN_UPDATE_CHECKER | pid plugin update checker
+org.gudy.azureus2.core3.tracker.client.impl.bt.TrackerChecker tracker_checker | tracker checker

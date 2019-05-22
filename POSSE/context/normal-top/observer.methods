@@ -1,0 +1,31 @@
+boolean addObserver(QDHTRouterObserver;) | add observer
+boolean containsObserver(QDHTRouterObserver;) | contains observer
+boolean isObserver() | is observer
+boolean removeObserver(QDHTRouterObserver;) | remove observer
+CameraControllerState getObserverCameraState() | get observer camera state
+float getObserverHeight() | get observer height
+int getInstructionObserverThreshold() | get instruction observer threshold
+int getObserverFieldOfViewInDegrees() | get observer field of view in degrees
+Object setRenderingErrorObserver(QRenderingErrorObserver;QObject;) | set rendering error observer
+ObserverCamera getObserverCamera() | get observer camera
+RenderingErrorObserver getRenderingErrorObserver() | get rendering error observer
+SessionFactoryObserver getSessionFactoryObserver() | get session factory observer
+void addComponent3DRenderingErrorObserver() | add component 3 d rendering error observer
+void addComponent3DRenderingErrorObserver(QJRootPane;QUserPreferences;) | add component 3 d rendering error observer
+void addObserver(QDelayObserver;) | add observer
+void addObserver(QDHTRouterFactoryObserver;) | add observer
+void addObservers(QVector;) | add observers
+void addTileObserver(TileObserver to) | add tile observer
+void attachObserver(Object object) | attach observer
+void checkForObservers() | check for observers
+void notifyObserver(IIIII) | notify observer
+void removeObserver(QDelayObserver;) | remove observer
+void removeObserver(QDHTRouterFactoryObserver;) | remove observer
+void setInstructionObserverThreshold(I) | set instruction observer threshold
+void setObserverFieldOfViewInDegrees(I) | set observer field of view in degrees
+void setObserverHeight(F) | set observer height
+void setObserverList(ArrayList observers) | set observer list
+void setObserver(Z) | set observer
+void setRenderingErrorObserver(QRenderingErrorObserver;) | set rendering error observer
+void setSessionFactoryObserver(QSessionFactoryObserver;) | set session factory observer
+void viewFromObserver() | view from observer

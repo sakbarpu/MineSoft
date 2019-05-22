@@ -1,0 +1,5 @@
+int[] deletedIconListAsIntArray | deleted icon list as int array
+java.lang.String deletedIconListAsString | deleted icon list as string
+java.util.Map _deletedItems | deleted items
+javax.swing.DefaultListModel deletedButtonList | deleted button list
+javax.swing.DefaultListModel deletedIconList | deleted icon list

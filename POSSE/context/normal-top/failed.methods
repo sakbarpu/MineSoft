@@ -1,0 +1,17 @@
+boolean checkForAllFailedHosts() | check for all failed hosts
+boolean hasFailedEquipment(QStringBuffer;) | has failed equipment
+boolean ignoreFailedEquip(QString;) | ignore failed equip
+boolean showFailedEquip() | show failed equip
+Enumeration getFailedEquipment() | get failed equipment
+Hashtable getFailedFiles() | get failed files
+long getFailedHashCheck() | get failed hash check
+StringBuffer printFailedEquipment(QStringBuffer;) | print failed equipment
+String printIgnoredFailedEquip() | print ignored failed equip
+void addFailedEquipment(QString;) | add failed equipment
+void addFailedEquipment(QTank;) | add failed equipment
+void assertInterpreterResetFailedCount(I) | assert interpreter reset failed count
+void checkForFailedInstalls(QUpdateManager;) | check for failed installs
+void failedSupport(QThrowable;) | failed support
+void incrementFailedTransactionCount() | increment failed transaction count
+void reportFailedSupport(QBuddyPluginBuddyMessage;QBuddyPluginException;) | report failed support
+void setAuthFailedUrl(String authFailedUrl) | set auth failed url

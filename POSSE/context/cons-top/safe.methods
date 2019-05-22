@@ -1,0 +1,7 @@
+CONS AuthenticatedSafe(QASN1Sequence;) | authenticated safe
+CONS AuthenticatedSafe([QContentInfo;) | authenticated safe
+CONS SafeBag(QASN1Sequence;) | safe bag
+CONS SafeBag(QDERObjectIdentifier;QDERObject;) | safe bag
+CONS SafeBag(QDERObjectIdentifier;QDERObject;QASN1Set;) | safe bag
+CONS SafeLog10Function() | safe log 10 function
+CONS SafeSqrtFunction() | safe sqrt function

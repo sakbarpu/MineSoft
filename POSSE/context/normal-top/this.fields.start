@@ -1,0 +1,13 @@
+boolean thisStepBackwards | this step backwards
+int THISFN | this fn
+java.awt.datatransfer.DataFlavor thisFlavor | this flavor
+java.lang.String THIS_CACHE_VERSION | this cache version
+java.lang.String THIS_FULL_VERSION | this full version
+java.lang.String THIS_VERSION | this version
+java.util.TimeZone thisTimeZone | this time zone
+javax.swing.JMenu _thisMenu | this menu
+org.bouncycastle.asn1.x509.Time thisUpdate | this update
+org.gudy.azureus2.core3.util.AEMonitor this_mon | this mon
+org.mozilla.javascript.Scriptable thisObj | this obj
+org.mozilla.javascript.tools.debugger.MyTreeTable thisTable | this table
+short thisObjLocal | this obj local

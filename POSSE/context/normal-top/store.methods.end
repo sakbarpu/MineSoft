@@ -1,0 +1,30 @@
+DiskStore createAutoPersistentDiskStore(String cacheName) | create auto persistent disk store
+IPreferenceStore getPreferenceStore(QString;) | get preference store
+KeyStore getKeyStore() | get key store
+KeyStore getTrustStore() | get trust store
+KeyStore loadKeyStore() | load key store
+KeyStore loadKeyStore(QKeyManagerFactory;) | load key store
+NmrReferenceStore getCurrentNmrReferenceStore() | get current nmr reference store
+SSLSocketFactory addCertToTrustStore(QString;Qjava.security.cert.Certificate;Z) | add cert to trust store
+TileStore createTileStore() | create tile store
+TileStore getTileStore() | get tile store
+void addAStore(I) | add a store
+void addCertToKeyStore(QString;QKey;[Qjava.security.cert.Certificate;) | add cert to key store
+void addDStore(I) | add d store
+void addFStore(I) | add f store
+void addIStore(I) | add i store
+void addLStore(I) | add l store
+void addTypeDependDataStore(QBytecode;QString;I) | add type depend data store
+void bulkStore(DI) | bulk store
+void commitRowToStore(QRow;) | commit row to store
+void ejbStore() | ejb store
+void newStore(J) | new store
+void releaseRowFromStore(QRow;) | release row from store
+void removeRowFromStore(QRow;) | remove row from store
+void rollbackStore() | rollback store
+void saveStore(QWriter;QString;QPreferenceStore;) | save store
+void sbbStore() | sbb store
+void sendStore(QDHTTransportContact;QDHTTransportReplyHandler;[[B[[QDHTTransportValue;Z) | send store
+void sendStore(QDHTTransportReplyHandler;[[B[[QDHTTransportValue;Z) | send store
+void sendStore(QDHTTransportUDPContactImpl;QDHTTransportReplyHandler;[[B[[QDHTTransportValue;I) | send store
+void setTileStore(QTileStore;) | set tile store

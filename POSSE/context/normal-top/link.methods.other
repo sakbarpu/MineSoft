@@ -1,0 +1,83 @@
+Action getLinkTasksAction() | get link tasks action
+AddArrowLinkXmlAction createAddArrowLinkXmlAction(QMindMapLink;) | create add arrow link xml action
+AddArrowLinkXmlAction createAddArrowLinkXmlAction(QMindMapNode;QMindMapNode;QString;) | create add arrow link xml action
+AddLinkXmlAction createAddLinkXmlAction(QMindMapNode;QString;) | create add link xml action
+AllocLinkID getAllocLinkID() | get alloc link id
+ArrowLinkAdapter createArrowLinkAdapter(QNodeAdapter;QNodeAdapter;QFreeMindMain;) | create arrow link adapter
+ArrowLinkArrowXmlAction createArrowLinkArrowXmlAction(QMindMapArrowLinkModel;QString;QString;) | create arrow link arrow xml action
+ArrowLinkArrowXmlAction createArrowLinkArrowXmlAction(QMindMapArrowLinkModel;ZZ) | create arrow link arrow xml action
+ArrowLinkColorXmlAction createArrowLinkColorXmlAction(QMindMapLink;QColor;) | create arrow link color xml action
+ArrowLinkPointXmlAction createArrowLinkPointXmlAction(QMindMapArrowLink;QPoint;QPoint;) | create arrow link point xml action
+boolean getLinkActive(II) | get link active
+boolean getLinkUp() | get link up
+boolean isInFollowLinkRegion(D) | is in follow link region
+boolean setLinkAtomic(QFile;) | set link atomic
+Canvas createLinkLabel(QComposite;QString;) | create link label
+Color getTextLinkColor() | get text link color
+Date getLinkLastSampleTime(II) | get link last sample time
+double logisticLinkFunction(D) | logistic link function
+freemind.controller.actions.generated.instance.AddArrowLinkXmlAction createAddArrowLinkXmlAction() | create add arrow link xml action
+freemind.controller.actions.generated.instance.AddArrowLinkXmlActionType createAddArrowLinkXmlActionType() | create add arrow link xml action type
+freemind.controller.actions.generated.instance.AddLinkXmlAction createAddLinkXmlAction() | create add link xml action
+freemind.controller.actions.generated.instance.AddLinkXmlActionType createAddLinkXmlActionType() | create add link xml action type
+freemind.controller.actions.generated.instance.ArrowLinkArrowXmlAction createArrowLinkArrowXmlAction() | create arrow link arrow xml action
+freemind.controller.actions.generated.instance.ArrowLinkArrowXmlActionType createArrowLinkArrowXmlActionType() | create arrow link arrow xml action type
+freemind.controller.actions.generated.instance.ArrowLinkColorXmlAction createArrowLinkColorXmlAction() | create arrow link color xml action
+freemind.controller.actions.generated.instance.ArrowLinkColorXmlActionType createArrowLinkColorXmlActionType() | create arrow link color xml action type
+freemind.controller.actions.generated.instance.ArrowLinkPointXmlAction createArrowLinkPointXmlAction() | create arrow link point xml action
+freemind.controller.actions.generated.instance.ArrowLinkPointXmlActionType createArrowLinkPointXmlActionType() | create arrow link point xml action type
+freemind.controller.actions.generated.instance.RemoveArrowLinkXmlAction createRemoveArrowLinkXmlAction() | create remove arrow link xml action
+freemind.controller.actions.generated.instance.RemoveArrowLinkXmlActionType createRemoveArrowLinkXmlActionType() | create remove arrow link xml action type
+GotoLinkNodeAction getGotoLinkNodeAction(QMindMapNode;) | get goto link node action
+Hashtable getLinkInfo() | get link info
+ID_Registered registerLinkTarget(QMindMapNode;) | register link target
+ID_Registered registerLinkTarget(QMindMapNode;QString;) | register link target
+int getLinkCount() | get link count
+int getLinkCount(I) | get link count
+int getLinkIfIndex(II) | get link if index
+int getLinkSampleCount(II) | get link sample count
+int getLinkSamplingInterval(II) | get link sampling interval
+int showLinkMoveCopyRenameDialog(QString;QExternalFileType;QString;ZZ) | show link move copy rename dialog
+Iterable<QString;> _getLinkArgs() | get link args
+JButton getLinkButton(QString;QIcon;QString;) | get link button
+Link2 getLinkAt(I) | get link at
+LinkInfo[] getLinkInfo() | get link info
+LinkInfo getLinkInfo(II) | get link info
+long[] getCommonLinkProperties() | get common link properties
+long getLinkIfInOctets(II) | get link if in octets
+long getLinkIfOutOctets(II) | get link if out octets
+MindMapLink getLinkForID(QString;) | get link for id
+MindMapLinkRegistry getLinkRegistry() | get link registry
+Point getLinkPoint(QPoint;) | get link point
+Port getLinkByIfDescr(QString;) | get link by if descr
+RemoveArrowLinkXmlAction createRemoveArrowLinkXmlAction(QString;) | create remove arrow link xml action
+String generateUniqueLinkID(QString;) | generate unique link id
+String getDownloadLinkCSS() | get download link css
+String getLinkByFileChooser(QFileFilter;) | get link by file chooser
+String getLinkDescr(II) | get link descr
+String getLinkFromClipboard(QDisplay;Z) | get link from clipboard
+String getLinkIfAlias(II) | get link if alias
+String getLinkIfDescr(II) | get link if descr
+String getLinkShortText(QMindMapNode;) | get link short text
+Table createLinkTable() | create link table
+void createLinkLabel(QComposite;QPopupParams;) | create link label
+void CumulativeLinkFunction(QString;) | cumulative link function
+void deregisterLinkTarget(QMindMapNode;) | deregister link target
+void FollowLinkAction() | follow link action
+void initLinkTable() | init link table
+void insertLinkButton(QStyledDocument;QFreeColGameObject;QString;) | insert link button
+void openWikiLinkOnSelection() | open wiki link on selection
+void removeLinkAt(I) | remove link at
+void setArrowLinkColor(QMindMapLink;QColor;) | set arrow link color
+void setArrowLinkEndPoints(QMindMapArrowLink;QPoint;QPoint;) | set arrow link end points
+void setLinkAnchor(String key, String anchor) | set link anchor
+void setLinkByFileChooser() | set link by file chooser
+void SetLinkByFileChooserAction() | set link by file chooser action
+void setLinkDirection(DisplayLinkDirection dir) | set link direction
+void setLinkInfo([QLinkInfo;) | set link info
+void setLinkTasksAction(QAction;) | set link tasks action
+void setLinkUp(Z) | set link up
+void setTextLinkColor(QColor;) | set text link color
+void setTextLinkFromClipboard(QShell;QText;Z) | set text link from clipboard
+void writeHyperLinkExpressions(QHyperLinkableReportElement;QPrintWriter;) | write hyper link expressions
+WebLink getLinkWithImageText(String text) | get link with image text

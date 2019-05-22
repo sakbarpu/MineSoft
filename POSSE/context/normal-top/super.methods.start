@@ -1,0 +1,3 @@
+double superMatch(QIHex;QIHex;) | super match
+Set superClassesOf(OWLClass clazz) | super classes of
+void superBasicSetBounds(QPoint2D.Double;QPoint2D.Double;) | super basic set bounds

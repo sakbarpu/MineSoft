@@ -1,0 +1,2 @@
+File getMainClassContainingFile() | get main class containing file
+int getEltContainingXY(double _x, double _y, Coordinate _m) | get elt containing xy

@@ -1,0 +1,3 @@
+boolean displayShadowOnFloor | display shadow on floor
+org.jhotdraw.draw.AttributeKey<java.awt.Color> TEXT_SHADOW_COLOR | text shadow color
+org.jhotdraw.draw.AttributeKey<org.jhotdraw.geom.Dimension2DDouble> TEXT_SHADOW_OFFSET | text shadow offset

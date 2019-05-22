@@ -1,0 +1,2 @@
+VmMethod getPutfieldWriteBarrier() | get putfield write barrier
+void visit_putfield(VmConstFieldRef fieldRef) | visit putfield

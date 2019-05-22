@@ -1,0 +1,4 @@
+AttrTypes testsPerClassType(IQEstTypes;) | tests per class type
+void testsPerClassType(IZZ) | tests per class type
+void testsPerClassType(IZZZ) | tests per class type
+void testsWithoutClass(ZZ) | tests without class

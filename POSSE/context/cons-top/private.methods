@@ -1,0 +1,23 @@
+CONS ColumnIsPrivate(QString;) | column is private
+CONS DHPrivateKeyParameters(QBigInteger;QDHParameters;) | dh private key parameters
+CONS DSAPrivateKeyParameters(QBigInteger;QDSAParameters;) | dsa private key parameters
+CONS ECPrivateKeyParameters(QBigInteger;QECDomainParameters;) | ec private key parameters
+CONS ECPrivateKeySpec(QBigInteger;QECParameterSpec;) | ec private key spec
+CONS ECPrivateKeyStructure(QASN1Sequence;) | ec private key structure
+CONS ECPrivateKeyStructure(QBigInteger;) | ec private key structure
+CONS ElGamalPrivateKeyParameters(QBigInteger;QElGamalParameters;) | el gamal private key parameters
+CONS ElGamalPrivateKeySpec(QBigInteger;QElGamalParameterSpec;) | el gamal private key spec
+CONS EncryptedPrivateKeyInfo(QAlgorithmIdentifier;[B) | encrypted private key info
+CONS EncryptedPrivateKeyInfo(QASN1Sequence;) | encrypted private key info
+CONS JCEECPrivateKey() | jceec private key
+CONS JCEECPrivateKey(QECPrivateKey;) | jceec private key
+CONS JCEECPrivateKey(QPrivateKeyInfo;) | jceec private key
+CONS JCEECPrivateKey(QString;QECPrivateKeyParameters;QECParameterSpec;) | jceec private key
+CONS JCEECPrivateKey(QString;QECPrivateKeySpec;) | jceec private key
+CONS PrivateKeyInfo(QAlgorithmIdentifier;QDERObject;) | private key info
+CONS PrivateKeyInfo(QAlgorithmIdentifier;QDERObject;QASN1Set;) | private key info
+CONS PrivateKeyInfo(QASN1Sequence;) | private key info
+CONS PrivateKeyUsagePeriod(QASN1Sequence;) | private key usage period
+CONS RSAPrivateCrtKeyParameters(QBigInteger;QBigInteger;QBigInteger;QBigInteger;QBigInteger;QBigInteger;QBigInteger;QBigInteger;) | rsa private crt key parameters
+CONS RSAPrivateKeyStructure(QASN1Sequence;) | rsa private key structure
+CONS RSAPrivateKeyStructure(QBigInteger;QBigInteger;QBigInteger;QBigInteger;QBigInteger;QBigInteger;QBigInteger;QBigInteger;) | rsa private key structure

@@ -1,0 +1,31 @@
+BaseModule getOptBaseModuleList(int i) | get opt base module list
+boolean moduleExists(QString;) | module exists
+boolean tryToChangeToMapModule(QString;) | try to change to map module
+File getJythonModule() | get jython module
+int module(I) | module
+JAPConfAnon getAnonModule() | get anon module
+Map getMapModules() | get map modules
+MapModule getMapModule() | get map module
+MapModuleManager getMapModuleManager() | get map module manager
+OptionModule getModule(QString;) | get module
+Set getModuleSet() | get module set
+String getModuleName() | get module name
+String jythonModuleTipText() | jython module tip text
+String listDebuggingModules(String id, DebugType types) | list debugging modules
+void addToMapModules(QString;QMapModule;) | add to map modules
+void changeToMapModule(QString;) | change to map module
+void newMapModule(MindMap map, ModeController modeController) | new map module
+void newMapModule(QMindMap;) | new map module
+void nextMapModule() | next map module
+void outSnmpModuleSupportPart(Node node) | out snmp module support part
+void previousMapModule() | previous map module
+void printModuleTree(IRodinFile file, IModuleFactory moduleFactory) | print module tree
+void register(Action action, String moduleId) | register
+void saveInterpretersInfoModulesManager() | save interpreters info modules manager
+void setInitialModule(Module initialModule) | set initial module
+void setJythonModule(QFile;) | set jython module
+void setMapModule(QMapModule;) | set map module
+void setModule(Module module) | set module
+void setModulePath(Path modulePath) | set module path
+void testLocalWorkingCopyAndCvsrootModuleAreMutuallyExclusive() | test local working copy and cvsroot module are mutually exclusive
+void updateMapModuleName() | update map module name

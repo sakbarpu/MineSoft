@@ -1,0 +1,11 @@
+RegionManager<QBreakpoint;> getBreakpointManager() | get breakpoint manager
+String encodeBreakpointRelative(QDebugBreakpointData;QString;) | encode breakpoint relative
+void addBreakpointHighlight(QBreakpoint;) | add breakpoint highlight
+void addBreakpointRequest(String qName, int line) | add breakpoint request
+void assertBreakpointReachedCount(I) | assert breakpoint reached count
+void _handleBreakpointEvent(QBreakpointEvent;) | handle breakpoint event
+void handleBreakpointHit(QStackFrame;QContext;) | handle breakpoint hit
+void notifyBreakpointChange(QBreakpoint;) | notify breakpoint change
+void refreshBreakpointHighlightPainter() | refresh breakpoint highlight painter
+void removeBreakpointHighlight(QBreakpoint;) | remove breakpoint highlight
+void removeBreakpointListener(BreakpointListener listener) | remove breakpoint listener

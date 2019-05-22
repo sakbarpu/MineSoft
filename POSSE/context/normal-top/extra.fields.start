@@ -1,0 +1,6 @@
+edu.rice.cs.drjava.config.VectorOption<java.io.File> EXTRA_CLASSPATH | extra classpath
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> EXTRA_COMPILERS | extra compilers
+edu.rice.cs.drjava.ui.config.VectorFileOptionComponent _extraClassPathList | extra class path list
+int[] EXTRA_BUCKETS | extra buckets
+int extraSpacing | extra spacing
+java.util.LinkedList<java.io.File> _extraCP | extra cp

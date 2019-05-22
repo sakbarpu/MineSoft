@@ -1,0 +1,1610 @@
+ArrayList getGlobalNoveltiesPlaylist() | get global novelties playlist
+ArrayList getGlobalNoveltiesPlaylist(Z) | get global novelties playlist
+ArrayList getSelectedNodesSortedByY() | get selected nodes sorted by y
+ASN1Sequence getNoticeNumbers() | get notice numbers
+AssignmentNode getNodeForAssigment(QResourceAssignment;) | get node for assigment
+AST generateSyntheticDotNodeForNonQualifiedPropertyRef(QAST;QFromElement;) | generate synthetic dot node for non qualified property ref
+AST generateVersionPropertyNode(QQueryable;) | generate version property node
+AST lookupNonQualifiedProperty(QAST;) | lookup non qualified property
+AST negateNode(QAST;) | negate node
+AST nextNode() | next node
+Attr removeAttributeNode(Attr oldAttr) | remove attribute node
+AuctionServer addServerNoUI(QString;QAuctionServer;) | add server no ui
+BallNode makeBallTreeNodes(QTempNode;III) | make ball tree nodes
+BallNode mergeNodes(QFastVector;II[I) | merge nodes
+BallNode mergeNodes(QVector;II) | merge nodes
+BezierPath.Node getBezierNode() | get bezier node
+BezierPath.Node getNode(I) | get node
+BigInteger norm(BQZTauElement;) | norm
+boolean addNote(I) | add note
+boolean addTransition(Object nodeKey, Object targetNodeKey, Object transitionData) | add transition
+boolean aggregateFuncNoArgsHasParenthesis(QString;QQueryTranslatorImpl;) | aggregate func no args has parenthesis
+boolean areNoneVisible(QMap;) | are none visible
+boolean canStoreInNodes(QRule;) | can store in nodes
+boolean cascadeAssociationNow(QAssociationType;) | cascade association now
+boolean cascadeNow(I) | cascade now
+boolean chdirNoRefresh(QString;) | chdir no refresh
+boolean checkForNominalAttributes(QInstances;) | check for nominal attributes
+boolean checkForValidNonInfantryAndOrProtomechs(I) | check for valid non infantry and or protomechs
+boolean containsNonDigitOrLetters(QString;) | contains non digit or letters
+boolean containsRouterNodeID() | contains router node id
+boolean contentExists(String nodeId, String contentId) | content exists
+boolean doesParameterNonDefaultExist(QString;) | does parameter non default exist
+boolean doNormalPriorityRead() | do normal priority read
+boolean doNormalPriorityWrite() | do normal priority write
+boolean doYesNoDialog(QString;QString;) | do yes no dialog
+boolean foundNode(QNetworkAdminNetworkInterfaceAddress;[QNetworkAdminNode;II) | found node
+boolean foundNode(QNetworkAdminNode;II) | found node
+boolean getAppliesToNode() | get applies to node
+boolean getAppliesToNodeFont() | get applies to node font
+boolean getAppliesToNodeIcon() | get applies to node icon
+boolean getBinaryAttributesNominal() | get binary attributes nominal
+boolean getConvertNominal() | get convert nominal
+boolean getConvertNominalToBinary() | get convert nominal to binary
+boolean getDoNotOperateOnPerClassBasis() | get do not operate on per class basis
+boolean getDoNotReplaceMissingValues() | get do not replace missing values
+boolean getDoNotSort() | get do not sort
+boolean getDontNormalize() | get dont normalize
+boolean getExitIfNoWindowsOpen() | get exit if no windows open
+boolean getNagForNoAction() | get nag for no action
+boolean getNoClass() | get no class
+Boolean getNodeFontBold() | get node font bold
+Boolean getNodeFontItalic() | get node font italic
+boolean getNominalToBinaryFilter() | get nominal to binary filter
+boolean[] getNonlazyPropertyUpdateability() | get non lazy property updateability
+boolean[] getNonLazyPropertyUpdateability() | get non lazy property updateability
+boolean getNoPruning() | get no pruning
+boolean getNoRender() | get no render
+boolean getNoReplacement() | get no replacement
+boolean getNormalize() | get normalize
+boolean getNormalizeAttributes() | get normalize attributes
+boolean getNormalizeDimWidths() | get normalize dim widths
+boolean getNormalizeNodeWidth() | get normalize node width
+boolean getNormalizeNumericClass() | get normalize numeric class
+boolean getNormalizeWordWeights() | get normalize word weights
+boolean getNotUnifyNorm() | get not unify norm
+boolean getNoUploadMultiThreading() | get no upload multi threading
+boolean getTaskNotes() | get task notes
+boolean getUseNormalization() | get use normalization
+boolean hasChildNode(QNode;QString;) | has child node
+boolean hasNoDefenseShield(I) | has no defense shield
+boolean hasNoLocation() | has no location
+boolean hasNonIdentifierPropertyNamedId() | has non identifier property named id
+boolean hasNonIdentifierPropertyNamedId(QEntityType;QMapping;) | has non identifier property named id
+boolean hasNonReadOnlyEntities() | has non read only entities
+boolean hasNormalIndices() | has normal indices
+boolean hasNoTurret() | has no turret
+boolean hasParenthesesIfNoArguments() | has parentheses if no arguments
+boolean isAggressiveReleaseNoTransactionCheck() | is aggressive release no transaction check
+boolean isArithmeticNode(QNode;) | is arithmetic node
+boolean isChildNodeType(Node node) | is child node type
+boolean isDeadNote() | is dead note
+boolean isDiscriminatorValueNotNull() | is discriminator value not null
+boolean isDotNode(QAST;) | is dot node
+boolean isEmptyNode(QNode;) | is empty node
+boolean isEnabledNot(QCapability;) | is enabled not
+boolean isEquivalentToNotNullPredicate() | is equivalent to not null predicate
+boolean isGhostNote() | is ghost note
+boolean isIgnoreNotFound() | is ignore not found
+boolean isInclude_non_active_rows() | is include non active rows
+Boolean isIndexNonUnique(I) | is index non unique
+boolean isIntervalNonWorking(QGanttCalendar;QGanttCalendar;QGPCalendar;) | is interval non working
+boolean isInverseCollectionNoOrphanDelete() | is inverse collection no orphan delete
+boolean isInverseOneToManyOrNoOrphanDelete() | is inverse one to many or no orphan delete
+boolean isLogicalExpression(DefaultMutableTreeNode node) | is logical expression
+boolean isLowNoise() | is low noise
+boolean isNoCover() | is no cover
+boolean isNoDelay() | is no delay
+boolean isNominal() | is nominal
+boolean isNominal(I) | is nominal
+boolean isNoMultiplePlay() | is no multiple play
+boolean isNonActiveMode() | is non active mode
+boolean isNonDNSName(QString;) | is non dns name
+boolean isNonLeft(IIII[D) | is non left
+boolean isNonQualifiedPropertyRef(QAST;) | is non qualified property ref
+boolean isNonsingular() | is nonsingular
+boolean is_non_term() | is non term
+boolean isNonWorkingDay(QDate;) | is non working day
+boolean isNonWrappableField(QString;) | is non wrappable field
+boolean isNormalizeData() | is normalize data
+boolean isNorth(II) | is north
+boolean isNoSystemExit() | is no system exit
+boolean isNoTaskBar() | is no task bar
+boolean isNotation(QString;) | is notation
+boolean isNoteBeat() | is note beat
+boolean isNotEmpty(QString;) | is not empty
+boolean isNotTabu(QOperation;) | is not tabu
+boolean isNotTransient(QString;QObject;QBoolean;QSessionImplementor;) | is not transient
+boolean isOr(DefaultMutableTreeNode node) | is or
+boolean isPointLightNode() | is point light node
+boolean isTextureNode() | is texture node
+boolean isTieNote() | is tie note
+boolean moveNodeDown(QGroupTreeNode;Z) | move node down
+boolean moveNodeLeft(QGroupTreeNode;Z) | move node left
+boolean moveNodeRight(QGroupTreeNode;Z) | move node right
+boolean moveNodeUp(QGroupTreeNode;Z) | move node up
+boolean nodeCheck(QNode;Z) | node check
+boolean nonZero() | non zero
+boolean nonZeroField(QBibtexEntry;QString;) | non zero field
+boolean notEqualFeatures(QInstance;QInstance;) | not equal features
+boolean notifyContactList() | notify contact list
+boolean notInBlock(I) | not in block
+boolean no_weight() | no weight
+boolean nullPlusNonNullIsNull() | null plus non null is null
+BooleanParameter getEnableChatNotificationsParameter() | get enable chat notifications parameter
+boolean removeEmptyNode(I) | remove empty node
+boolean removeNode(I) | remove node
+boolean removeNode(QNeuralConnection;) | remove node
+boolean removeNode(QNode;) | remove node
+boolean reportNode(IQInetAddress;I) | report node
+boolean requiresNoCascadeChecking() | requires no cascade checking
+boolean sendNotificationToUser(QJComVcContactItem;) | send notification to user
+boolean someFilesNotFound() | some files not found
+boolean supportsForUpdateNowait() | supports for update nowait
+boolean supportsNonNullableColumns() | supports non nullable columns
+boolean supportsNotNullUnique() | supports not null unique
+boolean visit(Assignment node) | visit
+boolean visitLeave(Key node) | visit leave
+byte[] getBogusNodeID() | get bogus node id
+byte[] getNodeID(QInetSocketAddress;B) | get node id
+byte[] normalizeJPEG(QInputStream;[I) | normalize jpeg
+byte readUserMemory(int memAddr, int noBytes) | read user memory
+CachedUrlSetNode getNextNode() | get next node
+CANTreeNode split(CANTreeNode node) | split
+Capabilities getNotCapabilities() | get not capabilities
+CaseFragment addWhenColumnNotNull(QString;QString;QString;) | add when column not null
+char nextNoneWhitespaceChar() | next none whitespace char
+Class getASTNodeType(I) | get ast node type
+Collection getDestinationNodes(QModeController;QMindMapNode;QList;) | get destination nodes
+Color getNodeBackgroundColor() | get node background color
+Color getNodeColor() | get node color
+Color getResourceNormalLoadColor() | get resource normal load color
+Component getComponent(Object value, GraphicNode node, Field field, SpreadSheetParams params) | get component
+ConfirmDialog doYesNoBotherDialog(QString;QString;) | do yes no bother dialog
+Context newJndiContext(Node node) | new jndi context
+CoverTreeNode new_node(QInteger;) | new node
+Criterion isNotEmpty() | is not empty
+Criterion isNotEmpty(QString;) | is not empty
+Criterion isNotNull() | is not null
+Criterion isNotNull(QString;) | is not null
+Criterion notExists(QDetachedCriteria;) | not exists
+Criterion notIn(QDetachedCriteria;) | not in
+Criterion notIn(QObject;QDetachedCriteria;) | not in
+Criterion not(QCriterion;) | not
+Criterion propertyNotIn(QString;QDetachedCriteria;) | property not in
+Currency addNonUSD(QCurrency;QAuctionEntry;) | add non usd
+Currency getBuyNow() | get buy now
+Currency NoValue() | no value
+CutNodeAction getCutNodeAction(QTransferable;QMindMapNode;) | get cut node action
+CutNodeAction getCutNodeAction(QTransferable;QNodeCoordinate;) | get cut node action
+Date getNormalisedDate(QDate;) | get normalised date
+Date getNormalisedDate(QTimestamp;) | get normalised date
+Date getNotAfter() | get not after
+Date getNotBefore() | get not before
+DefaultMutableTreeNode getFatherNode(QDefaultMutableTreeNode;) | get father node
+DefaultMutableTreeNode getFatherNode(QTask;) | get father node
+DefaultMutableTreeNode getLastNode() | get last node
+DefaultMutableTreeNode getNode() | get node
+DefaultMutableTreeNode getNode(I) | get node
+DefaultMutableTreeNode getNode(QOpenDefinitionsDocument;) | get node
+DefaultMutableTreeNode getNode(QR;) | get node
+DefaultMutableTreeNode getSelectedNode() | get selected node
+DefaultMutableTreeNode[] getSelectedNodes() | get selected nodes
+DefaultMutableTreeNode getSelectedTaskNode() | get selected task node
+DefaultMutableTreeNode makeNode(QObject;QMutableTreeNode;) | make node
+DeleteNodeAction getDeleteNodeAction(QString;) | get delete node action
+DERGeneralizedTime getNotAfter() | get not after
+DERGeneralizedTime getNotAfterTime() | get not after time
+DERGeneralizedTime getNotBefore() | get not before
+DERGeneralizedTime getNotBeforeTime() | get not before time
+DeviceNode getDeviceNode(QDevice;) | get device node
+DHTRouterContactImpl updateExistingNode([BQDHTRouterContactAttachment;Z) | update existing node
+DHTRouterNodeImpl findNode([B) | find node
+DHTTransportContact[] findNodeRequest(QDHTTransportContact;[B) | find node request
+DirectoryNode getDirectoryNode(QDirectory;) | get directory node
+DiscreteFunction normalize() | normalize
+DocumentStructureTreeNode findElementInTreeNode(QDocumentStructureTreeNode;QReportElement;) | find element in tree node
+DocumentStructureTreeNode findElementTreeNode(QReportElement;Z) | find element tree node
+double calcNodeScoreADTree(I) | calc node score ad tree
+double calcNodeScore(I) | calc node score
+double calcNodeScorePlain(I) | calc node score plain
+double computeNorm([D[D[D) | compute norm
+double compute(Note note) | compute
+double defaultNoisePercent() | default noise percent
+double defaultNoiseRate() | default noise rate
+double defaultNoiseVariance() | default noise variance
+double[] findLowestZNominalSplit(QInstances;QInstances;I) | find lowest z nominal split
+double findSplitNominal(I) | find split nominal
+double findSplitNominalNominal(I) | find split nominal nominal
+double findSplitNominalNumeric(I) | find split nominal numeric
+double findSplitNumericNominal(I) | find split numeric nominal
+double getLNorm() | get l norm
+double getMaxRelativeNodeWidth([[D[[D) | get max relative node width
+double getMinNo() | get min no
+double getNoise() | get noise
+double getNoisePercent() | get noise percent
+double getNoiseRate() | get noise rate
+double getNoiseThreshold() | get noise threshold
+double getNoiseVariance() | get noise variance
+double getNorm() | get norm
+double getRootNodeOffset() | get root node offset
+double leastSquaresNonMissing(QInstances;I) | least squares non missing
+double logNormalDens(DDD) | log normal dens
+double nom_nom(II) | nom nom
+double norm() | norm
+double norm1() | norm 1
+double norm2() | norm 2
+double normalDens(DDD) | normal dens
+double normalInverse(D) | normal inverse
+double normalize(D) | normalize
+double normalizedKernel([C[C) | normalized kernel
+double normalKernel(D) | normal kernel
+double normalKernel(DD) | normal kernel
+double normalProbability(D) | normal probability
+double normBasedHyperParameter() | norm based hyper parameter
+double norm(DI) | norm
+double normF() | norm f
+double normInf() | norm inf
+double now() | now
+double num_nom2(II) | num nom 2
+Download addNonPersistentDownload(QTorrent;QFile;QFile;) | add non persistent download
+DownloadEventNotifier getGlobalDownloadEventNotifier() | get global download event notifier
+DragGestureListener getNodeDragListener() | get node drag listener
+DropTargetListener getNodeDropListener() | get node drop listener
+DZNotiz getNotiz() | get notiz
+EasyDate getNotBefore() | get not before
+EdgeStyleFormatAction createNodeStyleFormatAction(MindMapNode selected, String style) | create node style format action
+EdgeStyleFormatAction createNodeStyleFormatAction(QMindMapNode;QString;) | create node style format action
+ElementSource runNonDet(Object input, RBContext context) | run non det
+Element writePropertyNode(QElement;QObject;QString;) | write property node
+EntityNotFoundDelegate getEntityNotFoundDelegate() | get entity not found delegate
+Example excludeNone() | exclude none
+Expression UnaryExpressionNotPlusMinus() | unary expression not plus minus
+FastVector getNodes() | get nodes
+FastVector getParentNodes(QNode;) | get parent nodes
+FieldNode createNode(QNode;QFieldNode;) | create node
+Field visitMultiNode(Node node, Object obj) | visit multi node
+File getNoveltyFile() | get nov el ty file
+File getPropsIfNotPresent(QString;Z) | get props if not present
+File normaliseDownloadLocation(QFile;) | normalise download location
+File normaliseDownloadLocation(QFile;QString;) | normalise download location
+File normaliseRelativePath(QFile;) | normalise relative path
+File normaliseTorrentLocation(QFile;) | normalise torrent location
+File normaliseTorrentLocation(QFile;QString;) | normalise torrent location
+File normalize(QString;QFile;) | normalize
+float calculateLengthNoWeekends(II) | calculate length no weekends
+float getSampleNormalizedSum(KMCluster cluster, int column, float mean) | get sample normalized sum
+FontNodeAction createFontNodeAction(QMindMapNode;QString;) | create font node action
+FontSizeNodeAction createFontSizeNodeAction(QMindMapNode;QString;) | create font size node action
+freemind.controller.actions.generated.instance.BoldNodeAction createBoldNodeAction() | create bold node action
+freemind.controller.actions.generated.instance.BoldNodeActionType createBoldNodeActionType() | create bold node action type
+freemind.controller.actions.generated.instance.CutNodeAction createCutNodeAction() | create cut node action
+freemind.controller.actions.generated.instance.CutNodeActionType createCutNodeActionType() | create cut node action type
+freemind.controller.actions.generated.instance.DeleteNodeAction createDeleteNodeAction() | create delete node action
+freemind.controller.actions.generated.instance.DeleteNodeActionType createDeleteNodeActionType() | create delete node action type
+freemind.controller.actions.generated.instance.EditNodeAction createEditNodeAction() | create edit node action
+freemind.controller.actions.generated.instance.EditNodeActionType createEditNodeActionType() | create edit node action type
+freemind.controller.actions.generated.instance.FontNodeAction createFontNodeAction() | create font node action
+freemind.controller.actions.generated.instance.FontNodeActionType createFontNodeActionType() | create font node action type
+freemind.controller.actions.generated.instance.FontSizeNodeAction createFontSizeNodeAction() | create font size node action
+freemind.controller.actions.generated.instance.FontSizeNodeActionType createFontSizeNodeActionType() | create font size node action type
+freemind.controller.actions.generated.instance.FormatNodeAction createFormatNodeAction() | create format node action
+freemind.controller.actions.generated.instance.HookNodeAction createHookNodeAction() | create hook node action
+freemind.controller.actions.generated.instance.HookNodeActionType createHookNodeActionType() | create hook node action type
+freemind.controller.actions.generated.instance.ItalicNodeAction createItalicNodeAction() | create italic node action
+freemind.controller.actions.generated.instance.ItalicNodeActionType createItalicNodeActionType() | create italic node action type
+freemind.controller.actions.generated.instance.MoveNodesAction createMoveNodesAction() | create move nodes action
+freemind.controller.actions.generated.instance.MoveNodesActionType createMoveNodesActionType() | create move nodes action type
+freemind.controller.actions.generated.instance.MoveNodeXmlAction createMoveNodeXmlAction() | create move node xml action
+freemind.controller.actions.generated.instance.MoveNodeXmlActionType createMoveNodeXmlActionType() | create move node xml action type
+freemind.controller.actions.generated.instance.NewNodeAction createNewNodeAction() | create new node action
+freemind.controller.actions.generated.instance.NewNodeActionType createNewNodeActionType() | create new node action type
+freemind.controller.actions.generated.instance.NodeAction createNodeAction() | create node action
+freemind.controller.actions.generated.instance.NodeBackgroundColorFormatAction createNodeBackgroundColorFormatAction() | create node background color format action
+freemind.controller.actions.generated.instance.NodeBackgroundColorFormatActionType createNodeBackgroundColorFormatActionType() | create node background color format action type
+freemind.controller.actions.generated.instance.NodeColorFormatAction createNodeColorFormatAction() | create node color format action
+freemind.controller.actions.generated.instance.NodeColorFormatActionType createNodeColorFormatActionType() | create node color format action type
+freemind.controller.actions.generated.instance.NodeListMember createNodeListMember() | create node list member
+freemind.controller.actions.generated.instance.NodeListMemberType createNodeListMemberType() | create node list member type
+freemind.controller.actions.generated.instance.NodeStyleFormatAction createNodeStyleFormatAction() | create node style format action
+freemind.controller.actions.generated.instance.NodeStyleFormatActionType createNodeStyleFormatActionType() | create node style format action type
+freemind.controller.actions.generated.instance.NormalWindowConfigurationStorage createNormalWindowConfigurationStorage() | create normal window configuration storage
+freemind.controller.actions.generated.instance.NormalWindowConfigurationStorageType createNormalWindowConfigurationStorageType() | create normal window configuration storage type
+freemind.controller.actions.generated.instance.PasteNodeAction createPasteNodeAction() | create paste node action
+freemind.controller.actions.generated.instance.PasteNodeActionType createPasteNodeActionType() | create paste node action type
+freemind.controller.actions.generated.instance.SelectNodeAction createSelectNodeAction() | create select node action
+freemind.controller.actions.generated.instance.SelectNodeActionType createSelectNodeActionType() | create select node action type
+freemind.controller.actions.generated.instance.TextNodeAction createTextNodeAction() | create text node action
+freemind.controller.actions.generated.instance.UnderlinedNodeAction createUnderlinedNodeAction() | create underlined node action
+freemind.controller.actions.generated.instance.UnderlinedNodeActionType createUnderlinedNodeActionType() | create underlined node action type
+FunctionNode getFunctionNode(I) | get function node
+GlobalEventNotifier getNotifier() | get notifier
+GotoLinkNodeAction getGotoLinkNodeAction(QMindMapNode;) | get goto link node action
+GP4EffectsOnNote readEffectsOnNote() | read effects on note
+GP4GraceNote readGraceNote() | read grace note
+GP4Note getGP4Note() | get gp 4 note
+GP4Note readNote() | read note
+Graph getNodes(I) | get nodes
+GraphicNode getParent(GraphicNode node) | get parent
+GroupNodeWrapper createGroupNodeWrapper(Group group) | create group node wrapper
+GroupTreeNode getNode() | get node
+GroupTreeNode getNode([I) | get node
+GroupTreeNode getNodeToUse() | get node to use
+GroupTreeNode getSelectedNode() | get selected node
+Handle northEast(QFigure;) | north east
+Handle north(QFigure;) | north
+Handle northWest(QFigure;) | north west
+HashSet<QString;> _makeNormEndings() | make norm endings
+Hashtable getNodeManagers(String className) | get node managers
+HookNodeAction createHookNodeAction(QMindMapNode;QList;QString;) | create hook node action
+Image getNoImage() | get no image
+ImageIcon select(ExplorerNode node, boolean expanded) | select
+InetSocketAddress getNotionalAddress() | get notional address
+Instance normalizeInstance(QInstance;) | normalize instance
+Instances getInstancesNoClass() | get instances no class
+Instances nominalToBinary(QInstances;) | nominal to binary
+Instances normalizeDataSet(QInstances;) | normalize data set
+Instances notCoveredBy(QInstances;) | not covered by
+Instances notCoveredInstances() | not covered instances
+Instantiator makeInstantiator(BranchNode parentBranch, String nodeName) | make instantiator
+Instruction visitColon2Node(Colon2Node iVisited) | visit colon 2 node
+Instruction visitDSymbolNode(DSymbolNode iVisited) | visit d symbol node
+Instruction visitTrueNode(TrueNode iVisited) | visit true node
+int addNodeRow() | add node row
+int addNonLinkedLocation(QLabourData.LocationData;QString;I) | add non linked location
+int calcPeersNoUs(QDownload;) | calc peers no us
+int calcSeedsNoUs(QDownload;) | calc seeds no us
+int calcSeedsNoUs(QDownload;I) | calc seeds no us
+int calculateFreeC3MNodes() | calculate free c 3 m nodes
+int calculateFreeC3Nodes() | calculate free c 3 nodes
+int compareRowNonUnique(QSession;[QObject;[I[QObject;) | compare row non unique
+int convertInstancewoDocNorm(QInstance;QFastVector;) | convert instance wo doc norm
+int convertNonControl([CIQStringBuffer;C) | convert non control
+int countNonStartElementsAt([BI[B) | count non start elements at
+int createIndexStructureGetNo([IQHsqlName;ZZZ) | create index structure get no
+Integer addNotificationListener(ObjectName name, Object filter, Subject delegate) | add notification listener
+Integer getNodeFontSize() | get node font size
+InterpretResult forNone() | for none
+InterpretResult noValue() | no value
+int findNode(QPoint2D.Double;) | find node
+int findNot([II) | find not
+int findNotIn([BII[B) | find not in
+int _findPrevNonWSCharPos(I) | find prev non ws char pos
+int getAdjacentNode(II) | get adjacent node
+int getAverageCompletionInThousandNotation() | get average completion in thousand notation
+int getCheckingDoneInThousandNotation() | get checking done in thousand notation
+int[][][] getClusterNominalCounts() | get cluster nominal counts
+int getColumnNo(I) | get column no
+int getConsecutiveNoRequestCount() | get consecutive no request count
+int getDataReceiveRateNoLAN() | get data receive rate no lan
+int getDataReceiveRateNoLAN(I) | get data receive rate no lan
+int getDataSendRateNoLAN() | get data send rate no lan
+int getDataSendRateNoLAN(I) | get data send rate no lan
+int getDesignHeightNoBG() | get design height no bg
+int getFirstNonWSCharPos(I) | get first non ws char pos
+int getFirstNonWSCharPos(I[CZ) | get first non ws char pos
+int getFirstNonWSCharPos(IZ) | get first non ws char pos
+int getGraphNode(QMouseEvent;) | get graph node
+int getLevel(Node node) | get level
+int getLineNo() | get line no
+int getMaxNodeWidth() | get max node width
+int getMaxNonDeletedResults() | get max non deleted results
+int getMaxUploadRateBPSNormal() | get max upload rate bps normal
+int getNeighbours(int node) | get neighbours
+int getNextBlockETAFromNow(QPEPeerTransport;) | get next block eta from now
+int getNoArcs() | get no arcs
+int getNode2(QString;) | get node 2
+int getNodeCount() | get node count
+int getNodeIndex(I) | get node index
+int getNodeIndex(J) | get node index
+int getNodeLevel() | get node level
+int getNode(QString;) | get node
+int getNodeShift(QNodeView;) | get node shift
+int getNodeShiftY(QPoint;QMindMapNode;QPoint;) | get node shift y
+int getNodeStatus() | get node status
+int getNodeType() | get node type
+int getNonSeedCount() | get non seed count
+int getNoOfEntities() | get no of entities
+int getNoOfInitiativeRerollRequests() | get no of initiative reroll requests
+int getNoOfPlayers() | get no of players
+int getNoOfSections() | get no of sections
+int[] getNoOfSlots() | get no of slots
+int getNoOfTeams() | get no of teams
+int[] getNormalIndices() | get normal indices
+int getNormalTurns() | get normal turns
+int getNormalTurns(QIGame;) | get normal turns
+int[] getNotClassCodes(QVector;) | get not class codes
+int getNote() | get note
+int getNoteSpacing() | get note spacing
+int getNotResolvedKeysCount() | get not resolved keys count
+int getNotWorking() | get not working
+int getNrOfNodes() | get nr of nodes
+int getNumInnerNodes() | get num inner nodes
+int getNumNodes() | get num nodes
+int getNumNominal() | get num nominal
+int getNumNominalValues() | get num nominal values
+int getNumRelationalNominal() | get num relational nominal
+int getNumRelationalNominalValues() | get num relational nominal values
+int getNumTestingNoises() | get num testing no is es
+int getNumTrainingNoises() | get num training no is es
+int getPercentDoneInThousandNotation() | get percent done in thousand notation
+int getProtocolReceiveRateNoLAN() | get protocol receive rate no lan
+int getProtocolReceiveRateNoLAN(I) | get protocol receive rate no lan
+int getProtocolSendRateNoLAN() | get protocol send rate no lan
+int getProtocolSendRateNoLAN(I) | get protocol send rate no lan
+int getSourceNode(I) | get source node
+int getTagNo() | get tag no
+int getTargetNode(I) | get target node
+int getUDPNonDataListeningPortNumber() | get udp non data listening port number
+int getUDPNonDataListenPort() | get udp non data listen port
+int indexOfOutermostNode() | index of outermost node
+int indexOfPreceedingNotNullElement([QString;I) | index of preceeding not null element
+IntIterator nodeRows() | node rows
+int linkNode(II) | link node
+int moveNodeTo(QMindMapNode;QMindMapNode;I) | move node to
+int nodeCount() | node count
+int nodeIsDirectCallParameter(QNode;) | node is direct call parameter
+int nonModifyingFindIndex(QObject;) | non modifying find index
+int noOfKthNearest() | no of kth nearest
+int normRNG(I) | norm rng
+int numInnerNodes() | num inner nodes
+int numNodes() | num nodes
+int numOfAllNodes(QPredictionNode;) | num of all nodes
+int numOfLeafNodes(QPredictionNode;) | num of leaf nodes
+int numOfPredictionLeafNodes(QPredictionNode;) | num of prediction leaf nodes
+int numOfPredictionNodes(QPredictionNode;) | num of prediction nodes
+int printNonNumbers(int scanner, int endTokenOffset) | print non numbers
+int read_font_info(int u, int nom, int aire, int s) | read font info
+int readNodeNameArray([BI) | read node name array
+int run_ModelCluster_number_of_nodes_set_(int _value_) | run model cluster number of nodes set
+IOption parseOptionNode(QParsedXML;) | parse option node
+it.businesslogic.ireport.util.TreeNode findElementInTreeNode(Qit.businesslogic.ireport.util.TreeNode;QReportElement;) | find element in tree node
+ItemT getNodeUserObject(QDefaultMutableTreeNode;) | get node user object
+ItemT removeNode(QLeafNode<QItemT;>;) | remove node
+Iterator getNonDuplicatedPropertyIterator() | get non duplicated property iterator
+Iterator nodeIterator() | node iterator
+Iterator nodes() | nodes
+java.awt.Dimension getNormalSize() | get normal size
+java.lang.String getNode() | get node
+java.lang.String getNotes() | get notes
+java.lang.String getWhenNoDataType() | get when no data type
+java.util.List getCompoundActionOrSelectNodeActionOrCutNodeAction() | get compound action or select node action or cut node action
+java.util.List getNodeListMember() | get node list member
+java.util.List getOpenedNodesDocumentStructure() | get opened nodes document structure
+JAXBElement<T> unmarshal(Node node, Class<T> expectedType) | unmarshal
+JComponent createNorthPane(QJInternalFrame;) | create north pane
+JDBCException handledNonSpecificException(QSQLException;QString;QString;) | handled non specific exception
+JLabel createNonCountedLabel(I) | create non counted label
+KDTreeNodeSplitter getNodeSplitter() | get node splitter
+KinsokuProperty addNewNoLineBreaksBefore() | add new no line breaks before
+LeafNode<QItemT;> getNodeForDoc(QItemT;) | get node for doc
+List convertNodesListToItemList(QList;) | convert nodes list to item list
+List doQueryAndInitializeNonLazyCollections(QSessionImplementor;QQueryParameters;Z) | do query and initialize non lazy collections
+List getAllVisibleNodes() | get all visible nodes
+List getChildNodes() | get child nodes
+List getCollectedNodes() | get collected nodes
+List getNotes() | get notes
+List getPrintableNodes(QGanttExportSettings;) | get printable nodes
+List getSelectedProjectHolderTreeNodes() | get selected project holder tree nodes
+List getVisibleNodes(QJTree;III) | get visible nodes
+List<Graph> getExpandedGraphsFromResults(List<List<Node>> nodeResults, List<Relation> relations, int depth) | get expanded graphs from results
+List<QHomePieceOfFurniture;> getFurnitureNotPartOfBasePlan(QList<QHomePieceOfFurniture;>;) | get furniture not part of base plan
+List<QNode;> getNodes(QString;) | get nodes
+List<QNode;> getNodes(QString;QNode;) | get nodes
+List<QOpenDefinitionsDocument;> getNonProjectDocuments() | get non project documents
+List<QSelectable;> getItemsNotPartOfBasePlan(QList<+QSelectable;>;) | get items not part of base plan
+List selectNodes(QString;) | select nodes
+List selectNodes(QString;QString;) | select nodes
+List selectNodes(QString;QString;Z) | select nodes
+Locator north() | north
+Locator northEast() | north east
+Locator northWest() | north west
+long[] getFindNodes() | get find nodes
+long getLastIncomingNonLocalConnectionTime() | get last incoming non local connection time
+long getLastNonLocalConnectionTime() | get last non local connection time
+long getNodeCount() | get node count
+long getNodeCount(QDHTRouterNodeImpl;) | get node count
+long getNormalisedDate(J) | get normalised date
+long getNormalisedTime(J) | get normalised time
+Long getNow4() | get now 4
+long getRouterNodes() | get router nodes
+long getSequenceNo() | get sequence no
+long normalize(JJ) | normalize
+long now() | now
+MaterialNode getMaterialNodes() | get material nodes
+Matrix getTransposedNormedMatrix(QInstances;) | get transposed normed matrix
+Matrix randomNormal(II) | random normal
+MenuItem addReleaseNotesMenuItem(QMenu;) | add release notes menu item
+MindIcon getNodeIcon() | get node icon
+MindMapNode addNewNode(QMindMapNode;IQfreemind.main.Tools.BooleanHolder;) | add new node
+MindMapNode addNode(QMindMapNode;QString;) | add node
+MindMapNode addNode(QMindMapNode;QString;QString;) | add node
+MindMapNode createNode(QObject;) | create node
+MindMapNode getCenterNode(QModeController;QMindMapNode;QList;) | get center node
+MindMapNode getMindMapNode(I) | get mind map node
+MindMapNode getNode() | get node
+MindMapNode getParentNode() | get parent node
+MindMapNode getRootNode() | get root node
+MindMapNode newNode() | new node
+MindMapNode newNode(QObject;) | new node
+MOB getHighestLevelMOB(MOB meMOB, Vector not) | get highest level mob
+MoveNodesAction createMoveNodesAction(QMindMapNode;QList;I) | create move nodes action
+MoveNodeXmlAction moveNode(QMindMapNode;III) | move node
+NameNormalizer getServerNormalizer() | get server normalizer
+NbtAddress[] getNodeStatus(QNbtAddress;) | get node status
+NDTree locateNode(I[I) | locate node
+NewNodeAction getAddNodeAction(QMindMapNode;IQString;Qfreemind.main.Tools.BooleanHolder;) | get add node action
+NodeAdapter createNodeAdapter(QFreeMindMain;QString;) | create node adapter
+NodeAdapter createNodeGivenClassName(QString;) | create node given class name
+NodeAdapter getNodeFromID(QString;) | get node from id
+Node addNode() | add node
+NodeBackgroundColorFormatAction createNodeBackgroundColorFormatAction(QMindMapNode;QColor;) | create node background color format action
+NodeColorFormatAction createNodeColorFormatAction(QMindMapNode;QColor;) | create node color format action
+NodeComponent cloneNodeComponent(Z) | clone node component
+Node createBackgroundNode(Z) | create background node
+Node createExprStatementNoReturn(QNode;I) | create expr statement no return
+Node createGroundNode(FFFFZZ) | create ground node
+Node createLoopNode(QNode;I) | create loop node
+Node createNode(QString;) | create node
+Node createNode(QString;QNode;) | create node
+Node createNode(QString;QNode;Z) | create node
+Node createOutlineModelNode(QNode;) | create outline model node
+NodeData addStatistics(NodeData node, NodeStatisticsData data) | add statistics
+NodeDragListener getNodeDragListener() | get node drag listener
+NodeDropListener getNodeDropListener() | get node drop listener
+Node findExistingNode(Element original, Element update) | find existing node
+Node findNextNode(QNode;) | find next node
+Node findNode(I) | find node
+Node findNotNull(QSession;[QObject;[IZ) | find not null
+Node getAdjacentNode(QEdge;QNode;) | get adjacent node
+Node getAdjacentNode(QNode;) | get adjacent node
+Node getBackgroundNode() | get background node
+Node[] getChildNodes(QNode;) | get child nodes
+Node[] getChildNodes(QNode;QString;) | get child nodes
+Node getFilledModelNode() | get filled model node
+Node getFirstChildNode(QNode;QString;) | get first child node
+Node getNextNode(QNode;) | get next node
+Node getNode() | get node
+Node getNodeFromKey(J) | get node from key
+Node getNode(I) | get node
+Node getNode(QString;) | get node
+Node getNodes() | get nodes
+Node getOutlineModelNode() | get outline model node
+Node getSourceNode() | get source node
+Node getSourceNode(QEdge;) | get source node
+Node getTargetNode() | get target node
+Node getTargetNode(QEdge;) | get target node
+Node getUpdatedNode() | get updated node
+Node goToNodeElement(QString;QNode;) | go to node element
+NodeHook createNodeHook(QString;) | create node hook
+NodeHook createNodeHook(QString;QMindMapNode;QMindMap;) | create node hook
+NodeKeyListener getNodeKeyListener() | get node key listener
+NodeList append(NodeEnum nodes) | append
+NodeList findNodes(QString;) | find nodes
+NodeList getChildNodes() | get child nodes
+NodeList getNodes(QString;) | get nodes
+NodeMotionListener getNodeMotionListener() | get node motion listener
+NodeMouseMotionListener getNodeMouseMotionListener() | get node mouse motion listener
+Node newNode(QRow;IQTable;) | new node
+Node newNode(QRow;QRowInputInterface;IQTable;) | new node
+Node nextNode(QNode;QXMLWriter;) | next node
+Node node(I) | node
+Node selectSingleNode(QString;) | select single node
+NodeStyleFormatAction createNodeStyleFormatAction(QMindMapNode;QString;) | create node style format action
+NodeView getNode() | get node
+NodeView getNodeView(QMouseEvent;) | get node view
+NodeView newNodeView(QMindMapNode;QMapView;) | new node view
+NoEvents getNoEvents() | get no events
+Normalization determineNormalization(QElement;) | determine normalization
+Normalization getNormalization() | get normalization
+NoteComponent findNote(QPoint;) | find note
+Note getNote() | get note
+NoticeReference getNoticeRef() | get notice ref
+NT getDominatingNodeByCat(String cat) | get dominating node by cat
+Object arriveEqualNode(EqualNode node, Object msg) | arrive equal node
+Object arriveLikeNode(LikeNode node, Object msg) | arrive like node
+Object arriveParenNode(ParenNode node, Object msg) | arrive paren node
+Object assert_stmt(SimpleNode node) | assert stmt
+Object deepCopyNotNull(QObject;) | deep copy not null
+Object exec_stmt(SimpleNode node) | exec stmt
+Object fromXMLNode(QNode;QMapping;) | from xml node
+Object getNonFinal(IQType;) | get non final
+Object[] getNotNull([QObject;) | get not null
+Object getPathToRoot(Object node, int depth) | get path to root
+Object normaliseObject(QObject;) | normalise object
+Object normalize(Object node) | normalize
+Object readPropertyNode(QElement;) | read property node
+Object visit(ASTExclusiveOrExpression node, Object data) | visit
+Object visit(ASTExplicitAtom node, Object data) | visit
+Object visit(ASTMemberValue node, Object data) | visit
+Object visit(ASTPackageDeclaration node, Object data) | visit
+Object visit(ASTPrimarySuffix node, Object data) | visit
+Object visit(ELEqualityExpression node, Object data) | visit
+Object visit(SimpleNode node, Object data) | visit
+Object visitTryFinally(TryFinally node) | visit try finally
+Object visitUnaryNode(UnaryNode node, Object results) | visit unary node
+Object while_stmt(SimpleNode node) | while stmt
+OneRRule newNominalRule(QAttribute;QInstances;[I) | new nominal rule
+OutputFileEntry getEntry(X10FunctionEnum function, X10Pair pair, AST node, AST children) | get entry
+OverlayNode getFirstSelectedNode() | get first selected node
+PageFormat initPageFormat(Node node) | init page format
+Parser<Node> getParser(String nonterminal) | get parser
+PasteNodeAction getPasteNodeAction(QTransferable;QNodeCoordinate;) | get paste node action
+PathNode getLastNode() | get last node
+PathNode getTransportDropNode() | get transport drop node
+PermanentNodeHook getHookInNode(QMindMapNode;QString;) | get hook in node
+PermissionAssignment getAssignment(Notebook notebook, String assigneeId) | get assignment
+PluginNode getPluginNode(QPlugin;) | get plugin node
+Point2D.Double north(QRectangle2D.Double;) | north
+Point2D.Double v2Normalize(QPoint2D.Double;) | v 2 normalize
+Point north(QRectangle;) | north
+QuadTreeNode getQuadTreeNode() | get quad tree node
+Range getNominalCols() | get nominal cols
+Raster getTileNoCompute(II) | get tile no compute
+RateControlledEntity getNextReadyNormalPriorityEntity() | get next ready normal priority entity
+ResourceNode getNodeForResource(QProjectResource;) | get node for resource
+Result sqlExecuteCompiledNoPreChecks(QCompiledStatement;[QObject;) | sql execute compiled no pre checks
+Result sqlExecuteDirectNoPreChecks(QString;) | sql execute direct no pre checks
+RowIterator findFirstRowNotNull(QSession;) | find first row not null
+RrdNode getSelectedRrdNode() | get selected rrd node
+RuleNode getM5RootNode() | get m 5 root node
+RuleNode leftNode() | left node
+RuleNode parentNode() | parent node
+RuleNode rightNode() | right node
+RuntimeException notFoundError(QScriptable;QString;) | not found error
+RuntimeException notFunctionError(QObject;) | not function error
+RuntimeException notFunctionError(QObject;QObject;) | not function error
+RuntimeException notXmlError(QObject;) | not xml error
+RuntimeException reportMemberNotFound(QString;) | report member not found
+R visitCatch(CatchTree node, P p) | visit catch
+SelectedTag getNormalizeDocLength() | get normalize doc length
+SelectExpression getFirstThenNode() | get first then node
+Set getFromNodes(Object node) | get from nodes
+Set getNonCriticalExtensionOIDs() | get non critical extension oids
+sfvec3f getNormalForVertex(int vertexNum, di_progress progress) | get normal for vertex
+short getNodeType() | get node type
+SimpleAttributeSet _getNormalAttributes() | get normal attributes
+SimpleBigDecimal norm(BQSimpleBigDecimal;QSimpleBigDecimal;) | norm
+SimpleCart nodeToPrune(QVector;) | node to prune
+SimpleNode getSimpleNode() | get simple node
+SimpleXMLParserDocumentNode getNode() | get node
+SimpleXMLParserDocumentNodeImpl[] parseNode(QNode;Z) | parse node
+String[] appendIfNotThere([QString;[QString;) | append if not there
+String[] appendIfNotThere([QString;QString;) | append if not there
+String binaryAttributesNominalTipText() | binary attributes nominal tip text
+String closeNode(String nodeVar) | close node
+String convertNominalTipText() | convert nominal tip text
+String convertNominalToBinaryTipText() | convert nominal to binary tip text
+String createNoms() | create noms
+String describeNode(QAST;ZZZZ) | describe node
+String doNotOperateOnPerClassBasisTipText() | do not operate on per class basis tip text
+String doNotReplaceMissingValuesTipText() | do not replace missing values tip text
+String dontNormalizeTipText() | dont normalize tip text
+String dotsToNodots(QString;) | dots to no dots
+String getElementNodeName() | get element node name
+String getForUpdateNowaitString() | get for update nowait string
+String getForUpdateNowaitString(QString;) | get for update nowait string
+String getIndexNodeName() | get index node name
+String getIsoDateNoHours(QDate;) | get iso date no hours
+String getIsoDateNoMillis(QDate;) | get iso date no millis
+String getMyNodeText() | get my node text
+String getNextNodeName(QString;) | get next node name
+String getNoColumnsInsertString() | get no columns insert string
+String getNode() | get node
+String getNodeFontFamily() | get node font family
+String getNodeId() | get node id
+String getNodeID(QMindMapNode;) | get node id
+String getNodeKeyField() | get node key field
+String getNodeName() | get node name
+String getNodeName(I) | get node name
+String getNodeName(String instanceName) | get node name
+String getNodePath(QNode;) | get node path
+String getNodeStyle() | get node style
+String getNodeText(QJTree;QObject;) | get node text
+String getNodeTypeName() | get node type name
+String getNodeValue() | get node value
+String getNodeValue(II) | get node value
+String getNom() | get nom
+String getNominalIndices() | get nominal indices
+String getNominalLabels() | get nominal labels
+String getNonOptionArgsUsage() | get non option args usage
+String[] getNonProxyHosts() | get non proxy hosts
+String getNoresizeExpr() | get noresize expr
+String getNormalisedName() | get normalised name
+String getNormalizedPropertyName(QString;) | get normalized property name
+String getNormalizedUrl(QDebuggableScript;) | get normalized url
+String getNote() | get note
+String getNotes() | get notes
+String getNotesText() | get notes text
+String getNotFound() | get not found
+String getRangeNotSatisfiable() | get range not satisfiable
+String getRootNode() | get root node
+String getStringIfIsNotValid(String a_String) | get string if is not valid
+String getTypeNow() | get type now
+String getValue(Document document, String nodeName) | get value
+String index(Node node) | index
+String LNormTipText() | l norm tip text
+String minNoTipText() | min no tip text
+String nodeSplitterTipText() | node splitter tip text
+String nodeToString() | node to string
+String nodeToString(QAST;Z) | node to string
+String noisePercentTipText() | noise percent tip text
+String noiseRateTipText() | noise rate tip text
+String noiseThresholdTipText() | noise threshold tip text
+String noiseTipText() | noise tip text
+String noiseVarianceTipText() | noise variance tip text
+String nominalColsTipText() | nominal cols tip text
+String nominalDistribution([[D[[[DQAttribute;[I[D[[D[DQInstances;Z) | nominal distribution
+String nominalDistribution([[D[[[DQAttribute;[I[D[[D[DQInstances;ZZ) | nominal distribution
+String nominalIndicesTipText() | nominal indices tip text
+String nominalLabelsTipText() | nominal labels tip text
+String nominalToBinaryFilterTipText() | nominal to binary filter tip text
+String noPruningTipText() | no pruning tip text
+String noReplacementTipText() | no replacement tip text
+String normaliseFileName(QString;) | normalise file name
+String normaliseJDK(QString;) | normalise jdk
+String normaliseRelativePathPart(QString;) | normalise relative path part
+String normalizeAttributesTipText() | normalize attributes tip text
+String normalizeDataTipText() | normalize data tip text
+String normalizeDimWidthsTipText() | normalize dim widths tip text
+String normalizeDocLengthTipText() | normalize doc length tip text
+String normalizeNodeWidthTipText() | normalize node width tip text
+String normalizeNumericClassTipText() | normalize numeric class tip text
+String normalizeTipText() | normalize tip text
+String normalizeWordWeightsTipText() | normalize word weights tip text
+String normTipText() | norm tip text
+String notUnifyNormTipText() | not unify norm tip text
+String numTestingNoisesTipText() | num testing no is es tip text
+String numTrainingNoisesTipText() | num training no is es tip text
+String parseStringNode(QSExp;) | parse string node
+String printNodeLinearModel() | print node linear model
+String setPropertyIfNotExists(QString;QString;) | set property if not exists
+String showNode(QTreeNode;[Z) | show node
+String stripNonValidXMLCharacters(QString;) | strip non valid xml characters
+String toNominalString(QInstances;) | to nominal string
+String toStringNoWeight() | to string no weight
+String useNormalizationTipText() | use normalization tip text
+String XMLNormalize(QString;) | xml normalize
+SWTSkin getNonPersistentInstance(QClassLoader;QString;QString;) | get non persistent instance
+Table getNodeTable() | get node table
+TagInfo createTag(Node node) | create tag
+TaskNode[] getOnlyTaskNodes([QDefaultMutableTreeNode;) | get only task nodes
+TaskNode[] getSelectedTaskNodes() | get selected task nodes
+TaskNode getTaskNodeForTask(QTask;) | get task node for task
+TaskNode insertClonedNode(QDefaultMutableTreeNode;QDefaultMutableTreeNode;IZ) | insert cloned node
+Test getNot() | get not
+TextNode createVRML97TextNode(Text3D j3dNode) | create vrml 97 text node
+T forNoValue() | for no value
+Time getNormalisedTime(QTime;) | get normalised time
+Time getNormalisedTime(QTimestamp;) | get normalised time
+Timestamp getNormalisedTimestamp(QDate;) | get normalised timestamp
+Timestamp getNormalisedTimestamp(QTime;) | get normalised timestamp
+Timestamp now(QConnection;) | now
+TransformGroup getNormalizedTransformGroup(QNode;[[FF) | get normalized transform group
+TreeClass getNode(QString;) | get node
+TreeNodeImpl findPluginNode(String id) | find plugin node
+TupleSet getNodes() | get nodes
+URLConnection openConnectionForceNoProxy(QURL;) | open connection force no proxy
+VaryNode makeVaryNode(IQFastVector;QInstances;) | make vary node
+Vector getCuttedNode(QString;) | get cutted node
+Vector getInnerNodes() | get inner nodes
+Vector getNodes() | get nodes
+Vector getPossibleNodeHooks(QClass;) | get possible node hooks
+Vector<QExtensionFileFilter;> filterNonCoreLoaderFileFilters(QVector<QExtensionFileFilter;>;) | filter non core loader file filters
+Vector<QExtensionFileFilter;> filterNonCoreSaverFileFilters(QVector<QExtensionFileFilter;>;) | filter non core saver file filters
+Vector<QString;> getNotFoundList() | get not found list
+VirtualServerChannelSelector createNonBlocking(QInetSocketAddress;IQVirtualServerChannelSelector.SelectListener;) | create non blocking
+void ActionAddNode() | action add node
+void ActionCopyNode() | action copy node
+void ActionCopyNode(QString;QString;QString;QString;) | action copy node
+void ActionCutNode() | action cut node
+void ActionDeleteNode() | action delete node
+void ActionPasteNode() | action paste node
+void addChildNode(QCNode;) | add child node
+void addEditorNodes(QString;QString;) | add editor nodes
+void addJoinNodes(QQueryNode;QJoinSequence;QFromElement;Z) | add join nodes
+void addMainFlagMustNotBePresent(String inFlagName, String inError) | add main flag must not be present
+void addMenuAndNonTextChildren(QComposite;QMenu;) | add menu and non text children
+void addMenuNotifications() | add menu notifications
+void addNode() | add node
+void AddNodeAction(QString;III) | add node action
+void addNodeAttributes(Element node) | add node attributes
+void addNodeDetails(QStringBuffer;IQString;) | add node details
+void addNode(II) | add node
+void addNode(IQBezierPath.Node;) | add node
+void addNode(QBezierPath.Node;) | add node
+void addNode(QDHTRouterContactImpl;) | add node
+void addNode(QJProtocolTreeItem;) | add node
+void addNode(QNeuralConnection;) | add node
+void addNode(Qorg.planetamessenger.plugin.JPlugin;I) | add node
+void addNode(QString;I) | add node
+void addNode(QString;III) | add node
+void addNodeReports(TreeNodeCheckedImage node, Set reports) | add node reports
+void addNodeValue(IQString;) | add node value
+void addNoise(QInstances;IIIZ) | add noise
+void addNonLazyCollection(QPersistentCollection;) | add non lazy collection
+void addNonMatch(String word) | add non match
+void addNonToolBar(QString;QSWTSkinObject;) | add non tool bar
+void addNoRelodablePath(QString;) | add no relodable path
+void addNormal(QTurnOrdered;) | add normal
+void addNote(QHashMap<QString;QString;>;QString;) | add note
+void addNotes(QString;) | add notes
+void addNotify() | add notify
+void addNotify(QDrawing;) | add notify
+void addNotify(QDrawingEditor;) | add notify
+void addRepaintNotify(QComponent;) | add repaint notify
+void addUnitNoUpdate(QUnit;) | add unit no update
+void afterNontransactionalQuery(Z) | after nontransactional query
+void algorithm2NoShift() | algorithm 2 no shift
+void allocateNonDynamicColors() | allocate non dynamic colors
+void assertFileNotFoundCount(I) | assert file not found count
+void assertInteractionsDoesNotContain(QString;) | assert interactions does not contain
+void assertInteractionsDoesNotMatch(QString;) | assert interactions does not match
+void assertNonCurrThreadDiedCount(I) | assert non curr thread died count
+void assertNonTestCaseCount(I) | assert non test case count
+void assertNotEmpty() | assert not empty
+void assertNotEOF(QTokens.SExpToken;) | assert not eof
+void assureNotEditing() | assure not editing
+void assureStringDialogNotEditing() | assure string dialog not editing
+void basicAddNode(IQBezierPath.Node;) | basic add node
+void basicAddNode(QBezierPath.Node;) | basic add node
+void basicRemoveAllNodes() | basic remove all nodes
+void basicRemoveNode(I) | basic remove node
+void basicSetNode(IQBezierPath.Node;) | basic set node
+void blendNodeColor(QMindMapNode;) | blend node color
+void buildClassifierForNode(QNDTree;QInstances;) | build classifier for node
+void buildNotificationMessageGui(QString;QString;) | build notification message gui
+void calcVeeNodes([[Z[[Z[[QSeparationSet;) | calc vee nodes
+void caseAIsMarkedPreCs(AIsMarkedPreCs node) | case a is marked pre cs
+void caseAMulMulOp(AMulMulOp node) | case a mul mul op
+void caseAOomediatorAnykeyword(AOomediatorAnykeyword node) | case a oomediator anykeyword
+void caseAProductionSpecifier(AProductionSpecifier node) | case a production specifier
+void caseTLabeldef(TLabeldef node) | case t label def
+void centerNode(QMindMapNode;) | center node
+void centerNode(QNodeView;) | center node
+void changeNode(QMindMapNode;QString;) | change node
+void checkLhsIsNotCollection() | check lhs is not collection
+void checkNodeStatusData() | check node status data
+void checkUserTableNotExists(QSession;QString;QString;) | check user table not exists
+void checkUserViewNotExists(QSession;QString;QString;) | check user view not exists
+void cleanFolderNode(QDefaultMutableTreeNode;) | clean folder node
+void clearCuttedNodeBuffer() | clear cutted node buffer
+void clearErrorNotification() | clear error notification
+void clearNodeLinks() | clear node links
+void clearNodes() | clear nodes
+void clearTemps_and_EdgesFromNodes() | clear temps and edges from nodes
+void clearWarningsNoCheck() | clear warnings no check
+void closeCurrentTabNoWarning() | close current tab no warning
+void CNode(I) | c node
+void CNode(IQInstance;) | c node
+void CollectingNodeVisitor(QFilterPredicate;) | collecting node visitor
+void collectScriptOrFnNodes_r(QScriptOrFnNode;QObjArray;) | collect script or fn nodes r
+void connectionNotification(QString;QObject;) | connection notification
+void constructNotesPanel() | construct notes panel
+void convertInstanceNominal(QInstance;) | convert instance nominal
+void convertNumericAttToNominal(IQArrayList<QString;>;) | convert numeric att to nominal
+void convertStringAttsToNominal() | convert string atts to nominal
+void copySelectedNode() | copy selected node
+void CoverTreeNode() | cover tree node
+void CoverTreeNode(QInteger;DDQStack<QCoverTreeNode;>;II) | cover tree node
+void createErrorNotification(QRunnable;) | create error notification
+void createNodeHookActions() | create node hook actions
+void createNodes(QDefaultMutableTreeNode;) | create nodes
+void createPieceOfFurnitureNode(QHomePieceOfFurniture;ZZ) | create piece of furniture node
+void createPlanetNameNode(Planet planet) | create planet name node
+void cutNode(QMindMapNode;) | cut node
+void cutSelectedNode() | cut selected node
+void dedentCurrentNodes() | dedent current nodes
+void deleteNoCheckFromLog(QSession;[QObject;) | delete no check from log
+void deleteNoCheck(QSession;QRow;Z) | delete no check
+void deleteNoCheckRollback(QSession;QRow;Z) | delete no check rollback
+void DeleteNodeAction(I) | delete node action
+void deleteNode(I) | delete node
+void deleteNode(QMindMapNode;) | delete node
+void deleteNode(QString;) | delete node
+void deleteNoRefCheck(QSession;QRow;) | delete no ref check
+void delNodeValue(IQString;) | del node value
+void demote(Node node) | demote
+void disableNotifier() | disable notifier
+void disableNot(QCapability;) | disable not
+void disconnectionNotification(QString;QObject;) | disconnection notification
+void dispatchNodeAdds() | dispatch node adds
+void displayNode(QMindMapNode;) | display node
+void displayNode(QMindMapNode;QArrayList;) | display node
+void d_node(DQCoverTreeNode;) | d node
+void documentNotFound(QOpenDefinitionsDocument;QFile;) | document not found
+void doesNotExist(QFile;) | does not exist
+void doListenerNotifications() | do listener notifications
+void doNonTransactedWork(QIsolatedWork;QSessionImplementor;) | do non transacted work
+void doPasswordCheckAndDecryptNode(QEncryptedMindMapNode;) | do password check and decrypt node
+void downCurrentNodes() | down current nodes
+void DownloadAttributeNotifier(QTorrentAttribute;I) | download attribute notifier
+void downloadNow() | download now
+void DownloadTrackerNotifier(Z) | download tracker notifier
+void drawNode(IQGraphics;) | draw node
+void drawNode(QGraphics;II) | draw node
+void drawNoTiling(QGraphics;II) | draw no tiling
+void emitNoMatch() | emit no match
+void enableNoteEvents(Z) | enable note events
+void enableNotification() | enable notification
+void enableNotifier(QRunnable;) | enable notifier
+void enableNot(QCapability;) | enable not
+void enforceNodesLimit(TAgent agent) | enforce nodes limit
+void _ensureNotActive(QList<QOpenDefinitionsDocument;>;) | ensure not active
+void _ensureNotAlreadyRunning() | ensure not already running
+void _ensureNotEmpty() | ensure not empty
+void ensureNotShowing(QBibtexEntry;) | ensure not showing
+void enterLeftParen(Token node) | enter left paren
+void errorClosingTagNotEmpty(QString;I) | error closing tag not empty
+void ErrorNotificationPanel() | error notification panel
+void evaluateNominal(IQPriorityQueue<QHotTestDetails;>;) | evaluate nominal
+void evaluateNominalSplitSingle(IQPredictionNode;QInstances;QInstances;) | evaluate nominal split single
+void exportNodeGeometry(QGeometry;QTransform3D;QString;Z) | export node geometry
+void exportNode(QNode;QNode;ZZ) | export node
+void exportNode(QNode;ZZ) | export node
+void exportNormal(QTransform3D;QVector3f;I[F) | export normal
+void filesNotFound([QFile;) | files not found
+void fillHardNoCycle([IIIIIII) | fill hard no cycle
+void fillInnerNodes(QVector;) | fill inner nodes
+void fillNot(int n) | fill not
+void fillSimpleNoCycle([IIIIIII) | fill simple no cycle
+void findNodeOK() | find node ok
+void findNodeReply(QDHTTransportContact;[QDHTTransportContact;) | find node reply
+void findNodeSent(QDHTUDPPacketRequest;) | find node sent
+void FirstNonWSCharPos(I[CZ) | first non ws char pos
+void fixedPointSimplestCaseNonCyclicFillRaster([IIIIIII) | fixed point simplest case non cyclic fill raster
+Void forNoValue() | for no value
+void generateClassifierForNode(QInstances;QRange;QRandom;QClassifier;QHashtable;) | generate classifier for node
+void generateClassifierForNode(QInstances;QRange;QRandom;QClassifier;QHashtable;[D) | generate classifier for node
+void getAllNodes(QDefaultMutableTreeNode;) | get all nodes
+void getNodePath1() | get node path 1
+void getNodePath1Delegate() | get node path 1 delegate
+void getNodes(QVector;) | get nodes
+void giveNormalMissions() | give normal missions
+void GOETreeNode() | goe tree node
+void GOETreeNode(QObject;) | goe tree node
+void GOETreeNode(QObject;Z) | goe tree node
+void gotoNodesAndClose(I[I) | goto nodes and close
+void GP4EffectsOnNoteStats() | gp 4 effects on note stats
+void GP4EffectsOnNoteStats(QGP4EffectsOnNote;) | gp 4 effects on note stats
+void handleEntityNotFound(QString;QSerializable;) | handle entity not found
+void handleLowNoise(QUpdateCheckInstance;) | handle low noise
+void handleNoFileExists(QDownloadManager;) | handle no file exists
+void handleNonTxnlMessage(QBrowserMessage;) | handle non tx nl message
+void handleRightNodeClick(QMouseEvent;) | handle right node click
+void hideNotifications(MetaInfo metaInfo) | hide notifications
+void hideSelectedNodes() | hide selected nodes
+void HotNode(QInstances;D[D[B) | hot node
+void incrIntNodeCount() | incr int node count
+void indentCurrentNodes() | indent current nodes
+void informNotify(QNetworkInterface;QInetAddress;QInetAddress;QString;QURL;QString;QString;) | inform notify
+void initialize(ElementInstance instance, Node node, MutablePicoContainer context) | initialize
+void initializeMethodNode(QAST;Z) | initialize method node
+void initializeNonLazyCollections() | initialize non lazy collections
+void initializeSqlNode(QAST;) | initialize sql node
+void initNoSemEdges() | init no sem edges
+void initRootNode() | init root node
+void initScriptOrFnNodesData(QScriptOrFnNode;) | init script or fn nodes data
+void init(SearchNode node) | init
+void insertClassIndexAtNode(I) | insert class index at node
+void insertNewRegionNode(QR;QDefaultMutableTreeNode;I) | insert new region node
+void insertNoCheckFromLog(QSession;[QObject;) | insert no check from log
+void insertNoCheck(QSession;[QObject;) | insert no check
+void insertNoCheckRollback(QSession;QRow;Z) | insert no check rollback
+void insertNode(BrowserTreeNode nodeToInsert, SortingParentNode parentNode) | insert node
+void insertNodeIntoNoEvent(QMindMapNode;QMindMapNode;) | insert node into no event
+void insertNodeIntoNoEvent(QMindMapNode;QMindMapNode;Z) | insert node into no event
+void insertNodeInto(QMindMapNodeModel;QMindMapNode;I) | insert node into
+void insertNodeInto(QMindMapNode;QMindMapNode;) | insert node into
+void insertNodeInto(QMindMapNode;QMindMapNode;I) | insert node into
+void insertNodeInto(QMutableTreeNode;QMutableTreeNode;I) | insert node into
+void insertNodeSortedInto(QLeafNode<QItemT;>;QInnerNode<*QItemT;>;) | insert node sorted into
+void insertNodes(QJMenu;QGroupTreeNode;) | insert nodes
+void insertNodes(QJMenu;QGroupTreeNode;[QBibtexEntry;ZZ) | insert nodes
+void insertNotClassNFA(QVector;II) | insert not class nfa
+void joinNodes(QMindMapNode;QList;) | join nodes
+void JunctionTreeNode(QSet;QBayesNet;[Z) | junction tree node
+void JUnitNonTestListener() | j unit non test listener
+void JUnitNonTestListener(Z) | j unit non test listener
+void LabelNoShrink(QComposite;I) | label no shrink
+void leaveOr(AST node) | leave or
+void ListNode(ID) | list node
+void load_buy_now() | load buy now
+void loadExistingTorrentsNow(Z) | load existing torrents now
+void logNoNewLine(QString;) | log no new line
+void logNoRepeat(QString;QString;) | log no repeat
+void makeClassNot(QVector;Z) | make class not
+void maybeNotify() | maybe notify
+void mkSelectionNotify(int time, int requestor, int selection, int target, int property) | mk selection notify
+void moralizeNode(QParentSet;I[[Z) | moralize node
+void MoveNodeDownAction() | move node down action
+void MoveNodeLeftAction() | move node left action
+void moveNodePosition(QMindMapNode;III) | move node position
+void MoveNodeRightAction() | move node right action
+void _moveNodes(QMindMapNode;QList;I) | move nodes
+void moveNodes(QMindMapNode;QList;I) | move nodes
+void moveNodeTo(QMindMapNode;III) | move node to
+void MoveNodeUpAction() | move node up action
+void MyListNode(I) | my list node
+void NeighborNode(DQInstance;) | neighbor node
+void NeighborNode(DQInstance;I) | neighbor node
+void NeighborNode(DQInstance;IQNeighborNode;) | neighbor node
+void NeighborNode(DQInstance;QNeighborNode;) | neighbor node
+void networkNode(QInetAddress;II) | network node
+void noAction() | no action
+void noASTSubRule() | no ast sub rule
+void noCascade(QEventSource;QObject;QObject;QEntityPersister;I) | no cascade
+void NoCommentsInsert(QDialect;) | no comments insert
+void Node() | node
+void NodeAction(QString;) | node action
+void nodeAddedToRouter(QDHTRouterContact;) | node added to router
+void nodeChangedAction() | node changed action
+void nodeChangedMapInternal(QTreeNode;) | node changed map internal
+void NodeColorAction(QString;) | node color action
+void NodeCoordinate(QMindMapNode;Z) | node coordinate
+void NodeCoordinate(QMindMapNode;ZZ) | node coordinate
+void Node(DD) | node
+void NodeHolder(QMindMapNode;) | node holder
+void Node(IDDDDDD) | node
+void nodeID(QStreamTokenizer;) | node id
+void nodeId(QString;I) | node id
+void Node(IQPoint2D.Double;QPoint2D.Double;QPoint2D.Double;) | node
+void NodePanel() | node panel
+void Node(QNode;) | node
+void Node(QObject;) | node
+void Node(QObject;QNode;) | node
+void Node(QPoint2D.Double;) | node
+void Node(QT;QNode<QT;>;QNode<QT;>;) | node
+void nodeRefresh(QMindMapNode;) | node refresh
+void nodeRefresh(QMindMapNode;Z) | node refresh
+void NodeRenderer() | node renderer
+void nodesDepthComparator() | nodes depth comparator
+void nodeStmt(QStreamTokenizer;I) | node stmt
+void NodeTextListener() | node text listener
+void nodeY(QNode;) | node y
+void noEffect(QMovie;I) | no effect
+void NoGlyphException(I) | no glyph exception
+void NoInputListener() | no input listener
+void NoLabelException(QString;) | no label exception
+void NominalAntd(QAttribute;) | nominal an td
+void NominalAntd(QAttribute;[D) | nominal an td
+void NominalAntd(QAttribute;DDD) | nominal an td
+void NomLabel(QString;I) | nom label
+void NonBlockingProcessor(QTRTrackerServerTCP;QSocketChannel;) | non blocking processor
+void nonImmediateValidation() | non immediate validation
+void nonPreparedTest() | non prepared test
+void NonScalarResultColumnProcessor(I) | non scalar result column processor
+void nonTestCase(Z) | non test case
+void noop() | noop
+void NoopOptimizer(QClass;I) | noop optimizer
+void noop(QString;) | noop
+void NormalComponent() | normal component
+void Normalization(QString;) | normalization
+void normalize() | normalize
+void normalize([D) | normalize
+void normalize([DD) | normalize
+void normalizeDocument() | normalize document
+void normalizeInstance(QInstance;I) | normalize instance
+void normalizePrior(QInstances;) | normalize prior
+void normalize(QSession;QString;) | normalize
+void normalize(String s, boolean b, char e) | normalize
+void normalizeTo(double highScore) | normalize to
+void normalizeVector(QMatrix;) | normalize vector
+void normVector() | norm vector
+void NorthEastHandle(QFigure;) | north east handle
+void NorthHandle(QFigure;) | north handle
+void North(QDrawingEditor;) | north
+void NorthWestHandle(QFigure;) | north west handle
+void NoStackException(QString;) | no stack exception
+void not() | not
+void notationDecl(String name, String publicId, String systemId) | notation decl
+void NotAudioFilter() | not audio filter
+void note_reduction_use() | note reduction use
+void note_use() | note use
+void NotificationItem(I) | notification item
+void _notify() | notify
+void notifyActive() | notify active
+void notifyAddListeners(QShell;) | notify add listeners
+void notifyBadSignin() | notify bad signin
+void notifyBatchClassifierListeners(QBatchClassifierEvent;) | notify batch classifier listeners
+void notifyBatchClustererListeners(QBatchClustererEvent;) | notify batch clusterer listeners
+void notifyBreakpointChange(QBreakpoint;) | notify breakpoint change
+void notifyCapabilitiesFilterListener(QCapabilities;) | notify capabilities filter listener
+void notifyChangeListeners() | notify change listeners
+void notifyChartListeners(QChartEvent;) | notify chart listeners
+void _notifyCompileBeforeJUnit(QCompilerListener;) | notify compile before j unit
+void _notifyCompileDone() | notify compile done
+void notifyConnectionListeners(I) | notify connection listeners
+void notifyConnectionListeners(IQException;) | notify connection listeners
+void notifyDataFormatListeners() | notify data format listeners
+void notifyDataListeners(QDataSetEvent;) | notify data listeners
+void notifyDataOrTrainingListeners(QEventObject;) | notify data or training listeners
+void notifyDataSetAvailable(QDataSetEvent;) | notify data set available
+void notifyDataSetListeners(QDataSetEvent;) | notify data set listeners
+void notifyDead() | notify dead
+void notifyDebugger_r(QContext;QDebuggableScript;QString;) | notify debugger r
+void notifyDebuggerShutdown() | notify debugger shutdown
+void notifyDebugInterpreterAssignment(QString;) | notify debug interpreter assignment
+void notifyDownloadListeners(QTiVoItemEvent;) | notify download listeners
+void notifyDownload(QSpeedManagerLimitEstimate;) | notify download
+void notifyEvent(QTiVoItemEvent;) | notify event
+void notifyFillListeners(QMenuItem;) | notify fill listeners
+void notifyFillListeners(Qorg.gudy.azureus2.plugins.ui.menus.MenuItem;) | notify fill listeners
+void notifyGraphListeners(QGraphEvent;) | notify graph listeners
+void notifyHistoryChangedListeners() | notify history changed listeners
+void notify(II) | notify
+void notifyInactive() | notify inactive
+void notifyIncrementalClassifierListeners(QIncrementalClassifierEvent;) | notify incremental classifier listeners
+void notifyInstanceAvailable(QInstanceEvent;) | notify instance available
+void notifyInstanceListeners(QInstanceEvent;) | notify instance listeners
+void _notifyInteractionIncomplete() | notify interaction incomplete
+void _notifyInterpreterReady(QFile;) | notify interpreter ready
+void _notifyInterpreterResetting() | notify interpreter resetting
+void notifyIsDirty() | notify is dirty
+void _notifyJUnitDone() | notify j unit done
+void notifyListener() | notify listener
+void notifyListener(QGlobalModelListener;) | notify listener
+void notifyListener(QTableModelEvent;) | notify listener
+void notifyListeners() | notify listeners
+void notifyListeners(I) | notify listeners
+void notifyListeners(IQIProgressReporter;) | notify listeners
+void notifyListeners(IQString;) | notify listeners
+void notifyListenersOfChat(QVuzeBuddy;) | notify listeners of chat
+void notifyListenersOfNewMessage(QVuzeBuddy;QChatMessage;) | notify listeners of new message
+void notifyListeners(QConfiguration;QT;) | notify listeners
+void notifyListeners(QNotifier;) | notify listeners
+void notifyListeners(QString;QString;QString;QString;) | notify listeners
+void notifyListeners(QString;QThrowable;) | notify listeners
+void notifyListeners(QTorrentAttributeEvent;) | notify listeners
+void notifyListeners(Z) | notify listeners
+void notifyListeners(ZZZQString;) | notify listeners
+void notifyLocalSynchsAfterTransactionCompletion(I) | notify local synchs after transaction completion
+void notifyLocalSynchsBeforeTransactionCompletion() | notify local synchs before transaction completion
+void _notifyLock() | notify lock
+void notifyMainThread() | notify main thread
+void notifyManageDiagIcd10(String str, int status) | notify manage diag icd 10
+void notifyManager(QIProgressReporter;) | notify manager
+void _notifyNonTestCase(Z) | notify non test case
+void notifyNowAlive(QDHTRouterContact;) | notify now alive
+void notifyNowFailing(QDHTRouterContact;) | notify now failing
+void notifyObserver(IIIII) | notify observer
+void notifyOfBot() | notify of bot
+void notifyOfCollapse(IIQNode<QT;>;) | notify of collapse
+void notifyOfDownSignal() | notify of down signal
+void notifyOfException(QThrowable;) | notify of exception
+void notifyOfExternallyReceivedMessage(QMessage;) | notify of externally received message
+void notifyOfExternallySentMessage(QMessage;) | notify of externally sent message
+void notifyOfExternalReceive(QMessage;) | notify of external receive
+void notifyOfExternalSend(QMessage;) | notify of external send
+void notifyOfIncomingPort(QString;I) | notify of incoming port
+void notifyOfInsert(I) | notify of insert
+void notifyOfRemove(IQNode<QT;>;) | notify of remove
+void notifyPage(AttributeContainer container, String url) | notify page
+void notifyParameterListeners(QString;) | notify parameter listeners
+void notifyParamExists(QString;) | notify param exists
+void notify(QEvent;) | notify
+void notify(QEvent;Z) | notify
+void notify(QString;) | notify
+void notify(QString;QClass;) | notify
+void notify(QString;QIView;) | notify
+void notify(QString;QString;QString;QString;) | notify
+void notifyQueryExecuteListeners(QResultSet;QException;) | notify query execute listeners
+void notifyRegistrationListeners(QOpenDefinitionsDocument;QDocManager;) | notify registration listeners
+void notifyRemoveListeners(QShell;) | notify remove listeners
+void notifyRGBParamExists(QString;) | notify rgb param exists
+void notifySearchConstraintHit(String constraintId) | notify search constraint hit
+void notifySecurityIssue() | notify security issue
+void notifyServers(QDatabase;) | notify servers
+void notifyStatus(QStatusEvent;) | notify status
+void notifyStructureAvailable(QInstances;) | notify structure available
+void notifySync(QEvent;) | notify sync
+void notifyTestListeners(QTestSetEvent;) | notify test listeners
+void notifyTestSetAvailable(QTestSetEvent;) | notify test set available
+void notifyTextListeners(QTextEvent;) | notify text listeners
+void notifyThresholdListeners(QThresholdDataEvent;) | notify threshold listeners
+void notifyTrainingListeners(QTrainingSetEvent;) | notify training listeners
+void notifyTrainingSetAvailable(QTrainingSetEvent;) | notify training set available
+void notifyTwistieListeners() | notify twistie listeners
+void notifyUnlockVisit(String str, int status) | notify unlock visit
+void notifyUpload(QSpeedManagerLimitEstimate;) | notify upload
+void notifyVisualizableErrorListeners(QVisualizableErrorEvent;) | notify visualizable error listeners
+void not_null(QObject;) | not null
+void notRunning() | not running
+void notSoLazyPathfinder(QCoords;II) | not so lazy pathfinder
+void nowAlive(QDHTRouterContact;) | now alive
+void nowFailing(QDHTRouterContact;) | now failing
+void NumberNode(D) | number node
+void onNoteEvent(QPerformanceNoteEvent;) | on note event
+void onUpdateNodeHook() | on update node hook
+void outABagCollectionTypeIdentifierCs(ABagCollectionTypeIdentifierCs node) | out a bag collection type identifier cs
+void outADecChar(ADecChar node) | out a dec char
+void outAEffectAnykeyword(AEffectAnykeyword node) | out a effect anykeyword
+void outAInModeId(AInModeId node) | out a in mode id
+void outAOccursClauseClause(AOccursClauseClause node) | out a occurs clause clause
+void outASingleTermUpdate(ASingleTermUpdate node) | out a single term update
+void outNoStack(QString;) | out no stack
+void outNoStack(QString;Z) | out no stack
+void outSnmpModuleSupportPart(Node node) | out snmp module support part
+void paintNominal(QGraphics;) | paint nominal
+void paintNote(QGraphics;IIQGP4Note;) | paint note
+void paintNotes(QGraphics;) | paint notes
+void PanelTreeNode(QConfigPanel;) | panel tree node
+void PanelTreeNode(QString;) | panel tree node
+void parseBasicsNode(QParsedXML;) | parse basics node
+void parseCreatorNode(QParsedXML;) | parse creator node
+void parseCritNode(QParsedXML;) | parse crit node
+void parseEnvironmentNode(QParsedXML;) | parse environment node
+void parseMountedNode(QParsedXML;) | parse mounted node
+void parseNode(Node node) | parse node
+void parseNode(QParsedXML;) | parse node
+void pasteNode() | paste node
+void placeNode(QNodeView;II) | place node
+void PosNotInBlock(I) | pos not in block
+void PredictionNode([D) | prediction node
+void printNoHeaderSpaceHTML(StandardResultsBlock srb, AnyLogicContext alc) | print no header space html
+void processNode(Node node) | process node
+void processNodesAfterAddInstance(QBallNode;) | process nodes after add instance
+void processNonRegistrations() | process non registrations
+void pullActivitiesNow(J) | pull activities now
+void pullActivitiesNow(JJ) | pull activities now
+void pushMessageNow(QPlatformMessage;QPlatformMessengerListener;) | push message now
+void QuadNode(QRectangle2D.Double;) | quad node
+void QuadTreeNode() | quad tree node
+void QueueNode(QObject;) | queue node
+void QuitNow() | quit now
+void QuitNow(QString;) | quit now
+void receivedNotify(QNetworkInterface;QInetAddress;QInetAddress;QString;QURL;QString;QString;) | received notify
+void recordNotationDeclaration(QString;QString;QString;) | record notation declaration
+void refreshNode(QList;QDHTRouterNodeImpl;[B) | refresh node
+void refreshNodes(QList;QDHTRouterNodeImpl;[BZJ) | refresh nodes
+void registerNonExists([QEntityKey;[QLoadable;QSessionImplementor;) | register non exists
+void registerOperationTxnNone(QString;) | register operation txn none
+void reloadTimeNow() | reload time now
+void removeAllNodes() | remove all nodes
+void removeCurrentNode(QDefaultMutableTreeNode;) | remove current node
+void RemoveNodeBackgroundColorAction(QModeController;) | remove node background color action
+void removeNodeFromParent(QMutableTreeNode;) | remove node from parent
+void removeNodeFromParent(QMutableTreeNode;Z) | remove node from parent
+void removeNode(I) | remove node
+void removeNotesFrame() | remove notes frame
+void remove(NotificationWindow notification) | remove
+void removeNotify() | remove notify
+void removeNotify(QDrawing;) | remove notify
+void removeNotify(QDrawingEditor;) | remove notify
+void removeUnitNoUpdate(QUnit;) | remove unit no update
+void renameNode(I) | rename node
+void renameNodeValue(IQString;QString;) | rename node value
+void render3dForeground(GL gl, nodeBean n, mfint32 instance, mfint32 max) | render 3 d foreground
+void renderNonScalarIdentifiers(QFromElement;IIQSelectExpression;QASTAppender;) | render non scalar identifiers
+void renderNonScalarProperties(QASTAppender;QFromElement;II) | render non scalar properties
+void renderNonScalarSelects([QSelectExpression;QFromClause;) | render non scalar selects
+void replaceNode(QNode;QElement;) | replace node
+void requestNodeAdd(QDHTRouterContactImpl;) | request node add
+void requestNodeAdd(QDHTRouterContactImpl;Z) | request node add
+void returnToPoolIfNotFree() | return to pool if not free
+void runNonDaemon(QRunnable;) | run non daemon
+void safeJUnitAllWithNoErrors() | safe j unit all with no errors
+void safeJUnitAllWithNoValidTests() | safe j unit all with no valid tests
+void saveEventsNow() | save events now
+void saveMyEntityForSrvDMPckEnNoConfMyEntityForSrvDMPckEnNoConf(MyEntityForSrvDMPckEnNoConf myEntityForSrvDMPckEnNoConf) | save my entity for srv dm pck en no conf my entity for srv dm pck en no conf
+void scheduleNow(QActivity;) | schedule now
+void scrollNodeToVisible(QMapView;QNodeView;I) | scroll node to visible
+void scrollNodeToVisible(QNodeView;) | scroll node to visible
+void scrollNodeToVisible(QNodeView;I) | scroll node to visible
+void searchNow() | search now
+void SelectAllNoneActionListener(QSelectionState;) | select all none action listener
+void selectMultipleNodes(QMindMapNode;QCollection;) | select multiple nodes
+void selectNone() | select none
+void selectNothing() | select nothing
+void sendDeliveredNotification(String to, String packetID) | send delivered notification
+void sendFindNode(QDHTTransportContact;QDHTTransportReplyHandler;[B) | send find node
+void sendFindNode(QDHTTransportReplyHandler;[B) | send find node
+void sendFindNode(QDHTTransportUDPContactImpl;QDHTTransportReplyHandler;[B) | send find node
+void sendFindNodeSupport(QDHTTransportContact;QDHTTransportReplyHandler;[B) | send find node support
+void sendNow(QSendPacket;) | send now
+void setAddedNote(I) | set added note
+void setAppropriateNodeSize() | set appropriate node size
+void setBackFaceNormalFlip(QNode;) | set back face normal flip
+void setBackFaceNormalFlip(QNode;Z) | set back face normal flip
+void setBinaryAttributesNominal(Z) | set binary attributes nominal
+void setConsecutiveNoRequestCount(I) | set consecutive no request count
+void setConvertNominalToBinary(Z) | set convert nominal to binary
+void setConvertNominal(Z) | set convert nominal
+void setCurrentNode(ConstNode node) | set current node
+void setCurrentUNode(Unmarshallable currentUNode) | set current u node
+void setDeadNote(Z) | set dead note
+void setDoNotOperateOnPerClassBasis(Z) | set do not operate on per class basis
+void setDoNotReplaceMissingValues(Z) | set do not replace missing values
+void setDoNotSort(Z) | set do not sort
+void setDontNormalize(Z) | set dont normalize
+void setEditedNode(QGroupTreeNode;) | set edited node
+void setElementNodeName(QString;) | set element node name
+void setEntityNotFoundDelegate(QEntityNotFoundDelegate;) | set entity not found delegate
+void setErrorNotifier(QRunnable;) | set error notifier
+void setExitIfNoWindowsOpen(Z) | set exit if no windows open
+void setForceNoProxy(Z) | set force no proxy
+void setGhostNote(Z) | set ghost note
+void setGraceNoteFont(QFont;) | set grace note font
+void setHasNonReadOnlyEnties(QStatus;) | set has non read only enties
+void setHasNoTurret(Z) | set has no turret
+void setIgnoreNotFound(Z) | set ignore not found
+void setIndexNodeName(QString;) | set index node name
+void setLNorm(D) | set l norm
+void setLocationNoUpdate(QLocation;) | set location no update
+void setLowNoise(Z) | set low noise
+void setMaxNonDeletedResults(I) | set max non deleted results
+void setMinNo(D) | set min no
+void setMyNodeText(QString;) | set my node text
+void setNagForNoAction(Z) | set nag for no action
+void setNewNodeCreator(QNewNodeCreator;) | set new node creator
+void setNewNodes() | set new nodes
+void setNoClass(Z) | set no class
+void setNodeAttribute(QString;QString;QNodeAdapter;) | set node attribute
+void setNodeBackgroundColor(QColor;) | set node background color
+void setNodeBackgroundColor(QMindMapNode;QColor;) | set node background color
+void setNodeCapabilities(QNode;) | set node capabilities
+void setNodeColor(QColor;) | set node color
+void setNodeColor(QMindMapNode;QColor;) | set node color
+void setNodeDimensions(QNodeItem;DD) | set node dimensions
+void setNodeFontBold(QBoolean;) | set node font bold
+void setNodeFontFamily(QString;) | set node font family
+void setNodeFontItalic(QBoolean;) | set node font italic
+void setNodeFontSize(QInteger;) | set node font size
+void setNodeIcon(QMindIcon;) | set node icon
+void setNode(IQBezierPath.Node;) | set node
+void setNoDelay() | set no delay
+void setNodeName(IQString;) | set node name
+void setNodeName(QString;) | set node name
+void setNode(QGroupTreeNode;) | set node
+void setNode(Qjava.lang.String;) | set node
+void setNode(QMindMapNode;) | set node
+void setNodesEdges(QFastVector;QFastVector;) | set nodes edges
+void setNodeSize(II) | set node size
+void setNodeSplitter(QKDTreeNodeSplitter;) | set node splitter
+void setNodeStatus(I) | set node status
+void setNodeStyle(QMindMapNode;QString;) | set node style
+void setNodeStyle(QString;) | set node style
+void setNodeText(QMindMapNode;QString;) | set node text
+void setNodeType(int type) | set node type
+void setNodeWidthNormalization(Z) | set node width normalization
+void setNoDragSource() | set no drag source
+void setNoise(D) | set noise
+void setNoisePercent(D) | set noise percent
+void setNoiseRate(D) | set noise rate
+void setNoiseThreshold(D) | set noise threshold
+void setNoiseVariance(D) | set noise variance
+void setNominal() | set nominal
+void setNominalCols(QRange;) | set nominal cols
+void setNominalIndicesArr([I) | set nominal indices arr
+void setNominalIndices(QString;) | set nominal indices
+void setNominalLabels(QString;) | set nominal labels
+void setNominalToBinaryFilter(Z) | set nominal to binary filter
+void setNonEmpty() | set non empty
+void setNonUndoableChange(Z) | set non undoable change
+void setNoPruning(Z) | set no pruning
+void setNoRender() | set no render
+void setNoReplacement(Z) | set no replacement
+void setNormalizeAttributes(Z) | set normalize attributes
+void setNormalizeData(Z) | set normalize data
+void setNormalizeDimWidths(Z) | set normalize dim widths
+void setNormalizeDocLength(QSelectedTag;) | set normalize doc length
+void setNormalizeNodeWidth(Z) | set normalize node width
+void setNormalizeNumericClass(Z) | set normalize numeric class
+void setNormalizeWordWeights(Z) | set normalize word weights
+void setNormalize(Z) | set normalize
+void setNormalSize() | set normal size
+void setNormalSize(Qjava.awt.Dimension;) | set normal size
+void setNorm(D) | set norm
+void setNoSystemExit(Z) | set no system exit
+void setNotActive() | set not active
+void setNotAfter(QDate;) | set not after
+void setNotBefore(QDate;) | set not before
+void setNotCapabilities(QCapabilities;) | set not capabilities
+void setNote(I) | set note
+void setNote(QNodeNote;) | set note
+void setNote(QString;) | set note
+void setNotesFont(QFont;) | set notes font
+void setNoteSpacing(I) | set note spacing
+void setNotes(Qjava.lang.String;) | set notes
+void setNotes(Qjava.util.List;) | set notes
+void setNotes(QString;) | set notes
+void setNote(String note) | set note
+void setNotUnifyNorm(Z) | set not unify norm
+void setNoType() | set no type
+void setNoValue() | set no value
+void setNrOfNodes(I) | set nr of nodes
+void setNumNominal(I) | set num nominal
+void setNumNominalValues(I) | set num nominal values
+void setNumOfNodes(QNode;I) | set num of nodes
+void setNumRelationalNominal(I) | set num relational nominal
+void setNumRelationalNominalValues(I) | set num relational nominal values
+void setNumTestingNoises(I) | set num testing no is es
+void setNumTrainingNoises(I) | set num training no is es
+void setOpenedNodesDocumentStructure(Qjava.util.List;) | set opened nodes document structure
+void setOutputFormatNominal() | set output format nominal
+void setParameterRawNoNotify(QString;QObject;) | set parameter raw no notify
+void _setPendingNotifies(I) | set pending notifies
+void setPlayerName(int no, String name) | set player name
+void setPositionNoShift(I) | set position no shift
+void setPosNo(int value) | set pos no
+void setPrimaryNode(QNode;) | set primary node
+void setRequiresAuthorizationNoCheck() | set requires authorization no check
+void setRight(PExpression node) | set right
+void setRootNodeOffset(D) | set root node offset
+void setRootNode(QString;) | set root node
+void setSelectedNode(Node n) | set selected node
+void setSendsNotificationForEachKeystroke(Z) | set sends notification for each keystroke
+void setSeqNo(int SeqNo) | set seq no
+void setSequenceNo(J) | set sequence no
+void setShort(Object node, Property field, short value) | set short
+void setSingleNodeOperation(QSingleNodeOperation;) | set single node operation
+void setTieNote(Z) | set tie note
+void setToXMLNode(QNode;QObject;QSessionFactoryImplementor;) | set to xml node
+void setUpNoCustPossible() | set up no cust possible
+void _setupNotificationsPanel(QConfigPanel;) | setup notifications panel
+void setUseNormalization(Z) | set use normalization
+void setValidOrNot(QIpRange;Z) | set valid or not
+void setWhenNoDataType(Qjava.lang.String;) | set when no data type
+void shareNode(QShareResourceDirContents;QFile;QList;) | share node
+void _showClassNotFoundError(QClassNotFoundException;) | show class not found error
+void _showFileNotFoundError(QFileNotFoundException;) | show file not found error
+void showNoBuddiesPanel(Z) | show no buddies panel
+void _showNoClassDefError(QNoClassDefFoundError;) | show no class def error
+void ShowNoConnectionDialog(QString;) | show no connection dialog
+void showNode(QPrintWriter;QAST;) | show node
+void showNothing() | show nothing
+void sortNodesByDepth(QList;) | sort nodes by depth
+void splitNode(QBallNode;I) | split node
+void splitNode(QKDTreeNode;I[[D[[D) | split node
+void splitNode(QMindMapNode;IQString;) | split node
+void splitNodes(QBallNode;ID) | split nodes
+void splitNodes(QKDTreeNode;[[DI) | split nodes
+void statusChangeNotify(StatusObservable observed) | status change notify
+void StringNode(IQString;) | string node
+void stringToNominal(QResultSet;I) | string to nominal
+void testAccessIdFieldAfterContextIsNotActive() | test access id field after context is not active
+void testCancelDoesNotChangeConfig() | test cancel does not change config
+void testColonNotDelim() | test colon not delim
+void testColonNotInTernaryOpDueToQuestionMarkInCommentsOrQuotes() | test colon not in ternary op due to question mark in comments or quotes
+void testColonNotInTernaryOpMultiLineStmts() | test colon not in ternary op multi line stmts
+void testCompileAllWithNoFiles() | test compile all with no files
+void testCompileReferenceToNonPublicClass() | test compile reference to non public class
+void testConstructNoErrors() | test construct no errors
+void testCookieStringNotEquals() | test cookie string not equals
+void testDoesNotEndWithParenDelim() | test does not end with paren delim
+void testDoesNotStartWithPrefix() | test does not start with prefix
+void testEscapeAtFrontBeforeNormal() | test escape at front before normal
+void testFindNoMatchCase() | test find no match case
+void testFragmentIgnoreCaseSetNotInList() | test fragment ignore case set not in list
+void testFragmentIgnoreCaseSetNotMatching() | test fragment ignore case set not matching
+void testFragmentSetNotInList() | test fragment set not in list
+void testFragmentSetNotMatching() | test fragment set not matching
+void testGetFirstNonWSCharPos() | test get first non ws char pos
+void testGetNodePath() | test get node path
+void testGetNodesExceptions() | test get nodes exceptions
+void testHasNotDuration() | test has not duration
+void testIgnoreCaseSetNotInList() | test ignore case set not in list
+void testIgnoreCaseSetNotMatching() | test ignore case set not matching
+void testIndentDoesNothing() | test indent does nothing
+void testInitManagerNotManager() | test init manager not manager
+void testJsonHashShouldNotReturnBuildSinceForNonActiveBuild() | test json hash should not return build since for non active build
+void testLineDoesNotContainColon() | test line does not contain colon
+void testLineDoesNotContainColonDueToComments() | test line does not contain colon due to comments
+void testLineDoesNotContainColonDueToQuotes() | test line does not contain colon due to quotes
+void testLiveJspNonStringCollections() | test live jsp non string collections
+void testMessageTag1ArgNamePropertyNoScopeAlternateBundle() | test message tag 1 arg name property no scope alternate bundle
+void testMultipleNodes() | test multiple nodes
+void testMultipleNodesAttr() | test multiple nodes attr
+void testMultipleNodesAttrDelegate() | test multiple nodes attr delegate
+void testMultipleNodesDelegate() | test multiple nodes delegate
+void testNoBrace() | test no brace
+void testNoClassFile() | test no class file
+void testNoDDocInCache() | test no d doc in cache
+void testNodes() | test nodes
+void testNodesDelegate() | test nodes delegate
+void testNodesStarEnd() | test nodes star end
+void testNodesStarEndDelegate() | test nodes star end delegate
+void testNodesStarMiddle() | test nodes star middle
+void testNodesStarMiddleDelegate() | test nodes star middle delegate
+void testNodeStarAttrsStar() | test node star attrs star
+void testNodeStarAttrsStarDelegate() | test node star attrs star delegate
+void testNoEquals() | test no equals
+void testNoJUnitErrors() | test no j unit errors
+void testNoLeadingSpaces() | test no leading spaces
+void testNoMatch() | test no match
+void testNone() | test none
+void testNonEmptyConfiguration() | test non empty configuration
+void testNonMatchingQuotes() | test non matching quotes
+void testNonStaticWatches() | test non static watches
+void testNonTestCaseError() | test non test case error
+void testNonWsISchemaImportExceptionMessage() | test non ws i schema import exception message
+void testNoParameters() | test no parameters
+void testNoParenDelims() | test no paren delims
+void testNoPrefix() | test no prefix
+void testNoPrevStmt() | test no prev stmt
+void testNoResponse() | test no response
+void testNormalArguments() | test normal arguments
+void testNoSuffix() | test no suffix
+void testNoSuggestedDirectory() | test no suggested directory
+void testNotEmptyOnStartup() | test not empty on startup
+void testNotifyCollapse() | test notify collapse
+void testNotifyInsert() | test notify insert
+void testNotifyRemove() | test notify remove
+void testNotIgnoringWhitespace() | test not ignoring whitespace
+void testNotIn() | test not in
+void testNotInDocument() | test not in document
+void testNotInSameTableAndColumn() | test not in same table and column
+void testNotInScope() | test not in scope
+void testNotRecognizeComments() | test not recognize comments
+void testNotRecognizeComments2() | test not recognize comments 2
+void testNotStartOfStmtDueToEndCharactersInCommentsOrQuotes() | test not start of stmt due to end characters in comments or quotes
+void testNotWellFormed_IbmNotWfP56Ibm56n02xml() | test not well formed ibm not wf p 56 ibm 56 n 02 xml
+void testNotWellFormed_IbmNotWfP85Ibm85n184xml() | test not well formed ibm not wf p 85 ibm 85 n 184 xml
+void testNotWellFormed_IbmNotWfP85Ibm85n21xml() | test not well formed ibm not wf p 85 ibm 85 n 21 xml
+void testNotWellFormed_NotWfSa159() | test not well formed not wf sa 159
+void testOpenMultipleNonexistentFiles() | test open multiple nonexistent files
+void testOpenNonexistentFile() | test open nonexistent file
+void testParenDelimsNoText() | test paren delims no text
+void testRemoveNode() | test remove node
+void testReplaceAllContinueNoMatchCase() | test replace all continue no match case
+void testResourceIsNotAssignedTwice() | test resource is not assigned twice
+void testResultOfNonPublicTestCase() | test result of non public test case
+void testSearchesDoNotRepeatWhenChangingDirection() | test searches do not repeat when changing direction
+void testSetAttrNoOverwrite() | test set attr no overwrite
+void testSetAttrNoOverwriteDelegate() | test set attr no overwrite delegate
+void testSetFromNode() | test set from node
+void testSetFromNodeDelegate() | test set from node delegate
+void testSetNodeFromEmpty() | test set node from empty
+void testSetNodeFromEmptyDelegate() | test set node from empty delegate
+void testSetNodeNoOverwrite() | test set node no overwrite
+void testSetNodeNoOverwriteDelegate() | test set node no overwrite delegate
+void testSetNodeOverwrite() | test set node overwrite
+void testSetNodeOverwriteDelegate() | test set node overwrite delegate
+void testSetNotInList() | test set not in list
+void testSetNotMatching() | test set not matching
+void testStartsWithPrefixNoText() | test starts with prefix no text
+void testSwitchToNonExistantInterpreter() | test switch to non existant interpreter
+void testTypeBraceNotInCode() | test type brace not in code
+void testTypeEnterNotInCode() | test type enter not in code
+void textTopLevelClassNameNoSpace() | text top level class name no space
+void throwIfNotAvailable() | throw if not available
+void transfer(long nodeId, Locker owningLocker, Locker destLocker, boolean demoteToRead) | transfer
+void translateDefaultNoSystemExitProperty(QHsqlProperties;) | translate default no system exit property
+void TrieNode(C) | trie node
+void TrieNode(QCharacter;) | trie node
+void TwoWayNominalSplit(II) | two way nominal split
+void UnexpectedFileNotFoundException(QLockFile;QString;QIOException;) | unexpected file not found exception
+void unlinkNode(III) | unlink node
+void upCurrentNodes() | up current nodes
+void updateAndNotify(I) | update and notify
+void updateNodeData(IZ) | update node data
+void updateNodePositions() | update node positions
+void _updateNoErrors(Z) | update no errors
+void _updateNormalColor() | update normal color
+void updateNormalization(QInstance;) | update normalization
+void updatePieceOfFurnitureModelNode(QNode;Z) | update piece of furniture model node
+void updateSubDatasetNode(QDefaultMutableTreeNode;) | update sub dataset node
+void updateSubDatasetNode(QSubDataset;) | update sub dataset node
+void useNoPriors() | use no priors
+void VariableNode(QObject;QObject;) | variable node
+void visitEdge(GraphIterator graphIterator, Object node1, Object node2, Object object) | visit edge
+void visitFeatureNode(FeatureNode node) | visit feature node
+void visitPropertySpecNodes(QAST;QList;) | visit property spec nodes
+void visit(TextMappingNode node) | visit
+void warnAboutNonJSObject(QObject;) | warn about non js object
+void writeChartNode(QChartReportElement2;QPrintWriter;) | write chart node
+void writeChartSubTitleNode(QChartReportElement2;QPrintWriter;) | write chart sub title node
+void writeChartTitleNode(QChartReportElement2;QPrintWriter;) | write chart title node
+void writeNode(double x, double y, double z, String label) | write node
+void writeNodeGeometry(QGeometry;QTransform3D;) | write node geometry
+void writeNode(QNode;) | write node
+void writeNode(QNode;QNode;QString;) | write node
+void writeNode(QNode;QString;) | write node
+void writeNodes(QRowOutputInterface;) | write nodes
+void writeNormal(QTransform3D;QVector3f;IQMap<QVector3f;QInteger;>;[I) | write normal
+void writeNotFound(QOutputStream;) | write not found
+void XXXtestBreakpointsAndStepsInNonPublicClasses() | xxx test breakpoints and steps in non public classes
+void XXXtestNonStaticWatches() | xxx test non static watches
+VuzeBuddy createNewBuddyNoAdd(QMap;) | create new buddy no add
+X509Certificate findNotaryCertByIndex(String responderCN, int idx) | find notary cert by index
+XSNotation getNotation(String localName) | get notation

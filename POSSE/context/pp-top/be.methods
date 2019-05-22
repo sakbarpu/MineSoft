@@ -1,0 +1,49 @@
+boolean areTablesToBeUpdated(QSet;) | are tables to be updated
+boolean canBeBatched() | can be batched
+boolean canBeCaptured() | can be captured
+boolean canBeDamaged() | can be damaged
+boolean canBeDeleted() | can be deleted
+boolean canBeRemoved() | can be removed
+boolean canBeUpgraded(QUnitType;QUpgradeType;) | can be upgraded
+boolean canIPBeBanned(QString;) | can ip be banned
+boolean canIPBeBlocked(QString;[B) | can ip be blocked
+boolean flushMightBeNeeded(QEventSource;) | flush might be needed
+boolean getHasBeenOpened(QDownloadManager;) | get has been opened
+boolean hasBeenCalled() | has been called
+boolean hasBeenDisplayed() | has been displayed
+boolean hasBeenModified(QString;) | has been modified
+boolean hasBeenReceived() | has been received
+boolean hasBeenRequested(QDiskManagerReadRequest;) | has been requested
+boolean hasBeenUpdated() | has been updated
+boolean hasBeenVisited() | has been visited
+boolean hasBeenVisited(QPlayer;) | has been visited
+boolean hasEndGameModeBeenAbandoned() | has end game mode been abandoned
+boolean isBeingDeleted() | is being deleted
+boolean isBeingDragged() | is being dragged
+boolean isBeingIntrumented(QString;) | is being intr um ent ed
+boolean isBeingReplicated() | is being replicated
+boolean isFlushBeforeCompletionEnabled() | is flush before completion enabled
+boolean isSelectBeforeUpdateRequired() | is select before update required
+boolean shouldBeEnabled() | should be enabled
+boolean shouldBeStored() | should be stored
+double cuScoreForBestTwoMerged(QCNode;QCNode;QCNode;QInstance;) | cu score for best two merged
+void canDownloadManagerBeRemoved(QDownloadManager;ZZ) | can download manager be removed
+void canResourceBeDeleted(QShareResource;) | can resource be deleted
+void downloadWillBeRemoved(QDownload;) | download will be removed
+void downloadWillBeRemoved(QDownloadManager;ZZ) | download will be removed
+void handlePropertyBeingDereferenced(QType;QString;) | handle property being dereferenced
+void hasBeenOpenedChanged(QDownloadManager;Z) | has been opened changed
+void informWillBeStarted(QPEPeerManager;) | inform will be started
+void jButtonReadBeanAttributes3ActionPerformed(Qjava.awt.event.ActionEvent;) | j button read bean attributes 3 action performed
+void jButtonReadBeanAttributesActionPerformed(Qjava.awt.event.ActionEvent;) | j button read bean attributes action performed
+void peerManagerWillBeAdded(QPEPeerManager;) | peer manager will be added
+void resourceWillBeDeleted(QShareResource;) | resource will be deleted
+void setBeenDisplayed(Z) | set been displayed
+void setBendCentered() | set bend centered
+void setFlushBeforeCompletionEnabled(Z) | set flush before completion enabled
+void setHasBeenCalled(Z) | set has been called
+void setHasBeenOpened(QDownloadManager;Z) | set has been opened
+void setHasBeenReceived() | set has been received
+void shouldBeInitialised(Z) | should be initialised
+void torrentWillBeRemoved(QTrackerTorrent;) | torrent will be removed
+void torrentWillBeRemoved(QTRHostTorrent;) | torrent will be removed

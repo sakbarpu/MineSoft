@@ -1,0 +1,4 @@
+boolean isNewWorldGoodsType() | is new world goods type
+boolean isNewWorldLuxuryType() | is new world luxury type
+List<QGoodsType;> getNewWorldGoodsTypeList() | get new world goods type list
+long _getWorldBoundingSphere__bv_const(long _pointer_, boolean derive) | get world bounding sphere  bv const

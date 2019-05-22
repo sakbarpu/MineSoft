@@ -1,0 +1,6 @@
+String exceptionMsgBuf() | exception msg buf
+String exceptionToString(QThrowable;) | exception to string
+String exceptionToText(QTOTorrentException;) | exception to text
+void ExceptionHandler() | exception handler
+void ExceptionResult(QInterpreterException;) | exception result
+void exceptionThrown(QThrowable;) | exception thrown

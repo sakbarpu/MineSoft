@@ -1,0 +1,5 @@
+boolean SUPPRESS_FIXUP_ERRORS | suppress fixup errors
+int itsFixupTableTop | its fixup table top
+int MIN_FIXUP_TABLE_SIZE | min fixup table size
+long[] itsFixupTable | its fixup table
+org.gudy.azureus2.core3.torrent.TOTorrentException fixup_failure | fixup failure

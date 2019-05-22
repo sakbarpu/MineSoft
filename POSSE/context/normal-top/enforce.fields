@@ -1,0 +1,3 @@
+boolean sqlEnforceSize | sql enforce size
+boolean sqlEnforceStrictSize | sql enforce strict size
+java.lang.String sql_enforce_strict_size | sql enforce strict size

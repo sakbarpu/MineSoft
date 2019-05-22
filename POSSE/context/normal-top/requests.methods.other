@@ -1,0 +1,4 @@
+int getPoolRequestsCount() | get pool requests count
+long getRequestsTimedOut() | get requests timed out
+void flushRequestsSupport(QflushListener;) | flush requests support
+void resetRequestsTime(J) | reset requests time

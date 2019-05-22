@@ -1,0 +1,30 @@
+AST createIsNullParent(QAST;Z) | create is null parent
+boolean determinIfNullAd(QDownloadManager;) | determin if null ad
+boolean getUseNullList() | get use null list
+boolean isEquivalentToNotNullPredicate() | is equivalent to not null predicate
+boolean isNullAt(II) | is null at
+boolean supportsNotNullUnique() | supports not null unique
+Expression readNullIfExpression() | read null if expression
+int indexOfPreceedingNotNullElement([QString;I) | index of preceeding not null element
+limitEstimate getNullLimit() | get null limit
+LoggerChannel getNullChannel(QString;) | get null channel
+MiscType createNullSignatureSystem() | create null signature system
+String getBasicSelectClauseNullString(I) | get basic select clause null string
+String getNullColumnString() | get null column string
+String getNullValue() | get null value
+String getSelectClauseNullString(I) | get select clause null string
+void addNullProperty(QEntityKey;QString;) | add null property
+void clearNullProperties() | clear null properties
+void enforceNullConstraints([QObject;) | enforce null constraints
+void helpTestCannotAddNullStyleToList() | help test cannot add null style to list
+void setNullBoards(QString;) | set null boards
+void setNullString(String nullString) | set null string
+void setNullUrl() | set null url
+void setNullValue(QString;) | set null value
+void setUseNullList(Z) | set use null list
+void testNullData() | test null data
+void testNullParamsinConstructor() | test null param sin constructor
+void testNullSafeHashCodeWithObjectBeingObjectArray() | test null safe hash code with object being object array
+void testSaveNullClassPropertyFilterHandler() | test save null class property filter handler
+void testSetNullLPSTR() | test set null lpstr
+void testUnsubscribeNullEBusId() | test unsubscribe null e bus id

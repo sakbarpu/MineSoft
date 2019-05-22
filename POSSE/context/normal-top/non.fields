@@ -1,0 +1,115 @@
+boolean borderNone | border none
+boolean force_start_non_seed_exists | force start non seed exists
+boolean _indentNonCode | indent non code
+boolean isNonCyclic | is non cyclic
+boolean nonJoinIsNull | non join is null
+boolean restrict_non_blocking_requests | restrict non blocking requests
+byte ACT_NONE | act none
+byte AL_NONE | al none
+byte COMPACT_MODE_NONE | compact mode none
+byte CONVERSION_NONE | conversion none
+byte CONVERSION_NONTRIVIAL | conversion nontrivial
+byte CRYPTO_NONE | crypto none
+byte DT_NONE | dt none
+byte FLAG_NONE | flag none
+byte POSITION_TYPE_NONE | position type none
+byte RELATIVE_SEEDING_NONE | relative seeding none
+byte REOP_LPARENNON | reop lparen non
+byte REOP_NONALNUM | reop non alnum
+byte REOP_NONDIGIT | reop non digit
+byte REOP_NONSPACE | reop non space
+byte REOP_RPARENNON | reop rparen non
+byte SS_NONE | ss none
+byte VENDOR_ID_NONE | vendor id none
+char[] nonVarChars | non var chars
+com.aelitis.azureus.core.speedmanager.impl.v2.SaturatedMode NONE | none
+com.aelitis.azureus.core.speedmanager.impl.v2.SpeedLimitConfidence NONE | none
+int AGGREGATE_NONE | aggregate none
+int AIM_MODE_NONE | aim mode none
+int AT_UDP_NON_DATA | at udp non data
+int BLOCK_ENCRYPTION_NONE | block encryption none
+int COMP_TYPE_NONE | comp type none
+int CONDITION_NONE | condition none
+int COVER_NONE | cover none
+int CRYPTO_OVERRIDE_NONE | crypto override none
+int DESCRIBE_TABLE_NONULLS | describe table non ul ls
+int downNone | down none
+int DSV_HEADER_MATCHERNONHEAD | dsv header matcher non head
+int DSV_HEADER_NONE | dsv header none
+int DUG_IN_NONE | dug in none
+int EFFECT_NONE | effect none
+int FEATURE_NON_ECMA_GET_YEAR | feature non ecma get year
+int forcedSeedingNonFP | forced seeding non fp
+int HINT_ALIGN_NONE | hint align none
+int HISTORY_NONE | history none
+int INDEX_COLOR_NONEAVAIL | index color none avail
+int JUMP_NONE | jump none
+int LEVEL_NONE | level none
+int LOC_NONE | loc none
+int LOG_NONE | log none
+int MANIPULATOR_NONE | manipulator none
+int MATCH_NONE | match none
+int MESSAGE_NONE | message none
+int MINE_NONE | mine none
+int MOVE_NONE | move none
+int MSG_NONE | msg none
+int MT_NONE | mt none
+int nonCurrThreadDiedCount | non curr thread died count
+int NONE | none
+int none_active_mode | none active mode
+int NONMOD_ACCOUNT | non mod account
+int NONMOD_GRANTEE | non mod grantee
+int non_progress_count | non progress count
+int NONQUOTEDESCAPE | non quoted escape
+int nonRepudiation | non repudiation
+int non_seed_count | non seed count
+int NON_SPECIALCALL | non special call
+int nonTestCaseCount | non test case count
+int OP_NONE | op none
+int OUTPUTFILE_NONETOCLOSE | outputfile none to close
+int OVERHEAT_NONE | overheat none
+int PLAYER_NONE | player none
+int PRESERVE_NONE | preserve none
+int PT_NONE | pt none
+int RANK_NONE | rank none
+int RATING_NONE | rating none
+int REG_TYPE_NONE | reg type none
+int RT_NONE | rt none
+int SPECIAL_NONE | special none
+int STATE_NON_INIT | state non init
+int STATUSICON_NONE | status icon none
+int STREAM_ENCRYPTION_NONE | stream encryption none
+int SUM_OF_NON_NUMERIC | sum of non numeric
+int TEAM_NONE | team none
+int TILE_NONE | tile none
+int TRANSFORMATION_NONE | transformation none
+int TRIGGER_NONE | trigger none
+int TT_NONE | tt none
+int typePredNone | type pred none
+int udp_non_data_listen_port | udp non data listen port
+int udp_non_data_port | udp non data port
+int UI_NONE | ui none
+int upNone | up none
+it.businesslogic.ireport.TextReportElement.Rotation ROTATION_NONE | rotation none
+java.lang.Character FL_NONE | fl none
+java.lang.String FOO2_REFERENCES_NON_PUBLIC_CLASS_TEXT | foo 2  references non public class text
+java.lang.String FOO_NON_PUBLIC_CLASS_TEXT | foo non public class text
+java.lang.String JAVADOC_NONE_TEXT | javadoc none text
+java.lang.String NONE | none
+java.lang.String[] non_proxy_hosts | non proxy hosts
+java.lang.String NONPUBLIC_TEXT | non public text
+java.lang.String[] nonSystables | non systables
+java.lang.String NON_TESTCASE_TEXT | non testcase text
+java.lang.String T_NONE | t none
+java.lang.String TXN_NONE | txn none
+java.lang.String VZ_NON_ACTIVE | vz non active
+java.util.ArrayList oldNonResources | old non resources
+java.util.regex.Pattern nonLinkCharacter | non link character
+java.util.Set non_releasable_set | non releasable set
+javax.swing.JRadioButton bNonWork | b non work
+javax.swing.JRadioButton _noneButton | none button
+long last_non_local_connection_time | last non local connection time
+long non_progress_count | non progress count
+long other_non_routable_total | other non routable total
+org.hsqldb.lib.HashSet nonCachedTablesSet | non cached tables set
+short CP_NONE | cp none

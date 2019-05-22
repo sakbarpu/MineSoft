@@ -1,0 +1,59 @@
+AppDataInt newAppDataInt(String application, String keyword, Integer value) | new app data int
+boolean doKeyword(QSegment;IC) | do keyword
+boolean isFunctionOrKeyword(QString;QString;QDialect;QSQLFunctionRegistry;) | is function or keyword
+boolean isKeyword(QString;) | is keyword
+boolean isReservedKeywordAsIdentifier() | is reserved keyword as identifier
+boolean startsWithKeyword(QCollection<QString;>;) | starts with keyword
+HashSet<QString;> _makeKeywords() | make keywords
+int _findKeywordAtToplevel(QString;QString;I) | find keyword at toplevel
+int _findPrevKeyword(QString;QString;I) | find prev keyword
+int _highlightKeywords(QArrayList<QHighlightStatus;>;I) | highlight keywords
+int stringToKeyword(QString;) | string to keyword
+IReportKeywordLookup getKeywordLookup() | get keyword lookup
+KeywordMap getKeywordMap() | get keyword map
+KeywordMap getKeywords() | get keywords
+Set getKeywords() | get keywords
+String getKeyword() | get keyword
+String getKeywords() | get keywords
+String getSQLKeywords() | get sql keywords
+void addKeyword(QString;) | add keyword
+void addKeyword(QString;B) | add keyword
+void addKeywords() | add keywords
+void addKeywordTags(Sentence sentence, String tag) | add keyword tags
+void fetchResults(Keywords keywords) | fetch results
+void Keyword([CBQKeyword;) | keyword
+void KeywordStartsWithQuoteException(QString;) | keyword starts with quote exception
+void KeywordStartsWithWhitespaceException(QString;) | keyword starts with whitespace exception
+void multiPartKeywords(QString;) | multi part keywords
+void registerKeyword(QString;) | register keyword
+void removeKeyword(QString;) | remove keyword
+void setIncludeCiteKeyword(Z) | set include cite keyword
+void setKeywordLookup(QIReportKeywordLookup;) | set keyword lookup
+void setKeywordLookup(QKeywordLookupIF;) | set keyword lookup
+void setReservedKeywordAsIdentifier(Z) | set reserved keyword as identifier
+void testAddKeywordQuotes() | test add keyword quotes
+void testAddKeywordWhitespace() | test add keyword whitespace
+void testDollarNestedQuotedKeywords() | test dollar nested quoted keywords
+void testDollarNestedQuotedKeywordsWSSignificant() | test dollar nested quoted keywords ws significant
+void testEscapeAtFrontBeforeKeyword() | test escape at front before keyword
+void testEscapeDollarNestedQuotedKeywords() | test escape dollar nested quoted keywords
+void testEscapeDollarNestedQuotedKeywordsWithEscapeWSSignificant() | test escape dollar nested quoted keywords with escape ws significant
+void testEscapeDollarNestedQuotedKeywordsWithEscapeWSSignificant2() | test escape dollar nested quoted keywords with escape ws significant 2
+void testEscapeDollarNestedQuotedKeywordsWSSignificant() | test escape dollar nested quoted keywords ws significant
+void testEscapePipeDollarNestedQuotedKeywords() | test escape pipe dollar nested quoted keywords
+void testEscapePipeDollarNestedQuotedKeywordsWithEscape2WSSignificant() | test escape pipe dollar nested quoted keywords with escape 2 ws significant
+void testEscapePipeDollarNestedQuotedKeywordsWithEscape2WSSignificant2() | test escape pipe dollar nested quoted keywords with escape 2 ws significant 2
+void testEscapePipeDollarNestedQuotedKeywordsWithEscapeWSSignificant() | test escape pipe dollar nested quoted keywords with escape ws significant
+void testEscapePipeDollarNestedQuotedKeywordsWithEscapeWSSignificant2() | test escape pipe dollar nested quoted keywords with escape ws significant 2
+void testEscapePipeDollarNestedQuotedKeywordsWSSignificant() | test escape pipe dollar nested quoted keywords ws significant
+void testFindMatchKeywords() | test find match keywords
+void testThreePartKeywords() | test three part keywords
+void testTwoPartKeywords() | test two part keywords
+void testWhitespaceKeyword() | test whitespace keyword
+void testWhitespaceKeywordsQuotes() | test whitespace keywords quotes
+void testWordCharKeyword() | test word char keyword
+void testWordRangeKeywordsQuotes() | test word range keywords quotes
+void textHighlightKeywords1() | text highlight keywords 1
+void textHighlightKeywords2() | text highlight keywords 2
+void topicsByKeyword(SearchData sd) | topics by keyword
+void weakKeywords() | weak keywords

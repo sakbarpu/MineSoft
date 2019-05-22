@@ -1,0 +1,2 @@
+AbstractAction createDelegateAction(QString;QAction;) | create delegate action
+ExtendedTorrent readDelegateFromFile(QFile;Z) | read delegate from file

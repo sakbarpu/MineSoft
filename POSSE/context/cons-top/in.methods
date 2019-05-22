@@ -1,0 +1,643 @@
+CONS AboutJavaInfosPanel(QGanttProject;) | about java infos panel
+CONS AbstractFieldInterceptor(QSessionImplementor;QSet;QString;) | abstract field interceptor
+CONS AbstractLazyInitializer() | abstract lazy initializer
+CONS AbstractLazyInitializer(QString;QSerializable;QSessionImplementor;) | abstract lazy initializer
+CONS AbstractOptionsInfo(QString;) | abstract options info
+CONS AbstractUIInputReceiver() | abstract ui input receiver
+CONS AIInGameInputHandler(QFreeColServer;QServerPlayer;QAIMain;) | ai in game input handler
+CONS AreaOfInterestHintKey(I) | area of interest hint key
+CONS AsciiStringInputStream(QString;) | ascii string input stream
+CONS ASN1InputStream([B) | asn 1 input stream
+CONS ASN1InputStream(QInputStream;) | asn 1 input stream
+CONS ASN1InputStream(QInputStream;I) | asn 1 input stream
+CONS AttributeCertificateInfo(QASN1Sequence;) | attribute certificate info
+CONS AuctionInfo() | auction info
+CONS AuctionInfo(QString;QString;QString;QCurrency;QDate;QDate;I) | auction info
+CONS AuthorityInformationAccess(QASN1Sequence;) | authority information access
+CONS AuthorityInformationAccess(QDERObjectIdentifier;QGeneralName;) | authority information access
+CONS AverageBytesInItem() | average bytes in item
+CONS AZInstanceImpl() | az instance impl
+CONS AZInstanceManagerImpl(QAzureusCore;) | az instance manager impl
+CONS AZMyInstanceImpl(QAzureusCore;QAZInstanceManagerImpl;) | az my instance impl
+CONS AZOtherInstanceImpl(QString;QInetAddress;QInetAddress;III) | az other instance impl
+CONS BasicLazyInitializer(QString;QClass;QSerializable;QMethod;QMethod;QAbstractComponentType;QSessionImplementor;) | basic lazy initializer
+CONS BatchingCollectionInitializer(QCollectionPersister;[I[QLoader;) | batching collection initializer
+CONS BeanInstance(QJComponent;QObject;II) | bean instance
+CONS BeanInstance(QJComponent;QString;II) | bean instance
+CONS BERInputStream(QInputStream;) | ber input stream
+CONS BinarySparseInstance(D[D) | binary sparse instance
+CONS BinarySparseInstance(D[II) | binary sparse instance
+CONS BinarySparseInstance(I) | binary sparse instance
+CONS BinarySparseInstance(QInstance;) | binary sparse instance
+CONS BinarySparseInstance(QSparseInstance;) | binary sparse instance
+CONS BLKInfantryFile(QBuildingBlock;) | blk infantry file
+CONS BooleanIntBitSetMap() | boolean int bit set map
+CONS BraceInfo(QString;I) | brace info
+CONS BTInterested(B) | bt interested
+CONS BuddyPluginViewInstance(QBuddyPlugin;QUIInstance;QComposite;) | buddy plugin view instance
+CONS BuiltInArithmetic(QOperator;) | built in arithmetic
+CONS BuiltInMath(QMathFunc;) | built in math
+CONS BuiltInString(QStringFunc;) | built in string
+CONS ByteCountedInputStream(QInputStream;) | byte counted input stream
+CONS CashInTreasureTrainMission(QAIMain;QAIUnit;) | cash in treasure train mission
+CONS CashInTreasureTrainMission(QAIMain;QElement;) | cash in treasure train mission
+CONS CashInTreasureTrainMission(QAIMain;QXMLStreamReader;) | cash in treasure train mission
+CONS CertificationRequestInfo(QASN1Sequence;) | certification request info
+CONS CertificationRequestInfo(QX509Name;QSubjectPublicKeyInfo;QASN1Set;) | certification request info
+CONS CGLIBLazyInitializer(QString;QClass;[QClass;QSerializable;QMethod;QMethod;QAbstractComponentType;QSessionImplementor;) | cglib lazy initializer
+CONS ChangeArrowsInArrowLinkAction(QModeController;QString;QString;QMindMapArrowLinkModel;ZZ) | change arrows in arrow link action
+CONS CharClassInterval(III) | char class interval
+CONS CircularIntegerBuffer(I) | circular integer buffer
+CONS ClassAndInterfaceFinder(QFile;) | class and interface finder
+CONS ClassAndInterfaceFinder(QReader;) | class and interface finder
+CONS ColorInterpFunction() | color interp function
+CONS ColumnInfo(QString;) | column info
+CONS CompositeIntIterator([QIntIterator;) | composite int iterator
+CONS CompositeIntIterator(QIntIterator;QIntIterator;) | composite int iterator
+CONS ConsoleInput(QAzureusCore;QPrintStream;) | console input
+CONS ConsoleInput(QString;QAzureusCore;QInputStream;QPrintStream;QBoolean;) | console input
+CONS ConsoleInput(QString;QAzureusCore;QReader;QPrintStream;QBoolean;) | console input
+CONS ConsoleInput(QString;QAzureusCore;QReader;QPrintStream;QBoolean;QUserProfile;) | console input
+CONS ContentInfo(QASN1Sequence;) | content info
+CONS ContentInfo(QDERObjectIdentifier;QDEREncodable;) | content info
+CONS CorrelationSplitInfo(III) | correlation split info
+CONS CubicSplineInterpolator([D[D) | cubic spline interpolator
+CONS CubicSplineInterpolator([J[D) | cubic spline interpolator
+CONS CubicSplineInterpolator([QDate;[D) | cubic spline interpolator
+CONS CubicSplineInterpolator([QGregorianCalendar;[D) | cubic spline interpolator
+CONS DatabaseCommandInterpreter(QSession;) | database command interpreter
+CONS DatabaseInformationFull(QDatabase;) | database information full
+CONS DatabaseInformationMain(QDatabase;) | database information main
+CONS DatabaseInformation(QDatabase;) | database information
+CONS DateIntervalListEditor(QDateIntervalModel;) | date interval list editor
+CONS DeclareIndependenceAction(QFreeColClient;) | declare independence action
+CONS DefaultHomeInputStream(QInputStream;) | default home input stream
+CONS DefaultInputHandler() | default input handler
+CONS DefaultInputHandler(QDefaultInputHandler;) | default input handler
+CONS DefaultInteractionsModel(QDefaultGlobalModel;QMainJVM;QConsoleDocumentInterface;QFile;) | default interactions model
+CONS DefiniteLengthInputStream(QInputStream;I) | definite length input stream
+CONS DelayedPostInsertIdentifier() | delayed post insert identifier
+CONS DeleteFileOnCloseInputStream(QFile;) | delete file on close input stream
+CONS DependencyInteractionRenderer() | dependency interaction renderer
+CONS DependencyInteractionRenderer(IIII) | dependency interaction renderer
+CONS DERInputStream(QInputStream;) | der input stream
+CONS DERInteger([B) | der integer
+CONS DERInteger(I) | der integer
+CONS DERInteger(QBigInteger;) | der integer
+CONS DerivedFieldMetaInfo(QElement;QArrayList<QAttribute;>;QTransformationDictionary;) | derived field meta info
+CONS DigestInfo(QAlgorithmIdentifier;[B) | digest info
+CONS DigestInfo(QASN1Sequence;) | digest info
+CONS DIProcedureInfo(QDINameSpace;) | di procedure info
+CONS DiskAccessControllerInstance(QString;ZIIII) | disk access controller instance
+CONS DiskManagerFileInfoImpl(QDiskManagerHelper;QFile;IQTOTorrentFile;Z) | disk manager file info impl
+CONS DiskManagerFileInfoImpl(QDownloadImpl;Qorg.gudy.azureus2.core3.disk.DiskManagerFileInfo;) | disk manager file info impl
+CONS DiskManagerFileInfoSetImpl([QDiskManagerFileInfoImpl;QDiskManagerHelper;) | disk manager file info set impl
+CONS DiskManagerRecheckInstance(QDiskManagerRecheckScheduler;JIZ) | disk manager recheck instance
+CONS DITableInfo() | di table info
+CONS DITypeInfo() | di type info
+CONS Dom4jInstantiator(QComponent;) | dom 4 j instantiator
+CONS Dom4jInstantiator(QPersistentClass;) | dom 4 j instantiator
+CONS Dom4jLazyInitializer(QString;QSerializable;QSessionImplementor;) | dom 4 j lazy initializer
+CONS DOMStorableInputOutputFormat(QDOMFactory;) | dom storable input output format
+CONS DOMStorableInputOutputFormat(QDOMFactory;QString;QString;QString;) | dom storable input output format
+CONS DoubleIntIndex(IZ) | double int index
+CONS DoubleIntTreeMap() | double int tree map
+CONS DoubleIntTreeMap(QLiteralComparator;) | double int tree map
+CONS DoubleIntTreeMap(QLiteralComparator;Z) | double int tree map
+CONS DoubleIntTreeMapTest() | double int tree map test
+CONS DoubleIntTreeMap(Z) | double int tree map
+CONS DownloadUrlInfo(QString;) | download url info
+CONS DownloadUrlInfoSWT(QClientMessageContext;QString;QString;) | download url info swt
+CONS DynamicMapInstantiator() | dynamic map instantiator
+CONS DynamicMapInstantiator(QPersistentClass;) | dynamic map instantiator
+CONS EmptyInterceptor() | empty interceptor
+CONS EncryptedPrivateKeyInfo(QAlgorithmIdentifier;[B) | encrypted private key info
+CONS EncryptedPrivateKeyInfo(QASN1Sequence;) | encrypted private key info
+CONS EntityIdentityInsertAction([QObject;QObject;QEntityPersister;QSessionImplementor;Z) | entity identity insert action
+CONS EntityInsertAction(QSerializable;[QObject;QObject;QObject;QEntityPersister;QSessionImplementor;) | entity insert action
+CONS ExportTorrentWizardInputPanel(QWizard;QIWizardPanel;) | export torrent wizard input panel
+CONS ExtendedInfoPanel(QActionListener;) | extended info panel
+CONS FacadeInvalidator(QTreeModel;) | facade invalid at or
+CONS FieldInterceptionHelper() | field interception helper
+CONS FieldInterceptorImpl(QSessionImplementor;QSet;QString;) | field interceptor impl
+CONS FieldMetaInfo(QElement;) | field meta info
+CONS FileInfoView() | file info view
+CONS FilePluginInstallerImpl(QPluginInstallerImpl;QFile;) | file plugin installer impl
+CONS FloatIntTreeMap() | float int tree map
+CONS FloatIntTreeMap(QLiteralComparator;) | float int tree map
+CONS FloatIntTreeMap(QLiteralComparator;Z) | float int tree map
+CONS FloatIntTreeMapTest() | float int tree map test
+CONS FloatIntTreeMap(Z) | float int tree map
+CONS FTInnerNode(ZIIDZ) | ft inner node
+CONS GanttDialogInfo(QFrame;IIQString;QString;) | gantt dialog info
+CONS GanttLookAndFeelInfo(QLookAndFeelInfo;) | gantt look and feel info
+CONS GanttLookAndFeelInfo(QString;QString;) | gantt look and feel info
+CONS GeneralInfoMapSet(QComponent;) | general info map set
+CONS GeneralInfoMapSet(QJComponent;) | general info map set
+CONS GenericIntParameter(QGenericParameterAdapter;QComposite;QString;) | generic int parameter
+CONS GenericIntParameter(QGenericParameterAdapter;QComposite;QString;I) | generic int parameter
+CONS GenericIntParameter(QGenericParameterAdapter;QComposite;QString;II) | generic int parameter
+CONS GenericMessageConnectionIndirect(QMessageManagerImpl;QString;QString;QGenericMessageEndpoint;J) | generic message connection indirect
+CONS GenericMessageConnectionIndirect(QMessageManagerImpl;QString;QString;QGenericMessageEndpoint;QInetSocketAddress;QInetSocketAddress;) | generic message connection indirect
+CONS GlobalInfoJavadoc() | global info javadoc
+CONS GP3InputStream(QInputStream;) | gp 3 input stream
+CONS GP4InputStream(QInputStream;) | gp 4 input stream
+CONS GPInputStream(QFile;) | gp input stream
+CONS GPInputStream(QFileInputStream;I) | gp input stream
+CONS GPInputStream(QInputStream;I) | gp input stream
+CONS GPInputStream(QString;) | gp input stream
+CONS GrammarInfoFacade([QGrammarInfo;) | grammar info facade
+CONS HashIndex(IIZ) | hash index
+CONS HistoryInformation() | history information
+CONS HistoryInformation(QDate;QDate;) | history information
+CONS HolderInstantiator(QResultTransformer;[QString;) | holder instantiator
+CONS HookInstanciationMethod(ZZQDestinationNodesGetter;Z) | hook instanciation method
+CONS HostInfo() | host info
+CONS HsqlByteArrayInputStream([B) | hsql byte array input stream
+CONS HsqlByteArrayInputStream([BII) | hsql byte array input stream
+CONS HsqlInternalException(QHsqlException;) | hsql internal exception
+CONS IdentifierGeneratingInsert(QDialect;) | identifier generating insert
+CONS ImageInputFormat(QImageHolderFigure;) | image input format
+CONS ImageInputFormat(QImageHolderFigure;QString;QString;QString;I) | image input format
+CONS ImportInspectionDialog(QJabRefFrame;QBasePanel;[QString;QString;Z) | import inspection dialog
+CONS ImportTorrentWizardInputPanel(QWizard;QIWizardPanel;) | import torrent wizard input panel
+CONS IncomingConnectionManager() | incoming connection manager
+CONS IncomingMessageQueueImpl(Qcom.aelitis.azureus.core.networkmanager.IncomingMessageQueue;) | incoming message queue impl
+CONS IncomingMessageQueueImpl(QMessageStreamDecoder;QNetworkConnection;) | incoming message queue impl
+CONS IncomingRequestCountItem(QString;) | incoming request count item
+CONS IncomingSocketChannelManager(QString;QString;) | incoming socket channel manager
+CONS IncompatibleComparatorException() | incompatible comparator exception
+CONS IncompatibleComparatorException(QString;) | incompatible comparator exception
+CONS IncompatibleComparatorException(QString;QThrowable;) | incompatible comparator exception
+CONS IncompatibleComparatorException(QThrowable;) | incompatible comparator exception
+CONS IncreaseVolumeAction() | increase volume action
+CONS IncrementalClassifierEvaluator() | incremental classifier evaluator
+CONS IncrementalClassifierEvaluatorCustomizer() | incremental classifier evaluator customizer
+CONS IncrementalClassifierEvent(QObject;) | incremental classifier event
+CONS IncrementalClassifierEvent(QObject;QClassifier;QInstance;I) | incremental classifier event
+CONS IncrementalClassifierEvent(QObject;QClassifier;QInstances;) | incremental classifier event
+CONS IncrementalSearcher(QJabRefPreferences;) | incremental searcher
+CONS IndefiniteLengthInputStream(QInputStream;) | indefinite length input stream
+CONS InDegreeFunction() | in degree function
+CONS Indenter(I) | indenter
+CONS IndentInfo() | indent info
+CONS IndentInfo(QString;III) | indent info
+CONS IndentRuleQuestion(QIndentRule;QIndentRule;) | indent rule question
+CONS IndentTest(QString;) | indent test
+CONS IndentWriter(QPrintWriter;) | indent writer
+CONS IndexedCheckbox(QString;ZQButtonGroup;I) | indexed checkbox
+CONS IndexedCheckbox(QString;ZQCheckboxGroup;I) | indexed checkbox
+CONS IndexedCollection(QPersistentClass;) | indexed collection
+CONS IndexGif89Frame(II[B) | index gif 89 frame
+CONS IndexMetadata(QResultSet;) | index metadata
+CONS IndexPropertyAccessor(QString;QString;) | index property accessor
+CONS Index(QDatabase;QHsqlName;QTable;[I[IZZZZ[I[IZ) | index
+CONS IndianBringGiftMission(QAIMain;QAIUnit;QColony;) | indian bring gift mission
+CONS IndianBringGiftMission(QAIMain;QElement;) | indian bring gift mission
+CONS IndianBringGiftMission(QAIMain;QXMLStreamReader;) | indian bring gift mission
+CONS IndianDemandMission(QAIMain;QAIUnit;QColony;) | indian demand mission
+CONS IndianDemandMission(QAIMain;QElement;) | indian demand mission
+CONS IndianDemandMission(QAIMain;QXMLStreamReader;) | indian demand mission
+CONS IndianNationType(I) | indian nation type
+CONS IndianSettlementPanel(QFreeColClient;) | indian settlement panel
+CONS IndianSettlement(QGame;QElement;) | indian settlement
+CONS IndianSettlement(QGame;QPlayer;QTile;ZQUnitType;QSet<QPlayer;>;QUnit;) | indian settlement
+CONS IndianSettlement(QGame;QString;) | indian settlement
+CONS IndianSettlement(QGame;QXMLStreamReader;) | indian settlement
+CONS IndividualInstance(QIndividualInstance;) | individual instance
+CONS IndividualInstance(QInstance;QInstances;) | individual instance
+CONS IndividualInstances(QInstances;QInstances;) | individual instances
+CONS IndividualLiteral(QPredicate;QString;IIII) | individual literal
+CONS InExpression(QString;[QObject;) | in expression
+CONS Infantry() | infantry
+CONS InfantryMapSet(QComponent;) | infantry map set
+CONS InfantryMapSet(QJComponent;) | infantry map set
+CONS InfernoTracker() | inferno tracker
+CONS InfoGainAttributeEval() | info gain attribute eval
+CONS InfoPane() | info pane
+CONS InfoPanelCellRenderer() | info panel cell renderer
+CONS InfoPanel(QFreeColClient;) | info panel
+CONS InfoPanel(QJFrame;) | info panel
+CONS InformationDialog([QString;[QImageIcon;) | information dialog
+CONS InformationDialog(QString;QImageIcon;) | information dialog
+CONS InformationJPanel() | information j panel
+CONS InformixDialect() | informix dialect
+CONS InformixTransferHelper() | informix transfer helper
+CONS InformixTransferHelper(QTransferDb;QTraceable;QString;) | informix transfer helper
+CONS InGameController(QFreeColClient;) | in game controller
+CONS InGameController(QFreeColServer;) | in game controller
+CONS InGameInputHandler(QFreeColClient;) | in game input handler
+CONS InGameInputHandler(QFreeColServer;) | in game input handler
+CONS InGameMenuBar(QFreeColClient;) | in game menu bar
+CONS IngresDialect() | ingres dialect
+CONS InGroupPredicate() | in group predicate
+CONS InGroupPredicate(QString;) | in group predicate
+CONS InitializeCollectionEvent(QPersistentCollection;QEventSource;) | initialize collection event
+CONS Initializer(QAzureusCore;QStartServer;[QString;) | initializer
+CONS Initializer(QAzureusCore;Z[QString;) | initializer
+CONS InitiativeRoll() | initiative roll
+CONS InnerNode(QT;) | inner node
+CONS InputHandler(QFreeColClient;) | input handler
+CONS InputHandler(QFreeColServer;) | input handler
+CONS InputShell(QString;QString;) | input shell
+CONS InputShell(QString;[QString;QString;[QString;) | input shell
+CONS InputShell(QString;[QString;QString;[QString;Z) | input shell
+CONS InputShell(QString;QString;Z) | input shell
+CONS InputStreamRedirector() | input stream redirector
+CONS InputStreamTransferable([QDataFlavor;[B) | input stream transferable
+CONS InputStreamTransferable(QDataFlavor;[B) | input stream transferable
+CONS InsertElementOperation(QJReportFrame;QReportElement;) | insert element operation
+CONS InsertFunction() | insert function
+CONS Insert(QDialect;) | insert
+CONS InsertSelectIdentityInsert(QDialect;) | insert select identity insert
+CONS InsertSelect(QDialect;) | insert select
+CONS InsertVariableDialog(QMainFrame;QCompletionMonitor;) | insert variable dialog
+CONS Inset(IIII) | inset
+CONS Insets2D() | insets 2 d
+CONS InsideBlockComment() | inside block comment
+CONS InsideDoubleQuote() | inside double quote
+CONS InsideLineComment() | inside line comment
+CONS InsideSingleQuote() | inside single quote
+CONS InsomniacClient() | in so mni ac client
+CONS InstallablePluginImpl(QPluginInstallerImpl;) | installable plugin impl
+CONS InstallPluginWizard(QAzureusCore;QDisplay;) | install plugin wizard
+CONS InstallPluginWizard(QAzureusCore;QDisplay;QString;QStandardPlugin;) | install plugin wizard
+CONS Instance() | instance
+CONS InstanceComparator() | instance comparator
+CONS InstanceComparator(Z) | instance comparator
+CONS InstanceCounter() | instance counter
+CONS Instance(D[D) | instance
+CONS InstanceEvent(QObject;) | instance event
+CONS InstanceEvent(QObject;I) | instance event
+CONS InstanceEvent(QObject;QInstance;I) | instance event
+CONS InstanceEvent(QObject;QInstances;) | instance event
+CONS Instance(I) | instance
+CONS InstanceJoiner() | instance joiner
+CONS InstanceLoader() | instance loader
+CONS Instance(QInstance;) | instance
+CONS Instance(QSymbol;I) | instance
+CONS InstanceQuery() | instance query
+CONS InstanceSavePanel() | instance save panel
+CONS InstancesComparator(I) | instances comparator
+CONS InstancesComparator(IZ) | instances comparator
+CONS Instances(QInstances;) | instances
+CONS Instances(QInstances;I) | instances
+CONS Instances(QInstances;II) | instances
+CONS Instances(QReader;) | instances
+CONS Instances(QReader;I) | instances
+CONS Instances(QString;QFastVector;I) | instances
+CONS InstancesResultListener() | instances result listener
+CONS InstancesSummaryPanel() | instances summary panel
+CONS InstanceStreamToBatchMaker() | instance stream to batch maker
+CONS InstanceTable() | instance table
+CONS InstanceViewer() | instance viewer
+CONS InstantiationException(QString;QClass;) | instantiation exception
+CONS InstantiationException(QString;QClass;QException;) | instantiation exception
+CONS InstantiationException(QString;QClass;QThrowable;) | instantiation exception
+CONS InstantiationOptimizerAdapter(QFastClass;) | instantiation optimizer adapter
+CONS InStream([B) | in stream
+CONS InStream(QInputStream;) | in stream
+CONS InstrumentedClassLoader(QClassLoader;QClassTransformer;) | instrumented class loader
+CONS IntArray([I) | int array
+CONS IntArray(I) | int array
+CONS IntArrayIterator([III) | int array iterator
+CONS IntArray(QBigInteger;) | int array
+CONS IntArray(QBigInteger;I) | int array
+CONS IntCharSet() | int char set
+CONS IntCharSet(C) | int char set
+CONS IntCharSet(QInterval;) | int char set
+CONS IntCharSet(QVector;) | int char set
+CONS IntColumn() | int column
+CONS IntColumn(I) | int column
+CONS IntColumn(III) | int column
+CONS IntegerOptionComponent(QIntegerOption;QString;QSwingFrame;) | integer option component
+CONS IntegerOptionComponent(QIntegerOption;QString;QSwingFrame;QString;) | integer option component
+CONS IntegerOption(QString;QInteger;) | integer option
+CONS IntegerOption(QString;QOptionGroup;III) | integer option
+CONS IntegerOption(QXMLStreamReader;) | integer option
+CONS IntegerOptionTest(QString;) | integer option test
+CONS IntegerOptionUI(QIntegerOption;Z) | integer option ui
+CONS IntegratedResourceBundle(QResourceBundle;QMap;) | integrated resource bundle
+CONS IntegratedResourceBundle(QResourceBundle;QMap;QCollection;) | integrated resource bundle
+CONS IntegrityCheck() | integrity check
+CONS IntegrityMessage(IQBibtexEntry;QString;QObject;) | integrity message
+CONS IntegrityMessagePanel(QBasePanel;) | integrity message panel
+CONS IntegrityWizard(QJabRefFrame;QBasePanel;) | integrity wizard
+CONS InteractionsController(QInteractionsModel;QInteractionsDJDocument;QInteractionsPane;QRunnable;) | interactions controller
+CONS InteractionsController(QInteractionsModel;QInteractionsDJDocument;QRunnable;) | interactions controller
+CONS InteractionsDJDocument() | interactions dj document
+CONS InteractionsDocument(QConsoleDocumentInterface;) | interactions document
+CONS InteractionsDocument(QConsoleDocumentInterface;I) | interactions document
+CONS InteractionsDocument(QConsoleDocumentInterface;QHistory;) | interactions document
+CONS InteractionsEditorKit() | interactions editor kit
+CONS InteractionsException(QString;) | interactions exception
+CONS InteractionsModel(QConsoleDocumentInterface;QFile;II) | interactions model
+CONS InteractionsModelTest(QString;) | interactions model test
+CONS InteractionsPane(QInteractionsDJDocument;) | interactions pane
+CONS InteractionsPane(QString;QInteractionsDJDocument;) | interactions pane
+CONS InteractionsScriptController(QInteractionsScriptModel;QAction;QInteractionsPane;) | interactions script controller
+CONS InteractionsScriptModel(QInteractionsModel;QList<QString;>;) | interactions script model
+CONS InteractionsScriptPane(II) | interactions script pane
+CONS InterbaseDialect() | interbase dialect
+CONS InterestedItem(QString;) | interested item
+CONS InterestingItem(QString;) | interesting item
+CONS InterfaceAdapter(QContextFactory;QClass;) | interface adapter
+CONS internal_error(QString;) | internal error
+CONS InternalFrameActivatedEvent(Qit.businesslogic.ireport.gui.JMDIFrame;) | internal frame activated event
+CONS InternalFrameActivatedEvent(Qit.businesslogic.ireport.gui.JMDIFrame;I) | internal frame activated event
+CONS InternalFrame(QString;) | internal frame
+CONS InternalStructureType(QString;I) | internal structure type
+CONS InternetContainer() | internet container
+CONS InternetImageItem(QString;QString;QString;) | internet image item
+CONS InternetOptionsPanel(QInternetContainer;) | internet options panel
+CONS InterpretedFunction(QInterpretedFunction;I) | interpreted function
+CONS InterpretedFunction(QInterpreterData;QObject;) | interpreted function
+CONS InterpreterData(IQString;QString;) | interpreter data
+CONS InterpreterData(QInterpreterData;) | interpreter data
+CONS InterpreterInterruptedException(IIII) | interpreter interrupted exception
+CONS InterpreterJVM() | interpreter jvm
+CONS InterruptedPrinterException() | interrupted printer exception
+CONS InterruptedPrinterException(QString;) | interrupted printer exception
+CONS InterruptedRecorderException() | interrupted recorder exception
+CONS InterruptedRecorderException(QString;) | interrupted recorder exception
+CONS Interval(CC) | interval
+CONS Interval(QInterval;) | interval
+CONS IntFunction(I) | int function
+CONS IntHashMap() | int hash map
+CONS IntHashMap(I) | int hash map
+CONS IntHashMap(IF) | int hash map
+CONS IntIntTreeMap() | int int tree map
+CONS IntIntTreeMap(QLiteralComparator;) | int int tree map
+CONS IntIntTreeMap(QLiteralComparator;Z) | int int tree map
+CONS IntIntTreeMapTest() | int int tree map test
+CONS IntIntTreeMap(Z) | int int tree map
+CONS IntKeyHashMap() | int key hash map
+CONS IntKeyHashMap(I) | int key hash map
+CONS IntKeyHashMap(IF) | int key hash map
+CONS IntKeyIntValueHashMap() | int key int value hash map
+CONS IntKeyIntValueHashMap(I) | int key int value hash map
+CONS IntKeyIntValueHashMap(IF) | int key int value hash map
+CONS IntKeyLongValueHashMap() | int key long value hash map
+CONS IntKeyLongValueHashMap(I) | int key long value hash map
+CONS IntKeyLongValueHashMap(IF) | int key long value hash map
+CONS IntListParameter(QComposite;QString;I[QString;[I) | int list parameter
+CONS IntListParameter(QComposite;QString;[QString;[I) | int list parameter
+CONS IntObjectHashMap() | int object hash map
+CONS IntObjectHashMap(I) | int object hash map
+CONS IntObjectHashMap(IDD) | int object hash map
+CONS IntOption() | int option
+CONS IntOption(I) | int option
+CONS IntOption(IC) | int option
+CONS IntOption(IQString;) | int option
+CONS IntOption(IQString;C) | int option
+CONS IntOption(QIntOption;) | int option
+CONS IntPair(II) | int pair
+CONS IntParameterImpl(QPluginConfigImpl;QString;QString;I) | int parameter impl
+CONS IntParameterImpl(QPluginConfigImpl;QString;QString;III) | int parameter impl
+CONS IntParameter(QComposite;QString;) | int parameter
+CONS IntParameter(QComposite;QString;I) | int parameter
+CONS IntParameter(QComposite;QString;II) | int parameter
+CONS IntroModeAction() | intro mode action
+CONS IntsParameter(QPluginConfigImpl;QString;QString;I[I[QString;) | ints parameter
+CONS IntValueHashMap() | int value hash map
+CONS IntValueHashMap(I) | int value hash map
+CONS IntValueHashMap(IF) | int value hash map
+CONS IntVector() | int vector
+CONS IntVector([I) | int vector
+CONS IntVector(I) | int vector
+CONS IntVector(II) | int vector
+CONS InvalidCipherTextException() | invalid cipher text exception
+CONS InvalidCipherTextException(QString;) | invalid cipher text exception
+CONS InvalidDateException(QString;) | invalid date exception
+CONS InvalidInputException(QString;) | invalid input exception
+CONS InvalidMappingException(QString;QString;) | invalid mapping exception
+CONS InvalidMappingException(QString;QString;QString;) | invalid mapping exception
+CONS InvalidMappingException(QString;QString;QString;QThrowable;) | invalid mapping exception
+CONS InvalidMappingException(QString;QString;QThrowable;) | invalid mapping exception
+CONS InvalidPackageException(IQString;) | invalid package exception
+CONS InvalidPathException(QString;) | invalid path exception
+CONS InvalidWithClauseException(QString;) | invalid with clause exception
+CONS InvalidWithClauseException(QString;QString;) | invalid with clause exception
+CONS IPCInterfaceImpl(QPluginInitializer;QPlugin;) | ipc interface impl
+CONS IPWInstallModePanel(QWizard;QIWizardPanel;) | ipw install mode panel
+CONS JavassistLazyInitializer(QString;QClass;[QClass;QSerializable;QMethod;QMethod;QAbstractComponentType;QSessionImplementor;) | javassist lazy initializer
+CONS JavaxDOMInput(QDOMFactory;QInputStream;) | javax dom input
+CONS JavaxDOMInput(QDOMFactory;QReader;) | javax dom input
+CONS JInetAddress() | j inet address
+CONS JInvoiceParser(QAuctionInfo;) | j invoice parser
+CONS JInvoiceParser(QList;) | j invoice parser
+CONS JLookAndFeelInfo() | j look and feel info
+CONS JMOSAddInviteDlg(Qjava.awt.Frame;Z) | jmos add invite dlg
+CONS JoinInputStream([QInputStream;I) | join input stream
+CONS JoinInputStream(QInputStream;QInputStream;) | join input stream
+CONS JoinInputStream(QInputStream;QInputStream;I) | join input stream
+CONS JSInternalConsole(QString;) | js internal console
+CONS JUserInfo(JQjava.lang.String;Qjava.lang.String;Qjava.lang.String;IS) | j user info
+CONS KeySpecificInfo(QASN1Sequence;) | key specific info
+CONS KeySpecificInfo(QDERObjectIdentifier;QASN1OctetString;) | key specific info
+CONS KunststoffInternalFrameTitlePane(QJInternalFrame;) | kunststoff internal frame title pane
+CONS KunststoffInternalFrameUI(QJInternalFrame;) | kunststoff internal frame ui
+CONS LazyInitializationException(QString;) | lazy initialization exception
+CONS LimitedInputStream(QInputStream;) | limited input stream
+CONS LinearInterpolator([J[D) | linear interpolator
+CONS LinearInterpolator([QDate;[D) | linear interpolator
+CONS LinearInterpolator([QGregorianCalendar;[D) | linear interpolator
+CONS LoginInfoManager() | login info manager
+CONS LongIntTreeMap() | long int tree map
+CONS LongIntTreeMap(QLiteralComparator;) | long int tree map
+CONS LongIntTreeMap(QLiteralComparator;Z) | long int tree map
+CONS LongIntTreeMapTest() | long int tree map test
+CONS LongIntTreeMap(Z) | long int tree map
+CONS LongKeyIntValueHashMap() | long key int value hash map
+CONS LongKeyIntValueHashMap(I) | long key int value hash map
+CONS LongKeyIntValueHashMap(IF) | long key int value hash map
+CONS LongKeyIntValueHashMap(Z) | long key int value hash map
+CONS MakeIndicator() | make indicator
+CONS MapLazyInitializer(QString;QSerializable;QSessionImplementor;) | map lazy initializer
+CONS MappingInfo(QInstances;QMiningSchema;QLogger;) | mapping info
+CONS MidiInternalFrame(QString;[QImage;QMidi;) | midi internal frame
+CONS MiniMapZoomInAction(QFreeColClient;) | mini map zoom in action
+CONS MiningFieldMetaInfo(QElement;) | mining field meta info
+CONS MultiUserConsoleInput(QString;QAzureusCore;QReader;QPrintStream;QBoolean;QUserProfile;) | multi user console input
+CONS NamedQueryCollectionInitializer(QString;QCollectionPersister;) | named query collection initializer
+CONS NanoXMLDOMInput(QDOMFactory;QInputStream;) | nano xmldom input
+CONS NanoXMLDOMInput(QDOMFactory;QReader;) | nano xmldom input
+CONS NativeInvocationBridge() | native invocation bridge
+CONS NonNegativeIntegerOption(QString;QInteger;) | non negative integer option
+CONS NonNegativeIntegerOptionTest(QString;) | non negative integer option test
+CONS NotLoggedInException() | not logged in exception
+CONS NotLoggedInException(QString;) | not logged in exception
+CONS NotLoggedInException(QString;QThrowable;) | not logged in exception
+CONS NotLoggedInException(QThrowable;) | not logged in exception
+CONS ObjectDigestInfo(IQString;QAlgorithmIdentifier;[B) | object digest info
+CONS ObjectDigestInfo(QASN1Sequence;) | object digest info
+CONS ObjectIntTreeMap() | object int tree map
+CONS ObjectIntTreeMap(QComparator;) | object int tree map
+CONS ObjectIntTreeMap(QComparator;Z) | object int tree map
+CONS ObjectIntTreeMapTest() | object int tree map test
+CONS ObjectIntTreeMap(Z) | object int tree map
+CONS ObjToIntMap() | obj to int map
+CONS ObjToIntMap(I) | obj to int map
+CONS OtherInfo(QASN1Sequence;) | other info
+CONS OtherInfo(QKeySpecificInfo;QASN1OctetString;QASN1OctetString;) | other info
+CONS PeerInfoView() | peer info view
+CONS PersistentIndexedElementHolder(QSessionImplementor;QCollectionPersister;QSerializable;) | persistent indexed element holder
+CONS PersistentIndexedElementHolder(QSessionImplementor;QElement;) | persistent indexed element holder
+CONS PieceInfoView() | piece info view
+CONS PieceInternalFrame(QString;) | piece internal frame
+CONS PieceInternalFrame(QString;QJFrame;) | piece internal frame
+CONS PlatformRatingInfoList(QMap;) | platform rating info list
+CONS PluginInitializer(QAzureusCore;QAzureusCoreOperation;) | plugin initializer
+CONS PluginInstallerAction(QJabRefFrame;) | plugin installer action
+CONS PluginInstallerImpl(QPluginManager;) | plugin installer impl
+CONS PluginInterfaceImpl(QPlugin;QPluginInitializer;QObject;QClassLoader;QString;QProperties;QString;QString;QString;) | plugin interface impl
+CONS PluginIntParameter(QComposite;QIntParameterImpl;) | plugin int parameter
+CONS PluginIntsParameter(QComposite;QIntsParameter;) | plugin ints parameter
+CONS PojoInstantiator(QComponent;QReflectionOptimizer.InstantiationOptimizer;) | pojo instantiator
+CONS PojoInstantiator(QPersistentClass;QReflectionOptimizer.InstantiationOptimizer;) | pojo instantiator
+CONS PolicyInformation(QASN1Sequence;) | policy information
+CONS PolicyInformation(QDERObjectIdentifier;) | policy information
+CONS PolicyInformation(QDERObjectIdentifier;QASN1Sequence;) | policy information
+CONS PolicyQualifierInfo(QASN1Sequence;) | policy qualifier info
+CONS PolicyQualifierInfo(QDERObjectIdentifier;QDEREncodable;) | policy qualifier info
+CONS PolicyQualifierInfo(QString;) | policy qualifier info
+CONS PostInsertEvent(QObject;QSerializable;[QObject;QEntityPersister;QEventSource;) | post insert event
+CONS PredictiveInputFrame(QSwingFrame;QString;ZZQInfoSupplier<-QT;>;Qjava.util.List<QPredictiveInputModel.MatchingStrategy<QT;>;>;Qjava.util.List<QCloseAction<QT;>;>;IQjava.util.List<QT;>;) | predictive input frame
+CONS PredictiveInputFrame(QSwingFrame;QString;ZZQInfoSupplier<-QT;>;QList<QPredictiveInputModel.MatchingStrategy<QT;>;>;Qjava.util.List<QCloseAction<QT;>;>;I[QT;) | predictive input frame
+CONS PredictiveInputModel(ZQMatchingStrategy<QT;>;QList<QT;>;) | predictive input model
+CONS PredictiveInputModel(ZQMatchingStrategy<QT;>;[QT;) | predictive input model
+CONS PredictiveInputModel(ZQPredictiveInputModel<QT;>;) | predictive input model
+CONS PreGameInputHandler(QFreeColClient;) | pre game input handler
+CONS PreGameInputHandler(QFreeColServer;) | pre game input handler
+CONS PreInsertEvent(QObject;QSerializable;[QObject;QEntityPersister;QEventSource;) | pre insert event
+CONS PrivateKeyInfo(QAlgorithmIdentifier;QDERObject;) | private key info
+CONS PrivateKeyInfo(QAlgorithmIdentifier;QDERObject;QASN1Set;) | private key info
+CONS PrivateKeyInfo(QASN1Sequence;) | private key info
+CONS PrjInfos() | prj infos
+CONS PrjInfos(QString;QString;QString;QString;) | prj infos
+CONS ProjectInfo() | project info
+CONS PropertyMetaInformation(QString;ZZZZZQClass;QFormat;QObject;) | property meta information
+CONS ProtocolDecoderInitial(QTransportHelper;[[BZQByteBuffer;QProtocolDecoderAdapter;) | protocol decoder initial
+CONS QuestionExistsCharInPrevStmt(CQIndentRule;QIndentRule;) | question exists char in prev stmt
+CONS QuestionExistsCharInStmt(CCQIndentRule;QIndentRule;) | question exists char in stmt
+CONS QuestionInsideComment(QIndentRule;QIndentRule;) | question inside comment
+CONS RacedIncrementalLogitBoost() | rac ed incremental log it boost
+CONS ReaderInputStream(QReader;) | reader input stream
+CONS ReferenceInstances(QInstances;I) | reference instances
+CONS ReplayableInputStream(QInputStream;) | replayable input stream
+CONS ReportIndianAction(QFreeColClient;) | report indian action
+CONS ReportIndianPanel(QCanvas;) | report indian panel
+CONS RMIInteractionsModel(QMainJVM;QConsoleDocumentInterface;QFile;II) | rmi interactions model
+CONS RowInputBase() | row input base
+CONS RowInputBase([B) | row input base
+CONS RowInputBinary() | row input binary
+CONS RowInputBinary([B) | row input binary
+CONS RowInputBinary(QRowOutputBinary;) | row input binary
+CONS RowInputTextLog() | row input text log
+CONS RowInputText(QString;QString;QString;Z) | row input text
+CONS RowInputTextQuoted(QString;QString;QString;Z) | row input text quoted
+CONS RPDiskManagerFileInfo(QDiskManagerFileInfo;) | rp disk manager file info
+CONS RPInternalProcessException(QThrowable;) | rp internal process exception
+CONS RPPluginInterface(QPluginInterface;) | rp plugin interface
+CONS RrdInspector(QString;) | rrd inspector
+CONS RrdInt(QRrdUpdater;) | rrd int
+CONS RuntimeInfo() | runtime info
+CONS ScaledRAFileInJar(QString;) | scaled ra file in jar
+CONS ScoreInformationDialog() | score information dialog
+CONS ScoreInformationDialog(QJFrame;Z) | score information dialog
+CONS ScoutingMission(QAIMain;QAIUnit;) | scout ing mission
+CONS ScoutingMission(QAIMain;QElement;) | scout ing mission
+CONS ScoutingMission(QAIMain;QXMLStreamReader;) | scout ing mission
+CONS ScriptableInputStream(QInputStream;QScriptable;) | scriptable input stream
+CONS SearchInfoDialog() | search info dialog
+CONS SerializedInstancesSaver() | serialized instances saver
+CONS ServerInfo() | server info
+CONS ServerInfo(QElement;) | server info
+CONS ServerInfo(QString;QString;IIIZQString;I) | server info
+CONS SetInstancesPanel() | set instances panel
+CONS SignerInfo(QASN1Sequence;) | signer info
+CONS SignerInfo(QDERInteger;QIssuerAndSerialNumber;QAlgorithmIdentifier;QASN1Set;QAlgorithmIdentifier;QASN1OctetString;QASN1Set;) | signer info
+CONS SimpleInteractionsModel() | simple interactions model
+CONS SimpleInteractionsModel(QInteractionsDJDocument;) | simple interactions model
+CONS SimpleInteractionsWindow() | simple interactions window
+CONS SimpleInteractionsWindow(QString;) | simple interactions window
+CONS SimpleInternalFrame(QIcon;QString;) | simple internal frame
+CONS SimpleInternalFrame(QIcon;QString;QJToolBar;QJComponent;) | simple internal frame
+CONS SimpleInternalFrame(QString;) | simple internal frame
+CONS SimpleInternalFrame(QString;QJToolBar;QJComponent;) | simple internal frame
+CONS SingleIndex() | single index
+CONS SingleIndex(QString;) | single index
+CONS SingleUserRatingInfo(QTOTorrent;) | single user rating info
+CONS SmbComQueryInformation(QString;) | smb com query information
+CONS SmbComQueryInformationResponse(J) | smb com query information response
+CONS SmbFileInputStream(QSmbFile;) | smb file input stream
+CONS SmbFileInputStream(QSmbFile;I) | smb file input stream
+CONS SmbFileInputStream(QString;) | smb file input stream
+CONS SMInstance() | sm instance
+CONS SocketInputStream(QInputStream;) | socket input stream
+CONS SoundInfo(QInStream;) | sound info
+CONS SoundInfo(ZZ[QEnvelopePoint;III) | sound info
+CONS SparseInstance() | sparse instance
+CONS SparseInstance(D[D) | sparse instance
+CONS SparseInstance(D[D[II) | sparse instance
+CONS SparseInstance(I) | sparse instance
+CONS SparseInstance(QInstance;) | sparse instance
+CONS SparseInstance(QSparseInstance;) | sparse instance
+CONS StringInputStream(QString;) | string input stream
+CONS StringInt(QString;I) | string int
+CONS SubjectPublicKeyInfo(QAlgorithmIdentifier;[B) | subject public key info
+CONS SubjectPublicKeyInfo(QAlgorithmIdentifier;QDEREncodable;) | subject public key info
+CONS SubjectPublicKeyInfo(QASN1Sequence;) | subject public key info
+CONS SVGInputFormat() | svg input format
+CONS SVGInputFormat(QSVGFigureFactory;) | svg input format
+CONS SWTThreadAlreadyInstanciatedException() | swt thread already instanciated exception
+CONS SystemInfo() | system info
+CONS TagInfo(IIIZ) | tag info
+CONS TargetInformation(QASN1Sequence;) | target information
+CONS TargetInformation([QTarget;) | target information
+CONS TargetInformation(QTargets;) | target information
+CONS TargetMetaInfo(QElement;) | target meta info
+CONS TaskInteractionHintRenderer() | task interaction hint renderer
+CONS TaskInteractionHintRenderer(QString;II) | task interaction hint renderer
+CONS TBuildInfo(QString;) | t build info
+CONS TechnicalInformationHandlerJavadoc() | technical information handler javadoc
+CONS TechnicalInformation(QType;) | technical information
+CONS TechnicalInformation(QType;QString;) | technical information
+CONS TestINPredicateParameterizationAndCorrelation(QString;) | test in predicate parameterization and correlation
+CONS TestInstances() | test instances
+CONS TestInstantiation() | test instantiation
+CONS TextInputDialog(QJabRefFrame;QBasePanel;QString;ZQBibtexEntry;) | text input dialog
+CONS TorrentInfoView() | torrent info view
+CONS TotalBytesInItem() | total bytes in item
+CONS TradeRouteInputDialog(QCanvas;) | trade route input dialog
+CONS Trans2QueryFSInformation(I) | trans 2 query fs information
+CONS Trans2QueryFSInformationResponse(I) | trans 2 query fs information response
+CONS Trans2QueryPathInformation(QString;I) | trans 2 query path information
+CONS Trans2QueryPathInformationResponse(I) | trans 2 query path information response
+CONS Trans2SetFileInformation(IIJJ) | trans 2 set file information
+CONS Trans2SetFileInformationResponse() | trans 2 set file information response
+CONS TransactNamedPipeInputStream(QSmbNamedPipe;) | transact named pipe input stream
+CONS TransportHelperFilterInserter(QTransportHelperFilter;QByteBuffer;) | transport helper filter inserter
+CONS TreeIndex(QTable;QRowManager;QColumn;QComparator;) | tree index
+CONS TypeInferencer() | type inferencer
+CONS TypeInferencer(QParserFactory;) | type inferencer
+CONS UISWTInstanceImpl(QAzureusCore;) | uiswt instance impl
+CONS UndoableInsertEntry(QBibtexDatabase;QBibtexEntry;QBasePanel;) | undoable insert entry
+CONS UndoableInsertString(QBasePanel;QBibtexDatabase;QBibtexString;) | undoable insert string
+CONS UnInstallPluginWizard(QAzureusCore;QDisplay;) | un install plugin wizard
+CONS UpdateCheckInstanceImpl(QUpdateManager;IQString;[QUpdatableComponentImpl;) | update check instance impl
+CONS UpdateInstallerImpl(QUpdateManager;) | update installer impl
+CONS UPnPActionInvocationImpl(QUPnPActionImpl;) | upn p action invocation impl
+CONS UPnPSSWANCommonInterfaceConfigImpl(QUPnPServiceImpl;) | upn psswan common interface config impl
+CONS V2AttributeCertificateInfoGenerator() | v 2 attribute certificate info generator
+CONS ValueInclusion(QString;) | value inclusion
+CONS VuzeActivitiesBuddyInvited(QList;) | vu ze activities buddy invited
+CONS WorkInsideColonyMission(QAIMain;QAIUnit;QAIColony;) | work inside colony mission
+CONS WorkInsideColonyMission(QAIMain;QElement;) | work inside colony mission
+CONS WorkInsideColonyMission(QAIMain;QXMLStreamReader;) | work inside colony mission
+CONS XMLInstances() | xml instances
+CONS XMLInstances(QInstances;) | xml instances
+CONS XMLInstances(QReader;) | xml instances
+CONS YongSplitInfo(III) | yong split info
+CONS ZoomInAction(QFreeColClient;) | zoom in action
+CONS ZoomInAction(QZoomManager;QString;) | zoom in action

@@ -1,0 +1,2 @@
+HsqlProperties argArrayToProps([QString;QString;) | arg array to props
+int argmax(int s) | arg max

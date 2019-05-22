@@ -1,0 +1,44 @@
+AmmoType createCLSRT1Ammo() | create cls rt 1 ammo
+AmmoType createCLSRT2Ammo() | create cls rt 2 ammo
+AmmoType createCLSRT3Ammo() | create cls rt 3 ammo
+AmmoType createCLSRT4Ammo() | create cls rt 4 ammo
+AmmoType createCLSRT5Ammo() | create cls rt 5 ammo
+AmmoType createCLSRT6Ammo() | create cls rt 6 ammo
+boolean findRTAPieceToDownload(QPEPeerTransport;ZJ) | find rta piece to download
+boolean isRTA() | is rta
+boolean saveRTF(QList;QBufferedWriter;) | save rtf
+double computeWeightedAcRt(DDD) | compute weighted ac rt
+double RtoP([DI) | rto p
+ECPoint.F2m multiplyRTnaf(QECPoint.F2m;QBigInteger;) | multiply rt naf
+float estimateRTT(QCoordinates;) | estimate rtt
+float estimateRTT(QDHTNetworkPosition;) | estimate rtt
+float estimateRTT([QDHTNetworkPosition;[QDHTNetworkPosition;) | estimate rtt
+int getRTT() | get rtt
+IXJLDocument rteoXJLClone(IXJLDocument $IXJLDocument) | rteo xjl clone
+java.lang.String getTransferableAsRTF() | get transferable as rtf
+List getRTAProviders() | get rta providers
+long[] updateRTAs(QPiecePicker;) | update rt as
+String getAsRTF(QList;) | get as rtf
+String getRtarget() | get rt ar get
+String rtrim(QString;) | rtrim
+void addRTAProvider(QPieceRTAProvider;) | add rta provider
+void formatCallout(Emitter rtfEmitter, Callout callout) | format callout
+void importRtfDocument(Reader documentSource) | import rtf document
+void removeRTAProvider(QPieceRTAProvider;) | remove rta provider
+void saveRTF(QWriter;IQHashMap;) | save rtf
+void setRtarget(QString;) | set rt ar get
+void setRTA(Z) | set rta
+void setRTT(I) | set rtt
+void setTransferableAsRTF(Qjava.lang.String;) | set transferable as rtf
+WeaponType createCLPROSRT1() | create cl pr os rt 1
+WeaponType createCLPROSRT2() | create cl pr os rt 2
+WeaponType createCLPROSRT3() | create cl pr os rt 3
+WeaponType createCLPROSRT4() | create cl pr os rt 4
+WeaponType createCLPROSRT5() | create cl pr os rt 5
+WeaponType createCLPROSRT6() | create cl pr os rt 6
+WeaponType createCLSRT2() | create cls rt 2
+WeaponType createCLSRT2OS() | create cls rt 2 os
+WeaponType createCLSRT4() | create cls rt 4
+WeaponType createCLSRT4OS() | create cls rt 4 os
+WeaponType createCLSRT6() | create cls rt 6
+WeaponType createCLSRT6OS() | create cls rt 6 os

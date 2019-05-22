@@ -1,0 +1,90 @@
+boolean canProgressiveOrIsComplete(QTOTorrent;) | can progressive or is complete
+boolean getAssumedComplete() | get assumed complete
+boolean getExportComplete() | get export complete
+boolean informComplete(QInputStream;) | inform complete
+boolean isComplete() | is complete
+boolean isComplete(I) | is complete
+boolean isComplete(J) | is complete
+boolean isComplete(QDownload;) | is complete
+boolean isComplete(Z) | is complete
+boolean isDeploymentComplete() | is deployment complete
+boolean isDownloadComplete(Z) | is download complete
+boolean isInitialisationComplete() | is initialisation complete
+boolean isLayoutComplete() | is layout complete
+boolean isLocalComplete() | is local complete
+boolean isPublishComplete(QDownloadManager;) | is publish complete
+boolean isRemoteComplete() | is remote complete
+boolean isResumeDataComplete() | is resume data complete
+boolean isStartupComplete() | is startup complete
+boolean isTorrentResumeDataComplete(QDownloadManagerState;) | is torrent resume data complete
+boolean isTorrentResumeDataComplete(QDownloadManagerState;QMap;) | is torrent resume data complete
+boolean setComplete() | set complete
+int executionComplete(JobExecutionContext context, JobExecutionException result) | execution complete
+int[] getComplete() | get complete
+int getPercentageComplete() | get percentage complete
+int getPercentComplete() | get percent complete
+int getTurnsToComplete() | get turns to complete
+void allDownloadsComplete() | all downloads complete
+void allUpdatesComplete(ZZ) | all updates complete
+void associationLookupComplete() | association lookup complete
+void asyncProcessComplete(QByteArrayOutputStream;) | async process complete
+void cellHoverComplete(QTableCell;) | cell hover complete
+void checkBuildableComplete() | check buildable complete
+void checkComplete(QExternalIPCheckerService;QString;) | check complete
+void classifierTrainingComplete(QBatchClassifierEvent;) | classifier training complete
+void closedownComplete() | close down complete
+void cryptoComplete() | crypto complete
+void decodeComplete(QProtocolDecoder;QByteBuffer;) | decode complete
+void diskReadComplete(J) | disk read complete
+void downloadComplete(QDownloadManager;) | download complete
+void downloadComplete(QFileListEntry;) | download complete
+void entryListComplete() | entry list complete
+void forceRecheckComplete(QDownloadManager;) | force recheck complete
+void handshakeComplete() | handshake complete
+void hostNameResolutionComplete(QInetAddress;) | host name resolution complete
+void imageComplete(I) | image complete
+void informAmountComplete(J) | inform amount complete
+void informComplete(QPeerReadRequest;[B) | inform complete
+void initComplete() | init complete
+void initComplete(QPluginConfig;) | init complete
+void initComplete(QUITextField;ZQString;) | init complete
+void initialisationComplete() | initialisation complete
+void initializationComplete() | initialization complete
+void IPResolutionComplete(QString;Z) | ip resolution complete
+void loadComplete() | load complete
+void loginComplete() | login complete
+void NATCheckComplete(Z) | nat check complete
+void platformLoginComplete() | platform login complete
+void reportAmountComplete(QResourceDownloader;J) | report amount complete
+void reportComplete() | report complete
+void reportComplete(QMap;) | report complete
+void reportComplete(QNetworkAdminSpeedTesterResult;) | report complete
+void reportPercentComplete(QResourceDownloader;I) | report percent complete
+void requestAllocationComplete() | request allocation complete
+void requestComplete(QDiskAccessRequest;) | request complete
+void requestComplete(QPeerReadRequest;QPooledByteBuffer;) | request complete
+void requestComplete(QPeerReadRequest;QPooledByteBuffer;QPeer;) | request complete
+void requestComplete(QpendingRequest;) | request complete
+void resultsComplete(QEngine;) | results complete
+void setAssumedComplete(Z) | set assumed complete
+void setAsyncComplete() | set async complete
+void setComplete() | set complete
+void setComplete(QFile;) | set complete
+void setDeploymentComplete(Z) | set deployment complete
+void setExportComplete(Z) | set export complete
+void setLocalComplete(Z) | set local complete
+void setOutboundConnectionsComplete() | set outbound connections complete
+void setPercentageComplete(I) | set percentage complete
+void setPublishComplete(QDownloadManager;) | set publish complete
+void setRemoteComplete(Z) | set remote complete
+void setTorrentResumeDataComplete(QDownloadManagerState;) | set torrent resume data complete
+void setTorrentResumeDataNearlyComplete(QDownloadManagerState;) | set torrent resume data nearly complete
+void setTurnsToComplete(I) | set turns to complete
+void startUpComplete() | start up complete
+void statusCheckComplete(JQInetAddress;IIQString;III) | status check complete
+void streamComplete(QTOTorrent;JIII) | stream complete
+void streamComplete(QTOTorrent;QMap;) | stream complete
+void syncComplete() | sync complete
+void updateAdditionComplete() | update addition complete
+void updateComplete() | update complete
+void waitForComplete() | wait for complete

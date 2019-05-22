@@ -1,0 +1,4 @@
+boolean playerNameInUse(QString;) | player name in use
+Element playerReady(QElement;) | player ready
+void PlayerExploredTile(QPlayer;QTileItemContainer;) | player explored tile
+void PlayerExploredTile(QXMLStreamReader;) | player explored tile

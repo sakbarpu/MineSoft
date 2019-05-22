@@ -1,0 +1,9 @@
+boolean bLoaded | b loaded
+boolean fully_loaded | fully loaded
+boolean isloaded | is loaded
+boolean _isLoaded | is loaded
+boolean isLoaded | is loaded
+boolean loaded | loaded
+boolean m_loaded | m loaded
+boolean plugin_ids_loaded | plugin ids loaded
+java.lang.String NOT_LOADED | not loaded

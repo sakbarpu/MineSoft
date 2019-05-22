@@ -1,0 +1,17 @@
+boolean nullPlusNonNullIsNull() | null plus non null is null
+Object nullSafeGet(QResultSet;[QString;) | null safe get
+Object nullSafeGet(QResultSet;QString;) | null safe get
+Object nullSafeGet(QResultSet;[QString;QObject;) | null safe get
+Object nullSafeGet(QResultSet;[QString;QSessionImplementor;QObject;) | null safe get
+Object nullSafeGet(QResultSet;QString;QSessionImplementor;QObject;) | null safe get
+Object[] nullSafeGetValues(QObject;QEntityMode;) | null safe get values
+Object nullValueOf(QClass;) | null value of
+SQLException nullArgument() | null argument
+SQLException nullArgument(QString;) | null argument
+String nullSafeToString(QObject;) | null safe to string
+void NullFile() | null file
+void nullSafeSet(PreparedStatement st, Object value, int index) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;I) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;IQSessionImplementor;) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;I[ZQSessionImplementor;) | null safe set
+void nullState(QDownloadManager;) | null state

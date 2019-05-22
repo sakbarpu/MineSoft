@@ -1,0 +1,3 @@
+CONS FieldAndMethods(QScriptable;[QMemberBox;QField;) | field and methods
+CONS LFSMethods() | lfs methods
+CONS Methods() | methods

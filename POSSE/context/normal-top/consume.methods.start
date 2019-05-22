@@ -1,0 +1,6 @@
+boolean consumeUncritically(C) | consume uncritically
+int consumeToMatchingBrace(QStringBuffer;[CI) | consume to matching brace
+void consumeAttribute(I) | consume attribute
+void consumeGoods(QGoodsType;I) | consume goods
+void consumeText(QString;Z) | consume text
+void consumeToken() | consume token

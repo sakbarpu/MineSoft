@@ -1,0 +1,7 @@
+boolean completionPriority | completion priority
+com.aelitis.azureus.core.util.CopyOnWriteList completion_listeners | completion listeners
+int completionHeight | completion height
+java.util.ArrayList completionListeners | completion listeners
+org.gudy.azureus2.core3.download.impl.DownloadManagerDefaultPaths.MovementInformation COMPLETION_DETAILS | completion details
+org.gudy.azureus2.core3.util.AESemaphore completion_sem | completion sem
+org.gudy.azureus2.ui.swt.update.UpdateAutoDownloader.cbCompletion completionCallback | completion callback

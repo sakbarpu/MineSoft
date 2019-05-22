@@ -1,0 +1,21 @@
+boolean doNormalPriorityRead() | do normal priority read
+boolean doNormalPriorityWrite() | do normal priority write
+boolean hasNormalIndices() | has normal indices
+Color getResourceNormalLoadColor() | get resource normal load color
+double logNormalDens(DDD) | log normal dens
+freemind.controller.actions.generated.instance.NormalWindowConfigurationStorage createNormalWindowConfigurationStorage() | create normal window configuration storage
+freemind.controller.actions.generated.instance.NormalWindowConfigurationStorageType createNormalWindowConfigurationStorageType() | create normal window configuration storage type
+int[] getNormalIndices() | get normal indices
+int getNormalTurns() | get normal turns
+int getNormalTurns(QIGame;) | get normal turns
+java.awt.Dimension getNormalSize() | get normal size
+RateControlledEntity getNextReadyNormalPriorityEntity() | get next ready normal priority entity
+sfvec3f getNormalForVertex(int vertexNum, di_progress progress) | get normal for vertex
+SimpleAttributeSet _getNormalAttributes() | get normal attributes
+void giveNormalMissions() | give normal missions
+void setBackFaceNormalFlip(QNode;) | set back face normal flip
+void setBackFaceNormalFlip(QNode;Z) | set back face normal flip
+void setNormalSize() | set normal size
+void setNormalSize(Qjava.awt.Dimension;) | set normal size
+void testNormalArguments() | test normal arguments
+void _updateNormalColor() | update normal color

@@ -1,0 +1,9 @@
+boolean isRepairable() | is repairable
+boolean isRepairing() | is repairing
+boolean isUnderRepair() | is under repair
+int getTurnsForRepair() | get turns for repair
+Location getRepairLocation(QUnit;) | get repair location
+void repairBranch(QTrieBranch;I) | repair branch
+void repairUnits() | repair units
+void sendToRepairLocation(QLocation;) | send to repair location
+void setRepairing(Z) | set repairing

@@ -1,0 +1,4 @@
+CONS KeyCollisionException() | key collision exception
+CONS KeyCollisionException(QString;) | key collision exception
+CONS KeyCollisionException(QString;QThrowable;) | key collision exception
+CONS KeyCollisionException(QThrowable;) | key collision exception

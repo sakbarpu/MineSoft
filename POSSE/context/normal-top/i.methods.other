@@ -1,0 +1,58 @@
+boolean implementsIHostServiceForBean() | implements i host service for bean
+boolean isINarcedBy(I) | is i narced by
+boolean isINarcedWith(J) | is i narced with
+boolean isPullTitleFromIView() | is pull title from i view
+boolean removeINarcPod(QINarcPod;) | remove i narc pod
+boolean triggerIViewToolBar(QString;) | trigger i view tool bar
+byte[] increaseICodeCapasity(I) | increase i code capasity
+Class getIViewClass() | get i view class
+Class[] getIViewClassArgs() | get i view class args
+File getI18nDirectory() | get i 18 n directory
+GanttLanguage getI18n() | get i 18 n
+INavigatorItem getIDoc() | get i doc
+int _mm_read_I_ULONG(RandomAccessFile fp) | mm read i ulong
+IReportConnection getIReportConnection() | get i report connection
+IReportFont getIReportFont() | get i report font
+it.businesslogic.ireport.gui.MainFrame getIReportMainFrame() | get i report main frame
+it.businesslogic.ireport.IReportConnection getIReportConnection() | get i report connection
+it.businesslogic.ireport.IReportFont getIReportFont() | get i report font
+IView getIView() | get i view
+IView getIViewFromID(QString;) | get i view from id
+Object[] getIViewClassVals() | get i view class vals
+ResourceBundle getI18n() | get i 18 n
+String getI18n(QString;) | get i 18 n
+String getI18nString(QString;) | get i 18 n string
+SWTSkinObject linkIDtoParent(QSWTSkinProperties;QString;QString;QSWTSkinObject;ZZ) | link i dto parent
+SWTSkinObject linkIDtoParent(QSWTSkinProperties;QString;QString;QSWTSkinObject;ZZQObject;) | link i dto parent
+TreeItem createTreeItemFromIViewClass(QString;QString;QClass;) | create tree item from i view class
+TreeItem createTreeItemFromIViewClass(QString;QString;QString;QClass;[QClass;[QObject;QObject;QViewTitleInfo;Z) | create tree item from i view class
+TreeItem createTreeItemFromIView(QString;QIView;QString;QObject;ZZ) | create tree item from i view
+void addILoad(I) | add i load
+void addIStore(I) | add i store
+void applyI18n() | apply i 18 n
+void attachINarcPod(QINarcPod;) | attach i narc pod
+void createIViewInfoMenuItem(QMenu;QIViewInfo;) | create i view info menu item
+void createIViewInfoMenuItems(QMenu;QMap;) | create i view info menu items
+void DimIProxy(QDim;I) | dim i proxy
+void dumpICode(QInterpreterData;) | dump i code
+void generateFunctionICode() | generate function i code
+void generateICodeFromTree(QNode;) | generate i code from tree
+void removeAllINarcPods() | remove all i narc pods
+void resolveVeeINarcPodRemoval() | resolve vee i narc pod removal
+void setDisallowIPeriods(boolean newdisallowIPeriods) | set disallow i periods
+void setI18n() | set i 18 n
+void setI18N(QI18N;) | set i 18 n
+void setIReportConnection(QIReportConnection;) | set i report connection
+void setIReportConnection(Qit.businesslogic.ireport.IReportConnection;) | set i report connection
+void setIReportFont(QIReportFont;) | set i report font
+void setIReportFont(Qit.businesslogic.ireport.IReportFont;) | set i report font
+void setIReportFont(Qit.businesslogic.ireport.IReportFont;Z) | set i report font
+void setIReportMainFrame(Qit.businesslogic.ireport.gui.MainFrame;) | set i report main frame
+void setIViewClassArgs([QClass;) | set i view class args
+void setIViewClass(QClass;) | set i view class
+void setIViewClassVals([QObject;) | set i view class vals
+void setIView(QIView;) | set i view
+void setPullTitleFromIView(Z) | set pull title from i view
+void testITunes() | test i tunes
+void testITunesLibrary() | test i tunes library
+void testNonWsISchemaImportExceptionMessage() | test non ws i schema import exception message

@@ -1,0 +1,118 @@
+ArrayList<QFile;> getFilesInDir(QFile;ZQFileFilter;) | get files in dir
+boolean canGoToCompleteDir(QDownloadManager;) | can go to complete dir
+boolean checkDefaultDir(QFile;[QFile;) | check default dir
+boolean getUseDefaultDir() | get use default dir
+boolean isInDefaultDownloadDir(QDownloadManager;) | is in default download dir
+boolean isInDefaultSaveDir() | is in default save dir
+boolean isInDefaultSaveDir(QDownload;) | is in default save dir
+File copyTorrentFileToSaveDir(QFile;Z) | copy torrent file to save dir
+File createTempDir() | create temp dir
+File createTempDir(QString;) | create temp dir
+File createTempDir(QString;QFile;) | create temp dir
+File getAzpdDir() | get az pd dir
+File getBuddyConfigDir() | get buddy config dir
+File _getBuildDir() | get build dir
+File getCacheFileControlFileDir() | get cache file control file dir
+File getControlFileDir() | get control file dir
+File getDataDir(I) | get data dir
+File getDir() | get dir
+File getLogDir() | get log dir
+File getSubsDir() | get subs dir
+File _getWorkDir() | get work dir
+File mkTempDir(QString;) | mk temp dir
+IHex getHexInDir(III) | get hex in dir
+IHex getHexInDir(QCoords;I) | get hex in dir
+int cleanDir(QString;QString;) | clean dir
+int downloadDir(QString;) | download dir
+int removeFileOrDir(QString;) | remove file or dir
+int uploadDir(QString;) | upload dir
+int xInDir(III) | x in dir
+int xInDir(IIII) | x in dir
+int yInDir(III) | y in dir
+int yInDir(IIII) | y in dir
+java.lang.String getOutputDir() | get output dir
+java.lang.String getSourcesDir() | get sources dir
+List loadPluginFromDir(QFile;ZZZ) | load plugin from dir
+List loadPluginsFromDir(QFile;IIZZZ) | load plugins from dir
+long getTorrentDataSizeFromFileOrDir(QFile;) | get torrent data size from file or dir
+ShareResource addFileOrDir(QShareResourceDirContentsImpl;QFile;IZ) | add file or dir
+ShareResourceDir addDir(QFile;) | add dir
+ShareResourceDir addDir(QShareResourceDirContentsImpl;QFile;) | add dir
+ShareResourceDir getDir(QFile;) | get dir
+String evaluatedWorkDir() | evaluated work dir
+String findInDir(QString;QString;QOpenFileFilter;I) | find in dir
+String getApplicationInstallDir(QString;) | get application install dir
+String getAzureusProgramDir() | get azureus program dir
+String getAzureusUserDir() | get azureus user dir
+String getConfDir() | get conf dir
+String getCurrentDir() | get current dir
+String getDataDir() | get data dir
+String getDefaultOpenDir() | get default open dir
+String getDefaultSaveDir() | get default save dir
+String getDir() | get dir
+String getDir(QString;) | get dir
+String getDocDir() | get doc dir
+String getFreemindBaseDir() | get freemind base dir
+String getHomeDir() | get home dir
+String getInstallDir() | get install dir
+String getNewDir(QJFrame;QFile;QString;IZ) | get new dir
+String getNewDir(QJFrame;QFile;QString;QString;IZ) | get new dir
+String getNewGreDir() | get new gre dir
+String getPackageDir(QString;) | get package dir
+String getParentDir() | get parent dir
+String getProgramFilesDir() | get program files dir
+String getRrdDir() | get rrd dir
+String getSaveSilentlyDir() | get save silently dir
+String getSmartDestDir() | get smart dest dir
+String getTargetFileOrDir() | get target file or dir
+String getTempDir() | get temp dir
+String getTraceDir() | get trace dir
+String getUserDir() | get user dir
+String getUserDocumentsDir() | get user documents dir
+String getUserMusicDir() | get user music dir
+String getUserVideoDir() | get user video dir
+String getWorkingDir() | get working dir
+String getXslDir() | get xsl dir
+String retrieveDir() | retrieve dir
+String topDir() | top dir
+String toSFTPDir(QString;) | to sftp dir
+String workDir() | work dir
+Vector scanForBoardsInDir(QFile;QString;II) | scan for boards in dir
+void addClassesFromDir(QVector;QFile;QFile;) | add classes from dir
+void addDir(QString;) | add dir
+void addIfDir(QFile;QSet<-QFile;>;) | add if dir
+void changeDir() | change dir
+void chooseDir(QJTextPane;) | choose dir
+void cleanLocalDir(QString;) | clean local dir
+void cleanLocalDir(QString;QString;) | clean local dir
+void cleanSftpDir(QString;QSftpFile;) | clean sftp dir
+void cleanSmbDir(QString;) | clean smb dir
+void copyToDir(QFile;QFile;) | copy to dir
+void deleteDir(File dir) | delete dir
+void downloadDir(QString;QString;) | download dir
+void getFilesInDir(QFile;QList<QFile;>;ZQFileFilter;) | get files in dir
+void initializeInDir(III) | initialize in dir
+void moveInDir(I) | move in dir
+void processDir(QTOTorrentFileHasher;QFile;QVector;QString;) | process dir
+void setBaseDir(QFile;) | set base dir
+void setCompletedir(String completedir) | set complete dir
+void setDefaultOpenDir(QString;) | set default open dir
+void setDefaultSaveDir(QString;) | set default save dir
+void setDir(QFile;) | set dir
+void setDir(QString;) | set dir
+void setHomeDir() | set home dir
+void setOutputDir(Qjava.lang.String;) | set output dir
+void setParentDir(QString;) | set parent dir
+void setsaveDir(String dir) | set save dir
+void setSourcesDir(Qjava.lang.String;) | set sources dir
+void setSuggestedDir(QFile;) | set suggested dir
+void setTorrentSaveDir(QString;) | set torrent save dir
+void setTorrentSaveDir(QString;QString;) | set torrent save dir
+void setXslDir(QString;) | set xsl dir
+void shareDir(QAzureusCore;QShell;) | share dir
+void shareDir(QAzureusCore;QString;) | share dir
+void transferDir(QString;QString;) | transfer dir
+void updateLocalDir() | update local dir
+void updateRemoteDir() | update remote dir
+void uploadDir(QString;QString;) | upload dir
+void XXXtestGetPackageDir() | xxx test get package dir

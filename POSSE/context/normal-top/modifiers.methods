@@ -1,0 +1,22 @@
+int applyModifiers(I) | apply modifiers
+int getModifiers() | get modifiers
+int[] getModifiers(QEntity;) | get modifiers
+List<QModifier;> getModifiers(QString;) | get modifiers
+Set<QModifier;> getDefensiveModifiers(QColony;QUnit;) | get defensive modifiers
+Set<QModifier;> getDefensiveModifiers(QUnit;QUnit;) | get defensive modifiers
+Set<QModifier;> getModifiers() | get modifiers
+Set<QModifier;> getOffensiveModifiers(QColony;QUnit;) | get offensive modifiers
+Set<QModifier;> getOffensiveModifiers(QUnit;QUnit;) | get offensive modifiers
+Set<QModifier;> getProductionModifiers(QGoodsType;QUnitType;) | get production modifiers
+Set<QModifier;> getProductivityModifiers(QUnit;) | get productivity modifiers
+Set<QModifier;> sortModifiers(QSet<QModifier;>;) | sort modifiers
+String accessModifiersAsShouldBe(IMethodInfo oldmth, IMethodInfo newmth) | access modifiers as should be
+String applyModifiers(QString;[QString;I) | apply modifiers
+String modifiersToString(I) | modifiers to string
+ToHitData losModifiers(QIGame;) | los modifiers
+ToHitData losModifiers(QIGame;I) | los modifiers
+ToHitData nightModifiers(QIGame;QTargetable;QAmmoType;QEntity;) | night modifiers
+Vector getWeaponModifiers(QMounted;) | get weapon modifiers
+void setCommonModifiers(QToHitData;QIGame;QEntity;QTargetable;) | set common modifiers
+void setModifiers(int modifiers) | set modifiers
+void visitVariableDefinition(JVariableDefinition self, int modifiers, CType type, String ident, JExpression expr) | visit variable definition

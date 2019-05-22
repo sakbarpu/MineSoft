@@ -1,0 +1,4 @@
+AnnotationType getAnnotationType(Class klass) | get annotation type
+List<String> getAnnotationVRs() | get annotation v rs
+String getAnnotationPropertyValue(String repositoryID, String theResourceURI, String theAnnotationPropertyURI, String language) | get annotation property value
+String getSelectedResponseAnnotationSetName() | get selected response annotation set name

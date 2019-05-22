@@ -1,0 +1,2 @@
+boolean isScalarValued(VariableScope scope) | is scalar valued
+void testInScopeThenCleared() | test in scope then cleared

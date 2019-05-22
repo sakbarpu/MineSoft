@@ -1,0 +1,14 @@
+boolean[] getSubjectUniqueID() | get subject unique id
+DERBitString getSubjectUniqueId() | get subject unique id
+Principal getSubjectDN() | get subject dn
+ServiceLightValue getServiceLightValue(AuthzSubjectValue subject, Integer id) | get service light value
+String getSubject() | get subject
+String getTriggerSubject() | get trigger subject
+Subject getContextSubject() | get context subject
+SubjectPublicKeyInfo getSubjectPublicKeyInfo() | get subject public key info
+void setSubjectDN(QX509Name;) | set subject dn
+void setSubjectPublicKeyInfo(QSubjectPublicKeyInfo;) | set subject public key info
+void setSubject(QX509Name;) | set subject
+X500Principal getSubjectX500Principal() | get subject x 500 principal
+X509Name getSubject() | get subject
+X509Principal getSubjectX509Principal(QX509Certificate;) | get subject x 509 principal

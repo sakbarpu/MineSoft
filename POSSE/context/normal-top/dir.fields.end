@@ -1,0 +1,67 @@
+boolean create_from_dir | create from dir
+int MAX_FILES_PER_DIR | max files per dir
+int ST_DIR | st dir
+java.io.File ACTIVE_DIR | active dir
+java.io.File _baseDir | base dir
+java.io.File _buildDir | build dir
+java.io.File buildDir | build dir
+java.io.File configDir | config dir
+java.io.File controlFileDir | control file dir
+java.io.File data_dir | data dir
+java.io.File debug_dir | debug dir
+java.io.File debug_save_dir | debug save dir
+java.io.File download_dir | download dir
+java.io.File fDir | f dir
+java.io.File install_dir | install dir
+java.io.File _parentDir | parent dir
+java.io.File share_dir | share dir
+java.io.File _srcDir | src dir
+java.io.File srcDir | src dir
+java.io.File _suggestedDir | suggested dir
+java.io.File _tempDir | temp dir
+java.io.File tmp_dir | tmp dir
+java.io.File _workDir | work dir
+java.io.File _workingDir | working dir
+java.lang.String config_dir | config dir
+java.lang.String CONFIG_ROOT_DIR | config root dir
+java.lang.String CONF_TAGS_USE_PARENT_DIR | conf tags use parent dir
+java.lang.String default_open_dir | default open dir
+java.lang.String default_save_dir | default save dir
+java.lang.String destinationDir | destination dir
+java.lang.String downloaddir | download dir
+java.lang.String _evaluatedWorkDir | evaluated work dir
+java.lang.String FILE_DJ_DIR | file dj dir
+java.lang.String FILE_JAJUK_DIR | file jajuk dir
+java.lang.String ICON_OPEN_DIR | icon open dir
+java.lang.String IMAGE_DIR | image dir
+java.lang.String IREPORT_DEFAULT_HOME_DIR | ireport default home dir
+java.lang.String IREPORT_HOME_DIR | ireport home dir
+java.lang.String IREPORT_TMP_DIR | ireport tmp dir
+java.lang.String IREPORT_USER_HOME_DIR | ireport user home dir
+java.lang.String JAVA_EXEC_DIR | java exec dir
+java.lang.String log_dir | log dir
+java.lang.String LOG_DIR | log dir
+java.lang.String MENU_ID_SHARE_DIR | menu id share dir
+java.lang.String outputDir | output dir
+java.lang.String plugin_dir | plugin dir
+java.lang.String pluginDir | plugin dir
+java.lang.String sAppPluginDir | s app plugin dir
+java.lang.String sCountryImagesDir | s country images dir
+java.lang.String sDestDir | s dest dir
+java.lang.String sDestSubDir | s dest sub dir
+java.lang.String sLogDir | s log dir
+java.lang.String sourcesDir | sources dir
+java.lang.String sUserPluginDir | s user plugin dir
+java.lang.String UPDATE_DIR | update dir
+java.lang.String workingDir | working dir
+java.lang.String xslDir | xsl dir
+javax.swing.JButton jButtonCompilationDir | j button compilation dir
+javax.swing.JCheckBox jcbUseParentDir | jcb use parent dir
+javax.swing.JCheckBox jCheckBoxSubDir | j check box sub dir
+javax.swing.JLabel jLabelDefaultBackupDir | j label default backup dir
+javax.swing.JPanel jPanelCompileDir | j panel compile dir
+javax.swing.JPopupMenu jmenuDir | jmenu dir
+javax.swing.JTextField jTextFieldCompilationDir | j text field compilation dir
+javax.swing.JTextField jTextFieldOutputDir | j text field output dir
+javax.swing.JTextField jTextFieldSourcesDir | j text field sources dir
+javax.swing.JTextField jTextFieldVirtualizerDir | j text field virtualizer dir

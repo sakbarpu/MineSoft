@@ -1,0 +1,5 @@
+int DUP2 | dup 2
+int DUP2_X1 | dup 2  x 1
+int DUP2_X2 | dup 2  x 2
+int DUP_X1 | dup x 1
+int DUP_X2 | dup x 2

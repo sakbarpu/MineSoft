@@ -1,0 +1,3 @@
+double getDecorationRadius(QFigure;) | get decoration radius
+void addStrokeDecorationButtonTo(QJToolBar;QDrawingEditor;) | add stroke decoration button to
+void configureSourceViewerDecorationSupport() | configure source viewer decoration support

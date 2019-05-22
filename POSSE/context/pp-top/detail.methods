@@ -1,0 +1,4 @@
+void announceDetailsChanged() | announce details changed
+void fireDetailsChanged(QBuddyPluginBuddy;) | fire details changed
+void jCheckBoxPrintWhenDetailOverflowsActionPerformed(Qjava.awt.event.ActionEvent;) | j check box print when detail overflows action performed
+void jMenuItemDetailsActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item details action performed

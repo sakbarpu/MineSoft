@@ -1,0 +1,5 @@
+boolean fileMustExist(QDownloadManager;QDiskManagerFileInfo;) | file must exist
+boolean getFileMustExist() | get file must exist
+void addMainFlagMustNotBePresent(String inFlagName, String inError) | add main flag must not be present
+void setFileMustExist(Z) | set file must exist
+void setMustExit(Z) | set must exit

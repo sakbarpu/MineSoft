@@ -1,0 +1,6 @@
+CONS AbstractLineDecoration(ZZZ) | abstract line decoration
+CONS Decorate() | decorate
+CONS LineDecorationIcon(QLineDecoration;Z) | line decoration icon
+CONS RelativeDecoratorLocator() | relative decorator locator
+CONS RelativeDecoratorLocator(DD) | relative decorator locator
+CONS RelativeDecoratorLocator(DDZ) | relative decorator locator

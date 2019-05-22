@@ -1,0 +1,12 @@
+boolean DO_MULTILINE | do multiline
+boolean do_other_per_file_hash | do other per file hash
+boolean doPrepare | do prepare
+boolean do_uber_debug | do uber debug
+boolean doUrlQOS | do url qos
+freemind.controller.actions.generated.instance.XmlAction doAction | do action
+int DO_COPY_DATA | do copy data
+int DO_COPY_ID | do copy id
+int DO_COPY_URL | do copy url
+int DO_NOT_EXIST | do not exist
+javax.swing.Action _doFindAction | do find action
+javax.swing.JCheckBox doVersionUpdateCheckBox | do version update check box

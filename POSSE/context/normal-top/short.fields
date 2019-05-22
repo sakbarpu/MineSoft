@@ -1,0 +1,38 @@
+byte OP_GETSHORT | op get short
+byte OP_PUTSHORT | op put short
+byte[] short_id | short id
+byte T_SHORT | t short
+com.aelitis.azureus.core.util.average.Average shortTerm | short term
+com.aelitis.azureus.core.util.average.Average upload_short_average | upload short average
+com.aelitis.azureus.core.util.average.Average upload_short_prot_average | upload short prot average
+freemind.preferences.layout.GrabKeyDialog.InputPane shortcut | shortcut
+int CLASS_CODE_SHORT | class code short
+int Icode_SHORTNUMBER | icode short number
+int myMinimaxShort | my minimax short
+int RANGE_SHORT | range short
+int r_short | r short
+int[] SHORTCUT_KEYS | shortcut keys
+int SHORT_DOC_MAX_LENGTH | short doc max length
+int SHORT_ESTIMATE_SAMPLES | short estimate samples
+int SHORT_ESTIMATE_SECS | short estimate secs
+int SHORT_ID_SIZE | short id size
+int shortRange | short range
+int shortStealthMod | short stealth mod
+int T_TARGSYS_SHORTRANGE | t targsys short range
+int waterShortRange | water short range
+java.awt.Color[] SHORT_LIST | short list
+java.lang.Class ShortClass | short class
+java.lang.String[] COCKPIT_SHORT_STRING | cockpit short string
+java.lang.String[] GYRO_SHORT_STRING | gyro short string
+java.lang.String myShortText | my short text
+java.lang.String shortcut | shortcut
+java.lang.String short_name | short name
+java.lang.String shortName | short name
+java.lang.String shortURL | short url
+java.text.SimpleDateFormat myShortFormat | my short format
+java.text.SimpleDateFormat shortCurrentDateFormat | short current date format
+java.util.Map short_id_map | short id map
+javax.swing.JLabel wShortL | w short l
+javax.swing.JLabel wShortR | w short r
+megamek.client.ui.AWT.widget.TransparentLabel wShortL | w short l
+megamek.client.ui.AWT.widget.TransparentLabel wShortR | w short r

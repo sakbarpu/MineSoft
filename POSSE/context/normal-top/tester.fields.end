@@ -1,0 +1,2 @@
+com.aelitis.azureus.core.dht.speed.DHTSpeedTester speed_tester | speed tester
+com.aelitis.azureus.plugins.net.netstatus.NetStatusProtocolTester protocol_tester | protocol tester

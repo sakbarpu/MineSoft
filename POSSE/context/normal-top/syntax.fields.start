@@ -1,0 +1,4 @@
+boolean syntaxException | syntax exception
+int SYNTAXERR_EXITVAL | syntax err exit val
+int syntaxErrorCount | syntax error count
+java.lang.String SYNTAX_MSG | syntax msg

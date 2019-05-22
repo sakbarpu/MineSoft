@@ -1,0 +1,5 @@
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> EXTERNAL_SAVED_WORKDIRS | external saved work dirs
+int MAX_DIRS | max dirs
+java.util.ArrayList alDirs | al dirs
+java.util.List created_dirs | created dirs
+org.gudy.azureus2.core3.download.impl.DownloadManagerDefaultPaths.TargetSpecification[] DEFAULT_DIRS | default dirs

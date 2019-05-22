@@ -1,0 +1,10 @@
+boolean isReservedKeywordAsIdentifier() | is reserved keyword as identifier
+int _findKeywordAtToplevel(QString;QString;I) | find keyword at toplevel
+IReportKeywordLookup getKeywordLookup() | get keyword lookup
+KeywordMap getKeywordMap() | get keyword map
+void addKeywordTags(Sentence sentence, String tag) | add keyword tags
+void setKeywordLookup(QIReportKeywordLookup;) | set keyword lookup
+void setKeywordLookup(QKeywordLookupIF;) | set keyword lookup
+void setReservedKeywordAsIdentifier(Z) | set reserved keyword as identifier
+void testAddKeywordQuotes() | test add keyword quotes
+void testAddKeywordWhitespace() | test add keyword whitespace

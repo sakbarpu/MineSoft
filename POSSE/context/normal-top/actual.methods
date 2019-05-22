@@ -1,0 +1,17 @@
+CMethod lookupMethod(CTypeContext context, CClass caller, CType primary, String ident, CType actuals) | lookup method
+Coords getEntityActualPosition(QEntity;) | get entity actual position
+double actual() | actual
+FormatStyle determineActualStyle(QFormatStyle;) | determine actual style
+int actualHashForEqual() | actual hash for equal
+int actualNumBags() | actual num bags
+int actualNumClasses() | actual num classes
+int actualNumClasses(I) | actual num classes
+int getActualIndex(I) | get actual index
+int getActualRowCount() | get actual row count
+int getActualRow(I) | get actual row
+Reader getActualReader(QFile;) | get actual reader
+String actualName() | actual name
+String getActualPath() | get actual path
+void actualizePlugins() | actualize plugins
+void actualOpenProject(String fileName) | actual open project
+void actualUpdateClassifier(QInstance;) | actual update classifier

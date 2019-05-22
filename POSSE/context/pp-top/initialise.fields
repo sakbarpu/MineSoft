@@ -1,0 +1,5 @@
+boolean initialised | initialised
+boolean plugins_initialised | plugins initialised
+boolean pre_initialised | pre initialised
+int PEV_ALL_PLUGINS_INITIALISED | pev all plugins initialised
+int TS_INITIALISED | ts initialised

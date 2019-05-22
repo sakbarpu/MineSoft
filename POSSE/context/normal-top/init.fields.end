@@ -1,0 +1,14 @@
+boolean bInit | b init
+byte[] BYTES_C_ID_INIT | bytes c id init
+int EVENT_AFTER_COLUMN_INIT | event after column init
+int EVENT_AFTER_GROUP_INIT | event after group init
+int EVENT_AFTER_PAGE_INIT | event after page init
+int EVENT_AFTER_REPORT_INIT | event after report init
+int EVENT_BEFORE_COLUMN_INIT | event before column init
+int EVENT_BEFORE_GROUP_INIT | event before group init
+int EVENT_BEFORE_PAGE_INIT | event before page init
+int EVENT_BEFORE_REPORT_INIT | event before report init
+int REPORT_TYPE_INIT | report type init
+int S_INIT | s init
+int STATE_INIT | state init
+int STATE_NON_INIT | state non init

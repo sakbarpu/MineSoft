@@ -1,0 +1,16 @@
+int NORMAL_ENGINE | normal engine
+int NORMAL_FIELD | normal field
+int[] normalIndices | normal indices
+int NORMAL_LINE | normal line
+int NORMAL_LINE_WIDTH | normal line width
+int normalOffset | normal offset
+int NORMAL_REQUEST_SIZE | normal request size
+int NORMAL_TOKEN_STATE | normal token state
+int NORMAL_WIDTH | normal width
+java.awt.Color normalBorderColor | normal border color
+java.awt.Color NORMAL_COLOR | normal color
+java.awt.Dimension normalSize | normal size
+java.util.ArrayList normal_priority_entities | normal priority entities
+java.util.Vector normal_turns | normal turns
+javax.swing.border.Border normalBorder | normal border
+javax.swing.text.SimpleAttributeSet NORMAL_ATTRIBUTES | normal attributes

@@ -1,0 +1,5 @@
+String getSubject() | get subject
+String getTriggerSubject() | get trigger subject
+Subject getContextSubject() | get context subject
+void setSubject(QX509Name;) | set subject
+X509Name getSubject() | get subject

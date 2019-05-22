@@ -1,0 +1,4 @@
+ASTPrinter getASTPrinter() | get ast printer
+CodePrinter getCodePrinter() | get code printer
+GCStringPrinter setupStringPrinter(QGC;QTableCellSWT;) | setup string printer
+void setCodePrinter(QCodePrinter;) | set code printer

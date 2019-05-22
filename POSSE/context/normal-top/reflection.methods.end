@@ -1,0 +1,5 @@
+ColorUIResource getComponentGradientColorReflection() | get component gradient color reflection
+ColorUIResource getTextComponentGradientColorReflection() | get text component gradient color reflection
+PovReflectionGene getReflection() | get reflection
+void setTypeByReflection(QString;QString;) | set type by reflection
+void setTypeUsingReflection(QString;QString;) | set type using reflection

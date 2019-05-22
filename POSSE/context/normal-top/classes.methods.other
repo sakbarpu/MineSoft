@@ -1,0 +1,8 @@
+Hashtable getClassesFromProperties() | get classes from properties
+Hashtable sortClassesByRoot(QString;) | sort classes by root
+int[] getClassesToClusters() | get classes to clusters
+JPanel _makeClassesPanel() | make classes panel
+Set superClassesOf(OWLClass clazz) | super classes of
+String numClassesTipText() | num classes tip text
+void addClassesFromDir(QVector;QFile;QFile;) | add classes from dir
+void addClassesFromZip(QVector;QFile;) | add classes from zip

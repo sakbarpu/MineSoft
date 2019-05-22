@@ -1,0 +1,3 @@
+void decodeAZHave(QAZHave;) | decode az have
+void decodeHave(QBTHave;) | decode have
+void sendHave(I) | send have

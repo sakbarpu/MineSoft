@@ -1,0 +1,14 @@
+ArtilleryModifier getModifierByCoords(QVector;QCoords;) | get modifier by coords
+DecimalFormat getModifierFormat() | get modifier format
+float applyModifierSet(FQTurn;QSet<QModifier;>;) | apply modifier set
+Set<QModifier;> getModifierSet(QString;) | get modifier set
+Set<QModifier;> getModifierSet(QString;QFreeColGameObjectType;) | get modifier set
+Set<QModifier;> getModifierSet(QString;QFreeColGameObjectType;QTurn;) | get modifier set
+String getModifierAsString(QModifier;) | get modifier as string
+String getModifierString(QInputEvent;) | get modifier string
+String getSymbolicModifierName(I) | get symbolic modifier name
+void addPilotingModifierForTerrain(QPilotingRollData;) | add piloting modifier for terrain
+void addPilotingModifierForTerrain(QPilotingRollData;QCoords;) | add piloting modifier for terrain
+void addPilotingModifierForTerrain(QPilotingRollData;QMoveStep;) | add piloting modifier for terrain
+void setModifierMapping(IIII) | set modifier mapping
+void setModifierRole(String modifierRole) | set modifier role

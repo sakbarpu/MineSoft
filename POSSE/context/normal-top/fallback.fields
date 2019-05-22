@@ -1,0 +1,10 @@
+boolean allow_fallback | allow fallback
+boolean udp_fallback_for_dropped_connection | udp fallback for dropped connection
+boolean udp_fallback_for_failed_connection | udp fallback for failed connection
+int fallback_count | fallback count
+int iRankTypeSeedFallback | i rank type seed fallback
+int MATCH_CRYPTO_AUTO_FALLBACK | match crypto auto fallback
+int MATCH_CRYPTO_NO_AUTO_FALLBACK | match crypto no auto fallback
+java.lang.String[][] OTHER_FALLBACKS | other fallbacks
+net.sourceforge.ganttproject.gui.UIFacade myFallbackDelegate | my fallback delegate
+org.gudy.azureus2.core3.internat.LocaleUtilDecoder fallback_decoder | fallback decoder

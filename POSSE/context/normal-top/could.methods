@@ -1,0 +1,2 @@
+boolean couldEncodeAll() | could encode all
+boolean hexCouldBeCliff(QIBoard;QCoords;) | hex could be cliff

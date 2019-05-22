@@ -1,0 +1,3 @@
+CONS AbstractFieldInterceptor(QSessionImplementor;QSet;QString;) | abstract field interceptor
+CONS EmptyInterceptor() | empty interceptor
+CONS FieldInterceptorImpl(QSessionImplementor;QSet;QString;) | field interceptor impl

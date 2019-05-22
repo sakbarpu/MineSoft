@@ -1,0 +1,8 @@
+double infoGain() | info gain
+String infoString(QEntityPersister;) | info string
+String infoString(QEntityPersister;QObject;QSessionFactoryImplementor;) | info string
+String infoString(QEntityPersister;QObject;QType;QSessionFactoryImplementor;) | info string
+String infoString(QEntityPersister;[QSerializable;QSessionFactoryImplementor;) | info string
+String infoString(QString;QSerializable;) | info string
+String infoString(QString;QString;QObject;) | info string
+void InfoObject(QString;) | info object

@@ -1,0 +1,32 @@
+boolean isResetPageNumber | is reset page number
+boolean _resetAfterCompile | reset after compile
+boolean resetPageNumber | reset page number
+edu.rice.cs.drjava.config.BooleanOption INTERACTIONS_RESET_PROMPT | interactions reset prompt
+edu.rice.cs.drjava.config.BooleanOption RESET_CLEAR_CONSOLE | reset clear console
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_RESET_INTERACTIONS | key reset interactions
+int consoleResetCount | console reset count
+int interpreterResetFailedCount | interpreter reset failed count
+int interpreterResettingCount | interpreter resetting count
+int STATS_RESET_TIMER | stats reset timer
+java.awt.Button m_bReset | m b reset
+java.awt.Button m_buttonReset | m button reset
+java.lang.String CONF_CONFIRMATIONS_RESET_RATINGS | conf confirmations reset ratings
+java.lang.String OP_RESET_SEQUENCE | op reset sequence
+java.lang.String OP_RESET_URL | op reset url
+java.lang.String resetGroup | reset group
+java.lang.String resetType | reset type
+java.lang.String serieReset | serie reset
+javax.swing.event.HyperlinkListener _resetListener | reset listener
+javax.swing.JButton jbResetRatings | jb reset ratings
+javax.swing.JButton m_bReset | m b reset
+javax.swing.JButton m_buttonReset | m button reset
+javax.swing.JButton resetDisplayedActionTipsButton | reset displayed action tips button
+javax.swing.JCheckBox jcbBeforeResetingRatings | jcb before reseting ratings
+javax.swing.JCheckBox jCheckBoxResetPageNumber | j check box reset page number
+javax.swing.JComboBox jComboBoxResetGroup | j combo box reset group
+javax.swing.JComboBox jComboBoxResetType | j combo box reset type
+javax.swing.JLabel jLabelResetGroup | j label reset group
+javax.swing.JLabel jLabelResetType | j label reset type
+long stats_reset_time | stats reset time
+org.gudy.azureus2.plugins.ui.menus.MenuItemListener resetAuthListener | reset auth listener
+org.gudy.azureus2.plugins.ui.menus.MenuItemListener resetResultsListener | reset results listener

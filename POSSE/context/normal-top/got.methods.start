@@ -1,0 +1,5 @@
+void gotAlive(QString;QURL;) | got alive
+void gotPopularity(J) | got popularity
+void gotRoot(QNetworkInterface;QInetAddress;QString;QURL;) | got root
+void gotSecret([B) | got secret
+void gotVuzeNewsEntries([QVuzeActivitiesEntry;J) | got vu ze news entries

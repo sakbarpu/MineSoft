@@ -1,0 +1,2 @@
+java.util.HashMap<java.lang.String,java.lang.Class> nameToEnumClassMap | name to enum class map
+java.util.HashMap<java.lang.String,java.util.Set<java.lang.Enum>> valueToEnumMap | value to enum map

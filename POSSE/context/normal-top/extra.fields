@@ -1,0 +1,16 @@
+edu.rice.cs.drjava.config.VectorOption<java.io.File> EXTRA_CLASSPATH | extra classpath
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> EXTRA_COMPILERS | extra compilers
+edu.rice.cs.drjava.ui.config.VectorFileOptionComponent _extraClassPathList | extra class path list
+int BUFFER_EXTRACHARS | buffer extra chars
+int buttonExtraMargin | button extra margin
+int[] EXTRA_BUCKETS | extra buckets
+int EXTRACT | extract
+int extraSpacing | extra spacing
+int m_extraWidth | m extra width
+int RCDATA_INLINE_EXTRAVARS | rcdata inline extra vars
+int SPECIAL_EXTRACHARS | special extra chars
+java.lang.Iterable<java.io.File> _projExtraClassPath | proj extra class path
+java.lang.String EXTRAS_MENU | extras menu
+java.lang.String T_EXTRACT | t extract
+java.util.LinkedList<java.io.File> _extraCP | extra cp
+org.hsqldb.lib.HashSet SQL_EXTRACT_FIELD_NAMES | sql extract field names

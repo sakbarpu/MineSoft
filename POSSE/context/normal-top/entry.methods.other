@@ -1,0 +1,73 @@
+BibliographyEntryTemplate getBibliographyEntryTemplateArray() | get bibliography entry template array
+BibtexEntry getBibtexEntryFromDocumentInformation(QPDDocumentInformation;) | get bibtex entry from document information
+BibtexEntry getBibtexEntryFromDublinCore(QXMPSchemaDublinCore;) | get bibtex entry from dublin core
+BibtexEntry getEntryAt(I) | get entry at
+BibtexEntry getEntryById(QString;) | get entry by id
+BibtexEntry getEntryByKey(QString;) | get entry by key
+BibtexEntry parseEntryBibTeX(QString;Z) | parse entry bib te x
+BibtexEntryType getEntryType(QString;) | get entry type
+boolean isEntryFor(QObject;) | is entry for
+boolean supportsANSI92EntryLevelSQL() | supports ansi 92 entry level sql
+CacheEntryStructure getCacheEntryStructure() | get cache entry structure
+CollectionEntry getCollectionEntryOrNull(QObject;) | get collection entry or null
+CustomEntryType getCustomEntryType(I) | get custom entry type
+CustomEntryType parseEntryType(QString;) | parse entry type
+Element getVacantEntryLocation(QConnection;QElement;) | get vacant entry location
+EntryEditor getEntryEditor(QBibtexEntry;) | get entry editor
+EntryEditorTabList getEntryEditorTabList() | get entry editor tab list
+Entry removeEntryForKey([B) | remove entry for key
+HashMap<QString;QBibtexEntryType;> getEntryTypes() | get entry types
+ImageIcon getEntryIcon(QAuctionEntry;) | get entry icon
+int buildEntryFlags(QAuctionEntry;) | build entry flags
+int getEntryCount() | get entry count
+int getEntryIndex(Node<T> leaf, T entry) | get entry index
+JTextField addEntryType(QContainer;QString;I) | add entry type
+List<QEntryFetcherExtension;> getEntryFetcherExtensions() | get entry fetcher extensions
+Location getEntryLocation() | get entry location
+Location getVacantEntryLocation() | get vacant entry location
+Location setToVacantEntryLocation(QUnit;) | set to vacant entry location
+Map<QString;QBibtexEntry;> getEntryMap() | get entry map
+net.sf.jabref.imports.EntryFetcher getEntryFetcher() | get entry fetcher
+SideBarEntrySWT createEntryFromSkinRef(QString;QString;QString;QString;QViewTitleInfo;QObject;ZI) | create entry from skin ref
+String bibtexEntry2BibtexString(QBibtexEntry;) | bibtex entry 2 bibtex string
+String getApplicationEntryPoint() | get application entry point
+String getEntryDescription() | get entry description
+String getEntryName() | get entry name
+String getEntryQty() | get entry qty
+String getJAREntryName() | get jar entry name
+String parseNextEntryId(QString;I) | parse next entry id
+URL getJAREntryURL() | get jar entry url
+void checkEntryTypes(QParserResult;) | check entry types
+void CustomizeEntryTypeAction() | customize entry type action
+void initLiveOnEntrySets(QOptFunctionNode;[QNode;) | init live on entry sets
+void loadCustomEntryTypes(QJabRefPreferences;) | load custom entry types
+void MapEntryProxy(QMap.Entry;) | map entry proxy
+void moveFocusToEntryEditor() | move focus to entry editor
+void NewEntryAction(QKeyStroke;) | new entry action
+void NewEntryAction(QString;) | new entry action
+void NewEntryAction(QString;QKeyStroke;) | new entry action
+void newEntryShowing(QBibtexEntry;) | new entry showing
+void NextEntryAction() | next entry action
+void PrevEntryAction() | prev entry action
+void printLiveOnEntrySet(QOptFunctionNode;) | print live on entry set
+void purgeCustomEntryTypes(I) | purge custom entry types
+void rebuildAllEntryEditors() | rebuild all entry editors
+void removeCachedEntryEditors() | remove cached entry editors
+void saveCustomEntryTypes(QJabRefPreferences;) | save custom entry types
+void setApplicationEntryPoint(QString;) | set application entry point
+void setEntryLocation(QLocation;) | set entry location
+void setEntryManager(QEntryManager;) | set entry manager
+void setEntryName(QString;) | set entry name
+void setEntryStatus(QEntityEntry;QStatus;) | set entry status
+void showEntryEditor(QEntryEditor;) | show entry editor
+void storeCustomEntryType(QCustomEntryType;I) | store custom entry type
+void testCreateUniqueEntityEntryKeyForAssignIdGenerator() | test create unique entity entry key for assign id generator
+void testEntryEditorForFieldAnotherAutoCompleter() | test entry editor for field another auto completer
+void testEntryEditorForNameFieldAutoCompleter() | test entry editor for name field auto completer
+void testReadXMPEntryType() | test read xmp entry type
+void testTwoSeparateEntryElement() | test two separate entry element
+void updateEntryEditorIfShowing() | update entry editor if showing
+void updateEntryEditorTabList() | update entry editor tab list
+void updateEntryPreviewToRow(QBibtexEntry;) | update entry preview to row
+VuzeActivitiesEntry createEntryFromMap(QMap;Z) | create entry from map
+VuzeActivitiesEntry getEntryByID(QString;) | get entry by id

@@ -1,0 +1,2 @@
+CONS Byte4ByteDebugStreams([B) | byte 4 byte debug streams
+CONS Byte4ByteDebugStreams(QString;) | byte 4 byte debug streams

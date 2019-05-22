@@ -1,0 +1,166 @@
+boolean ALLOW_ACTIONBAR_HIDING | allow action bar hiding
+boolean _allowAssertions | allow assertions
+boolean allow_empty_input | allow empty input
+boolean allow_external_access | allow external access
+boolean allow_fallback | allow fallback
+boolean allow_key_modification | allow key modification
+boolean allowMemberExprAsFunctionName | allow member expr as function name
+boolean ALLOW_ONLY_AZ3 | allow only az 3
+boolean allowRate | allow rate
+boolean allowReconnect | allow reconnect
+boolean ALLOWSCHILDREN | allows children
+boolean ALLOW_SIDEBAR_HIDING | allow sidebar hiding
+boolean allowZero | allow zero
+boolean antialiasAll | antialias all
+boolean bAllowScrolling | b allow scrolling
+boolean bAllowShareAdd | b allow share add
+boolean choices_allow_edit | choices allow edit
+boolean doing_allocations | doing allocations
+boolean ENABLE_ALL | enable all
+boolean ip_filter_allow | ip filter allow
+boolean ip_range_all | ip range all
+boolean isAllcaps | is all caps
+boolean _searchAll | search all
+boolean _searchAllDocuments | search all documents
+boolean _shouldBeTestAll | should be test all
+boolean showAllNodes | show all nodes
+boolean SHOW_ALL_PLUGINS | show all plugins
+boolean[] slice_alloc_fails | slice alloc fails
+boolean[][] slice_allocs | slice allocs
+boolean treatAllElements | treat all elements
+boolean updateAllViews | update all views
+boolean use_fast_resume_recheck_all | use fast resume recheck all
+byte allocator | allocator
+com.aelitis.azureus.ui.common.table.TableColumnCore[] allColumns | all columns
+edu.rice.cs.drjava.config.BooleanOption ALLOW_PRIVATE_ACCESS | allow private access
+edu.rice.cs.drjava.config.BooleanOption FIND_ALL_DOCUMENTS | find all documents
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_CLOSE_ALL_FILES | key close all files
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_COMPILE_ALL | key compile all
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_DEBUG_CLEAR_ALL_BREAKPOINTS | key debug clear all breakpoints
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_JAVADOC_ALL | key javadoc all
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_SAVE_ALL_FILES | key save all files
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_SELECT_ALL | key select all
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_TEST_ALL | key test all
+freemind.extensions.HookInstanciationMethod OnceForAllNodes | once for all nodes
+freemind.modes.actions.RemoveAllIconsAction removeAllIconsAction | remove all icons action
+freemind.modes.actions.SelectAllAction selectAllAction | select all action
+int ALL | all
+int ALL_ACTIONS | all actions
+int ALLOCATE | allocate
+int allocate_request_loop_count | allocate request loop count
+int ALLOCATING | allocating
+int allowedLocation | allowed location
+int[][] ALL_TYPES | all types
+int[][] all_values | all values
+int BLOCKCOLOR_HAVEALL | block color have all
+int CAP_ALL | cap all
+int COMMAND_SENDING_REPORTS_ALL | command sending reports all
+int COUNT_ALL | count all
+int FIRSTPRIORITY_ALL | first priority all
+int HANDLER_TYPE_ALL | handler type all
+int LOCATION_ALLOWED_ANY | location allowed any
+int LOCATION_ALLOWED_ARM | location allowed arm
+int LOCATION_ALLOWED_TORSO | location allowed torso
+int PRESERVE_ALL | preserve all
+int PURGE_ALL | purge all
+int RANGE_ALL | range all
+int REMOVE_ALL | remove all
+int SHRINK_ALL | shrink all
+int SLICE_ALLOC_CHUNK_SIZE | slice alloc chunk size
+int SQL_ALL_TYPES | sql all types
+int STATE_ALLOCATING | state allocating
+int SYSTEM_ALLTYPEINFO | system alltypeinfo
+int T_ALL | t all
+int T_ALLOWED_ALL | t allowed all
+int T_IS_LEVEL_2_ALL | t is level  2  all
+int T_LEVEL_2_ALL | t level  2  all
+int TORRENTS_ALL | torrents all
+int TYPE_ALL | type all
+int UNIONALL | union all
+int VIEW_ALLPEERS | view allp ee rs
+java.awt.Button butClearAll | but clear all
+java.awt.Button butDeleteAll | but delete all
+java.awt.Button butSelectAll | but select all
+java.awt.Checkbox chkSelectAll | chk select all
+java.awt.CheckboxGroup gAllWords | g all words
+java.awt.event.ActionListener SELECT_ALL | select all
+java.awt.ScrollPane scrAll | scr all
+java.lang.Integer INTEGER_ALL | integer all
+java.lang.String ManagerItem_allocating | manager item allocating
+java.lang.String MENU_ID_ALL_PEERS | menu id all peers
+java.lang.String MENU_ID_CLOSE_ALL_DETAIL | menu id close all detail
+java.lang.String MENU_ID_CLOSE_ALL_DL_BARS | menu id close all dl bars
+java.lang.String MENU_ID_START_ALL_TRANSFERS | menu id start all transfers
+java.lang.String MENU_ID_STOP_ALL_TRANSFERS | menu id stop all transfers
+java.lang.String MENU_ID_WINDOW_ALL_TO_FRONT | menu id window all to front
+java.lang.String OP_GET_ALL_ENGINES | op get all engines
+java.lang.String SQL_SELECT_ALL_FIELDS | sql select all fields
+java.lang.String S_R_ALL | s r all
+java.lang.String ST_ALL | st all
+java.lang.String[][] _ST_ALL | st all
+java.lang.String TABLE_ALL_PEERS | table all peers
+java.lang.String TABLE_MYTORRENTS_ALL_BIG | table mytorrents all big
+java.lang.String T_ALL | t all
+java.lang.String T_ALLOCATE | t allocate
+java.lang.String textdb_allow_full_path | textdb allow full path
+java.util.ArrayList allEntries | all entries
+java.util.ArrayList allNodes | all nodes
+java.util.HashMap allRegistrationInstances | all registration instances
+java.util.HashMap allRegistrations | all registrations
+java.util.List allInputs | all inputs
+java.util.List _allLists | all lists
+java.util.List _allStatus | all status
+java.util.List allTabs | all tabs
+java.util.List allViews | all views
+java.util.Map all | all
+java.util.Map allBundles | all bundles
+java.util.Map allMultiSnipes | all multi snipes
+java.util.Map _allOrderedAuctionEntries | all ordered auction entries
+java.util.Set allowedHosts | allowed hosts
+java.util.Vector all | all
+java.util.Vector allBindings | all bindings
+java.util.Vector all_pairs | all pairs
+java.util.Vector allPlugins | all plugins
+java.util.Vector allTypes | all types
+java.util.Vector mAllIconNames | m all icon names
+javax.swing.Action _findAllAction | find all action
+javax.swing.Action _replaceAllAction | replace all action
+javax.swing.ButtonGroup allButtons | all buttons
+javax.swing.JButton butClearAll | but clear all
+javax.swing.JButton butDeleteAll | but delete all
+javax.swing.JButton butSelectAll | but select all
+javax.swing.JButton _findAllButton | find all button
+javax.swing.JButton jButtonCompileAll | j button compile all
+javax.swing.JButton _removeAllButton | remove all button
+javax.swing.JButton _replaceAllButton | replace all button
+javax.swing.JCheckBox allowArchival | allow archival
+javax.swing.JCheckBox allowConfigUpdateBox | allow config update box
+javax.swing.JCheckBox chkSelectAll | chk select all
+javax.swing.JCheckBox _searchAllDocuments | search all documents
+javax.swing.JMenuItem jMenuItemCloseAll | j menu item close all
+javax.swing.JMenuItem jMenuItemCloseAllExceptThis | j menu item close all except this
+javax.swing.JMenuItem jMenuItemCloseAllExceptThisFromList | j menu item close all except this from list
+javax.swing.JMenuItem jMenuItemCloseAllFromList | j menu item close all from list
+javax.swing.JMenuItem jMenuItemSaveAll | j menu item save all
+javax.swing.JMenuItem jMenuItemSaveAllFromList | j menu item save all from list
+javax.swing.JMenuItem jMenuItemSelectAll | j menu item select all
+javax.swing.JRadioButtonMenuItem rbAllSchemas | rb all schemas
+javax.swing.JScrollPane scrAll | scr all
+javax.swing.undo.UndoableEdit DISCARD_ALL_EDITS | discard all edits
+long FLAG_ALLOW_PERMITTED_PEER_SOURCE_CHANGES | flag allow permitted peer source changes
+net.sourceforge.ganttproject.gui.taskproperties.TaskAllocationsPanel[] myAllocationsPanel | my allocations panel
+org.gudy.azureus2.core3.category.Category catAll | cat all
+org.gudy.azureus2.core3.disk.impl.DiskManagerAllocationScheduler allocation_scheduler | allocation scheduler
+org.gudy.azureus2.core3.internat.LocaleUtilDecoder[] all_decoders | all decoders
+org.gudy.azureus2.core3.util.AEMonitor allEntries_mon | all entries mon
+org.gudy.azureus2.plugins.ui.Graphic icon_rss_all_add_big | icon rss all add big
+org.gudy.azureus2.plugins.ui.Graphic icon_rss_all_add_small | icon rss all add small
+org.gudy.azureus2.plugins.ui.menus.MenuItemListener deleteAllResultsListener | delete all results listener
+org.gudy.azureus2.plugins.ui.menus.MenuItemListener markAllResultsListener | mark all results listener
+org.gudy.azureus2.plugins.ui.menus.MenuItemListener unmarkAllResultsListener | unmark all results listener
+org.hsqldb.lib.StopWatch saveAllTimer | save all timer
+org.mozilla.javascript.ObjToIntMap allStrings | all strings
+short alloc_id | alloc id
+short[] SLICE_ALLOC_MAXS | slice alloc maxs
+short[] SLICE_ENTRY_ALLOC_SIZES | slice entry alloc sizes
+thePackage.JTabManager allTabs | all tabs

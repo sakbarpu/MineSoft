@@ -1,0 +1,25 @@
+boolean changeLocale(QLocale;) | change locale
+boolean changeLocale(QLocale;Z) | change locale
+boolean isCurrentLocale(QLocale;) | is current locale
+boolean keyExistsForDefaultLocale(QString;) | key exists for default locale
+java.util.Locale getLocale() | get locale
+List getSupportedLocale() | get supported locale
+Locale getCurrentLocale() | get current locale
+Locale getLocale() | get locale
+Locale getLocale(I) | get locale
+Locale getLocale(QString;) | get locale
+Locale setLocale(QLocale;) | set locale
+Query setLocale(IQLocale;) | set locale
+Query setLocale(QString;QLocale;) | set locale
+String formatDownloadStatusDefaultLocale(QDownloadManager;) | format download status default locale
+void parseLocale() | parse locale
+void revertToDefaultLocale() | revert to default locale
+void setCollationAsLocale() | set collation as locale
+void setCurrentLocale(QLocale;) | set current locale
+void setCurrentLocale(QString;) | set current locale
+void setCurrentLocale(QString;QString;) | set current locale
+void setLocale(Qjava.util.Locale;) | set locale
+void setLocale(QLocale;) | set locale
+void setLocale(QString;) | set locale
+void updateDefaultLocale() | update default locale
+void updateLocale(QLocaleUtilities;) | update locale

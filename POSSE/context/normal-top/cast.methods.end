@@ -1,0 +1,2 @@
+double applyMinMaxRescaleCast(D) | apply min max rescale cast
+void setBCast() | set b cast

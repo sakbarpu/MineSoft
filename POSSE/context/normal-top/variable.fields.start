@@ -1,0 +1,4 @@
+byte VARIABLE_KEYWORD | variable keyword
+int VARIABLE_PROP | variable prop
+javax.swing.JToolBar variableButtonsToolBar | variable buttons tool bar
+short variableObjectLocal | variable object local

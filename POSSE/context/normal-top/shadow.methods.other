@@ -1,0 +1,8 @@
+boolean isShadowStyle(QString;) | is shadow style
+String formatUnknownShadowStyleClient(QString;) | format unknown shadow style client
+String getShadowStyleClientName(QString;) | get shadow style client name
+String getShadowStyleVersionNumber(QString;) | get shadow style version number
+void addShadowOnFloor(QGroup;) | add shadow on floor
+void addShadowStyle(CQString;) | add shadow style
+void addShadowStyle(CQString;QString;) | add shadow style
+void testDeleteNewlineAndShadowBlockCommentStart() | test delete newline and shadow block comment start

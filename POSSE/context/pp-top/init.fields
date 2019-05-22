@@ -1,0 +1,23 @@
+boolean bAlreadyInitialized | b already initialized
+boolean bInitialized | b initialized
+boolean download_initiated | download initiated
+boolean initial_address_change_deferred | initial address change deferred
+boolean initialised | initialised
+boolean _initialized | initialized
+boolean initialized | initialized
+boolean initiated | initiated
+boolean init_tried | init tried
+boolean isInitialized | is initialized
+boolean plugins_initialised | plugins initialised
+boolean pre_initialised | pre initialised
+boolean restart_initiated | restart initiated
+boolean scrollBarsInitialized | scroll bars initialized
+boolean searchResultsInitialized | search results initialized
+byte NAT_CHECK_INITIATED | nat check initiated
+int EVENT_INITIALIZED | event initialized
+int INIT_DEFERRED | init deferred
+int LDT_DESTROY_INITIATED | ldt destroy initiated
+int PEV_ALL_PLUGINS_INITIALISED | pev all plugins initialised
+int REQUIRE_TABLEITEM_INITIALIZED | require table item initialized
+int STATE_INITIALIZED | state initialized
+int TS_INITIALISED | ts initialised

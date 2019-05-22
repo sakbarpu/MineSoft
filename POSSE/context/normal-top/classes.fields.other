@@ -1,0 +1,4 @@
+int HKEY_CLASSES_ROOT | hkey classes root
+java.lang.String MULTI_CLASSES_IN_FILE_TEXT | multi classes in file text
+java.lang.String NESTED_CLASSES_TEXT | nested classes text
+javax.swing.JLabel _cantJarClassesLabel | cant jar classes label

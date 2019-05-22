@@ -1,0 +1,6 @@
+boolean bShouldCommit | b should commit
+boolean filesShouldBeDeletedAfterShutdown | files should be deleted after shutdown
+boolean _shouldBeTestAll | should be test all
+boolean _shouldCheckConflict | should check conflict
+int ACTUATOR_SHOULDER | actuator shoulder
+int shouldRevertFileCount | should revert file count

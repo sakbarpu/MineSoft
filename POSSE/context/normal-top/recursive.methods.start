@@ -1,0 +1,12 @@
+boolean recursiveDelete(QFile;) | recursive delete
+boolean recursiveFindLineNumber(IQReferenceType;) | recursive find line number
+Object recursiveInterpreter(QInterpreter;QString;QVector;) | recursive interpreter
+Object recursiveInterpreter(QInterpreter;QString;QVector;I) | recursive interpreter
+void recursiveCallAddChildren(QMindMapNode;QMindMapNode;) | recursive call add children
+void recursiveCallRemoveChildren(QMindMapNode;QMindMapNode;QMindMapNode;) | recursive call remove children
+void recursiveCallUpdateHooks(QMindMapNode;QMindMapNode;) | recursive call update hooks
+void recursiveEmptyDirDelete(QFile;) | recursive empty dir delete
+void recursiveEmptyDirDelete(QFile;QSet;Z) | recursive empty dir delete
+void recursiveEmptyDirDelete(QFile;Z) | recursive empty dir delete
+void recursiveResolve(IZQString;) | recursive resolve
+void recursiveResolve(IZQString;QAST;) | recursive resolve

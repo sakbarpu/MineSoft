@@ -1,0 +1,8 @@
+ConcreteOpenDefDoc _createOpenDefinitionsDocument(QFile;) | create open definitions document
+ConcreteOpenDefDoc _createOpenDefinitionsDocument(QNullFile;) | create open definitions document
+List<QOpenDefinitionsDocument;> getOpenDefinitionsDocuments() | get open definitions documents
+List<QOpenDefinitionsDocument;> getSortedOpenDefinitionsDocuments() | get sorted open definitions documents
+String clusterDefinitionsTipText() | cluster definitions tip text
+void focusOnDefinitionsPane() | focus on definitions pane
+void setDefinitionsIndent(I) | set definitions indent
+void testGetDefinitionsDocuments() | test get definitions documents

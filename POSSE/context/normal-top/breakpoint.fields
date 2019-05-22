@@ -1,0 +1,15 @@
+boolean[] breakpoints | breakpoints
+edu.rice.cs.drjava.config.BooleanOption WARN_BREAKPOINT_OUT_OF_SYNC | warn breakpoint out of sync
+edu.rice.cs.drjava.config.ColorOption DEBUG_BREAKPOINT_COLOR | debug breakpoint color
+edu.rice.cs.drjava.config.ColorOption DEBUG_BREAKPOINT_DISABLED_COLOR | debug breakpoint disabled color
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_DEBUG_BREAKPOINT_PANEL | key debug breakpoint panel
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_DEBUG_BREAKPOINT_TOGGLE | key debug breakpoint toggle
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_DEBUG_CLEAR_ALL_BREAKPOINTS | key debug clear all breakpoints
+edu.rice.cs.drjava.model.ConcreteRegionManager<edu.rice.cs.drjava.model.debug.Breakpoint> _breakpointManager | breakpoint manager
+edu.rice.cs.drjava.project.ProjectFileParser.BreakpointListVisitor breakpointListVisitor | breakpoint list visitor
+edu.rice.cs.drjava.ui.BreakpointsPanel _breakpointsPanel | breakpoints panel
+edu.rice.cs.drjava.ui.ReverseHighlighter.DrJavaHighlightPainter BREAKPOINT_PAINTER | breakpoint painter
+edu.rice.cs.drjava.ui.ReverseHighlighter.DrJavaHighlightPainter DISABLED_BREAKPOINT_PAINTER | disabled breakpoint painter
+int BREAKPOINT | breakpoint
+int breakpointReachedCount | breakpoint reached count
+java.util.List<edu.rice.cs.drjava.model.debug.DebugBreakpointData> _breakpoints | breakpoints

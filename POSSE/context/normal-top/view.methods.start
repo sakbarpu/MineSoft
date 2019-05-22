@@ -1,0 +1,19 @@
+boolean viewURL(QString;QString;DDZZ) | view url
+boolean viewURL(QString;QString;IIZZ) | view url
+int viewToModel(QGlyphView;FFQShape;[QPosition.Bias;) | view to model
+Point2D.Double viewToDrawing(QPoint;) | view to drawing
+Rectangle2D.Double viewToDrawing(QRectangle;) | view to drawing
+void viewCliques(QGraphics;QJunctionTreeNode;) | view cliques
+void viewDetails(QDownloadManager;QString;) | view details
+void viewDetails(QString;QString;) | view details
+void viewDetails(QTableRowCore;QString;) | view details
+void viewFromObserver() | view from observer
+void viewFromTop() | view from top
+void viewGroup() | view group
+void viewHelp() | view help
+void viewInteractionsClassPath() | view interactions class path
+void ViewManagerImpl(QGanttTabbedPane;) | view manager impl
+void ViewMenuItem(QEntity;) | view menu item
+void ViewStateEvent(QChartViewState;QObject;QObject;) | view state event
+void ViewTest(QHomeController;) | view test
+void viewTitleInfoRefresh(QViewTitleInfo;) | view title info refresh

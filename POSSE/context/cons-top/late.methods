@@ -1,0 +1,3 @@
+CONS ResultMatrixLatex() | result matrix latex
+CONS ResultMatrixLatex(II) | result matrix latex
+CONS ResultMatrixLatex(QResultMatrix;) | result matrix latex

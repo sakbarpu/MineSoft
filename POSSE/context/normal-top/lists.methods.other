@@ -1,0 +1,3 @@
+void testCommandLineToLists_Pipe() | test command line to lists pipe
+void testCommandLineToLists_PipeAndSeq() | test command line to lists pipe and seq
+void testCommandLineToLists_Seq() | test command line to lists seq

@@ -1,0 +1,15 @@
+java.util.Locale getLocaleFromString(QString;) | get locale from string
+LocaleResourceFilesDialog getLocaleFilesDialog() | get locale files dialog
+LocaleUtil getLocaleUtil() | get locale util
+LocaleUtilities getLocaleUtilities() | get locale utilities
+String getCurrentLocaleID() | get current locale id
+String getDefaultLocaleString(QString;) | get default locale string
+String getLocaleHelpPath() | get locale help path
+String getLocaleName(QString;QString;) | get locale name
+String getLocaleString() | get locale string
+String toLocale_helper(DI) | to locale helper
+void checkLocaleChange() | check locale change
+void setDisplayformatlocalekey(String string) | set display format locale key
+void setLocaleFilesDialog(QLocaleResourceFilesDialog;) | set locale files dialog
+void testLocaleSpecificFormat() | test locale specific format
+void updateJMenuItemReportLocaleText() | update j menu item report locale text

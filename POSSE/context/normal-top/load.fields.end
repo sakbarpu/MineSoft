@@ -1,0 +1,23 @@
+boolean forceVisibleAfterLoad | force visible after load
+float myLoad | my load
+int FIELD_LOAD | field load
+int HsqlProperties_load | hsql properties load
+int Icode_SCOPE_LOAD | icode scope load
+int LOCAL_LOAD | local load
+int STEP_LOAD | step load
+java.awt.Button butBoardLoad | but board load
+java.awt.Button butLoad | but load
+java.awt.Checkbox chHotLoad | ch hot load
+java.awt.Label labHotLoad | lab hot load
+java.awt.MenuItem deployLoad | deploy load
+java.awt.MenuItem moveLoad | move load
+java.lang.String _cfgLoad | cfg load
+java.lang.String DEPLOY_LOAD | deploy load
+java.lang.String MOVE_LOAD | move load
+javax.swing.JButton butBoardLoad | but board load
+javax.swing.JButton butLoad | but load
+javax.swing.JCheckBox chHotLoad | ch hot load
+javax.swing.JCheckBox jcbPreLoad | jcb pre load
+javax.swing.JLabel labHotLoad | lab hot load
+javax.swing.JMenuItem deployLoad | deploy load
+javax.swing.JMenuItem moveLoad | move load

@@ -1,0 +1,4 @@
+CONS MapModuleManager(QController;QHistoryManager;QLastOpenedList;) | map module manager
+CONS MapModule(QMindMap;QMapView;QMode;) | map module
+CONS OptionModule() | option module
+CONS OptionModule(QString;) | option module

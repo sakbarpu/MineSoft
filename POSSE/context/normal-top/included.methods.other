@@ -1,0 +1,6 @@
+boolean isIncludedIn(QRule;) | is included in
+boolean isInIncludedPackage(QString;) | is in included package
+boolean negationIncludedIn(QLiteralSet;) | negation included in
+void addIncludedFile(QFile;) | add included file
+void clearIncludedFile() | clear included file
+void removeIncludedFile(QFile;) | remove included file

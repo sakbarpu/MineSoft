@@ -1,0 +1,8 @@
+boolean isDead() | is dead
+DHTRouterContact contactDead([BZ) | contact dead
+Element setDead(QElement;) | set dead
+void buddyDead(QBuddyPluginBuddy;) | buddy dead
+void informDead() | inform dead
+void notifyDead() | notify dead
+void removeDead(I) | remove dead
+void setDead(Z) | set dead

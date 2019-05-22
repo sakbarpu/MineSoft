@@ -1,0 +1,2 @@
+String getRedirectURL() | get redirect url
+void setRedirectURL(QString;) | set redirect url

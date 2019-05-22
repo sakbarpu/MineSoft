@@ -1,0 +1,43 @@
+boolean clickedOK() | clicked ok
+boolean getAlwaysRightClickScroll() | get always right click scroll
+boolean getClickEdgeScroll() | get click edge scroll
+boolean handleMouseClick(QPoint2D.Double;QMouseEvent;QDrawingView;) | handle mouse click
+int clickDockIcon(III) | click dock icon
+int getToggleClickCount() | get toggle click count
+int whichClicks() | which clicks
+JPopupMenu getRightClickPopup() | get right click popup
+MouseEvent getLastMouseClick() | get last mouse click
+MouseListener createDoubleClickListener(QJFileChooser;QJList;) | create double click listener
+void clickFunction(II) | click function
+void doClick() | do click
+void doClickOnOkInDialog(QJDialog;QJComponentTester;) | do click on ok in dialog
+void doDoubleClick() | do double click
+void doDoubleClick(QMouseEvent;III) | do double click
+void doSingleClick(QMouseEvent;III) | do single click
+void doTripleClick(QMouseEvent;III) | do triple click
+void doubleClick() | double click
+void DoubleClickListener(QJList;) | double click listener
+void doubleClick(QMouseEvent;) | double click
+void handleClick(QMouseEvent;) | handle click
+void handleDoubleClick(QMouseEvent;) | handle double click
+void handleRightClick(QMouseEvent;II) | handle right click
+void handleRightNodeClick(QMouseEvent;) | handle right node click
+void historyRightClickPopup(QString;II) | history right click popup
+void internalDoubleClick(QMouseEvent;) | internal double click
+void mouseDoubleClick(QMouseEvent;) | mouse double click
+void onClick() | on click
+void OnDoubleClick(QJTable;QObject;QMouseEvent;) | on double click
+void onMouseClick(QMouseEvent;) | on mouse click
+void plainClick(QMouseEvent;) | plain click
+void processMouseClick(IIQMouseEvent;) | process mouse click
+void setAlwaysRightClickScroll(Z) | set always right click scroll
+void setClickEdgeScroll(Z) | set click edge scroll
+void setHandleRightClicks(Z) | set handle right clicks
+void setMouseClickIsDefaultSelection(Z) | set mouse click is default selection
+void setOnClick(String script) | set on click
+void setRightClickPopup(QJPopupMenu;) | set right click popup
+void showIconRightClickMenu(QMouseEvent;I[QString;) | show icon right click menu
+void showOrdinaryRightClickMenu(QMouseEvent;) | show ordinary right click menu
+void trackDoubleClick(QPoint;I) | track double click
+void trackDoubleClick(QPoint;IQDrawingView;) | track double click
+void triggerClickedListeners(II) | trigger clicked listeners

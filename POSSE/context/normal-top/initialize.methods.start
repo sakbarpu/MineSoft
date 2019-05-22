@@ -1,0 +1,79 @@
+boolean initializeCollectionFromCache(QSerializable;QCollectionPersister;QPersistentCollection;QSessionImplementor;) | initialize collection from cache
+boolean initializeImmediately(QEntityMode;) | initialize immediately
+boolean initializeLazyProperty(QString;QObject;QSessionImplementor;[QObject;IQObject;) | initialize lazy property
+boolean initializePlugins(String pluginString, Jim jimProgram) | initialize plugins
+boolean initializeResourceFolders() | initialize resource folders
+Component initializePanel(I) | initialize panel
+double[][] initializeRanges() | initialize ranges
+double[][] initializeRanges([I) | initialize ranges
+double[][] initializeRanges([III) | initialize ranges
+FromElement initializeJoin(QString;QFromElement;QJoinSequence;[QString;QFromElement;Z) | initialize join
+JComponent initializePanel(I) | initialize panel
+Object initializeLazyPropertiesFromCache(QString;QObject;QSessionImplementor;QEntityEntry;QCacheEntry;) | initialize lazy properties from cache
+Object initializeLazyPropertiesFromDatastore(QString;QObject;QSessionImplementor;QSerializable;QEntityEntry;) | initialize lazy properties from datastore
+Object initializeLazyProperty(QString;QObject;QSessionImplementor;) | initialize lazy property
+RoutingAlgorithm initializeAlgorithmInstance(RoutingAlgorithmConfiguration conf, RoutingService routingSvc) | initialize algorithm instance
+void initializeActions() | initialize actions
+void initializeAll() | initialize all
+void initializeAndAddFromElement(QFromElement;QString;QString;QEntityPersister;QEntityType;QString;) | initialize and add from element
+void initializeArgs() | initialize args
+void initializeArmor(II) | initialize armor
+void initializeAround(II) | initialize around
+void initializeAround(int x, int y) | initialize around
+void initializeAsCenterTile(QImageLibrary;) | initialize as center tile
+void initializeAsGraphic(I) | initialize as graphic
+void initializeAsGraphic(II) | initialize as graphic
+void initializeAttributeIndices() | initialize attribute indices
+void initializeCapabilities() | initialize capabilities
+void initializeCollection(QFromClause;QString;QString;) | initialize collection
+void initializeCollection(QPersistentCollection;Z) | initialize collection
+void initializeColors() | initialize colors
+void initializeColumnDefs() | initialize column defs
+void initializeColumnNames() | initialize column names
+void initializeColumns() | initialize columns
+void initializeColumns(QBaseTransformation;) | initialize columns
+void initializeConnection() | initialize connection
+void initializeContacts(EvolutionState state) | initialize contacts
+void initializeCumulativeLengths() | initialize cumulative lengths
+void initializeDefaultRowInfo() | initialize default row info
+void initializeDerivedSelectClause(QFromClause;) | initialize derived select clause
+void initializeDiskManagerSupport(IQDiskManagerListener;) | initialize disk manager support
+void initializeDiskManager(Z) | initialize disk manager
+void initializeDisplay() | initialize display
+void initializeDown(Z) | initialize down
+void initializeEntitiesAndCollections(QList;QObject;QSessionImplementor;Z) | initialize entities and collections
+void initializeEntity(QFromClause;QString;QEntityPersister;QEntityType;QString;QString;) | initialize entity
+void initializeEntity(QObject;ZQSessionImplementor;QPreLoadEvent;QPostLoadEvent;) | initialize entity
+void initializeExplicitSelectClause(QFromClause;) | initialize explicit select clause
+void initializeFrame() | initialize frame
+void initializeFromCachedList() | initialize from cached list
+void initializeFromCache(QCollectionPersister;QSerializable;QObject;) | initialize from cache
+void initializeGUIComponents() | initialize gui components
+void initializeHex(II) | initialize hex
+void initializeIndices() | initialize indices
+void initializeInDir(III) | initialize in dir
+void initializeInternal(II) | initialize internal
+void initializeJournalNames() | initialize journal names
+void initializeListeners() | initialize listeners
+void initializeListeners(QConfiguration;) | initialize listeners
+void initializeMap() | initialize map
+void initializeMethodNode(QAST;Z) | initialize method node
+void initializeNewDatabase() | initialize new database
+void initializeNonLazyCollections() | initialize non lazy collections
+void initializePlatformClientMessageContext() | initialize platform client message context
+void initializePluginFromClass(QClass;QString;QString;ZZZ) | initialize plugin from class
+void initializePluginFromInstance(QPlugin;QString;QString;) | initialize plugin from instance
+void initializeProforma() | initialize proforma
+void initializeRangesEmpty(I[[D) | initialize ranges empty
+void initializeRanges(I) | initialize ranges
+void initializeRearArmor(II) | initialize rear armor
+void _initializeRequests() | initialize requests
+void _initializeRequests(QVector<QReferenceType;>;) | initialize requests
+void initializeRows(QBaseTransformation;) | initialize rows
+void initializeSingleton() | initialize singleton
+void initializeSqlNode(QAST;) | initialize sql node
+void initializeTableColumns(QTable;) | initialize table columns
+void initializeTable(QTable;) | initialize table
+void initializeTypes() | initialize types
+void initializeUp() | initialize up
+void initializeVertex(int vertex) | initialize vertex

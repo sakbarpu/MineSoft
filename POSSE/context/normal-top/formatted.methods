@@ -1,0 +1,5 @@
+String getFormattedInviteMessage() | get formatted invite message
+String getFormattedString(DQString;D) | get formatted string
+String getFormattedTickText(QNumberFormat;F) | get formatted tick text
+String getFormattedValue() | get formatted value
+String getFormattedWithTwoDecimals(float value) | get formatted with two decimals

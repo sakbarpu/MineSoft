@@ -1,0 +1,32 @@
+boolean supportsPooledSequences() | supports pooled sequences
+boolean supportsStatementPooling() | supports statement pooling
+double getPoolEfficency() | get pool efficency
+ExpressionPool getPool() | get pool
+int getPoolHitsCount() | get pool hits count
+int getPoolIndex(I) | get pool index
+int getPoolRequestsCount() | get pool requests count
+int getTrainPoolSize() | get train pool size
+PoolableObjectFactory getPoolableObjectFactory() | get poolable object factory
+PooledByteBuffer allocatePooledByteBuffer([B) | allocate pooled byte buffer
+PooledByteBuffer allocatePooledByteBuffer(I) | allocate pooled byte buffer
+PooledByteBuffer allocatePooledByteBuffer(QMap;) | allocate pooled byte buffer
+String composeWorkerThreadName(String poolName, String workerName) | compose worker thread name
+void clearBufferPools() | clear buffer pools
+void clearPool() | clear pool
+void drainPool(long waitTime) | drain pool
+void fillPool(int size) | fill pool
+void initPool() | init pool
+void Pool36Random() | pool 36 random
+void PooledOptimizer(QClass;I) | pooled optimizer
+void releaseToPool() | release to pool
+void resetPool() | reset pool
+void resetPool([II) | reset pool
+void returnToPool() | return to pool
+void returnToPoolIfNotFree() | return to pool if not free
+void setMaxPool(int arg0) | set max pool
+void setPoolAttributeAndFlush(String attName, Object attValue) | set pool attribute and flush
+void setPoolEfficency(D) | set pool efficency
+void setTrainPoolSize(I) | set train pool size
+void shufflePool() | shuffle pool
+void startExecutorPool() | start executor pool
+void threadPoolWorker() | thread pool worker

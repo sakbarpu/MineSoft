@@ -1,0 +1,31 @@
+BraceInfo _getEnclosingBrace() | get enclosing brace
+BraceInfo _getLineEnclosingBrace() | get line enclosing brace
+int distToEnclosingBrace() | dist to enclosing brace
+int distToEnclosingBraceStart() | dist to enclosing brace start
+int distToLineEnclosingBrace() | dist to line enclosing brace
+int distToLineEnclosingBraceStart() | dist to line enclosing brace start
+int findNextEnclosingBrace(ICC) | find next enclosing brace
+int findPrevEnclosingBrace(ICC) | find prev enclosing brace
+int getDistToEnclosingBraceStart() | get dist to enclosing brace start
+int getDistToEnclosingBraceStart(I) | get dist to enclosing brace start
+String enclosingBraceType() | enclosing brace type
+String _getEnclosingClassName(IZ) | get enclosing class name
+String getEnclosingClassName(IZ) | get enclosing class name
+String getEnclosingClassName(QOpenDefinitionsDocument;) | get enclosing class name
+String getEnclosingTopLevelClassName(I) | get enclosing top level class name
+String lineEnclosingBraceType() | line enclosing brace type
+void AbstractEnclosingBrace(ICC) | abstract enclosing brace
+void EnclosingBrace(I) | enclosing brace
+void _enclosingBraceTestHelper(IQString;IQString;) | enclosing brace test helper
+void EnclosingClassName(IZ) | enclosing class name
+void LineEnclosingBrace(I) | line enclosing brace
+void _lineEnclosingBraceTestHelper(IQString;IQString;) | line enclosing brace test helper
+void NextEnclosingBrace(ICC) | next enclosing brace
+void PrevEnclosingBrace(ICC) | prev enclosing brace
+void setDistToEnclosingBrace(I) | set dist to enclosing brace
+void setDistToEnclosingBraceStart(I) | set dist to enclosing brace start
+void setDistToLineEnclosingBrace(I) | set dist to line enclosing brace
+void setDistToLineEnclosingBraceStart(I) | set dist to line enclosing brace start
+void setEnclosingBraceType(QString;) | set enclosing brace type
+void setLineEnclosingBraceType(QString;) | set line enclosing brace type
+void textTopLevelEnclosingClassName() | text top level enclosing class name

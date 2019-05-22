@@ -1,0 +1,6 @@
+org.gudy.azureus2.core3.disk.impl.access.DMChecker checker | checker
+org.gudy.azureus2.core3.global.impl.GlobalManagerImpl.Checker checker | checker
+org.gudy.azureus2.core3.tracker.client.impl.bt.TrackerChecker checker | checker
+org.gudy.azureus2.plugins.update.UpdateChecker checker | checker
+org.gudy.azureus2.ui.swt.config.wizard.NatPanel.Checker checker | checker
+org.gudy.azureus2.ui.swt.nat.NatTestWindow.Checker checker | checker

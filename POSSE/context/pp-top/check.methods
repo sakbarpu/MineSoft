@@ -1,0 +1,91 @@
+boolean checkIfIdentifierIsHandled(QString;) | check if identifier is handled
+boolean checkIfSiteNameHandled(QString;) | check if site name handled
+boolean checkResolved(Z) | check resolved
+boolean getChecked() | get checked
+boolean getChecked(I) | get checked
+boolean isAlwaysDirtyChecked() | is always dirty checked
+boolean isCheckDeleted() | is check deleted
+boolean isChecked() | is checked
+boolean isNamedQueryStartupCheckingEnabled() | is named query startup checking enabled
+CONS ColumnSubscriptionLastChecked(QString;) | column subscription last checked
+LoadType setCheckDeleted(Z) | set check deleted
+void automaticlyReadFieldsCheckBoxActionPerformed(Qjava.awt.event.ActionEvent;) | automaticly read fields check box action performed
+void checkAsterisksCombined() | check asterisks combined
+void checkBatched(II) | check batched
+void checkCancelled(QDiskManagerCheckRequest;) | check cancelled
+void checkCascadeDropReferenced(QTable;Z) | check cascade drop referenced
+void checkCategoriesSorted() | check categories sorted
+void checkClientTrusted([Qjava.security.cert.X509Certificate;QString;) | check client trusted
+void checkClientTrusted([QX509Certificate;QString;) | check client trusted
+void checkClosed() | check closed
+void checkCompileOccurred() | check compile occurred
+void checkCompleted(QDiskManagerCheckRequest;Z) | check completed
+void checkCurrentThreadIsntInterrupted() | check current thread isnt interrupted
+void checkCurrentThreadIsntInterrupted(QPaintMode;) | check current thread isnt interrupted
+void checkDeprecated(QContext;QString;) | check deprecated
+void checkDestroyed() | check destroyed
+void checkEnded() | check ended
+void checkFailed(QDiskManagerCheckRequest;QThrowable;) | check failed
+void checkFailed(QExternalIPCheckerService;QString;) | check failed
+void checkFinished(Z) | check finished
+void checkForReSeed(Z) | check for re seed
+void checkFurnitureSorted() | check furniture sorted
+void checkInitialized() | check initialized
+void checkInstanceCreated(QUpdateCheckInstance;) | check instance created
+void checkInterested() | check interested
+void checkItemBoundsChanged(QRectangle2D;) | check item bounds changed
+void checkLoaded() | check loaded
+void checkNonBatched(I) | check non batched
+void checkNotSealed() | check not sealed
+void checkPluginsInitialised() | check plugins initialised
+void checkRestartNeeded() | check restart needed
+void checkRestartSupported() | check restart supported
+void checkSeed() | check seed
+void checkSelectionStateRecorded() | check selection state recorded
+void checkServerTrusted([Qjava.security.cert.X509Certificate;QString;) | check server trusted
+void checkServerTrusted([QX509Certificate;QString;) | check server trusted
+void checkSpeedAndReserved() | check speed and reserved
+void check_unused() | check unused
+void checkUploadAllowed() | check upload allowed
+void dataChecked(JJ) | data checked
+void jCheckBox1ActionPerformed(Qjava.awt.event.ActionEvent;) | j check box 1 action performed
+void jCheckBox1ItemStateChanged(Qjava.awt.event.ItemEvent;) | j check box 1 item state changed
+void jCheckBoxAutosaveActionPerformed(Qjava.awt.event.ActionEvent;) | j check box autosave action performed
+void jCheckBoxBlankWhenNullActionPerformed(Qjava.awt.event.ActionEvent;) | j check box blank when null action performed
+void jCheckBoxBoldActionPerformed(Qjava.awt.event.ActionEvent;) | j check box bold action performed
+void jCheckBoxFloatColumnFooterActionPerformed(Qjava.awt.event.ActionEvent;) | j check box float column footer action performed
+void jCheckBoxIgnorePaginationActionPerformed(Qjava.awt.event.ActionEvent;) | j check box ignore pagination action performed
+void jCheckBoxImageCacheActionPerformed(Qjava.awt.event.ActionEvent;) | j check box image cache action performed
+void jCheckBoxImageIsLazyActionPerformed(Qjava.awt.event.ActionEvent;) | j check box image is lazy action performed
+void jCheckBoxItalicActionPerformed(Qjava.awt.event.ActionEvent;) | j check box italic action performed
+void jCheckBoxKeepJavaFileActionPerformed(Qjava.awt.event.ActionEvent;) | j check box keep java file action performed
+void jCheckBoxMenuItemElementsFormattingActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item elements formatting action performed
+void jCheckBoxMenuItemEMMActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item emm action performed
+void jCheckBoxMenuItemExplorerActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item explorer action performed
+void jCheckBoxMenuItemGridActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item grid action performed
+void jCheckBoxMenuItemIgnorePaginationActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item ignore pagination action performed
+void jCheckBoxMenuItemOutputActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item output action performed
+void jCheckBoxMenuItemReportVirtualizerActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item report virtualizer action performed
+void jCheckBoxMenuItemSnapToGridActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item snap to grid action performed
+void jCheckBoxMenuItemTextFormattingActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item text formatting action performed
+void jCheckBoxPDFEmbeddedActionPerformed(Qjava.awt.event.ActionEvent;) | j check box pdf embedded action performed
+void jCheckBoxPrintInFirstWholeBandActionPerformed(Qjava.awt.event.ActionEvent;) | j check box print in first whole band action performed
+void jCheckBoxPrintRepeatedValuesActionPerformed(Qjava.awt.event.ActionEvent;) | j check box print repeated values action performed
+void jCheckBoxPrintWhenDetailOverflowsActionPerformed(Qjava.awt.event.ActionEvent;) | j check box print when detail overflows action performed
+void jCheckBoxRemoveLineWhenBlankActionPerformed(Qjava.awt.event.ActionEvent;) | j check box remove line when blank action performed
+void jCheckBoxSplitAllowedActionPerformed(Qjava.awt.event.ActionEvent;) | j check box split allowed action performed
+void jCheckBoxStretchWithOverflowActionPerformed(Qjava.awt.event.ActionEvent;) | j check box stretch with overflow action performed
+void jCheckBoxStrokeTroughActionPerformed(Qjava.awt.event.ActionEvent;) | j check box stroke trough action performed
+void jCheckBoxStyledTextActionPerformed(Qjava.awt.event.ActionEvent;) | j check box styled text action performed
+void jCheckBoxSubreportCacheActionPerformed(Qjava.awt.event.ActionEvent;) | j check box subreport cache action performed
+void jCheckBoxSummaryOnNewPageActionPerformed(Qjava.awt.event.ActionEvent;) | j check box summary on new page action performed
+void jCheckBoxTitleOnNewPageActionPerformed(Qjava.awt.event.ActionEvent;) | j check box title on new page action performed
+void jCheckBoxTransparentActionPerformed(Qjava.awt.event.ActionEvent;) | j check box transparent action performed
+void jCheckBoxUnderlineActionPerformed(Qjava.awt.event.ActionEvent;) | j check box underline action performed
+void jCheckBoxUseCurrentFilesDirectoryForCompilesActionPerformed(Qjava.awt.event.ActionEvent;) | j check box use current files directory for compiles action performed
+void setChecked(IZ) | set checked
+void setChecked(Z) | set checked
+void setCheckingEnabled(Z) | set checking enabled
+void setNamedQueryStartupCheckingEnabled(Z) | set named query startup checking enabled
+void setPieceCheckingEnabled(Z) | set piece checking enabled
+void statusCheckFailed() | status check failed

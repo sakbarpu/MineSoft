@@ -1,0 +1,18 @@
+boolean isConstant() | is constant
+boolean isFixedConstant() | is fixed constant
+int addConstant(D) | add constant
+int addConstant(F) | add constant
+int addConstant(I) | add constant
+int addConstant(J) | add constant
+int addConstant(QString;) | add constant
+void addLoadConstant(D) | add load constant
+void addLoadConstant(F) | add load constant
+void addLoadConstant(I) | add load constant
+void addLoadConstant(J) | add load constant
+void addLoadConstant(QString;) | add load constant
+void lookupConstant(QDotNode;) | lookup constant
+void processConstant(QAST;) | process constant
+void processConstant(QAST;Z) | process constant
+void setResolvedConstant(QString;) | set resolved constant
+void testReturnConstant() | test return constant
+void testWorksAfterRestartConstant() | test works after restart constant

@@ -1,0 +1,321 @@
+boolean bLastValueEstimate | b last value estimate
+boolean booleanValue | boolean value
+boolean bSortValueLive | b sort value live
+boolean cached_values_set | cached values set
+boolean default_value | default value
+boolean defaultValue | default value
+boolean enumValues | enum values
+boolean hasDefaultValues | has default values
+boolean isFixedConstantValueList | is fixed constant value list
+boolean isIntValue | is int value
+boolean isLongValue | is long value
+boolean isNoValue | is no value
+boolean isObjectValue | is object value
+boolean isPrintRepeatedValues | is print repeated values
+boolean myLockedValue | my locked value
+boolean myValue | my value
+boolean preentered_text_is_old_value | preentered text is old value
+boolean[] returnValueObject | return value object
+boolean _setToValue | set to value
+boolean _showValue | show value
+boolean sortOnValues | sort on values
+boolean value | value
+byte[] BYTES_VALUES | bytes values
+byte[] defaultValue | default value
+byte FLAG_MULTI_VALUE | flag multi value
+byte FLAG_SINGLE_VALUE | flag single value
+byte maximum_values | maximum values
+byte PROTOCOL_VERSION_ANON_VALUES | protocol version anon values
+byte PROTOCOL_VERSION_VIVALDI_FINDVALUE | protocol version vivaldi find value
+byte value | value
+byte[] value | value
+byte VALUE | value
+byte[] value_bytes | value bytes
+com.aelitis.azureus.core.dht.db.impl.DHTDBValueImpl value | value
+com.aelitis.azureus.core.dht.transport.DHTTransportValue value | value
+com.aelitis.azureus.core.dht.transport.DHTTransportValue[] values | values
+com.aelitis.azureus.core.dht.transport.DHTTransportValue[][] value_sets | value sets
+double conversionValue | conversion value
+double doubleValue | double value
+double maxValue | max value
+double minValue | min value
+double newValue | new value
+double oldValue | old value
+double _value | value
+double value | value
+float fDefaultValue | f default value
+float fMaxValue | f max value
+float fMinValue | f min value
+float lastMetricValue | last metric value
+float myAlphaValue | my alpha value
+float value | value
+float valueDown | value down
+float valueUp | value up
+int ACT_REPLY_FIND_VALUE | act reply find value
+int ACT_REQUEST_FIND_VALUE | act request find value
+int[][] all_values | all values
+int AT_FIND_VALUE | at find value
+int ATTRIBUTE_WITH_INVALID_VALUE | attribute with invalid value
+int DEBUG_STEP_TIMER_VALUE | debug step timer value
+int defaultValue | default value
+int DEFAULT_VALUE_POOL_SIZE | default value pool size
+int DHT_FIND_VALUE_HEADER_SIZE | dht find value header size
+int DHT_FIND_VALUE_TV_HEADER_SIZE | dht find value tv header size
+int DHTTRANSPORTVALUE_SIZE_WITHOUT_VALUE | dht transport value size without value
+int ENUM_INIT_VALUES | enum init values
+int ET_VALUE_READ | et value read
+int ET_VALUE_WRITTEN | et value written
+int exitValue | exit value
+int Expression_compareValues | expression compare values
+int fake_values_ref_count | fake values ref count
+int Icode_VALUE_AND_THIS | icode value and this
+int iDefaultValue | i default value
+int ID_NULL_VALUE | id null value
+int Id_valueOf | id value of
+int iMaxValue | i max value
+int iMinValue | i min value
+int indexDefaultValue | index default value
+int indexValues | index values
+int INSERT_VALUES | insert values
+int intKeyOrValue | int key or value
+int intValue | int value
+int[] intValueTable | int value table
+int KEY_QUERY_VALUE | key query value
+int lastMetricValue | last metric value
+int longKeyOrValue | long key or value
+int maxTextValue | max text value
+int max_value | max value
+int maxValue | max value
+int MAX_VALUES | max values
+int MAX_VALUE_SIZE | max value size
+int MAX_VALUES_PER_KEY | max values per key
+int min_value | min value
+int minValue | min value
+int missingPosValueBehavior | missing pos value behavior
+int nbValues | nb values
+int next_value_version | next value version
+int next_value_version_left | next value version left
+int NO_DEFAULT_VALUE_FOR_COLUMN | no default value for column
+int noKeyOrValue | no key or value
+int NO_VALUE_FOR_KEY | no value for key
+int NULL_IN_VALUE_LIST | null in value list
+int NUMERIC_VALUE_OUT_OF_RANGE | numeric value out of range
+int objectKeyOrValue | object key or value
+int RCDATA_GENFROMVALUES_FAIL | rcdata gen from values fail
+int returnValue | return value
+int S_IN_FINISHED_VALUE | s in finished value
+int SKEW_VALUE_MAX | skew value max
+int[] skew_values | skew values
+int[] SPECIAL_VALUES | special values
+int stateArmorValue | state armor value
+int tag_value_end | tag value end
+int tag_value_start | tag value start
+int targetSearchValue | target search value
+int TEXT_TABLE_SOURCE_VALUE_MISSING | text table source value missing
+int total_values | total values
+int TYPE_VALUE | type value
+int value | value
+int VALUE | value
+int valueChoice | value choice
+int[] value_details_snapshot | value details snapshot
+int VALUELIST | valuelist
+int VALUE_OCTETS | value octets
+int VALUE_OID | value oid
+int value_replies | value replies
+int[] values | values
+int[][] values | values
+int VALUES | values
+int values_found | values found
+int VALUE_SIZE_INC | value size inc
+int VALUE_SLOT | value slot
+int VALUE_UTF8 | value utf 8
+int VALUE_VERSION_CHUNK | value version chunk
+int VARIANCE_BAD_VALUE | variance bad value
+int VARIANCE_GOOD_VALUE | variance good value
+int VD_VALUE_COUNT | vd value count
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionValue | j r text expression value
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionXValue | j r text expression x value
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionYValue | j r text expression y value
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionZValue | j r text expression z value
+it.businesslogic.ireport.gui.ValuesDialog valuesDialog | values dialog
+it.businesslogic.ireport.gui.ValuesPanel valuesPanel | values panel
+it.businesslogic.ireport.JRSubreportReturnValue subreportReturnValue | subreport return value
+it.businesslogic.ireport.Style newValue | new value
+it.businesslogic.ireport.Style oldValue | old value
+java.awt.CardLayout cardLayoutDefaultValue | card layout default value
+java.awt.Choice m_chArmorValue | m ch armor value
+java.awt.Choice m_chJumpValue | m ch jump value
+java.awt.Color[] colorValues | color values
+java.awt.Color myLockedValue | my locked value
+java.awt.Color myValue | my value
+java.awt.Font FONT_VALUE | font value
+java.awt.Label m_labelArmorValue | m label armor value
+java.awt.Label m_labelJumpValue | m label jump value
+java.awt.Scrollbar value | value
+java.awt.TextField txtValue | txt value
+java.awt.TextField value | value
+java.io.File _fileValue | file value
+java.lang.Boolean value | value
+java.lang.Comparable sortValue | sort value
+java.lang.Double piValue | pi value
+java.lang.Float value | value
+java.lang.Integer exitValue | exit value
+java.lang.Number configValue | config value
+java.lang.Object[] cached_property_values | cached property values
+java.lang.Object currentValue | current value
+java.lang.Object defaultValue | default value
+java.lang.Object deselectedPropertyValue | deselected property value
+java.lang.Object inputValue | input value
+java.lang.Object myFieldValue | my field value
+java.lang.Object myNewValue | my new value
+java.lang.Object myOldValue | my old value
+java.lang.Object myValue | my value
+java.lang.Object newValue | new value
+java.lang.Object objectValue | object value
+java.lang.Object[] objectValueTable | object value table
+java.lang.Object oDefaultValue | o default value
+java.lang.Object oldValue | old value
+java.lang.Object[][] oValues | o values
+java.lang.Object[] parameterValues | parameter values
+java.lang.Object propertyValue | property value
+java.lang.Object[] returnValueObject | return value object
+java.lang.Object selectedPropertyValue | selected property value
+java.lang.Object _value | value
+java.lang.Object value | value
+java.lang.Object value1 | value 1
+java.lang.Object value2 | value 2
+java.lang.Object[] valueArray | value array
+java.lang.Object valueData | value data
+java.lang.Object[] values | values
+java.lang.reflect.Method setValueMethod | set value method
+java.lang.String argValue | arg value
+java.lang.String[] armorValues | armor values
+java.lang.String attributeValue | attribute value
+java.lang.String default_value | default value
+java.lang.String defaultValue | default value
+java.lang.String defaultValueExpression | default value expression
+java.lang.String displayValue | display value
+java.lang.String initialValueExpression | initial value expression
+java.lang.String lastDefaultValue | last default value
+java.lang.String mHeaderValue | m header value
+java.lang.String myDisplayValue | my display value
+java.lang.String myLockedValue | my locked value
+java.lang.String myValue | my value
+java.lang.String[] myValues | my values
+java.lang.String NAME_NOT_SET_VALUE | name not set value
+java.lang.String NO_VALUE | no value
+java.lang.String pageVerifierValue | page verifier value
+java.lang.String PT_VALUE | pt value
+java.lang.String START_VALUES | start values
+java.lang.String[] STATUS_VALUES | status values
+java.lang.String sValue | s value
+java.lang.String textValue | text value
+java.lang.String tokenValue | token value
+java.lang.String T_VALUE | t value
+java.lang.String T_VALUES | t values
+java.lang.String URL_PAGE_VERIFIER_VALUE | url page verifier value
+java.lang.String _value | value
+java.lang.String value | value
+java.lang.String _Value | value
+java.lang.String VALUE_ADDED_TAX_PERCENTAGE | value added tax percentage
+java.lang.String VALUE_ATTRIBUTE | value attribute
+java.lang.String valueAxisLabelExpression | value axis label expression
+java.lang.String valueClassName | value class name
+java.lang.String valueExpression | value expression
+java.lang.String[] values | values
+java.lang.String[] VALUES | values
+java.lang.String XML_DEFAULT_VALUE | xml default value
+java.lang.String XML_DJ_VALUE | xml dj value
+java.lang.String xValueExpression | x value expression
+java.lang.String yValueExpression | y value expression
+java.lang.String zValueExpression | z value expression
+java.lang.Throwable _value | value
+java.math.BigDecimal LONG_MAX_VALUE_INCREMENT | long max value increment
+java.math.BigDecimal valueAddedTaxPercentage | value added tax percentage
+java.text.DecimalFormat myValueFormatter | my value formatter
+java.util.ArrayList alValues | al values
+java.util.Date myLockedValue | my locked value
+java.util.Date myValue | my value
+java.util.HashMap<java.lang.Enum,java.lang.String> enumToValueMap | enum to value map
+java.util.HashMap<java.lang.String,java.util.Set<java.lang.Enum>> valueToEnumMap | value to enum map
+java.util.HashMap proposedValues | proposed values
+java.util.Hashtable associatedValues | associated values
+java.util.Hashtable attributeDefaultValues | attribute default values
+java.util.LinkedList enemy_values | enemy values
+java.util.LinkedList unit_values | unit values
+java.util.List arg_values | arg values
+java.util.List changeValueDispatchers | change value dispatchers
+java.util.List found_values | found values
+java.util.List myValues | my values
+java.util.List null_values | null values
+java.util.List remote_estimate_values | remote estimate values
+java.util.Map<com.eteks.sweethome3d.plugin.PluginAction.Property,java.lang.Object> propertyValues | property values
+java.util.Map indirect_originator_value_map | indirect originator value map
+java.util.Map local_estimate_values | local estimate values
+java.util.Map mapCustomColumnValue | map custom column value
+java.util.Map mapNameToValue | map name to value
+java.util.Map mapValueToName | map value to name
+java.util.Map stored_values | stored values
+java.util.Properties defaultValues | default values
+java.util.Set values_found_set | values found set
+java.util.Vector cachedValues | cached values
+java.util.Vector possibleValues | possible values
+java.util.Vector returnValues | return values
+java.util.Vector values | values
+javax.swing.JButton jButtonAddReturnValue | j button add return value
+javax.swing.JButton jButtonModReturnValue | j button mod return value
+javax.swing.JButton jButtonRemReturnValue | j button rem return value
+javax.swing.JCheckBox jCheckBoxPrintRepeatedValues | j check box print repeated values
+javax.swing.JComboBox m_chArmorValue | m ch armor value
+javax.swing.JComboBox m_chJumpValue | m ch jump value
+javax.swing.JLabel jLabelValueExpression | j label value expression
+javax.swing.JLabel jLabelXValueExpression | j label x value expression
+javax.swing.JLabel jLabelYValueExpression | j label y value expression
+javax.swing.JLabel jLabelZValueExpression | j label z value expression
+javax.swing.JLabel labelDefaultValue | label default value
+javax.swing.JLabel m_labelArmorValue | m label armor value
+javax.swing.JLabel m_labelJumpValue | m label jump value
+javax.swing.JPanel jPanelSubreportReturnValues | j panel subreport return values
+javax.swing.JPanel panelDefaultValue | panel default value
+javax.swing.JSlider value | value
+javax.swing.JTable jTableSubreportReturnValues | j table subreport return values
+javax.swing.JTextField configValue | config value
+javax.swing.JTextField jTextFieldColorValue | j text field color value
+javax.swing.JTextField jtfValue | jtf value
+javax.swing.JTextField value | value
+javax.swing.JTextField _varValueField | var value field
+long currValue | curr value
+long[] find_values | find values
+long lastValue | last value
+long lLastSortValueChange | l last sort value change
+long[] longValueTable | long value table
+long next_value | next value
+long sequenceValue | sequence value
+long startValue | start value
+long values | values
+net.sourceforge.ganttproject.task.CustomColumnsValues customValues | custom values
+org.apache.commons.lang.IntHashMap mapValueToName | map value to name
+org.bouncycastle.asn1.ASN1OctetString value | value
+org.bouncycastle.asn1.ASN1Set attrValues | attr values
+org.bouncycastle.asn1.DERBitString signatureValue | signature value
+org.bouncycastle.asn1.DERObject bagValue | bag value
+org.bouncycastle.asn1.DERObject certValue | cert value
+org.gudy.azureus2.plugins.ddb.DistributedDatabaseValue value | value
+org.gudy.azureus2.ui.swt.components.BufferedTruncatedLabel trackerUrlValue | tracker url value
+org.hsqldb.Expression[] columnValues | column values
+org.hsqldb.Expression[] valueList | value list
+org.hsqldb.lib.Collection values | values
+org.hsqldb.lib.HashSet distinctValues | distinct values
+org.hsqldb.lib.IntKeyIntValueHashMap intKeyIntValueHashLookup | int key int value hash lookup
+org.hsqldb.lib.IntValueHashMap intValueHashLookup | int value hash lookup
+org.hsqldb.lib.IntValueHashMap valueTokens | value tokens
+org.jhotdraw.draw.AttributeKeys.Orientation newValue | new value
+org.jhotdraw.draw.AttributeKeys.Orientation oldValue | old value
+org.jhotdraw.geom.BezierPath.Node newValue | new value
+org.jhotdraw.geom.BezierPath.Node oldValue | old value
+org.mozilla.javascript.IdScriptableObject.PrototypeValues prototypeValues | prototype values
+org.mozilla.javascript.UniqueTag NULL_VALUE | null value
+T defaultValue | default value
+thePackage.Currency _defaultSnipeValue | default snipe value
+thePackage.Currency _noValue | no value
+T value | value

@@ -1,0 +1,43 @@
+boolean updateAllViews | update all views
+boolean update_in_progress | update in progress
+int updateAction | update action
+int UPDATE_AFTER | update after
+int UPDATE_AFTER_ROW | update after row
+int UPDATE_BEFORE | update before
+int UPDATE_BEFORE_ROW | update before row
+int update_check_default_secs | update check default secs
+int UPDATE_CHECK_PERIOD | update check period
+int updateCount | update count
+int update_divider_width | update divider width
+int UPDATE_FRAME_HEIGHT | update frame height
+int UPDATE_FRAME_WIDTH | update frame width
+int UPDATE_FREQUENCY | update frequency
+int UPDATE_INTERVAL | update interval
+int UPDATE_PERIOD | update period
+int UPDATE_PERIOD_MILLIS | update period millis
+int UPDATE_SOURCE_TEXT | update source text
+java.lang.String UPDATE_CMD | update cmd
+java.lang.String UPDATE_DIR | update dir
+java.lang.String[] updateHelp | update help
+java.lang.String UPDATE_LOGIN_COOKIE | update login cookie
+java.lang.String UPDATE_NAME | update name
+java.lang.String UPDATE_PROPERTIES | update properties
+java.lang.String update_sql | update sql
+java.lang.String update_url | update url
+java.lang.String UPDATE_URL | update url
+java.lang.Thread _updateThread | update thread
+javax.swing.Action _updateAction | update action
+javax.swing.JButton _updateButton | update button
+javax.swing.JButton _updateNowButton | update now button
+long _updateFrequency | update frequency
+long UPDATE_FREQUENCY | update frequency
+org.gudy.azureus2.core3.download.impl.DownloadManagerDefaultPaths.MovementInformation[] UPDATE_FOR_MOVE_DETAILS | update for move details
+org.gudy.azureus2.core3.util.TimerEventPeriodic update_check_timer | update check timer
+org.gudy.azureus2.core3.util.TimerEventPeriodic update_event | update event
+org.gudy.azureus2.ui.swt.progress.IProgressReporter updateReporter | update reporter
+org.gudy.azureus2.ui.swt.update.UpdateMonitor update_monitor | update monitor
+org.gudy.azureus2.ui.swt.update.UpdateWindow updateWindow | update window
+org.gudy.azureus2.ui.swt.views.stats.StatsView.UpdateThread updateThread | update thread
+org.hsqldb.Result updateCountResult | update count result
+org.hsqldb.Result updateOneResult | update one result
+org.hsqldb.Result updateResult | update result

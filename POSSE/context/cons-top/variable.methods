@@ -1,0 +1,9 @@
+CONS InsertVariableDialog(QMainFrame;QCompletionMonitor;) | insert variable dialog
+CONS JRVariableDialog(QSubDataset;Qjava.awt.Frame;Z) | jr variable dialog
+CONS JRVariable(QString;QString;Z) | jr variable
+CONS JRVariable(QString;Z) | jr variable
+CONS UPnPStateVariableImpl(QUPnPServiceImpl;QSimpleXMLParserDocumentNode;) | upn p state variable impl
+CONS VariableModel() | variable model
+CONS VariableModel(QDim;QObject;) | variable model
+CONS VariableProperty(QString;QString;) | variable property
+CONS Variables(QHashMap;) | variables

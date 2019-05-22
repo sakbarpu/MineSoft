@@ -1,0 +1,84 @@
+boolean isReturnableEntity() | is returnable entity
+boolean isReturnableEntity(QSelectExpression;) | is returnable entity
+boolean voidReturnFlag() | void return flag
+byte returnByte(B) | return byte
+byte returnByte(byte in) | return byte
+CaseFragment setReturnColumnName(QString;) | set return column name
+CaseFragment setReturnColumnName(QString;QString;) | set return column name
+Class getReturnClass() | get return class
+Class getReturnedClass() | get returned class
+Class getReturnType() | get return type
+Class returnedClass() | returned class
+double getReturnValue(I) | get return value
+int getReturnCode() | get return code
+int getReturnedArraySize([F) | get returned array size
+int getReturnedArraySize([I) | get returned array size
+int getReturnedArraySize([QString;) | get returned array size
+int getReturnedArraySize(QVector;) | get returned array size
+int getReturnType() | get return type
+int getReturnValue() | get return value
+it.businesslogic.ireport.JRSubreportReturnValue getSubreportReturnValue() | get subreport return value
+JCheckBoxMenuItem getBreakOnReturn() | get break on return
+List generateCustomReturns(Z) | generate custom returns
+List getCustomQueryReturns() | get custom query returns
+NativeSQLQueryJoinReturn bindReturnJoin(QElement;QMappings;) | bind return join
+NativeSQLQueryReturn[] getQueryReturns() | get query returns
+NativeSQLQueryRootReturn bindReturn(QElement;QMappings;I) | bind return
+Node createExprStatementNoReturn(QNode;I) | create expr statement no return
+Node createReturn(QNode;I) | create return
+Object returnNarrowedProxy(QLoadEvent;QEntityPersister;QEntityKey;QLoadEventListener.LoadType;QPersistenceContext;QObject;) | return narrowed proxy
+ReturnMetadata getReturnMetadata() | get return metadata
+String getFunctionReturnClassName(QString;) | get function return class name
+String[] getQueryReturnAliases() | get query return aliases
+String[] getReturnAliases() | get return aliases
+String[] getReturnAliasesForTransformer() | get return aliases for transformer
+String[] getReturnAliases(QString;) | get return aliases
+String getReturnClassName() | get return class name
+String getReturnEntityName() | get return entity name
+String returnBuf() | return buf
+Task[] getReturnTask() | get return task
+Type findFunctionReturnType(QString;QAST;) | find function return type
+Type[] getQueryReturnTypes() | get query return types
+Type getReturnType() | get return type
+Type getReturnType(QType;QMapping;) | get return type
+Type[] getReturnTypes() | get return types
+Type[] getReturnTypes(QString;) | get return types
+Type getReturnTypes(String queryString) | get return types
+Type returnType() | return type
+Vector getReturnValues() | get return values
+void addQueryReturn(QNativeSQLQueryReturn;) | add query return
+void addStubMethodReturn(AttributeCode code, Label endLabel) | add stub method return
+void addTypeDependDataReturn(QBytecode;QString;) | add type depend data return
+void documentReturns(MethodDoc doc) | document returns
+void generateReturnResult(QClassFileWriter;QClass;Z) | generate return result
+void getParameters(IGpuProgramParametersSharedPtr returnValue) | get parameters
+void ifReturnsVoid(String template, Properties attributes) | if returns void
+void initialiseMethodReturn() | initialise method return
+void processCollectionReturn(QNativeSQLQueryCollectionReturn;) | process collection return
+void processJoinReturn(QNativeSQLQueryJoinReturn;) | process join return
+void processReturn(QNativeSQLQueryReturn;) | process return
+void processRootReturn(QNativeSQLQueryRootReturn;) | process root return
+void processScalarReturn(QNativeSQLQueryScalarReturn;) | process scalar return
+void replReturnedResult(QString;QString;) | repl returned result
+void replReturnedSyntaxError(QString;QString;IIII) | repl returned syntax error
+void replReturnedVoid() | repl returned void
+void returnBufferSupport(QDirectByteBuffer;) | return buffer support
+void returnLeaves([QFastVector;) | return leaves
+void returnStorageManager(StorageManager sm) | return storage manager
+void returnToPool() | return to pool
+void returnToPoolIfNotFree() | return to pool if not free
+void returnToTitle() | return to title
+void returnUnusedChunks(II) | return unused chunks
+void returnValue() | return value
+void setBreakOnReturn(Z) | set break on return
+void setReturnedValue(Object returnedValue) | set returned value
+void setReturnValue(I) | set return value
+void setReturnValue(int returnValue) | set return value
+void setReturnValues(QVector;) | set return values
+void setSubreportReturnValue(Qit.businesslogic.ireport.JRSubreportReturnValue;) | set subreport return value
+void setupReturn(QString;[QObject;QAESemaphore;) | setup return
+void setupReturn(QString;[ZQAESemaphore;) | setup return
+void testJsonHashShouldNotReturnBuildSinceForNonActiveBuild() | test json hash should not return build since for non active build
+void testQueryThatReturnsNumber() | test query that returns number
+void testReturnConstant() | test return constant
+void testShouldBeAbleToReturnLastSuccessfulBuild() | test should be able to return last successful build

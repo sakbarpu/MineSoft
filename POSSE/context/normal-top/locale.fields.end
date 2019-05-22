@@ -1,0 +1,8 @@
+java.lang.String sql_compare_in_locale | sql compare in locale
+java.util.Locale colorChooserLocale | color chooser locale
+java.util.Locale currentLocale | current locale
+java.util.Locale defaultLocale | default locale
+java.util.Locale formatLocale | format locale
+javax.swing.JButton jButtonCreateNewLocale | j button create new locale
+javax.swing.JComboBox displayLocale | display locale
+javax.swing.JMenuItem jMenuItemReportLocale | j menu item report locale

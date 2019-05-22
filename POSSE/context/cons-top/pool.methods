@@ -1,0 +1,11 @@
+CONS ConstantPool(QClassFileWriter;) | constant pool
+CONS DirectByteBufferPoolHeap() | direct byte buffer pool heap
+CONS DirectByteBufferPoolReal() | direct byte buffer pool real
+CONS DriverPool() | driver pool
+CONS PooledByteBufferImpl([B) | pooled byte buffer impl
+CONS PooledByteBufferImpl(I) | pooled byte buffer impl
+CONS PooledByteBufferImpl(QDirectByteBuffer;) | pooled byte buffer impl
+CONS RrdDbPool() | rrd db pool
+CONS ThreadPool(QString;I) | thread pool
+CONS ThreadPool(QString;IZ) | thread pool
+CONS ValuePoolHashMap(III) | value pool hash map

@@ -1,0 +1,23 @@
+boolean canBeDeleted() | can be deleted
+boolean isBeingDeleted() | is being deleted
+boolean isCascadeDeleted() | is cascade deleted
+boolean isCheckDeleted() | is check deleted
+boolean isDeleted() | is deleted
+boolean isDeleted(QString;) | is deleted
+boolean manageDeleted(QAuctionEntry;) | manage deleted
+boolean rowDeleted() | row deleted
+boolean shouldSkipDeleted() | should skip deleted
+double minDataDLIfDeleted(IDZ) | min data dl if deleted
+int clearDeleted() | clear deleted
+LoadType setCheckDeleted(Z) | set check deleted
+void canResourceBeDeleted(QShareResource;) | can resource be deleted
+void deleted(QTRTrackerServerTorrent;) | deleted
+void DoClearDeleted(QComponent;) | do clear deleted
+void informDeleted(QDHTDBValueImpl;) | inform deleted
+void keyDeleted(QDHTStorageKey;) | key deleted
+void messageDeleted(QBuddyPluginBuddyMessage;) | message deleted
+void resourceDeleted(QShareResource;) | resource deleted
+void resourceWillBeDeleted(QShareResource;) | resource will be deleted
+void setDeleted(Z) | set deleted
+void setSkipDeleted(Z) | set skip deleted
+void valueDeleted(QDHTStorageKey;QDHTTransportValue;) | value deleted

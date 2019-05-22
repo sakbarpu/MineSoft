@@ -1,0 +1,2 @@
+Class getDeclaringClass() | get declaring class
+void setDeclaringTeam(int declaringTeam) | set declaring team

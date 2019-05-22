@@ -1,0 +1,10 @@
+double getMinNo() | get min no
+int createIndexStructureGetNo([IQHsqlName;ZZZ) | create index structure get no
+int getColumnNo(I) | get column no
+int getLineNo() | get line no
+int getTagNo() | get tag no
+long getSequenceNo() | get sequence no
+void setMinNo(D) | set min no
+void setPosNo(int value) | set pos no
+void setSeqNo(int SeqNo) | set seq no
+void setSequenceNo(J) | set sequence no

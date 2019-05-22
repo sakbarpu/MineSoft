@@ -1,0 +1,8 @@
+boolean isNakedEntityReturned() | is naked entity returned
+LoadType setNakedEntityReturned(Z) | set naked entity returned
+void jButtonAddReturnValueActionPerformed(Qjava.awt.event.ActionEvent;) | j button add return value action performed
+void jButtonModReturnValueActionPerformed(Qjava.awt.event.ActionEvent;) | j button mod return value action performed
+void jButtonRemReturnValueActionPerformed(Qjava.awt.event.ActionEvent;) | j button rem return value action performed
+void jTableSubreportReturnValuesListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table subreport return values list selection value changed
+void jTableSubreportReturnValuesMouseClicked(Qjava.awt.event.MouseEvent;) | j table subreport return values mouse clicked
+void returnPressed() | return pressed

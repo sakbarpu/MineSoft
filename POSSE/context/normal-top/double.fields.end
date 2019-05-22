@@ -1,0 +1,11 @@
+byte CONSTANT_Double | constant double
+byte T_DOUBLE | t double
+double currentDouble | current double
+int CLASS_CODE_DOUBLE | class code double
+int SQL_DOUBLE | sql double
+int TO_DOUBLE | to double
+java.lang.String cardDouble | card double
+java.lang.String PATTERN_DOUBLE | pattern double
+java.lang.String T_DOUBLE | t double
+javax.swing.JPanel panelDouble | panel double
+net.sourceforge.ganttproject.gui.GTextField fieldDouble | field double

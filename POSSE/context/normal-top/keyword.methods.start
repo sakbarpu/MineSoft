@@ -1,0 +1,2 @@
+void KeywordStartsWithQuoteException(QString;) | keyword starts with quote exception
+void KeywordStartsWithWhitespaceException(QString;) | keyword starts with whitespace exception

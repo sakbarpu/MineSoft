@@ -1,0 +1,10 @@
+ClassType doubleArray() | double array
+double doubleValue() | double value
+String doubleToString(DI) | double to string
+String doubleToString(DII) | double to string
+void doubleCapacity() | double capacity
+void doubleClick() | double click
+void DoubleClickListener(QJList;) | double click listener
+void doubleClick(QMouseEvent;) | double click
+void DoubleEntry(DI) | double entry
+void DoubleEntry(DIQEntry;I) | double entry

@@ -1,0 +1,7 @@
+void event(J) | event
+void event(QDistributedDatabaseEvent;) | event
+void Event(QGanttLanguage;) | event
+void event(QPooledByteBuffer;JI) | event
+void event(QThrowable;) | event
+void event(QTorrentAttributeEvent;) | event
+void event(QTorrentManagerEvent;) | event

@@ -1,0 +1,12 @@
+boolean getMakeBinary() | get make binary
+boolean tryToMakeAccessible(QObject;) | try to make accessible
+IABTValue setMakeUniqueInObjectSet(IABTUserSession session, IABTObject object, IABTAttribute property, IABTValue myValue, IABTValue newValue, String parentName, String arrayName) | set make unique in object set
+LifeCycleState transitionMakeTransient(StateManager sm, boolean useFetchPlan, boolean detachAllOnCommit) | transition make transient
+String stringMakeRelativeTo(QFile;QFile;) | string make relative to
+void setMakeBinary(Z) | set make binary
+void testMakeBraceFailure() | test make brace failure
+void testMakeBraceSuccess() | test make brace success
+void testMakeLabelAndCheckLegalKeys() | test make label and check legal keys
+void testMakeLabelAndCheckLegalKeysAccentGrave() | test make label and check legal keys accent grave
+void testMakeRelativeTo() | test make relative to
+void testMakeValueProductPrice() | test make value product price

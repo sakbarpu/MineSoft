@@ -1,0 +1,11 @@
+boolean isAllowMemberExprAsFunctionName() | is allow member expr as function name
+boolean isMemberClass(QClass<*>;) | is member class
+freemind.controller.actions.generated.instance.NodeListMemberType createNodeListMemberType() | create node list member type
+ITexture operatorMemberAccessFromAPointer() | operator member access from a pointer
+Node createMemberRefGet(QNode;QString;QNode;I) | create member ref get
+RuntimeException reportMemberNotFound(QString;) | report member not found
+String getForumLastPostMemberName() | get forum last post member name
+void processMemberOf(QToken;QAST;QASTPair;) | process member of
+void setAllowMemberExprAsFunctionName(Z) | set allow member expr as function name
+void setMemberLastLogon(Timestamp memberLastLogon) | set member last logon
+void testIsMemberClass() | test is member class

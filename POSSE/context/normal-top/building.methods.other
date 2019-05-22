@@ -1,0 +1,30 @@
+boolean checkBuildingCollapseWhileMoving(QBuilding;QEntity;QCoords;) | check building collapse while moving
+boolean definedOnlyByBuildingType(QString;) | defined only by building type
+boolean hasBuildingType(QBuildingType;) | has building type
+boolean hasBuildingType(QColony;QBuildingType;) | has building type
+boolean isBuildingMaterial() | is building material
+boolean isRawBuildingMaterial() | is raw building material
+boolean passBuildingWall(QEntity;QBuilding;QCoords;QCoords;IQString;) | pass building wall
+Building getBuildingAt(QCoords;) | get building at
+Building getBuildingForConsuming(QGoodsType;) | get building for consuming
+Building getBuildingForProducing(QGoodsType;) | get building for producing
+Building getBuildingWithAbility(QString;) | get building with ability
+BuildingType getBuildingType(I) | get building type
+BuildingType getBuildingType(QString;) | get building type
+Comparator<QBuilding;> getBuildingComparator() | get building comparator
+int getBuildingTypeByCF(I) | get building type by cf
+int numberOfBuildingTypes() | number of building types
+JPanel createBuildingPanel(QColony;) | create building panel
+List<QBuildingType;> getBuildingTypeList() | get building type list
+Packet createCollapseBuildingPacket(QBuilding;) | create collapse building packet
+Packet createCollapseBuildingPacket(QVector;) | create collapse building packet
+Packet createUpdateBuildingCFPacket(QVector;) | create update building cf packet
+void applyBuildingDamage() | apply building damage
+void ASingleBuildingPanel(QBuilding;) | a single building panel
+void buildBuildingDetail(QBuildingType;) | build building detail
+void buildBuildingSubtree(QDefaultMutableTreeNode;) | build building subtree
+void receiveBuildingCollapse(QPacket;) | receive building collapse
+void receiveBuildingUpdateCF(QPacket;) | receive building update cf
+void setBuildingMaterial(Z) | set building material
+void updateBuildingBox() | update building box
+void updateBuildingCF(QVector;) | update building cf

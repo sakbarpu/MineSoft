@@ -1,0 +1,12 @@
+CompilerErrorModel getJavadocErrorModel() | get javadoc error model
+DJError _parseJavadocErrorLine(QString;) | parse javadoc error line
+File suggestJavadocDestination(QOpenDefinitionsDocument;) | suggest javadoc destination
+JavadocModel getJavadocModel() | get javadoc model
+void assertSaveBeforeJavadocCount(I) | assert save before javadoc count
+void initOpenJavadocDialog() | init open javadoc dialog
+void _openJavadocUnderCursor() | open javadoc under cursor
+void resetJavadocErrors() | reset javadoc errors
+void resetOpenJavadocDialogPosition() | reset open javadoc dialog position
+void sanitizeJavadocCustomParams(QJFrame;QString;) | sanitize javadoc custom params
+void setJavadocInProgress() | set javadoc in progress
+void _setupJavadocPanel(QConfigPanel;) | setup javadoc panel

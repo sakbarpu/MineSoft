@@ -1,0 +1,8 @@
+void addBackwardGoto(II) | add backward goto
+void addGoto(QNode;I) | add goto
+void receiveGoto(QGotoTocResponse;) | receive goto
+void resolveForwardGoto(I) | resolve forward goto
+void resolveGoto(II) | resolve goto
+void startGoto() | start goto
+void stopGoto() | stop goto
+void visitGOTO(QNode.Jump;IQNode;) | visit goto

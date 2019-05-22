@@ -1,0 +1,5 @@
+int FLOAD | fload
+int FLOAD_0 | fload  0
+int FLOAD_1 | fload  1
+int FLOAD_2 | fload  2
+int FLOAD_3 | fload  3

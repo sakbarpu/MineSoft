@@ -1,0 +1,70 @@
+boolean canMechFindClub(QIGame;I) | can mech find club
+boolean getFindNumBins() | get find num bins
+boolean recursiveFindLineNumber(IQReferenceType;) | recursive find line number
+Class peerFindLoadedClass(QString;) | peer find loaded class
+FindPossibleDependeesAlgorithm getFindPossibleDependeesAlgorithm() | get find possible dependees algorithm
+FindReplacePanel getFindReplaceDialog() | get find replace dialog
+FindResultsPanel createFindResultsPanel(QRegionManager<QMovingDocumentRegion;>;QString;QString;ZZZZZQWeakReference<QOpenDefinitionsDocument;>;QFindReplacePanel;) | create find results panel
+int nonModifyingFindIndex(QObject;) | non modifying find index
+JButton getFindNextButton() | get find next button
+JTextPane getFindField() | get find field
+KeyEvent makeFindKeyEvent(QComponent;J) | make find key event
+List<QRegionManager<QMovingDocumentRegion;>;> getFindResultsManagers() | get find results managers
+long[] getFindNodes() | get find nodes
+long[] getFindValues() | get find values
+RegionManager<QMovingDocumentRegion;> createFindResultsManager() | create find results manager
+String getFindDirectory() | get find directory
+String getFindFromText() | get find from text
+String getFindWhat() | get find what
+String getFindWord() | get find word
+void DHTTransportFindValueReplyImpl([B[B) | dht transport find value reply impl
+void DHTTransportFindValueReplyImpl(B[QDHTTransportValue;) | dht transport find value reply impl
+void DHTTransportFindValueReplyImpl([QDHTTransportContact;) | dht transport find value reply impl
+void disableFindAgain() | disable find again
+void disableFindAgainOnClose(QList<QOpenDefinitionsDocument;>;) | disable find again on close
+void doFindFirstNext(QArrayList;ZQString;IQSmbFilenameFilter;QSmbFileFilter;) | do find first next
+void refreshFindResultsHighlightPainter(QFindResultsPanel;QLayeredHighlighter.LayerPainter;) | refresh find results highlight painter
+void removeFindResultsManager(QRegionManager<QMovingDocumentRegion;>;) | remove find results manager
+void _replaceFindNext() | replace find next
+void _replaceFindPrevious() | replace find previous
+void resolveFindClub(QEntity;) | resolve find club
+void sendFindNode(QDHTTransportContact;QDHTTransportReplyHandler;[B) | send find node
+void sendFindNode(QDHTTransportReplyHandler;[B) | send find node
+void sendFindNode(QDHTTransportUDPContactImpl;QDHTTransportReplyHandler;[B) | send find node
+void sendFindNodeSupport(QDHTTransportContact;QDHTTransportReplyHandler;[B) | send find node support
+void sendFindValue(QDHTTransportContact;QDHTTransportReplyHandler;[BIB) | send find value
+void sendFindValue(QDHTTransportReplyHandler;[BIB) | send find value
+void sendFindValue(QDHTTransportUDPContactImpl;QDHTTransportReplyHandler;[BIB) | send find value
+void sendFindValueSupport(QDHTTransportContact;QDHTTransportReplyHandler;[BIB) | send find value support
+void setFindAnyOccurrence() | set find any occurrence
+void setFindNumBins(Z) | set find num bins
+void setFindWord(QString;) | set find word
+void setLastFindWord() | set last find word
+void _showFindReplaceTab(Z) | show find replace tab
+void showFindResultsPanel(QFindResultsPanel;) | show find results panel
+void testFindAssociatedFiles() | test find associated files
+void testFindByIdUsingDynamicSQL() | test find by id using dynamic sql
+void testFindFile() | test find file
+void testFindFileRelative() | test find file relative
+void testFindMatchKeywords() | test find match keywords
+void testFindMatchWithCaretInMiddle() | test find match with caret in middle
+void testFindMatchWithCaretInMiddleBackwards() | test find match with caret in middle backwards
+void testFindMultiLine() | test find multi line
+void testFindNextAndFailIsOnMatch() | test find next and fail is on match
+void _testFindNextFails(QFindReplaceMachine;II) | test find next fails
+void testFindNextInternalNumberFirstCall() | test find next internal number first call
+void testFindNextOnSuffix() | test find next on suffix
+void _testFindNextSucceeds(QFindReplaceMachine;II) | test find next succeeds
+void _testFindNextSucceeds(QFindReplaceMachine;IIQOpenDefinitionsDocument;) | test find next succeeds
+void testFindNextUpdatesCurrent() | test find next updates current
+void testFindNoMatchCase() | test find no match case
+void testFindPartialSubstrings() | test find partial substrings
+void testFindPdf() | test find pdf
+void testFindPdfInMultiple() | test find pdf in multiple
+void testFindPrevDelimiter() | test find prev delimiter
+void testFindPrevOnPrefix() | test find prev on prefix
+void testFindReplaceInAllOpenFiles() | test find replace in all open files
+void testFindReplaceInAllOpenFilesWholeWord() | test find replace in all open files whole word
+void testFindWhatever() | test find whatever
+void testFindWithNamedParametersAndTypes() | test find with named parameters and types
+void testMultipleCallsToFindNext() | test multiple calls to find next

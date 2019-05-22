@@ -1,0 +1,35 @@
+boolean BAD_ROUTER_REPORT_FAIL | bad router report fail
+int DSV_REJECTREPORT_PURGEFAIL | dsv reject report purge fail
+int DSV_REJECTREPORT_SETUPFAIL | dsv reject report setup fail
+int EVENT_AFTER_REPORT_INIT | event after report init
+int EVENT_BEFORE_REPORT_INIT | event before report init
+int latestReportType | latest report type
+int REJECTREPORT_BOTTOM | reject report bottom
+int REJECTREPORT_ROW | reject report row
+int REJECTREPORT_TOP | reject report top
+it.businesslogic.ireport.gui.JReportFrame jReportFrame | j report frame
+it.businesslogic.ireport.gui.JReportFrame oldJReportFrame | old j report frame
+it.businesslogic.ireport.gui.MainFrame iReportMainFrame | i report main frame
+it.businesslogic.ireport.IReportConnection iReportConnection | i report connection
+it.businesslogic.ireport.IReportFont iReportFont | i report font
+java.lang.String MINI_REPORT_POS_X | mini report pos x
+java.lang.String MINI_REPORT_POS_Y | mini report pos y
+java.lang.String MINI_REPORT_SIZE_HEIGHT | mini report size height
+java.lang.String MINI_REPORT_SIZE_WIDTH | mini report size width
+java.lang.String newReportFormat | new report format
+java.lang.String oldReportFormat | old report format
+java.util.Map tracker_report_map | tracker report map
+javax.swing.JCheckBoxMenuItem jCheckBoxMenuItemReportVirtualizer | j check box menu item report virtualizer
+javax.swing.JComboBox jComboBoxReportFont | j combo box report font
+javax.swing.JComboBox jComboBoxReportFonts | j combo box report fonts
+javax.swing.JLabel jLabelReportVirtualizerDirectory | j label report virtualizer directory
+javax.swing.JLabel jLabelReportVirtualizerSize | j label report virtualizer size
+javax.swing.JMenuItem jMenuItemReportImports | j menu item report imports
+javax.swing.JMenuItem jMenuItemReportLocale | j menu item report locale
+javax.swing.JMenuItem jMenuItemReportProperties | j menu item report properties
+javax.swing.JMenuItem jMenuItemReportQuery | j menu item report query
+javax.swing.JMenuItem jMenuItemReportQuery2 | j menu item report query 2
+javax.swing.JMenuItem jMenuItemReportSeries | j menu item report series
+javax.swing.JPanel jPanelReportContainer | j panel report container
+javax.swing.JTextField jTextFieldReportFont | j text field report font
+org.gudy.azureus2.core3.util.AEMonitor latestReport_mon | latest report mon

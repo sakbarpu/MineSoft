@@ -1,0 +1,5 @@
+void exceptionThrown(QThrowable;) | exception thrown
+void handleExceptionThrown(QContext;QThrowable;QStackFrame;) | handle exception thrown
+void inputExceptionThrown(Qymsg.network.event.SessionExceptionEvent;) | input exception thrown
+void namingExceptionThrown(QNamingExceptionEvent;) | naming exception thrown
+void onExceptionThrown(QContext;QThrowable;) | on exception thrown

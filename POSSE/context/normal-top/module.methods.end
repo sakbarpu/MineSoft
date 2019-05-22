@@ -1,0 +1,14 @@
+boolean tryToChangeToMapModule(QString;) | try to change to map module
+File getJythonModule() | get jython module
+JAPConfAnon getAnonModule() | get anon module
+MapModule getMapModule() | get map module
+OptionModule getModule(QString;) | get module
+void changeToMapModule(QString;) | change to map module
+void newMapModule(MindMap map, ModeController modeController) | new map module
+void newMapModule(QMindMap;) | new map module
+void nextMapModule() | next map module
+void previousMapModule() | previous map module
+void setInitialModule(Module initialModule) | set initial module
+void setJythonModule(QFile;) | set jython module
+void setMapModule(QMapModule;) | set map module
+void setModule(Module module) | set module

@@ -1,0 +1,14 @@
+boolean isStructureOnly() | is structure only
+DocumentStructurePanel getDocumentStructurePanel() | get document structure panel
+double getStructureCost(I) | get structure cost
+freemind.controller.actions.generated.instance.MenuStructureType createMenuStructureType() | create menu structure type
+int createIndexStructureGetNo([IQHsqlName;ZZZ) | create index structure get no
+int getStructureType() | get structure type
+int getStructureType(QString;) | get structure type
+String createTableStructureQuery() | create table structure query
+String getStructureTypeName(I) | get structure type name
+void notifyStructureAvailable(QInstances;) | notify structure available
+void setDocumentStructurePanel(QDocumentStructurePanel;) | set document structure panel
+void setStructureType(I) | set structure type
+void setStructureType(QString;) | set structure type
+void updateDocumentStructureTree(QJReportFrame;) | update document structure tree

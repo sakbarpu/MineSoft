@@ -1,0 +1,3 @@
+boolean close | close
+freemind.controller.Controller.CloseAction close | close
+int CLOSE | close

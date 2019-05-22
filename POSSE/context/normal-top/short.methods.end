@@ -1,0 +1,32 @@
+boolean hasNextShort() | has next short
+FloatBuffer putShort(int index, short value) | put short
+int getShort([BI) | get short
+int readUnsignedShort() | read unsigned short
+int readUnsignedShort(QDataInputStream;) | read unsigned short
+int readUShort([BI) | read u short
+Query setShort(IS) | set short
+Query setShort(QString;S) | set short
+short getShort(B) | get short
+short getShort(I) | get short
+Short getShort(I) | get short
+short getShort(QString;) | get short
+short getSinShort(double f, int n) | get sin short
+short readLEShort(byte byteArray) | read le short
+short readShort() | read short
+short readShort(QObject;QString;S) | read short
+short unsignedByteArrayToShort([B) | unsigned byte array to short
+short writeShort(QObject;QString;SS) | write short
+String authshort(QString;) | auth short
+String formatDateShort(J) | format date short
+void leShort(IQOutputStream;) | le short
+void putShort(BS) | put short
+void setShort(IS) | set short
+void setShort(Object node, Property field, short value) | set short
+void setShort(QString;S) | set short
+void setShort(String p0, short p1) | set short
+void testIIOPSendShort() | test iiop send short
+void testToStringShort() | test to string short
+void updateShort(IS) | update short
+void updateShort(QString;S) | update short
+void writeShort(I) | write short
+void writeUShort([BII) | write u short

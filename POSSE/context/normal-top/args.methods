@@ -1,0 +1,54 @@
+boolean aggregateFuncNoArgsHasParenthesis(QString;QQueryTranslatorImpl;) | aggregate func no args has parenthesis
+boolean aggregateHasArgs(QString;QQueryTranslatorImpl;) | aggregate has args
+boolean handleCommandLineArgs([QString;) | handle command line args
+boolean isVarArgsConstructor() | is var args constructor
+boolean isVarArgsMethod() | is var args method
+boolean sendArgs() | send args
+boolean sendArgs([QString;I) | send args
+Class[] getIViewClassArgs() | get i view class args
+Expression compileMethodInvocation(Type type, ExpressionFactory expr, String name, ArgumentTransformations implicit, Expression args, int flags, Scope scope, AST pos) | compile method invocation
+IABTValue populate(IABTHashTable args) | populate
+int[] getArgsToConvert([QClass;) | get args to convert
+Iterable<QString;> _getLinkArgs() | get link args
+JCNewClass NewClass(JCExpression encl, List<JCExpression> typeargs, JCExpression clazz, List<JCExpression> args, JCClassDecl def) | new class
+List getArgs() | get args
+long queryForLong(String sql, Object args, int argTypes) | query for long
+Object applyN(Object args) | apply n
+Object constructWithInterfaceBody(Class type, Object args, BSHBlock body, CallStack callstack, Interpreter interpreter) | construct with interface body
+Object[] getArgsArray([QObject;[DII) | get args array
+Object jsConstructor(Context cx, boolean inNewExpr, Object args) | js constructor
+ObjectPredicate execute(Object args) | execute
+Object refInvokeOperation(String requestedOperation, List args) | ref invoke operation
+Object[] setUpArgs([D) | set up args
+String ask(int id, Properties args) | ask
+String[] genWinArgs(QString;) | gen win args
+String getMessage(String code, Object args, Locale locale) | get message
+String getNonOptionArgsUsage() | get non option args usage
+String[] getRestArgs() | get rest args
+String[] parseArgs(QString;) | parse args
+String[] processArgs([QString;) | process args
+void announce(Container player, String args) | announce
+void dumpArgs(QStringBuffer;[QString;) | dump args
+void generatePushWrappedArgs(QClassFileWriter;[QClass;I) | generate push wrapped args
+void handleArgs([QString;) | handle args
+void initializeArgs() | initialize args
+void MasterJVMArgsListener(QJFrame;) | master jvm args listener
+void parse_args([QString;) | parse args
+void parseSpecialNetlet(Args args) | parse special netlet
+void processArgs(QAzureusCore;[QString;) | process args
+void processArgs([QString;QAzureusCore;QCommandLine;) | process args
+void sanitizeMasterJVMArgs(QJFrame;QString;QOptionListener<QString;>;) | sanitize master jvm args
+void sanitizeSlaveJVMArgs(QJFrame;QString;QOptionListener<QString;>;) | sanitize slave jvm args
+void setArgs(QList;) | set args
+void setArgs([QString;) | set args
+void setArgs(String args) | set args
+void setIViewClassArgs([QClass;) | set i view class args
+void SlaveJVMArgsListener(QJFrame;) | slave jvm args listener
+void testArgs() | test args
+void testInterpretJavaEscapedArgs() | test interpret java escaped args
+void testInterpretJavaQuotedEscapedArgs() | test interpret java quoted escaped args
+void testInterpretJavaSingleQuotedArgs() | test interpret java single quoted args
+void testTokenizeEscapedArgs() | test tokenize escaped args
+void testTokenizeQuotedEscapedArgs() | test tokenize quoted escaped args
+void testTokenizeSingleQuotedArgs() | test tokenize single quoted args
+void writer__setArgs(int rNumArgs, String rArgs) | writer  set args

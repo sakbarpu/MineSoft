@@ -1,0 +1,43 @@
+boolean reading_handshake_message | reading handshake message
+boolean user_message | user message
+byte AL_MSG_LT_EXT_MESSAGE | al msg lt ext message
+com.aelitis.azureus.core.networkmanager.RawMessage urgent_message | urgent message
+com.aelitis.azureus.core.peermanager.messaging.Message base_message | base message
+com.aelitis.azureus.plugins.net.buddy.BuddyPluginBuddy.buddyMessage active_message | active message
+com.aelitis.azureus.plugins.net.buddy.BuddyPluginBuddy.buddyMessage current_message | current message
+com.aelitis.azureus.plugins.net.buddy.BuddyPluginBuddyMessage active_message | active message
+int ET_SHOW_TEXT_MESSAGE | et show text message
+int firstUnreadMessage | first unread message
+int NO_MESSAGE | no message
+int RT_AZ2_REPLY_MESSAGE | rt az 2  reply message
+int RT_AZ2_REQUEST_MESSAGE | rt az 2  request message
+int SUBID_BT_LT_EXT_MESSAGE | subid bt lt ext message
+java.awt.TextField tMessage | t message
+java.lang.String alertMessage | alert message
+java.lang.String ARGUMENTS_DESCRIPTION_MESSAGE | arguments description message
+java.lang.String detailMessage | detail message
+java.lang.String error_message | error message
+java.lang.String errorMessage | error message
+java.lang.String GUI_CLASS_NOT_FOUND_MESSAGE | gui class not found message
+java.lang.String ID_BT_LT_EXT_MESSAGE | id bt lt ext message
+java.lang.String INCORRECT_ARGUMENTS_MESSAGE | incorrect arguments message
+java.lang.String invitationMessage | invitation message
+java.lang.String last_tracker_message | last tracker message
+java.lang.String OP_INVITE_FRIEND_PARAM_MESSAGE | op invite friend param message
+java.lang.String sFinalMessage | s final message
+java.lang.String sFullMessage | s full message
+java.lang.String sMessage | s message
+java.lang.String taskMessage | task message
+java.lang.String UNKNOWN_GUI_MESSAGE | unknown gui message
+java.lang.String URL_PLATFORM_MESSAGE | url platform message
+java.lang.String URL_USERMESSAGE | url user message
+java.lang.String userMessage | user message
+java.lang.String VMT_BUDDY_MESSAGE | vmt buddy message
+javax.swing.JLabel acceptDeclineMessage | accept decline message
+javax.swing.JLabel jlMessage | jl message
+javax.swing.JLabel labMessage | lab message
+javax.swing.JLabel notificationMessage | notification message
+javax.swing.JTextArea jTextAreaMessage | j text area message
+javax.swing.JTextArea labMessage | lab message
+megamek.client.ui.AWT.widget.AdvancedLabel labMessage | lab message
+org.gudy.azureus2.plugins.utils.PooledByteBuffer pending_message | pending message

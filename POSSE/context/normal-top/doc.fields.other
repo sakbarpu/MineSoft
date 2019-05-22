@@ -1,0 +1,9 @@
+boolean isDocDirty | is doc dirty
+edu.rice.cs.drjava.config.FontOption FONT_DOCLIST | font doc list
+edu.rice.cs.drjava.model.repl.InteractionsDJDocument _consoleDocAdapter | console doc adapter
+int _finalDocCt | final doc ct
+int SHORT_DOC_MAX_LENGTH | short doc max length
+java.awt.event.ActionListener SELECT_DOC_END | select doc end
+java.awt.event.ActionListener SELECT_DOC_HOME | select doc home
+javax.swing.JEditorPane _contentsDocPane | contents doc pane
+javax.swing.JEditorPane _mainDocPane | main doc pane

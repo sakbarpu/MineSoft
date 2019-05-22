@@ -1,0 +1,14 @@
+boolean hasAntds() | has an tds
+int getNumAntds() | get num an tds
+String getAnthem() | get an them
+String numAntdsTipText() | num an tds tip text
+void bringAnStart(QString;Z) | bring an start
+void NatPMPUPnPWANConnection() | nat pmpu pn pw an connection
+void NominalAntd(QAttribute;) | nominal an td
+void NominalAntd(QAttribute;[D) | nominal an td
+void NominalAntd(QAttribute;DDD) | nominal an td
+void NumericAntd(QAttribute;) | numeric an td
+void NumericAntd(QAttribute;[D) | numeric an td
+void NumericAntd(QAttribute;DDD) | numeric an td
+void setAnthem(QString;) | set an them
+void setNumAntds(I) | set num an tds

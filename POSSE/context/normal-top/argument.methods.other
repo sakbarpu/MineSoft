@@ -1,0 +1,4 @@
+char getArgumentTypeNames() | get argument type names
+List getConstructorArgumentTypeList() | get constructor argument type list
+String createArgumentArray() | create argument array
+Type[] resolveConstructorArgumentTypes() | resolve constructor argument types

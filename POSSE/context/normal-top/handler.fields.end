@@ -1,0 +1,49 @@
+com.aelitis.azureus.core.dht.transport.DHTTransportRequestHandler request_handler | request handler
+com.aelitis.azureus.core.dht.transport.udp.impl.packethandler.DHTUDPPacketHandler packet_handler | packet handler
+com.aelitis.azureus.core.dht.transport.udp.impl.packethandler.DHTUDPRequestHandler request_handler | request handler
+com.aelitis.azureus.core.download.EnhancedDownloadManager.boostETAProvider.interventionHandler intervention_handler | intervention handler
+com.aelitis.azureus.core.messenger.ClientMessageContext.torrentURLHandler torrentURLHandler | torrent url handler
+com.aelitis.azureus.core.networkmanager.impl.RateHandler main_handler | main handler
+com.aelitis.azureus.core.networkmanager.impl.RateHandler rate_handler | rate handler
+com.aelitis.azureus.core.peermanager.utils.OutgoingBTPieceMessageHandler outgoing_piece_message_handler | outgoing piece message handler
+com.aelitis.azureus.core.proxy.AEProxyHandler proxy_handler | proxy handler
+com.aelitis.azureus.core.security.CryptoHandler ecc_handler | ecc handler
+com.aelitis.azureus.plugins.net.buddy.BuddyPluginAZ2 az2_handler | az 2  handler
+com.aelitis.azureus.plugins.net.buddy.BuddyPluginBuddy.fragmentHandler fragment_handler | fragment handler
+com.aelitis.azureus.plugins.net.buddy.BuddyPluginBuddyMessageHandler persistent_msg_handler | persistent msg handler
+com.aelitis.net.udp.uc.impl.PRUDPPacketHandlerImpl packet_handler | packet handler
+com.aelitis.net.udp.uc.PRUDPPacketHandler packet_handler | packet handler
+com.aelitis.net.udp.uc.PRUDPPrimordialHandler primordial_handler | primordial handler
+com.aelitis.net.udp.uc.PRUDPRequestHandler request_handler | request handler
+com.eteks.sweethome3d.viewcontroller.ThreadedTaskController.ExceptionHandler exceptionHandler | exception handler
+edu.rice.cs.drjava.model.repl.newjvm.InterpretResult.Visitor<java.lang.Void> _testHandler | test handler
+java.awt.event.ComponentListener ownerMovementHandler | owner movement handler
+java.awt.event.FocusListener focusHandler | focus handler
+java.awt.event.WindowFocusListener focusHandler | focus handler
+java.awt.event.WindowListener windowHandler | window handler
+java.beans.PropertyChangeListener propertyChangeHandler | property change handler
+java.beans.PropertyChangeListener propertyHandler | property handler
+java.lang.String ENCODING_HANDLER | encoding handler
+java.lang.String T_HANDLER | t handler
+java.util.HashSet mRegisteredMouseWheelEventHandler | m registered mouse wheel event handler
+java.util.Vector registeredHandler | registered handler
+javax.swing.TransferHandler catalogTransferHandler | catalog transfer handler
+javax.swing.TransferHandler furnitureTransferHandler | furniture transfer handler
+javax.swing.TransferHandler planTransferHandler | plan transfer handler
+javax.xml.bind.ValidationEventHandler eventHandler | event handler
+net.sourceforge.ganttproject.task.CustomColumnsStorage customColumnsHandler | custom columns handler
+org.gudy.azureus2.core3.disk.impl.resume.RDResumeHandler resume_handler | resume handler
+org.gudy.azureus2.plugins.download.savelocation.DefaultSaveLocationManager DEFAULT_HANDLER | default handler
+org.gudy.azureus2.plugins.download.savelocation.SaveLocationManager CURRENT_HANDLER | current handler
+org.gudy.azureus2.plugins.PluginManagerArgumentHandler arg_handler | arg handler
+org.jhotdraw.app.OSXPaletteHandler paletteHandler | palette handler
+org.jhotdraw.draw.AbstractCompositeFigure.ChildHandler childHandler | child handler
+org.jhotdraw.draw.action.AbstractSelectedAction.EventHandler eventHandler | event handler
+org.jhotdraw.draw.GraphicalCompositeFigure.PresentationFigureHandler presentationFigureHandler | presentation figure handler
+org.jhotdraw.draw.LabeledLineConnectionFigure.ChildHandler childHandler | child handler
+org.jhotdraw.draw.LineConnectionFigure.ConnectionHandler connectionHandler | connection handler
+org.pf.file.FileHandler fileHandler | file handler
+org.syntax.jedit.InputHandler inputHandler | input handler
+org.syntax.jedit.JEditTextArea.DocumentHandler documentHandler | document handler
+org.xml.sax.helpers.DefaultHandler dummyHandler | dummy handler
+thePackage.CleanupHandler cleanupHandler | cleanup handler

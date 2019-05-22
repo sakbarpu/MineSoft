@@ -1,0 +1,1 @@
+int findEndingTag(StringBuffer buffer) | find ending tag

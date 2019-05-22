@@ -1,0 +1,24 @@
+boolean GET_PI_METHODS_OPERATIONAL_FLAG_DEFAULT | get pi methods operational flag default
+edu.rice.cs.drjava.ui.config.KeyStrokeOptionComponent.GetKeyDialog _getKeyDialog | get key dialog
+int getAutoCommit | get auto commit
+int getDatabaseFullProductVersion | get database full product version
+int getDatabaseMajorVersion | get database major version
+int getDatabaseMinorVersion | get database minor version
+int getDatabaseProductName | get database product name
+int getDatabaseProductVersion | get database product version
+int GETELEM | get elem
+int GETPROP | get prop
+int GET_REF | get ref
+int GETSESSIONATTR | get session attr
+int GETVAR | get var
+java.awt.Checkbox getFocus | get focus
+java.lang.reflect.Method getFileCreator | get file creator
+java.lang.reflect.Method getFileType | get file type
+java.lang.String getColumnName | get column name
+java.lang.String getCookiesCode | get cookies code
+java.lang.String GET_SERVER_TIME | get server time
+java.lang.String GET_VARIABLE_SIG | get variable sig
+java.util.regex.Pattern getTimeComponent | get time component
+javax.swing.JCheckBox getFocus | get focus
+org.gudy.azureus2.platform.PlatformManagerCapabilities GetUserDataDirectory | get user data directory
+org.gudy.azureus2.platform.PlatformManagerCapabilities GetVersion | get version

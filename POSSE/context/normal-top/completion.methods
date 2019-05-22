@@ -1,0 +1,35 @@
+boolean hasAfterTransactionCompletion() | has after transaction completion
+boolean needsMD5CheckOnCompletion(I) | needs md 5 check on completion
+boolean waitForCompletion(J) | wait for completion
+File getCompletionDirectory(QDownloadManager;) | get completion directory
+int getAverageCompletionInThousandNotation() | get average completion in thousand notation
+int getCompletionPercentage() | get completion percentage
+long getEstimatedSecondsToCompletion() | get estimated seconds to completion
+Object[] findCompletions(QString;QJTextComponent;) | find completions
+RecalculateTaskCompletionPercentageAlgorithm getRecalculateTaskCompletionPercentageAlgorithm() | get recalculate task completion percentage algorithm
+SaveLocationChange onCompletion(QDownloadManager;) | on completion
+SaveLocationChange onCompletion(QDownload;ZZ) | on completion
+void addCompletionListener(QDownloadCompletionListener;) | add completion listener
+void addCompletionListener(QMessageCompletionListener;) | add completion listener
+void afterCompletion(I) | after completion
+void afterTransactionCompletion() | after transaction completion
+void afterTransactionCompletion(QTransaction;) | after transaction completion
+void afterTransactionCompletion(Z) | after transaction completion
+void afterTransactionCompletion(ZQTransaction;) | after transaction completion
+void beforeCompletion() | before completion
+void beforeTransactionCompletion(QTransaction;) | before transaction completion
+void checkCompletion() | check completion
+void checkCompletionState() | check completion state
+void CommandlineCompletion() | commandline completion
+void doCommandlineCompletion(QKeyEvent;) | do commandline completion
+void notifyLocalSynchsAfterTransactionCompletion(I) | notify local synchs after transaction completion
+void notifyLocalSynchsBeforeTransactionCompletion() | notify local synchs before transaction completion
+void onCompletion(QDownload;) | on completion
+void recalculateSupertaskCompletionPercentageBottomUp(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task completion percentage bottom up
+void recalculateSupertaskCompletionPercentage(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task completion percentage
+void removeCompletionListener(QDownloadCompletionListener;) | remove completion listener
+void removeCompletionListener(QMessageCompletionListener;) | remove completion listener
+void setCompletionPercentage(I) | set completion percentage
+void setInputCompletionCommand(QRunnable;) | set input completion command
+void triggerCompletionListeners(ZQObject;) | trigger completion listeners
+void waitForCompletion() | wait for completion

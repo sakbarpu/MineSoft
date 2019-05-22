@@ -1,0 +1,22 @@
+boolean create_from_dir | create from dir
+boolean createTempTable | create temp table
+int _createJarFlags | create jar flags
+int create_time_secs | create time secs
+int CREATE_TRIGGER_COMMAND_1 | create trigger command  1
+java.io.File _createJarFile | create jar file
+java.lang.String create_audit_table_stmt | create audit table stmt
+java.lang.String createExtension | create extension
+java.lang.String[] createIndexHelp | create index help
+java.lang.String create_memory | create memory
+java.lang.String CREATETABLE | create table
+java.lang.String[] createTableHelp | create table help
+java.lang.String create_temp | create temp
+java.lang.String create_test_table_stmt | create test table stmt
+javax.swing.JToggleButton createDimensionsButton | create dimensions button
+javax.swing.JToggleButton createWallsButton | create walls button
+javax.swing.JToggleButton.ToggleButtonModel createDimensionLinesToggleModel | create dimension lines toggle model
+javax.swing.JToggleButton.ToggleButtonModel createLabelsToggleModel | create labels toggle model
+javax.swing.JToggleButton.ToggleButtonModel createRoomsToggleModel | create rooms toggle model
+javax.swing.JToggleButton.ToggleButtonModel createWallsToggleModel | create walls toggle model
+long create_time | create time
+org.gudy.azureus2.platform.PlatformManagerCapabilities CreateCommandLineProcess | create command line process

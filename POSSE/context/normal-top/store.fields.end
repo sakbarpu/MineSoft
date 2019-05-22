@@ -1,0 +1,7 @@
+int ACT_REPLY_STORE | act reply store
+int ACT_REQUEST_STORE | act request store
+int AT_STORE | at store
+java.io.File pathToStore | path to store
+java.lang.String TORRENT_STORE | torrent store
+megamek.common.preference.PreferenceStore clientPreferenceStore | client preference store
+org.hsqldb.persist.PersistentStore rowStore | row store

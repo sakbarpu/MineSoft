@@ -1,0 +1,43 @@
+CONS AndOrSearchRuleSet(ZZ) | and or search rule set
+CONS BonusOrPenalty(QString;) | bonus or penalty
+CONS CatalogDoorOrWindow(QString;QContent;QContent;FFFFZFF[QSash;QInteger;[[FZFZ) | catalog door or window
+CONS CatalogDoorOrWindow(QString;QString;QString;QContent;QContent;FFFFZFF[QSash;[[FQString;ZQBigDecimal;QBigDecimal;) | catalog door or window
+CONS ChangeEmentsOrderOperation(QJReportFrame;) | change ements order operation
+CONS ClearOrdersAction(QFreeColClient;) | clear orders action
+CONS ExecuteGotoOrdersAction(QFreeColClient;) | execute goto orders action
+CONS FacadeInvalidator(QTreeModel;) | facade invalid at or
+CONS FieldOrMethodRef(QString;QString;QString;) | field or method ref
+CONS HitOrMissComparator(QMatcher<QBibtexEntry;>;) | hit or miss comparator
+CONS HomeDoorOrWindow(QDoorOrWindow;) | home door or window
+CONS ImageOrganizerOptionsPanel(QOrganizerContainer;) | image organizer options panel
+CONS Oracle10gDialect() | oracle 10 g dialect
+CONS Oracle8iDialect() | oracle 8 i dialect
+CONS Oracle9Dialect() | oracle 9 dialect
+CONS OracleDialect() | oracle dialect
+CONS OracleOptionsPlugin() | oracle options plugin
+CONS OracleOptions(Qjava.awt.Frame;Z) | oracle options
+CONS OracleTransferHelper() | oracle transfer helper
+CONS OracleTransferHelper(QTransferDb;QTraceable;QString;) | oracle transfer helper
+CONS OrderedMapType(QString;QString;Z) | ordered map type
+CONS OrderedSetType(QString;QString;Z) | ordered set type
+CONS Order(QString;Z) | order
+CONS OrdinalClassClassifier() | ordinal class classifier
+CONS OrdinalParameterDescriptor(IQType;I) | ordinal parameter descriptor
+CONS OrganizerCache() | organizer cache
+CONS OrganizerContainer() | organizer container
+CONS OrganizerOptionsPanel(QOrganizerContainer;) | organizer options panel
+CONS OrPredicate() | or predicate
+CONS OrPredicate(QPredicate;) | or predicate
+CONS OrPredicate(QPredicate;QPredicate;) | or predicate
+CONS QuestionBraceIsParenOrBracket(QIndentRule;QIndentRule;) | question brace is paren or bracket
+CONS QuestionCurrLineEmptyOrEnterPress(QIndentRule;QIndentRule;) | question curr line empty or enter press
+CONS SaveOrUpdateEvent(QObject;QEventSource;) | save or update event
+CONS SaveOrUpdateEvent(QString;QObject;QEventSource;) | save or update event
+CONS SaveOrUpdateEvent(QString;QObject;QSerializable;QEventSource;) | save or update event
+CONS ScriptOrFnNode(I) | script or fn node
+CONS ShareResourceFileOrDirImpl(QShareManagerImpl;IQFile;QMap;) | share resource file or dir impl
+CONS ShareResourceFileOrDirImpl(QShareManagerImpl;QShareResourceDirContentsImpl;IQFile;) | share resource file or dir impl
+CONS TaskDocumentOrderComparator(QTaskManagerImpl;) | task document order comparator
+CONS TimeManagementOrganizer(QModeController;QMindMap;) | time management organizer
+CONS TypeOr(QS;QT;) | type or
+CONS UndoableAddOrRemoveGroup(QGroupSelector;QGroupTreeNode;QGroupTreeNode;I) | undoable add or remove group

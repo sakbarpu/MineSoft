@@ -1,0 +1,7 @@
+int T_TARGSYS_VARIABLE_RANGE | t targsys variable range
+java.lang.String GET_VARIABLE_SIG | get variable sig
+long TO_DEFAULT_VARIABLE_PIECE_NUM_LOWER | to default variable piece num lower
+long TO_DEFAULT_VARIABLE_PIECE_NUM_UPPER | to default variable piece num upper
+long TO_DEFAULT_VARIABLE_PIECE_SIZE_MAX | to default variable piece size max
+long TO_DEFAULT_VARIABLE_PIECE_SIZE_MIN | to default variable piece size min
+org.mozilla.javascript.ObjToIntMap itsVariableNames | its variable names

@@ -1,0 +1,154 @@
+boolean add(Object arg0) | add
+boolean aggregateFuncNoArgsHasParenthesis(QString;QQueryTranslatorImpl;) | aggregate func no args has parenthesis
+boolean aggregateHasArgs(QString;QQueryTranslatorImpl;) | aggregate has args
+boolean containsLink(Object arg0) | contains link
+boolean containsValue(Object arg0) | contains value
+boolean handleCommandLineArgs([QString;) | handle command line args
+boolean hasArguments() | has arguments
+boolean hasParenthesesIfNoArguments() | has parentheses if no arguments
+boolean isUserInRole(String arg0) | is user in role
+boolean isVarArgsConstructor() | is var args constructor
+boolean isVarArgsMethod() | is var args method
+boolean removeAll(Collection arg0) | remove all
+boolean sendArgs() | send args
+boolean sendArgs([QString;I) | send args
+boolean supportsBindAsCallableArgument() | supports bind as callable argument
+char getArgumentTypeNames() | get argument type names
+Class getArgClass(I) | get arg class
+Class[] getIViewClassArgs() | get i view class args
+double[] findArgmin([D[[D) | find arg min
+double getVal(double arguments) | get val
+Expression compileMethodInvocation(Type type, ExpressionFactory expr, String name, ArgumentTransformations implicit, Expression args, int flags, Scope scope, AST pos) | compile method invocation
+Expression getArg() | get arg
+Expression getArg2() | get arg 2
+GPNode newRootedTree(EvolutionState state, GPType type, int thread, GPNodeParent parent, GPFunctionSet set, int argposition, int requestedSize) | new rooted tree
+HsqlProperties argArrayToProps([QString;QString;) | arg array to props
+HsqlProperties delimitedArgPairsToProps(QString;QString;QString;QString;) | delimited arg pairs to props
+IABTValue populate(IABTHashTable args) | populate
+IArguments getArguments() | get arguments
+int argmax(int s) | arg max
+int generateWrapArg(QClassFileWriter;IQClass;) | generate wrap arg
+int getArgCount() | get arg count
+int getArgNullability(I) | get arg nullability
+int[] getArgsToConvert([QClass;) | get args to convert
+int getArgType(I) | get arg type
+int numArguments() | num arguments
+Iterable<QString;> _getLinkArgs() | get link args
+JCNewClass NewClass(JCExpression encl, List<JCExpression> typeargs, JCExpression clazz, List<JCExpression> args, JCClassDecl def) | new class
+List getArgs() | get args
+List getConstructorArgumentTypeList() | get constructor argument type list
+long queryForLong(String sql, Object args, int argTypes) | query for long
+Number getValue(int arg0) | get value
+Object applyN(Object args) | apply n
+Object constructWithInterfaceBody(Class type, Object args, BSHBlock body, CallStack callstack, Interpreter interpreter) | construct with interface body
+Object convertArg(QContext;QScriptable;QObject;I) | convert arg
+Object convertArg(QContext;QScriptable;QObject;QClass;) | convert arg
+Object executeMethod(String methodName, Object arguments) | execute method
+Object[] getArgsArray([QObject;[DII) | get args array
+Object getArguments() | get arguments
+Object[] getArguments(QSession;) | get arguments
+Object invoke(long arg) | invoke
+Object invokeMethod(Object object, String method_name, Object arguments) | invoke method
+Object invoke(Object arg1, Object arg2, Object arg3, Object arg4, Object arg5, Object arg6, Object arg7, Object arg8, Object arg9, Object arg10, Object arg11, Object arg12, Object arg13, Object arg14, Object arg15, Object arg16, Object arg17, Object arg18, Object arg19) | invoke
+Object jsConstructor(Context cx, boolean inNewExpr, Object args) | js constructor
+Object[] padArguments([QObject;I) | pad arguments
+Object parse(String arg) | parse
+ObjectPredicate execute(Object args) | execute
+Object readArguments(InputStream is) | read arguments
+Object refInvokeOperation(String requestedOperation, List args) | ref invoke operation
+Object[] setUpArgs([D) | set up args
+Object visitAttribute(XMIObject attr, Object arg) | visit attribute
+PreparedStatement prepareStatement(String arg0, int arg1, int arg2, int arg3) | prepare statement
+PyObject __call__(PyObject arg0) |  call
+rawDef getCredArg() | get cred arg
+Savepoint setSavepoint(String arg0) | set savepoint
+Signature parseArg(Object objs) | parse arg
+SQLException invalidArgument() | invalid argument
+SQLException invalidArgument(QString;) | invalid argument
+SQLException nullArgument() | null argument
+SQLException nullArgument(QString;) | null argument
+SQLException outOfRangeArgument() | out of range argument
+SQLException outOfRangeArgument(QString;) | out of range argument
+String ask(int id, Properties args) | ask
+String createArgumentArray() | create argument array
+String[] genWinArgs(QString;) | gen win args
+String getArgDescription() | get arg description
+String getArgValue() | get arg value
+String getMessage(String code, Object args, Locale locale) | get message
+String getNonOptionArgsUsage() | get non option args usage
+String getParameterName(int arg0) | get parameter name
+String[] getRestArgs() | get rest args
+String[] parseArgs(QString;) | parse args
+String[] parseArgument(QString;) | parse argument
+String printLong(long arg0) | print long
+String[] processArgs([QString;) | process args
+String transformArgument(QString;) | transform argument
+String transformLocalArgument(QString;) | transform local argument
+String typeArgument() | type argument
+T addArguments(Collection<String> c) | add arguments
+Type[] resolveConstructorArgumentTypes() | resolve constructor argument types
+Vector<QParserResult;> processArguments([QString;Z) | process arguments
+void addArgument(QString;QString;) | add argument
+void addStanza(Interp interp, Thing argv, int lineno) | add stanza
+void addValidator(String arg0, String arg1) | add validator
+void announce(Container player, String args) | announce
+void argumentList(QNode;) | argument list
+void callJavaTask(String name, VerilogReg doneReg, VerilogObject argVars) | call java task
+void dumpArgs(QStringBuffer;[QString;) | dump args
+void error(Element e, String errorId, Object arg1, Object arg2, Object arg3) | error
+void findMatchingMethods(String id, JavaType argTypes, boolean checkArgs, boolean allowConversion, boolean allowVarArgs, JavaStructuredType typeContext, Set<JavaFunction> foundMethods) | find matching methods
+void generateCallArgArray(QNode;QNode;Z) | generate call arg array
+void generatePushWrappedArgs(QClassFileWriter;[QClass;I) | generate push wrapped args
+void handleArgs([QString;) | handle args
+void initializeArgs() | initialize args
+void MasterJVMArgsListener(QJFrame;) | master jvm args listener
+void mTEXT_ARG(boolean _createToken) | m text arg
+void nextArg() | next arg
+void parse_args([QString;) | parse args
+void parseArguments([QString;) | parse arguments
+void parseSpecialNetlet(Args args) | parse special netlet
+void processArgs(QAzureusCore;[QString;) | process args
+void processArgs([QString;QAzureusCore;QCommandLine;) | process args
+void processArguments([QString;) | process arguments
+void putArgument(String key, Object value) | put argument
+void removePlayerInternal(Topic arg0) | remove player internal
+void removePropertyChangeListener(PropertyChangeListener arg0) | remove property change listener
+void run(String argv) | run
+void sanitizeMasterJVMArgs(QJFrame;QString;QOptionListener<QString;>;) | sanitize master jvm args
+void sanitizeSlaveJVMArgs(QJFrame;QString;QOptionListener<QString;>;) | sanitize slave jvm args
+void sendArguments(QLoggerChannelListener;[QString;) | send arguments
+void setAlpha(short argAlpha) | set alpha
+void setArgs(QList;) | set args
+void setArgs([QString;) | set args
+void setArgs(String args) | set args
+void setArgument(IQExpression;) | set argument
+void setArgument(QString;) | set argument
+void setArtist(String arg) | set artist
+void setBoolean(String field, boolean arg1) | set boolean
+void setCurrentProgram(String argProgram) | set current program
+void setDate(int arg0) | set date
+void setFullname(String arg) | set fullname
+void setIViewClassArgs([QClass;) | set i view class args
+void setKey(int arg0) | set key
+void setMaxPool(int arg0) | set max pool
+void setMute(int arg0, boolean arg1) | set mute
+void setProperty(String arg0, Object arg1) | set property
+void setRGB(int x, int y, int argb) | set rgb
+void setServerPIInfo(NVList arguments) | set server pi info
+void setTitleArg1(String titleArg1) | set title arg 1
+void SlaveJVMArgsListener(QJFrame;) | slave jvm args listener
+void testAnonymousInnerClassArg() | test anonymous inner class arg
+void testArgs() | test args
+void testCustomArguments() | test custom arguments
+void testInterpretJavaArguments() | test interpret java arguments
+void testInterpretJavaEscapedArgs() | test interpret java escaped args
+void testInterpretJavaQuotedEscapedArgs() | test interpret java quoted escaped args
+void testInterpretJavaSingleQuotedArgs() | test interpret java single quoted args
+void testMessageTag1ArgNamePropertyNoScopeAlternateBundle() | test message tag 1 arg name property no scope alternate bundle
+void testNormalArguments() | test normal arguments
+void testTokenizeArguments() | test tokenize arguments
+void testTokenizeEscapedArgs() | test tokenize escaped args
+void testTokenizeQuotedEscapedArgs() | test tokenize quoted escaped args
+void testTokenizeSingleQuotedArgs() | test tokenize single quoted args
+void updateDefsForArgumentsAndFunction() | update defs for arguments and function
+void writer__setArgs(int rNumArgs, String rArgs) | writer  set args

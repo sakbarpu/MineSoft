@@ -1,0 +1,5 @@
+com.aelitis.net.udp.uc.impl.PRUDPPacketHandlerImpl altProtocolDelegate | alt protocol delegate
+java.lang.Object __delegate |  delegate
+java.lang.String[] KEYS_TO_DELEGATE | keys to delegate
+net.sourceforge.ganttproject.gui.UIFacade myFallbackDelegate | my fallback delegate
+org.gudy.azureus2.pluginsimpl.local.utils.resourcedownloader.ResourceDownloaderBaseImpl current_delegate | current delegate

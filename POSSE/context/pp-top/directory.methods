@@ -1,0 +1,3 @@
+void currentDirectoryChanged(QFile;) | current directory changed
+void jButtonBackupDirectoryActionPerformed(Qjava.awt.event.ActionEvent;) | j button backup directory action performed
+void jCheckBoxUseCurrentFilesDirectoryForCompilesActionPerformed(Qjava.awt.event.ActionEvent;) | j check box use current files directory for compiles action performed

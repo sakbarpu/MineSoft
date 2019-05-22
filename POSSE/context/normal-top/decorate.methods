@@ -1,0 +1,9 @@
+PropertyMapping getDecoratedPropertyMapping(QString;) | get decorated property mapping
+Rectangle2D getDecoratedBounds(Diagram diagram, Figure figure, Rectangle2D rcBounds) | get decorated bounds
+VisualItem getDecoratedItem() | get decorated item
+void AbstractDecoratedAction(QAction;) | abstract decorated action
+void decorateAction(QString;QAbstractAction;) | decorate action
+void DecoratedAction(QAbstractAction;Z) | decorated action
+void decorateHook(QString;QHookDescriptor;QMindMapHook;) | decorate hook
+void decoratePropertyMapping(QString;QPropertyMapping;) | decorate property mapping
+WindowConfigurationStorage decorateDialog(QJDialog;QString;) | decorate dialog

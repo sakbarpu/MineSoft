@@ -1,0 +1,3 @@
+int MEMBER_TYPE_PROP | member type prop
+java.lang.Object[] memberKeyArray | member key array
+java.lang.reflect.Member memberObject | member object

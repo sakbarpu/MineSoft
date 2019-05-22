@@ -1,0 +1,519 @@
+ArrayList getPlaylistFileItems() | get playlist file items
+ArrayList getRepositoryCurrentPlaylistFileItem() | get repository current playlist file item
+ArrayList<QFileRegion;> getFileRegions() | get file regions
+boolean aquireFileLock() | aquire file lock
+boolean azpdFileFound(QPlatformMessage;) | az pd file found
+boolean checkFileExists() | check file exists
+boolean checkIfClassFileInSync() | check if class file in sync
+boolean closeFileHelper(QOpenDefinitionsDocument;) | close file helper
+boolean closeFileWithoutPrompt(QOpenDefinitionsDocument;) | close file without prompt
+boolean continueWhenTempFileCreationFails() | continue when temp file creation fails
+boolean getClassFileInSync() | get class file in sync
+boolean getDeleteFileOnCancel() | get delete file on cancel
+boolean getFileMustExist() | get file must exist
+boolean hasFileFlavor([QDataFlavor;) | has file flavor
+boolean importFileList(QJComponent;QList<QFile;>;) | import file list
+boolean inFileTree(QFile;QFile;) | in file tree
+boolean isCoreFileLoader(QString;) | is core file loader
+boolean isCoreFileSaver(QString;) | is core file saver
+boolean isFileBasedDatabaseType(QString;) | is file based database type
+boolean isFileDestinationIsItself(QSaveLocationChange;) | is file destination is itself
+boolean isFileElement(QFile;) | is file element
+boolean isFileInArchive(QString;) | is file in archive
+boolean isFileTorrent(QFile;QShell;QString;) | is file torrent
+boolean isFileValid(File file) | is file valid
+boolean isPosixManditoryFileLock() | is posix manditory file lock
+boolean isSelectedChangeFileExt() | is selected change file ext
+boolean isStoredFileAccess() | is stored file access
+boolean isValidFileName(QFile;QString;) | is valid file name
+boolean openExternalFileAnyFormat(QMetaData;QString;QExternalFileType;) | open external file any format
+boolean openExternalFileUnknown(QJabRefFrame;QBibtexEntry;QMetaData;QString;QUnknownExternalFileType;) | open external file unknown
+boolean performRecoverableFileDelete(QFile;) | perform recoverable file delete
+boolean releaseFileLock() | release file lock
+boolean resilientConfigFileExists(QString;) | resilient config file exists
+boolean sameFilePath(QString;QString;) | same file path
+boolean saveFileAs(QFileSaveSelector;) | save file as
+boolean saveFileList(QVector;QString;) | save file list
+boolean setFileLink(QDownloadManager;[QDiskManagerFileInfo;QDiskManagerFileInfo;QFile;QFile;) | set file link
+boolean showsFileInGenFields() | shows file in gen fields
+boolean useCompressionForFileType(QString;) | use compression for file type
+boolean usesLocalFilePerTable() | uses local file per table
+boolean waitForFileLock(QFile;I) | wait for file lock
+boolean _warnFileOpen(QFile;) | warn file open
+boolean warnFileOpen(QFile;) | warn file open
+boolean writeBytesAsFile2(QString;[B) | write bytes as file 2
+byte[] getFileContents(QString;) | get file contents
+byte[] getPerFileED2KDigest() | get per file ed 2 k digest
+byte[] getPerFileSHA1Digest() | get per file sha 1 digest
+byte[] loadFileData(QString;QString;) | load file data
+byte[] readFileAsByteArray(QFile;) | read file as byte array
+CaseSensitiveFileMap getFileLinks() | get file links
+ClassLoader addFileToClassPath(QClassLoader;QClassLoader;QFile;) | add file to class path
+Color getColorFileDragBG() | get color file drag bg
+Color getColorFileDragBorder() | get color file drag border
+Comparator getFileSorter(QTiVoQueryContainerRequest;) | get file sorter
+Composite createFileInfoPanel(QComposite;) | create file info panel
+DirectoryChooser getFileChooser() | get file chooser
+DiskManagerFileInfo[] getDiskManagerFileInfo() | get disk manager file info
+DiskManagerFileInfo[] getFileInfo() | get file info
+DiskManagerFileInfoImpl getFileInfo() | get file info
+DiskManagerFileInfoImpl[] getFileInfo([QDMPieceMapperFile;QFile;) | get file info
+DiskManagerFileInfoSet getDiskManagerFileInfoSet() | get disk manager file info set
+DiskManagerFileInfoSet getFileInfoSkeleton(QDownloadManager;QDiskManagerListener;) | get file info skeleton
+DiskManagerFileInfoSet getFileSet() | get file set
+DJFileDisplayManager getFileDisplayManager20() | get file display manager 20
+DJFileDisplayManager getFileDisplayManager30() | get file display manager 30
+DocFile docFileFromGetter(QDocumentInfoGetter;) | doc file from getter
+ExternalFileType getExternalFileTypeByExt(QString;) | get external file type by ext
+ExternalFileType getExternalFileTypeByMimeType(QString;) | get external file type by mime type
+ExternalFileType getExternalFileTypeByName(QString;) | get external file type by name
+ExternalFileType[] getExternalFileTypeSelection() | get external file type selection
+FileAccess.FileSync getFileSync(Qjava.io.OutputStream;) | get file sync
+FileAccess getFileAccess() | get file access
+File changeFileDirectory(QFile;QDirectory;) | change file directory
+File changeFileName(Qorg.jajuk.base.File;QString;) | change file name
+File checkFileExtension(QFile;) | check file extension
+FileChooser getFileChooser() | get file chooser
+File copyTorrentFileToSaveDir(QFile;Z) | copy torrent file to save dir
+File determineASXFileLocation(QDownloadManager;) | determine asx file location
+File determineAzpdFileLocation(QDownloadManager;) | determine az pd file location
+File determineAzpdFileName(QPlatformMessage;) | determine az pd file name
+FileDisplay makeFileDisplay(QFile;) | make file display
+FileDisplay makeFileDisplay(QFile;QString;) | make file display
+FileFilter createFileFilter() | create file filter
+FileFilter getChoosableFileFilters() | get choosable file filters
+FileFilter getDefaultFileFilter() | get default file filter
+FileFilter getFGOFileFilter() | get fgo file filter
+FileFilter getFileFilter() | get file filter
+FileFilter[] getFileFilter(QContentType;) | get file filter
+FileFilter getFileFilter(QString;) | get file filter
+FileFilter getFSGFileFilter() | get fsg file filter
+FileFilter getGameOptionsFileFilter() | get game options file filter
+FileFilter matchFileFilter(QString;) | match file filter
+File findFileInPaths(QString;QIterable<QFile;>;) | find file in paths
+File findFileOnClasspath(QString;) | find file on classpath
+File fullFilePath(Z) | full file path
+File generateNewFileName(QFile;) | generate new file name
+File generateNewFileName(QFile;QString;) | generate new file name
+File generateNewFileName(QFile;QString;QString;) | generate new file name
+File generateNewFileName(QFile;QString;QString;I) | generate new file name
+File getCacheFileControlFileDir() | get cache file control file dir
+File getControlFileDir() | get control file dir
+File getDestFileFullName() | get dest file full name
+File getFileByPath(QString;) | get file by path
+File getFileForClassName(QString;) | get file for class name
+File _getFileFromDocument(QOpenDefinitionsDocument;QFileSaveSelector;) | get file from document
+File getFileFromField() | get file from field
+File getFileLink(QFile;) | get file link
+File getFileLink(QTOTorrent;QFile;) | get file link
+File getFileOrBackup(QString;) | get file or backup
+File getJarFileFromClass(QClass;) | get jar file from class
+File getJarFileFromURL(QString;) | get jar file from url
+File _getSourceFileFromPath(QString;QFile;) | get source file from path
+FileGroupingState makeFlatFileGroupingState() | make flat file grouping state
+FileGroupingState makeProjectFileGroupingState(QFile;QString;QFile;QFile;QFile;[QFile;[QFile;[QFile;QIterable<QFile;>;QFile;IZ) | make project file grouping state
+FileHandler getFileHandler() | get file handler
+FileHistory getFileHistory() | get file history
+FileLogging getFileLoggingInstance() | get file logging instance
+FileObject lookupFileObject(String name) | lookup file object
+FileParameter addFileParameter2(QString;QString;QString;) | add file parameter 2
+FileParameter addFileParameter2(QString;QString;QString;[QString;) | add file parameter 2
+FileSync getFileSync(QOutputStream;) | get file sync
+FileWindow getFileWindow(QString;) | get file window
+HashMap<QString;QString;> getHmWrongRightFileID() | get hm wrong right file id
+Hashtable<QString;QString;> getFileConverters(QString;[QString;) | get file converters
+Hashtable<QString;QString;> getFileConverters(QVector;[QString;) | get file converters
+int findFirstFileWithPieceN(I[QDiskManagerFileInfo;) | find first file with piece n
+int getAdditionalFileTypeRegistrationDetails(QString;QString;) | get additional file type registration details
+int getContentPrimaryFileIndex(QTOTorrent;) | get content primary file index
+int getFileCommentSize() | get file comment size
+int getFileCompleteOptionSize() | get file complete option size
+int getFileCount() | get file count
+int getFileHistCount() | get file hist count
+int getFileSize() | get file size
+int getP2BFileVersion(QInputStream;) | get p 2 b file version
+int readSmbQueryFileBasicInfoWireFormat([BI) | read smb query file basic info wire format
+int readSmbQueryFileStandardInfoWireFormat([BI) | read smb query file standard info wire format
+int removeFileOrDir(QString;) | remove file or dir
+int setFilePos(QCachedObject;) | set file pos
+java.lang.String getFilePrefix() | get file prefix
+java.lang.String getLocalFileName() | get local file name
+java.util.List getTransferableAsFileList() | get transferable as file list
+javax.swing.filechooser.FileFilter getFileFilter() | get file filter
+javax.swing.JTable getFileTable() | get file table
+JFileChooser createExportFileChooser(QString;) | create export file chooser
+JFileChooser createFileChooser(QGanttOptions;) | create file chooser
+JFileChooser createImportFileChooser(QString;) | create import file chooser
+JFileChooser getFileChooser() | get file chooser
+JMenu getModeFileMenu() | get mode file menu
+JMenu makeFileMenu() | make file menu
+JMenu _setUpFileMenu(I) | set up file menu
+JPanel buildFilePathSettings() | build file path settings
+JPanel _jarFileSelector() | jar file selector
+JPanel _makeJarFileSelector() | make jar file selector
+JPanel _manifestFileSelector() | manifest file selector
+JTextField getFileField() | get file field
+JTextField getFileSizeField() | get file size field
+List buildLastPieceToFileList(QList;IJ) | build last piece to file list
+List<QExternalFileType;> getDefaultExternalFileTypes() | get default external file types
+List<QFile;> _testFileSort(QList<QFile;>;) | test file sort
+List<QFile;> textURIListToFileList(QString;) | text uri list to file list
+LockFile newLockFileLock(QString;) | new lock file lock
+long calculateTotalFileSize(QFile;) | calculate total file size
+long CurrentFilePosition() | current file position
+long getFileFreePos() | get file free pos
+long getFileOrDirectorySize(QFile;) | get file or directory size
+long getFilePointer() | get file pointer
+long getFilePosition() | get file position
+long getFileReadCount() | get file read count
+long getFileWriteCount() | get file write count
+long getLockFileTimeStamp(QFile;) | get lock file time stamp
+long getTorrentDataSizeFromFileOrDir(QFile;) | get torrent data size from file or dir
+long getTorrentDataSizeFromFileOrDirSupport(QFile;) | get torrent data size from file or dir support
+long getTotalFileSize(QFile;) | get total file size
+long getTotalFileSizeSupport(QFile;) | get total file size support
+Map getFileMetaData(QTOTorrent;) | get file meta data
+Map readAzpdFileToMap(QFile;) | read az pd file to map
+Map readResilientFileSupport(QFile;QString;Z) | read resilient file support
+MenuItem addOpenVuzeFileMenuItem(QMenu;) | add open vu ze file menu item
+MenuItem addShareFileMenuItem(QMenu;) | add share file menu item
+MenuItem createFileMenuItem(QMenu;) | create file menu item
+Object getNewFileImpl(QJFrame;QFile;QString;QString;QOpenFileFilter;IZZZQJComponent;) | get new file impl
+Object readFileOrUrl(QString;Z) | read file or url
+OpenDefinitionsDocument openFileHelper(QFileOpenSelector;) | open file helper
+OpenFileFilter getFileFilterForField(QString;) | get file filter for field
+org.gudy.azureus2.plugins.ui.config.FileParameter addFileParameter2(QString;QString;QString;) | add file parameter 2
+org.gudy.azureus2.plugins.ui.config.FileParameter addFileParameter2(QString;QString;QString;[QString;) | add file parameter 2
+Parameter createFileParameter(QString;QString;QString;) | create file parameter
+PlaylistFile changePlaylistFileName(QPlaylistFile;QString;) | change playlist file name
+PlaylistFileItem getCurrentPlaylistFileItem() | get current playlist file item
+RrdDb openRrdFileFor(QRawSample;) | open rrd file for
+ShareResource addFileOrDir(QShareResourceDirContentsImpl;QFile;IZ) | add file or dir
+String BIFFileTipText() | bif file tip text
+String boundsFileTipText() | bounds file tip text
+StringBuffer readFileStart(QFile;I) | read file start
+String changeFileExtension(QString;QString;) | change file extension
+String convertFileToString(QFile;) | convert file to string
+String debugVectorsFileTipText() | debug vectors file tip text
+String determineFileExt(QDiskManagerFileInfo;) | determine file ext
+String encodeDocFileAbsolute(QDocFile;QString;) | encode doc file absolute
+String encodeDocFileRelative(QDocFile;QString;) | encode doc file relative
+String encodeFileAbsolute(QFile;QString;) | encode file absolute
+String encodeFileRelative(QFile;QString;QFile;) | encode file relative
+String escapeFileName(QString;) | escape file name
+String expandFileName(QString;) | expand file name
+String getAudioFileName() | get audio file name
+String getCacheFileOwnerName() | get cache file owner name
+String getCamoFileName() | get camo file name
+String getCanonicalFileName(QString;) | get canonical file name
+String getCorrectFileName(QString;QString;) | get correct file name
+String getDataFileName() | get data file name
+String getDefaultFileExtension(QContentType;) | get default file extension
+String getDefaultNewFileRep() | get default new file rep
+String getDestFileName() | get dest file name
+String getFileBrowserName() | get file browser name
+String getFileChecksum(QFile;) | get file checksum
+String getFileChooserTitle() | get file chooser title
+String _getFile_const(long _pointer_) | get file const
+String getFileContent() | get file content
+String getFileDescription() | get file description
+String getFileDialogTitle(Z) | get file dialog title
+String getFileDirectory(QString;) | get file directory
+String[] getFileEndings() | get file endings
+String getFileExtension() | get file extension
+String getFileExtension(QFile;) | get file extension
+String[] getFileExtensions() | get file extensions
+String getFileId() | get file id
+String getFileMessage() | get file message
+String getFileMonitorHandle() | get file monitor handle
+String getFileName() | get file name
+String getFileNameField() | get file name field
+String getFileNamePattern() | get file name pattern
+String getFileNameProposal() | get file name proposal
+String getFileName(QString;) | get file name
+String getFilePath() | get file path
+String getFilePath(QString;) | get file path
+String getFileSeparator() | get file separator
+String getFileSize() | get file size
+String getFileText() | get file text
+String getFileTypeDescription() | get file type description
+String getGrammarFileName() | get grammar file name
+String getGraphicFileFromDescription(QString;) | get graphic file from description
+String getGraphicFileFromType(QString;) | get graphic file from type
+String getIconBaseFileName() | get icon base file name
+String getIconFileDirectory() | get icon file directory
+String getIconFileName() | get icon file name
+String getIconFilePrefix() | get icon file prefix
+String getImageFileName() | get image file name
+String getInitFileClassIndex() | get init file class index
+String getLinkByFileChooser(QFileFilter;) | get link by file chooser
+String getNewFileForMac(QJFrame;QFile;QString;IZZQFilenameFilter;) | get new file for mac
+String getOptionFileLine() | get option file line
+String getOriginalFileName() | get original file name
+String getPlannedFileName(QString;) | get planned file name
+String getResultsFileName() | get results file name
+String getScriptletFileName() | get scriptlet file name
+String getScriptletFileName(QString;) | get scriptlet file name
+String getShortFileName(QString;) | get short file name
+String getSourceFileName() | get source file name
+String getSuggestedFileName(QString;) | get suggested file name
+String getTargetFileExtension() | get target file extension
+String getTargetFileOrDir() | get target file or dir
+String getTorrentFileName() | get torrent file name
+String getTorrentFileName(QTOTorrent;) | get torrent file name
+String guessContentTypeFromFileType(QString;) | guess content type from file type
+String holdOutFileTipText() | hold out file tip text
+String initFileClassIndexTipText() | init file class index tip text
+String initFileTipText() | init file tip text
+String inputCenterFileTipText() | input center file tip text
+String kernelMatrixFileTipText() | kernel matrix file tip text
+String logFileTipText() | log file tip text
+String modelFileTipText() | model file tip text
+String normaliseFileName(QString;) | normalise file name
+String outputCenterFileTipText() | output center file tip text
+String outputFileName() | output file name
+String outputFileTipText() | output file tip text
+String parseFileName(QSExp;) | parse file name
+String partFileTipText() | part file tip text
+String proposeFileExtension() | propose file extension
+String readFileAsString(QFile;) | read file as string
+String readFileAsString(QFile;I) | read file as string
+String readFileAsString(QFile;IQString;) | read file as string
+String readFileAsSwingText(QFile;) | read file as swing text
+String readFileEndAsString(QFile;I) | read file end as string
+String secretFileName(QString;) | secret file name
+String serializedClassifierFileTipText() | serialized classifier file tip text
+String showFileChooser(QView;QString;QContentType;QString;Z) | show file chooser
+String showFileDialog(QView;QString;QContentType;QString;Z) | show file dialog
+String translateMoveFilePath(QString;QString;QString;) | translate move file path
+String unescapeFileName(QString;) | unescape file name
+SubscriptionImpl getSubscriptionFromVuzeFileContent([BIQString;) | get subscription from vu ze file content
+Tag getFileFormat() | get file format
+Tag validateFileFormat(QTag;) | validate file format
+TorrentCreator createFromDataFileEx(QFile;QURL;Z) | create from data file ex
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;JJJJ) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;Z) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;ZJJJJ) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;) | create from file or dir with fixed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;J) | create from file or dir with fixed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;Z) | create from file or dir with fixed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;ZJ) | create from file or dir with fixed piece length
+TransferResultSet parseFileForData(QString;) | parse file for data
+Vector getFileLines(QFile;) | get file lines
+Vector<QExtensionFileFilter;> filterNonCoreLoaderFileFilters(QVector<QExtensionFileFilter;>;) | filter non core loader file filters
+Vector<QExtensionFileFilter;> filterNonCoreSaverFileFilters(QVector<QExtensionFileFilter;>;) | filter non core saver file filters
+Vector<QExtensionFileFilter;> filterSaverFileFilters(QVector<QExtensionFileFilter;>;) | filter saver file filters
+Vector<QFile;> getFileVector() | get file vector
+Vector<QString;> getFileLoaders() | get file loaders
+Vector<QString;> getFileMatches(QString;) | get file matches
+Vector<QString;> getFileSavers() | get file save rs
+Vector<QString;> getURLFileLoaders() | get url file loaders
+void addChoosableFileFilter(QFileFilter;) | add choosable file filter
+void addFileAction(QString;QString;QString;ZIQKeyStroke;Z) | add file action
+void addFileInstallOperation(QFilePluginInstaller;) | add file install operation
+void addFileLoggingListener(QFileLoggerAdapter;) | add file logging listener
+void addFileMenu() | add file menu
+void addFileMenu(EtherEventPropertySource in, Properties inp) | add file menu
+void addFileMenu(QShell;) | add file menu
+void addFileToRectificationQueue(String fileName) | add file to rectification queue
+void addInputFileRow(String name, boolean editable) | add input file row
+void addNewFileAction(QString;QString;QString;IQKeyStroke;) | add new file action
+void AnyFileFilter() | any file filter
+void applyFileSizeFilters() | apply file size filters
+void assertClassFileErrorCount(I) | assert class file error count
+void assertFileNotFoundCount(I) | assert file not found count
+void assertFileRevertedCount(I) | assert file reverted count
+void assertQuitFileCount(I) | assert quit file count
+void assertShouldRevertFileCount(I) | assert should revert file count
+void AutoSetFileAction() | auto set file action
+void buildFileLookupTable(QTOTorrentFile;QLocaleUtilDecoder;C) | build file lookup table
+void buildFileLookupTables([QTOTorrentFile;QLocaleUtilDecoder;) | build file lookup tables
+void buildFileLookupTables(QTOTorrentFile;QString;) | build file lookup tables
+void builFileMenu(QMenu;) | buil file menu
+void callProcessFileSecure(QContext;QScriptable;QString;) | call process file secure
+void changeFileDestination([I) | change file destination
+void changeHeaderFilePath(String NewHeaderFilePath) | change header file path
+void classFileError(QClassFileError;) | class file error
+void clearChoosableFileFilters() | clear choosable file filters
+void clearFileLinks() | clear file links
+void copyFileOrDirectory(QFile;QFile;) | copy file or directory
+void copyFilePermissions(QString;QString;) | copy file permissions
+void createFileChooser() | create file chooser
+void createFileWindow(QDim.SourceInfo;I) | create file window
+void DefaultFileSaver(QFile;) | default file saver
+void deleteDataFileContents(QTOTorrent;QString;QString;) | delete data file contents
+void destroyFileInfo() | destroy file info
+void DJFileDisplayManager(QIcon;QIcon;QIcon;QIcon;QIcon;) | dj file display manager
+void DocFileListVisitor(QString;) | doc file list visitor
+void DocFilePropertyVisitor(QString;) | doc file property visitor
+void doFileExistenceChecks(QDiskManagerFileInfoSet;[ZQDownloadManager;Z) | do file existence checks
+void EditExternalFileTypesAction(QJabRefFrame;) | edit external file types action
+void EditExternalFileTypesAction(QJDialog;) | edit external file types action
+void establishFileMenu(QJMenu;) | establish file menu
+void ExportFileInfo(QFile;IQGanttExportSettings;) | export file info
+void ExternalFileEntry() | external file entry
+void ExternalFileEntry(QString;) | external file entry
+void fillFileInfoSection() | fill file info section
+void fillFileNames(QConnection;QString;) | fill file names
+void fixupFileInfo([QfileInfoFacade;) | fixup file info
+void FreeColFileFilter(QString;QString;) | free col file filter
+void FreeColFileFilter(QString;QString;QString;) | free col file filter
+void gatherDirectoryFromFileSystem(QArrayList;QFile;QString;QFileFilter;ZI) | gather directory from file system
+void getReservedFileHandles() | get reserved file handles
+void GoToFileListEntry(QOpenDefinitionsDocument;QString;) | go to file list entry
+void gotoFileMatchingMask(QString;) | goto file matching mask
+void _gotoFileUnderCursor() | goto file under cursor
+void handleNoFileExists(QDownloadManager;) | handle no file exists
+void initFileChooser() | init file chooser
+void initGotoFileDialog() | init goto file dialog
+void JComponentWriterFileFilter(QString;QString;QJComponentWriter;) | j component writer file filter
+void LoadFileListener(QDGuitar;) | load file listener
+void loadFileList(QVector;QString;) | load file list
+void loadFileLists() | load file lists
+void loadFilePriorities() | load file priorities
+void loadFilePriorities(QDownloadManager;QDiskManagerFileInfoSet;) | load file priorities
+void logMoveFileError(QString;QString;) | log move file error
+void moveTorrentFile0(QFile;QString;) | move torrent file 0
+void onFileChosen(QFile;) | on file chosen
+void _openFileDownloadPage(QString;) | open file download page
+void openFileOnWindows(QString;Z) | open file on windows
+void _openFileOrProject() | open file or project
+void openFileWithApplicationOnWindows(QString;QString;) | open file with application on windows
+void parseFileForTables() | parse file for tables
+void parseFileForTheRest(QTransferTable;QDataAccessPoint;) | parse file for the rest
+void performRecoverableFileDelete(QString;) | perform recoverable file delete
+void PluginFileLoggerAdapater(QFileLogging;QFileLoggerAdapter;) | plugin file logger adapater
+void processFileSecure(QContext;QScriptable;QString;QObject;) | process file secure
+void ProjectFileGroupingState(QFile;) | project file grouping state
+void ProjectFileGroupingState(QFile;QString;QFile;QFile;QFile;[QFile;[QFile;[QFile;QIterable<QFile;>;QFile;IZ) | project file grouping state
+void registerAdditionalFileType(QString;QString;QString;QString;) | register additional file type
+void registerAdditionalFileType(QString;QString;QString;QString;Z) | register additional file type
+void releaseReservedFileHandles() | release reserved file handles
+void reloadLogToFileParam() | reload log to file param
+void removeChoosableFileFilter(QFileFilter;) | remove choosable file filter
+void removeFileLoggingListener(QFileLoggerAdapter;) | remove file logging listener
+void resetFileField() | reset file field
+void resetFileItems() | reset file items
+void resetGotoFileDialogPosition() | reset goto file dialog position
+void runFileLoader(QAbstractFileLoader;[QString;) | run file loader
+void runFileSaver(QAbstractFileSaver;[QString;) | run file saver
+void saveFileAs() | save file as
+void saveFileAs(QOpenDefinitionsDocument;QFileSaveSelector;) | save file as
+void saveToFileAndReviewNext(QFile;) | save to file and review next
+void saveWorkingInstancesToFileQ() | save working instances to file q
+void selectPlaylistFileItem(QPlaylistFileItem;) | select playlist file item
+void setCamoFileName(QString;) | set camo file name
+void setClassFileInSync(Z) | set class file in sync
+void setCurrentPlaylistFileItem(QPlaylistFileItem;) | set current playlist file item
+void setDataFileName(QString;) | set data file name
+void setDataSourceFileName(String newFileName) | set data source file name
+void setDeleteFileOnCancel(Z) | set delete file on cancel
+void setDestFileName(QString;) | set dest file name
+void setExternalFileTypes(QList<QExternalFileType;>;) | set external file types
+void setFileCommentSize(I) | set file comment size
+void setFileCompleteOptionSize(I) | set file complete option size
+void setFileContent(QString;) | set file content
+void setFileEntry(QFileEntry;) | set file entry
+void setFileExtension(QString;) | set file extension
+void setFileField(QFile;) | set file field
+void setFileFilter(QFileFilter;) | set file filter
+void setFileFormat(QTag;) | set file format
+void setFileGroupingState(QFileGroupingState;) | set file grouping state
+void setFileHandler(QFileHandler;) | set file handler
+void setFileId(QString;) | set file id
+void setFileId(String fileId) | set file id
+void setFileInfo(QDiskManagerFileInfoImpl;) | set file info
+void _setFileLength(RandomAccessFile f, int length) | set file length
+void setFileLink(QFile;QFile;) | set file link
+void setFileLinks() | set file links
+void setFileLinks(QDownloadManager;QCaseSensitiveFileMap;) | set file links
+void setFileLinks(QTOTorrent;QCaseSensitiveFileMap;) | set file links
+void setFileListActivatedFrame(QJReportFrame;) | set file list activated frame
+void setFileMetaData(QTOTorrent;QMap;) | set file meta data
+void setFileMonitorHandle(QString;) | set file monitor handle
+void setFileMustExist(Z) | set file must exist
+void setFileName() | set file name
+void setFileName(Qjava.lang.String;) | set file name
+void setFileName(QString;) | set file name
+void setFileName(String fileName) | set file name
+void setFileNameXpath(String fileNameXpath) | set file name xpath
+void setFilePosition(QFileWindow;I) | set file position
+void setFilePrefix(Qjava.lang.String;) | set file prefix
+void setFilePrefix(QString;) | set file prefix
+void setFileReloadTimer() | set file reload timer
+void setFileSelectionMode(I) | set file selection mode
+void setFileSize(J) | set file size
+void setFileTypeExtensions([QString;) | set file type extensions
+void setHelpFileName(QString;) | set help file name
+void setImageByFileChooser() | set image by file chooser
+void SetImageByFileChooserAction() | set image by file chooser action
+void setInitFileClassIndex(QString;) | set init file class index
+void setInstancesFromFileQ() | set instances from file q
+void setLinkByFileChooser() | set link by file chooser
+void SetLinkByFileChooserAction() | set link by file chooser action
+void setLocalFileName(Qjava.lang.String;) | set local file name
+void setOutputFileName(QString;) | set output file name
+void setRAFileLength(QRandomAccessFile;J) | set ra file length
+void setSourceFileName(QString;) | set source file name
+void setTorrentFileName(QString;) | set torrent file name
+void setTransormationConfigFileRef(String fileRef) | set tr ans or mat ion config file ref
+void setupFileChooser() | setup file chooser
+void setUpFileFormatComboBox() | set up file format combo box
+void setZipFilePath(QDirEntry;) | set zip file path
+void showFileChooser() | show file chooser
+void showFileChooserAndOpen() | show file chooser and open
+void showFileFieldMenu(QMouseEvent;) | show file field menu
+void _showFileMovedError(FileMovedException fme) | show file moved error
+void _showFileMovedError(QFileMovedException;) | show file moved error
+void _showFileNotFoundError(QFileNotFoundException;) | show file not found error
+void _showProjectFileParseError(QMalformedProjectFileException;) | show project file parse error
+void SqlFileList(QString;) | sql file list
+void startAzpdFileCheckTimer([QDownloadManager;) | start az pd file check timer
+void startLazyAzpdFileCheckThread([QDownloadManager;) | start lazy az pd file check thread
+void storeFilePriorities() | store file priorities
+void storeFilePriorities(QDownloadManager;[QDiskManagerFileInfo;) | store file priorities
+void testClassFileSynchronization() | test class file synchronization
+void testClassFileSynchronizationAfterRename() | test class file synchronization after rename
+void testCloseFileAllowAbandon() | test close file allow abandon
+void testCloseFileDisallowAbandon() | test close file disallow abandon
+void testConstructorWithFileName() | test constructor with file name
+void testDeleteFileBeforeCloseAll() | test delete file before close all
+void testDeleteFileWhileOpen() | test delete file while open
+void testEscapeUnEscapeFileName() | test escape un escape file name
+void testFileDefaultPackage() | test file default package
+void TestFileIOListener(QFile;) | test file io listener
+void testFileMaskFilter() | test file mask filter
+void testFileMovedWhenTriedToSave() | test file moved when tried to save
+void testFileNaming() | test file naming
+void testFileNaming1() | test file naming 1
+void testFileNaming3() | test file naming 3
+void testFileOnePackage() | test file one package
+void testFindFileRelative() | test find file relative
+void testForceFileOpen() | test force file open
+void testGotoFileUnderCursor() | test goto file under cursor
+void testGotoFileUnderCursorAppendJava() | test goto file under cursor append java
+void testGotoFileUnderCursorShowDialog() | test goto file under cursor show dialog
+void testSmallFileProblem() | test small file problem
+void testWriteFilePJT() | test write file pjt
+void testWriteFileXML() | test write file xml
+void TorrentFileInfo(QTorrentInfo;QTOTorrentFile;I) | torrent file info
+void turnOnFileLogging() | turn on file logging
+void UnexpectedEndOfFileException(QLockFile;QString;QEOFException;) | unexpected end of file exception
+void UnexpectedFileIOException(QLockFile;QString;QIOException;) | unexpected file io exception
+void UnexpectedFileNotFoundException(QLockFile;QString;QIOException;) | unexpected file not found exception
+void unregisterAdditionalFileType(QString;QString;) | unregister additional file type
+void updateExternalFileTypes() | update external file types
+void updateFileLink(QString;QString;QString;QString;) | update file link
+void updateFileLinks(QFile;QFile;) | update file links
+void updateFileList() | update file list
+void updateFileMenu() | update file menu
+void updateFileMenu([QString;) | update file menu
+void updateRecentFileMenu(QJMenu;QVector;) | update recent file menu
+void WarningFileSelector(QFile;) | warning file selector
+void WeakFileEntry(QFile;) | weak file entry
+void writeBibFileHeader(QWriter;QString;) | write bib file header
+void writeFileLines(QVector;QFile;) | write file lines
+void writeFileToPrintStream(QPrintStream;) | write file to print stream
+void ZipFileChooserTableModel(QZipFile;[QZipEntry;) | zip file chooser table model
+void ZipFileProcessor(QZipEntryHandler;) | zip file processor

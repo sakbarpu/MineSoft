@@ -1,0 +1,8 @@
+int nbSuperSeeds | nb super seeds
+int PR_SUPER_SEED_COUNT | pr super seed count
+java.lang.String ManagerItem_superseeding | manager item super seeding
+javax.swing.JPanel jPanelSuperContainer | j panel super container
+net.sourceforge.ganttproject.chart.StyledPainterImpl.RectanglePainter mySupertaskEndPainter | my super task end painter
+net.sourceforge.ganttproject.chart.StyledPainterImpl.RectanglePainter mySupertaskStartPainter | my super task start painter
+net.sourceforge.ganttproject.chart.StyledPainterImpl.RectanglePainter myTaskSupertaskRectanglePainter | my task super task rectangle painter
+short itsSuperClassIndex | its super class index

@@ -1,0 +1,51 @@
+boolean isSafeForReconnect() | is safe for reconnect
+boolean isSafeMultiSnipe(QAuctionEntry;QAuctionEntry;) | is safe multi snipe
+boolean isSafeToAdd(QAuctionEntry;) | is safe to add
+boolean safeEqualsIgnoreCase(QString;QString;) | safe equals ignore case
+boolean safeEquals(QColor;QColor;) | safe equals
+boolean safeEquals(QString;QString;) | safe equals
+boolean safeUpdate() | safe update
+ContentInfo getAuthSafe() | get auth safe
+double safeLog10(D) | safe log 10
+double safeSqrt(D) | safe sqrt
+FreeColGameObject getFreeColGameObjectSafely(QString;) | get free col game object safely
+Object copy(SafeEnv safeEnv, Object newOwnerRef, boolean deepPageCopy) | copy
+Object ensureSafeValue(QObject;QObject;QObject;) | ensure safe value
+Object getAttributeSafe(QString;ZQjava.util.Collection;) | get attribute safe
+Object nullSafeGet(QResultSet;[QString;) | null safe get
+Object nullSafeGet(QResultSet;QString;) | null safe get
+Object nullSafeGet(QResultSet;[QString;QObject;) | null safe get
+Object nullSafeGet(QResultSet;[QString;QSessionImplementor;QObject;) | null safe get
+Object nullSafeGet(QResultSet;QString;QSessionImplementor;QObject;) | null safe get
+Object[] nullSafeGetValues(QObject;QEntityMode;) | null safe get values
+QName getQNameSafe(String stringRep) | get q name safe
+String makeCSVSafe(QString;) | make csv safe
+String nullSafeToString(QObject;) | null safe to string
+String safeDoubleToString(QDouble;) | safe double to string
+String safeRepr() | safe repr
+void dsvSafe(QString;) | dsv safe
+void enableSafeSelectionMode() | enable safe selection mode
+void initSafeMode() | init safe mode
+void nullSafeSet(PreparedStatement st, Object value, int index) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;I) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;IQSessionImplementor;) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;I[ZQSessionImplementor;) | null safe set
+void paintSafely(QGraphics;) | paint safely
+void renameTorrentSafe(QString;) | rename torrent safe
+void safeDamageRange(II) | safe damage range
+void safeDamageRange(QPosition;QPosition;) | safe damage range
+void safeDisconnect() | safe disconnect
+void safeGetAffiliate(QAuctionEntry;) | safe get affiliate
+void safeIndentLine(QIndenter.IndentReason;) | safe indent line
+void safeIndentLines(II) | safe indent lines
+void safeJUnitAllWithErrors() | safe j unit all with errors
+void safeJUnitAllWithNoErrors() | safe j unit all with no errors
+void safeJUnitAllWithNoValidTests() | safe j unit all with no valid tests
+void safeJUnitStaticInnerClass() | safe j unit static inner class
+void safeLoadHistory(QFileSelector;) | safe load history
+void safeSaveHistory(QFileSelector;) | safe save history
+void safeUpdate() | safe update
+void sendAndWaitSafely(QElement;) | send and wait safely
+void sendReconnectSafely(QConnection;) | send reconnect safely
+void setSafe(boolean safe) | set safe
+void testNullSafeHashCodeWithObjectBeingObjectArray() | test null safe hash code with object being object array

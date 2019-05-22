@@ -1,0 +1,70 @@
+CONS AbstractChangeConnectionHandle(QFigure;) | abstract change connection handle
+CONS AttributeChangeEdit(QFigure;QAttributeKey;QObject;QObject;) | attribute change edit
+CONS BibtexCaseChanger(QString;CQWarn;) | bibtex case changer
+CONS CaseChangeMenu(QJTextComponent;) | case change menu
+CONS Change() | change
+CONS ChangeAction(QFreeColClient;) | change action
+CONS ChangeArrowLinkEndPoints(QModeController;) | change arrow link end points
+CONS ChangeArrowsInArrowLinkAction(QModeController;QString;QString;QMindMapArrowLinkModel;ZZ) | change arrows in arrow link action
+CONS ChangeCaseFunction(QVM;) | change case function
+CONS ChangeConnectionEndHandle(QFigure;) | change connection end handle
+CONS ChangeConnectionStartHandle(QFigure;) | change connection start handle
+CONS ChangeDisplayDialog(QJFrame;QBasePanel;QBibtexDatabase;QDefaultMutableTreeNode;) | change display dialog
+CONS ChangeEmentsOrderOperation(QJReportFrame;) | change ements order operation
+CONS Change(QString;) | change
+CONS ChangeScanner(QJabRefFrame;QBasePanel;) | change scanner
+CONS ChangeSelectionActionPerformer([QControl;) | change selection action performer
+CONS ChangeSelectionActionPerformer(QControl;) | change selection action performer
+CONS ChangeSelectionActionPerformer([QControl;Z) | change selection action performer
+CONS ChangeSelectionActionPerformer([QParameter;) | change selection action performer
+CONS ChangeSelectionActionPerformer(QParameter;) | change selection action performer
+CONS ChangeSelectionActionPerformer(QParameter;QParameter;) | change selection action performer
+CONS ChangeValueEvent(QObject;QObject;QObject;) | change value event
+CONS ChangeWindowedModeAction(QFreeColClient;) | change windowed mode action
+CONS CollectionChangeSupport(QObject;) | collection change support
+CONS DatabaseChangeEvent(QBibtexDatabase;QChangeType;QBibtexEntry;) | database change event
+CONS DualChangeSelectionActionPerformer([QControl;[QControl;) | dual change selection action performer
+CONS EntryAddChange(QBibtexEntry;) | entry add change
+CONS EntryChange(QBibtexEntry;QBibtexEntry;QBibtexEntry;) | entry change
+CONS EntryDeleteChange(QBibtexEntry;QBibtexEntry;) | entry delete change
+CONS FiringModeChangeAction(II) | firing mode change action
+CONS GameBoardChangeEvent(QObject;) | game board change event
+CONS GameEntityChangeEvent(QObject;QEntity;) | game entity change event
+CONS GameEntityChangeEvent(QObject;QEntity;QVector;) | game entity change event
+CONS GamePhaseChangeEvent(QObject;II) | game phase change event
+CONS GamePlayerChangeEvent(QObject;QPlayer;) | game player change event
+CONS GameSettingsChangeEvent(QObject;) | game settings change event
+CONS GameTurnChangeEvent(QObject;QPlayer;) | game turn change event
+CONS GP4MixTableChange() | gp 4 mix table change
+CONS GroupChange(QGroupTreeNode;QGroupTreeNode;) | group change
+CONS HistoryChangedEvent(QObject;QString;QDefaultListModel;) | history changed event
+CONS LanguageChangedEvent(Qjava.util.Locale;) | language changed event
+CONS MetaDataChange(QMetaData;QMetaData;) | meta data change
+CONS MiniMapChangeBackgroundAction(QFreeColClient;) | mini map change background action
+CONS PathChanger(QString;) | path changer
+CONS PreambleChange(QString;QString;QString;) | preamble change
+CONS PreferenceChangeEvent(QObject;QString;QObject;QObject;) | preference change event
+CONS ReportBandChangedEvent(QJReportFrame;QBand;I) | report band changed event
+CONS ReportElementChangedEvent(QJReportFrame;QReportElement;I) | report element changed event
+CONS ReportElementChangedEvent(QJReportFrame;QVector;I) | report element changed event
+CONS ReportSubDatasetChangedEvent(QJReportFrame;QVector;I) | report sub dataset changed event
+CONS ReportSubDatasetChangedEvent(QSubDataset;QObject;II) | report sub dataset changed event
+CONS ResultChangedEvent(QObject;QString;QString;QString;QString;) | result changed event
+CONS SheetPropertyValueChangedEvent(QString;QObject;QObject;QObject;) | sheet property value changed event
+CONS SongProgramChangeMessage(II) | song program change message
+CONS StringAddChange(QBibtexString;) | string add change
+CONS StringChange(QBibtexString;QBibtexString;QString;QString;QString;QString;) | string change
+CONS StringNameChange(QBibtexString;QBibtexString;QString;QString;QString;QString;) | string name change
+CONS StringRemoveChange(QBibtexString;QBibtexString;QBibtexString;) | string remove change
+CONS StyleChangedEvent(QObject;IQStyle;QStyle;) | style changed event
+CONS SubDatasetObjectChangedEvent(QSubDataset;IIQObject;QObject;) | sub dataset object changed event
+CONS SWTSkinImageChanger(QString;II) | swt skin image changer
+CONS TrackerChangerWindow(QDisplay;QTRTrackerAnnouncer;) | tracker changer window
+CONS UndoableChangeAssignment(QSet<QBibtexEntry;>;QSet<QBibtexEntry;>;) | undoable change assignment
+CONS UndoableChangeAssignment(QSet<QBibtexEntry;>;QSet<QBibtexEntry;>;QGroupTreeNode;) | undoable change assignment
+CONS UndoableChangeType(QBibtexEntry;QBibtexEntryType;QBibtexEntryType;) | undoable change type
+CONS UndoableFieldChange(QBibtexEntry;QString;QString;QString;) | undoable field change
+CONS UndoableKeyChange(QBibtexDatabase;QString;QString;QString;) | undoable key change
+CONS UndoablePreambleChange(QBibtexDatabase;QBasePanel;QString;QString;) | undoable preamble change
+CONS UndoableStringChange(QBasePanel;QBibtexString;ZQString;QString;) | undoable string change
+CONS ValueChangedEvent(QJComponent;DD) | value changed event

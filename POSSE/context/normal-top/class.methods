@@ -1,0 +1,832 @@
+AnotherSubClass getAnotherSubClass() | get another sub class
+Attribute classAttribute() | class attribute
+Attribute determineClassAttribute() | determine class attribute
+AttrTypes testsPerClassType(IQEstTypes;) | tests per class type
+boolean addBuildDirectoryClassPath(QFile;) | add build directory class path
+boolean addExternalFilesClassPath(QFile;) | add external files class path
+boolean addExtraClassPath(QFile;) | add extra class path
+boolean addProjectClassPath(QFile;) | add project class path
+boolean addProjectFilesClassPath(QFile;) | add project files class path
+boolean[] canHandleClassAsNthAttribute(QAttrTypes;IIII) | can handle class as nth attribute
+boolean[] canHandleClassAsNthAttribute(ZZZZZZII) | can handle class as nth attribute
+boolean[] canHandleNClasses(QAttrTypes;I) | can handle n classes
+boolean[] canHandleNClasses(ZZZZZZI) | can handle n classes
+boolean[] canHandleOnlyClass(ZZZZZI) | can handle only class
+boolean canInstantiateClass() | can instantiate class
+boolean[] canSplitUpClass(II) | can split up class
+boolean checkIfClassFileInSync() | check if class file in sync
+boolean classificationTypeValid(I) | classification type valid
+boolean classifyExample(QInstance;) | classify example
+boolean classIsMissing() | class is missing
+boolean classMatcher(QREGlobalData;QRECharSet;C) | class matcher
+boolean containsClassAlias(QString;) | contains class alias
+boolean defaultBalanceClass() | default balance class
+boolean[] doesntUseTestClassVal(ZZZZZZI) | doesnt use test class val
+boolean equalIgnoreClass(QInstance;QInstance;) | equal ignore class
+boolean getBalanceClass() | get balance class
+boolean getCanChangeClassInDialog() | get can change class in dialog
+boolean getClassFileInSync() | get class file in sync
+boolean getClassFlag() | get class flag
+boolean getClassification() | get classification
+boolean getClassifierCostSensitiveEval() | get classifier cost sensitive eval
+boolean getClassifierOutputConfusionMatrix() | get classifier output confusion matrix
+boolean getClassifierOutputEntropyEvalMeasures() | get classifier output entropy eval measures
+boolean getClassifierOutputModel() | get classifier output model
+boolean getClassifierOutputPerClassStats() | get classifier output per class stats
+boolean getClassifierOutputPredictions() | get classifier output predictions
+boolean getClassifierOutputSourceCode() | get classifier output source code
+boolean getClassifierPreserveOrder() | get classifier preserve order
+boolean getClassifierStorePredictionsForVis() | get classifier store predictions for vis
+boolean getDoNotOperateOnPerClassBasis() | get do not operate on per class basis
+boolean getIgnoreClass() | get ignore class
+boolean getIncludeClass() | get include class
+boolean getMajorityClass() | get majority class
+boolean getMarkovBlanketClassifier() | get markov blanket classifier
+boolean getNoClass() | get no class
+boolean getNormalizeNumericClass() | get normalize numeric class
+boolean getOutputClassification() | get output classification
+boolean getOutputPerClassInfoRetrievalStats() | get output per class info retrieval stats
+boolean getRemoveClassColumn() | get remove class column
+boolean getRemoveFilterClassnames() | get remove filter classnames
+boolean getRemoveOldClass() | get remove old class
+boolean getUpdateIncrementalClassifier() | get update incremental classifier
+boolean getUseClassification() | get use classification
+boolean hasClasspathProblems() | has classpath problems
+boolean hasJavaClass() | has java class
+boolean hasSubClasss() | has sub classs
+boolean isAbstractClass(QClass;) | is abstract class
+boolean isAnonymousClass(QClass<*>;) | is anonymous class
+boolean _isAnonymousInnerClass(II) | is anonymous inner class
+boolean isAutoSpeedDefaultClassic() | is auto speed default classic
+boolean isCharClass(QMacros;) | is char class
+boolean isClass() | is class
+boolean isClassCapability() | is class capability
+boolean isClassFile(QFile;) | is class file
+boolean isClassic() | is classic
+boolean isClassIndex(I) | is class index
+boolean isClassname(QString;) | is classname
+boolean isClassOrInterfaceWord(IZ) | is class or interface word
+boolean isClassOrSuperclassJoin(QJoin;) | is class or superclass join
+boolean isClassOrSuperclassTable(I) | is class or superclass table
+boolean isClassOrSuperclassTable(QTable;) | is class or superclass table
+boolean isFinalClass(QClass;) | is final class
+boolean isMemberClass(QClass<*>;) | is member class
+boolean isPossiblyClassName(QString;QString;) | is possibly class name
+boolean isShowClassNames() | is show class names
+boolean isValidClass(I) | is valid class
+boolean isValidClassname(QString;) | is valid classname
+boolean isValidClassname(QString;QString;) | is valid classname
+boolean loadClasses() | load classes
+boolean loadEmpPluginClass() | load emp plugin class
+boolean[] selectClasses(IQRandom;) | select classes
+boolean shouldInstrumentClass(QString;) | should instrument class
+boolean testIfCanLoadRhinoClasses(QClassLoader;) | test if can load rhino classes
+boolean[] updateableClassifier() | updateable classifier
+byte[] compileToClassFile(QCompilerEnvirons;QString;QScriptOrFnNode;QString;Z) | compile to class file
+byte[] getClassData(QFile;) | get class data
+byte[] loadClassData(QString;) | load class data
+byte loadClassFromDirectory(File dir, String name, ClassCacheEntry cache) | load class from directory
+Capabilities getClassCapabilities() | get class capabilities
+CharClasses getCharClasses() | get char classes
+Class<*> anonClass() | anon class
+Class classForMethodFQN(QString;) | class for method fqn
+Class classForName(QString;) | class for name
+Class classForName(QString;QClass;) | class for name
+Class classOrNull(QClassLoader;QString;) | class or null
+Class classOrNull(QString;) | class or null
+Class classStringToClass(QString;) | class string to class
+Class defineClass(QObject;QObject;) | define class
+Class defineClass(QString;[B) | define class
+ClassDescriptor getClassDescriptor([B) | get class descriptor
+Class determineAssociatedEntityClass() | determine associated entity class
+Class determineClass(QString;) | determine class
+Class findClassHelper(QString;) | find class helper
+Class<*> findClass(QString;) | find class
+Class findClass(QString;) | find class
+Class findLoadedClassHelper(QString;) | find loaded class helper
+Class findNestedClass(QClass;QString;) | find nested class
+Class getAdapterClass(QScriptable;QClass;[QClass;QScriptable;) | get adapter class
+Class getArgClass(I) | get arg class
+Class getArrayClass(QClass;) | get array class
+Class getBaseClass() | get base class
+Class getClassObject() | get class object
+Class getClass([QObject;) | get class
+Class getClass(QObject;) | get class
+Class getClassWithoutInitializingProxy(QObject;) | get class without initializing proxy
+Class getColClass(I) | get col class
+Class getCollectionPersisterClass() | get collection persister class
+Class getColumnClass() | get column class
+Class[] getColumnClasses() | get column classes
+Class<*> getColumnClass(I) | get column class
+Class getColumnClass(I) | get column class
+Class getColumnClass(int c) | get column class
+Class getColumnClass(int columnIndex) | get column class
+Class getColumnClass(int index) | get column class
+Class getComponentClass() | get component class
+Class getConcreteProxyClass() | get concrete proxy class
+Class getConcreteProxyClass(QEntityMode;) | get concrete proxy class
+Class getDeclaringClass() | get declaring class
+Class getDoActionClass() | get do action class
+Class getElementClass() | get element class
+Class getEntityPersisterClass() | get entity persister class
+Class getErrorClass() | get error class
+Class getHolderClass() | get holder class
+Class getIdentifierGeneratorClass(QString;QDialect;) | get identifier generator class
+Class getIViewClass() | get i view class
+Class[] getIViewClassArgs() | get i view class args
+Class getJavaClass() | get java class
+Class getListenerClassFor(QString;) | get listener class for
+Class getMappedClass() | get mapped class
+Class getMappedClass(QEntityMode;) | get mapped class
+Class getModelClass() | get model class
+Class getNativeIdentifierGeneratorClass() | get native identifier generator class
+Class getParentClass(PetalObject obj) | get parent class
+Class getPersistentClass() | get persistent class
+Class getPhenotypeClass() | get phenotype class
+Class getPrimaryInterfaceClass() | get primary interface class
+Class getPrimitiveClass() | get primitive class
+Class getProjectClass() | get project class
+Class getResponseClass() | get response class
+Class getReturnClass() | get return class
+Class getReturnedClass() | get returned class
+Class getSortByColumnClass(I) | get sort by column class
+Class getSupportedClass() | get supported class
+Class getUserObjectEditorClass() | get user object editor class
+Classifier[][] classifiers() | classifiers
+Classifier getBestClassifier() | get best classifier
+Classifier getClassifier() | get classifier
+Classifier getClassifier(I) | get classifier
+Classifier[] getClassifiers() | get classifiers
+Classifier getMetaClassifier() | get meta classifier
+Class loadAdapterClass(QString;[B) | load adapter class
+Class<*> loadClass(QString;) | load class
+Class loadClass(QString;) | load class
+Class<*> loadClass(QString;Z) | load class
+Class loadClass(QString;Z) | load class
+ClassLoader addFileToClassPath(QClassLoader;QClassLoader;QFile;) | add file to class path
+ClassLoader getApplicationClassLoader() | get application class loader
+ClassLoader getClassLoader() | get class loader
+ClassLoader getClassLoader(QList;) | get class loader
+ClassLoader getClassLoader(QString;) | get class loader
+ClassLoader getClassLoaders() | get class loaders
+ClassLoader getCurrentThreadClassLoader() | get current thread class loader
+ClassLoader getPluginClassLoader() | get plugin class loader
+ClassLoader getProxyClassLoader() | get proxy class loader
+ClassLoader makeClassLoader(QClassLoader;) | make class loader
+Class loadSkel4Class(RemoteObjectInfo remoteObjectInfo) | load skel 4 class
+ClassMetadata getClassMetadata() | get class metadata
+ClassMetadata getClassMetadata(QClass;) | get class metadata
+ClassMetadata getClassMetadata(QString;) | get class metadata
+Class parseClass(Element element) | parse class
+Class peerFindLoadedClass(QString;) | peer find loaded class
+Class peerLoadClass(QString;) | peer load class
+Class<QLoader;> getLoaderClass(QString;) | get loader class
+Class<+QPlugin;> getPluginClass() | get plugin class
+Class<+QPlugin;> getPluginClass(QClassLoader;QString;) | get plugin class
+Class<QString;> getColumnClass(I) | get column class
+Class<+QTestCase;> loadSuiteClass(QString;) | load suite class
+Class reflectedPropertyClass(QString;QString;) | reflected property class
+Class resolveClass(QObjectStreamClass;) | resolve class
+Class returnedClass() | returned class
+ClassShutter getClassShutter() | get class shutter
+ClassTransformer getClassTransformer(QClassDescriptor;) | get class transformer
+ClassTransformer getClassTransformer([QString;) | get class transformer
+Class typeToClass(I) | type to class
+ComboBoxUI getSteppedComboBoxClass() | get stepped combo box class
+Component _extraClassPathComponent() | extra class path component
+Configuration addClass(QClass;) | add class
+CtClass lookupClassByJvmName(String jvmName) | lookup class by jvm name
+DetachedCriteria forClass(QClass;) | for class
+DetachedCriteria forClass(QClass;QString;) | for class
+double[] calcClassType(QInstance;) | calc class type
+double classifyInstance([D) | classify instance
+double classifyInstanceMax(QInstance;) | classify instance max
+double classifyInstanceMedian(QInstance;) | classify instance median
+double classifyInstanceMin(QInstance;) | classify instance min
+double classifyInstance(QInstance;) | classify instance
+double classifyInstance(QInstance;DI) | classify instance
+double classify(QRidor_node;QInstance;) | classify
+double classProb(IQInstance;I) | class prob
+double classProbLaplace(IQInstance;I) | class prob laplace
+double classSgn(D) | class sgn
+double classValue() | class value
+double generateClassValue(QInstances;) | generate class value
+double getBiasToUniformClass() | get bias to uniform class
+double[] getClassCounts() | get class counts
+double[] getClassPriors() | get class priors
+double getClassValue() | get class value
+double getDefClass() | get def class
+double getInstancesFromClass(QInstances;IIDQInstances;) | get instances from class
+double getLogProbForTargetClass(QInstance;) | get log prob for target class
+double getPredictedClass() | get predicted class
+double perClass(I) | per class
+double perClassPerBag(II) | per class per bag
+double probOfDocGivenClass(QInstance;I) | prob of doc given class
+EClass eStaticClass() | e static class
+EntityPersister createClassPersister(QPersistentClass;QEntityRegionAccessStrategy;QSessionFactoryImplementor;QMapping;) | create class persister
+EntityPersister requireClassPersister(QString;) | require class persister
+File classForJava(QFile;QString;) | class for java
+File findFileOnClasspath(QString;) | find file on classpath
+File getCachedClassFile() | get cached class file
+File getFileForClassName(QString;) | get file for class name
+File getJarFileFromClass(QClass;) | get jar file from class
+File getMainClassContainingFile() | get main class containing file
+File getSerializedClassifierFile() | get serialized classifier file
+File _locateClassFile() | locate class file
+freemind.controller.actions.generated.instance.PluginClasspath createPluginClasspath() | create plugin classpath
+freemind.controller.actions.generated.instance.PluginClasspathType createPluginClasspathType() | create plugin classpath type
+GanttLookAndFeelInfo getInfoByClass(QString;) | get info by class
+GeneratedClassLoader createClassLoader(QClassLoader;) | create class loader
+GeneratedClassLoader createClassLoader(QClassLoader;QObject;) | create class loader
+HashSet getGrantedClassNames() | get granted class names
+HashSet getGrantedClassNames(boolean andToPublic) | get granted class names
+HashSet getGrantedClassNamesDirect() | get granted class names direct
+HashSet getGrantedClassNames(Z) | get granted class names
+Hashtable getClassesFromProperties() | get classes from properties
+Hashtable getNodeManagers(String className) | get node managers
+Hashtable sortClassesByRoot(QString;) | sort classes by root
+HolderInstantiator createClassicHolderInstantiator(QConstructor;QResultTransformer;) | create classic holder instantiator
+IClass getInnerClasses() | get inner classes
+IdFunctionObject exportAsJSClass(IQScriptable;Z) | export as js class
+Instances assignClassValue(QInstances;) | assign class value
+Instances getInstancesFromClass(QInstances;ID) | get instances from class
+Instances getInstancesNoClass() | get instances no class
+Instances getInstancesOnlyClass() | get instances only class
+Instances getRelationalClassFormat() | get relational class format
+Instances makeClusterDataSetClass(QInstances;Qweka.clusterers.Clusterer;QString;) | make cluster data set class
+Instances makeDataSetClass(QInstances;Qweka.classifiers.Classifier;QString;) | make data set class
+Instances removeClass(QInstances;) | remove class
+Instances rulesetForOneClass(DQInstances;DD) | ruleset for one class
+Instances setClassType(QInstances;) | set class type
+int actualNumClasses() | actual num classes
+int actualNumClasses(I) | actual num classes
+int classificationCode() | classification code
+int classIndex() | class index
+int[] classValues() | class values
+int compareByClass(QObject;QObject;QClass;) | compare by class
+int containsIgnoreClass(QInstances;QInstance;) | contains ignore class
+int createClassObject(ThreadInfo th, int cref) | create class object
+int defaultNumClasses() | default num classes
+int _getAnonymousInnerClassIndex(I) | get anonymous inner class index
+int getBestClassifierIndex() | get best classifier index
+int getClassCode(C) | get class code
+int getClassCode(QClass;) | get class code
+int getClassCode(QEntity;) | get class code
+int[] getClassCodes(QIntCharSet;Z) | get class codes
+int[] getClassCodes(QVector;) | get class codes
+int[] getClassesToClusters() | get classes to clusters
+int getClassForIRStatistics() | get class for ir statistics
+int getClassifierCrossvalidationFolds() | get classifier cross validation folds
+int getClassifierPercentageSplit() | get classifier percentage split
+int getClassifierTestMode() | get classifier test mode
+int getClassifyIterations() | get classify iterations
+int getClassIndex() | get class index
+int getClassIndex(QObject;) | get class index
+int[] getClassIndices() | get class indices
+int getClassLimit(I) | get class limit
+int getClassOrder() | get class order
+int getClassTotal() | get class total
+int getClassType() | get class type
+int getClassValueIndex() | get class value index
+int[] getNotClassCodes(QVector;) | get not class codes
+int getNumClasses() | get num classes
+int getTargetClass() | get target class
+int getWeightClass() | get weight class
+int getWeightClass(I) | get weight class
+int maxClass() | max class
+int maxClassForSubsetOfInterest() | max class for subset of interest
+int maxClass(I) | max class
+int newClassSerialNumber() | new class serial number
+int nextOccurenceIgnoreClass(QInstances;QInstance;I) | next occurence ignore class
+int numClassAttributeValues() | num class attribute values
+int numClasses() | num classes
+int sync(StreamPair streams, int classOffset) | sync
+int typeForClass(QClass;) | type for class
+it.businesslogic.ireport.ReportClassLoader getReportClassLoader() | get report class loader
+Iterable<QFile;> getClassPath() | get class path
+Iterable<QFile;> getClassPaths() | get class paths
+Iterable<QFile;> getExtraClassPath() | get extra class path
+Iterable<QFile;> getInteractionsClassPath() | get interactions class path
+Iterator getClassMappings() | get class mappings
+Iterator iterateAccessibleTriggerClassNames(QUser;) | iterate accessible trigger class names
+java.lang.Class getColumnClass(I) | get column class
+java.lang.Class PRIMARY_INTERFACE_CLASS() | primary interface class
+java.lang.String getClassExpression() | get class expression
+java.lang.String getClassName() | get class name
+java.lang.String getClassType() | get class type
+java.lang.String getFactoryClass() | get factory class
+java.lang.String getImageClass() | get image class
+java.lang.String getIncrementerFactoryClass() | get incrementer factory class
+java.lang.String getScriptletClass() | get scriptlet class
+java.lang.String getSubreportExpressionClass() | get subreport expression class
+JavaMembers lookupClass(QScriptable;QClass;QClass;) | lookup class
+java.util.List getPluginClasspath() | get plugin classpath
+JButton createChooseClassButton() | create choose class button
+JCNewClass NewClass(JCExpression encl, List<JCExpression> typeargs, JCExpression clazz, List<JCExpression> args, JCClassDecl def) | new class
+JPanel _makeClassesPanel() | make classes panel
+JPanel _makeMainClassSelectorPanel() | make main class selector panel
+JPluginProperties getPluginPropertiesByClassName(QString;) | get plugin properties by class name
+JPopupMenu getChooseClassPopupMenu() | get choose class popup menu
+LayoutFormatter getLayoutFormatterByClassName(QString;QString;) | get layout formatter by class name
+List findByC_C_C_P(long companyId, long classNameId, long classPK, boolean primary, int begin, int end) | find by c c c p
+List<Guide> guidesToAssociationEnds(String classifier, String assEnd) | guides to association ends
+List<QEuropeanNationType;> getClassicNationTypes() | get classic nation types
+List<QFile;> getClassFiles() | get class files
+List<QNation;> getClassicNations() | get classic nations
+List<QString;> findTestClasses(QList<QString;>;QList<QFile;>;) | find test classes
+long determineClass(DDIIIIDID) | determine class
+long getQOSClass(QTOTorrent;) | get qos class
+Map getAllClassMetadata() | get all class metadata
+Method raiseToPublicClass(QMethod;) | raise to public class
+Method raiseToPublicClass(QMethod;QClass;) | raise to public class
+NodeAdapter createNodeGivenClassName(QString;) | create node given class name
+Node __createObject(String name, String class_name, String type, String type_value) |  create object
+Object[] compileToClassFiles(QString;QString;IQString;) | compile to class files
+Object findNextItem(Object component, String classname, Object item) | find next item
+Object getClassifier() | get classifier
+Object[] getIViewClassVals() | get i view class vals
+Object getObject(String column, Class classToConvertTo) | get object
+Object getPluginBaseClass() | get plugin base class
+Object getPluginBaseClass(QHookDescriptor;) | get plugin base class
+Object getPluginBaseClass(QString;) | get plugin base class
+ObjectInputStream deserialize(String className, byte data) | deserialize
+Object js_importClass([QObject;) | js import class
+Object queryForClass(QClass;) | query for class
+Object queryForClass(QClass;[QObject;) | query for class
+Object queryForClass([QObject;QClass;) | query for class
+Option<QIterable<QFile;>;> getClassPath() | get class path
+Option<QList<QString;>;> findTestClasses(QList<QString;>;QList<QFile;>;) | find test classes
+PersistentClass getAssociatedClass() | get associated class
+PersistentClass getClassMapping(QString;) | get class mapping
+PersistentClass getClass(QString;) | get class
+PersistentClass getPersistentClass() | get persistent class
+PersistentClass locatePersistentClassByEntityName(QString;) | locate persistent class by entity name
+PluginInterface getPluginInterfaceByClass(QClass;) | get plugin interface by class
+PluginInterface getPluginInterfaceByClass(QClass;Z) | get plugin interface by class
+PluginInterface getPluginInterfaceByClass(QString;) | get plugin interface by class
+PluginInterface getPluginInterfaceByClass(QString;Z) | get plugin interface by class
+PluginInterfaceImpl getPluginFromClass(QClass;) | get plugin from class
+PluginInterfaceImpl getPluginFromClass(QString;) | get plugin from class
+ReferenceType _getClass(QString;) | get class
+RootClass getRootClass() | get root class
+RootClass getRootClassMapping(QString;) | get root class mapping
+RuntimeException errorWithClassName(QString;QObject;) | error with class name
+Scriptable getClassPrototype() | get class prototype
+Scriptable getClassPrototype(QScriptable;QString;) | get class prototype
+Scriptable js_getClass(QContext;QScriptable;[QObject;) | js get class
+SelectedTag getClassificationType() | get classification type
+SelectedTag getDesignatedClass() | get designated class
+SelectedTag getPriorClass() | get prior class
+Set superClassesOf(OWLClass clazz) | super classes of
+short addClass(QString;) | add class
+SkinView getByClass(QClass;) | get by class
+SkinView[] getMultiByClass(QClass;) | get multi by class
+SQLQuery addSynchronizedEntityClass(QClass;) | add synchronized entity class
+StatementsForClassIF getStatementsForClass(ConnectionManagerIF conMan) | get statements for class
+String applyClassifier(QPMMLModel;QInstances;) | apply classifier
+String balanceClassTipText() | balance class tip text
+String biasToUniformClassTipText() | bias to uniform class tip text
+StringBuilder formatClassicalMemory(ArrayList<VariableValue> memState) | format classical memory
+String[] classAttributeNames() | class attribute names
+String classColumnTipText() | class column tip text
+String classFlagTipText() | class flag tip text
+String classificationTipText() | classification tip text
+String classificationTypeTipText() | classification type tip text
+String classifiersTipText() | classifiers tip text
+String classifierTipText() | classifier tip text
+String classIndexTipText() | class index tip text
+String className() | class name
+String className(I) | class name
+String classNameTipText() | class name tip text
+String classNameToSignature(QString;) | class name to signature
+String classOrderTipText() | class order tip text
+String classToFile(QString;) | class to file
+String classToTableName(QString;) | class to table name
+String classValueTipText() | class value tip text
+String createPluginClasspathString(QList;) | create plugin classpath string
+String defaultClassifierString() | default classifier string
+String defineClass(QScriptable;QClass;ZZ) | define class
+String designatedClassTipText() | designated class tip text
+String determineSqlStateClassCode(QString;) | determine sql state class code
+String doNotOperateOnPerClassBasisTipText() | do not operate on per class basis tip text
+String extractSqlStateClassCode(QSQLException;) | extract sql state class code
+String fileToClass(QString;) | file to class
+String getAllClassificationID() | get all classification id
+String getBaseClass() | get base class
+String[] getBestClassifierOptions() | get best classifier options
+String getCacheProviderClass() | get cache provider class
+String get_class() | get class
+String getClassAlias() | get class alias
+String getClassColumn() | get class column
+String _getClassFromName(QString;) | get class from name
+String getClassificationID() | get classification id
+String getClassifierOutputAdditionalAttributes() | get classifier output additional attributes
+String getClassifierSourceCodeClass() | get classifier source code class
+String getClassifierSpec() | get classifier spec
+String getClassifierSpec(I) | get classifier spec
+String getClassIndex() | get class index
+String getClassname() | get classname
+String getClassName() | get class name
+String getClassnameFromPath(QTreePath;) | get classname from path
+String getClassName(I) | get class name
+String getClassName(QAttribute;QMappings;) | get class name
+String getClassName(QObject;) | get class name
+String getClassname(QString;) | get classname
+String getClassName(QString;) | get class name
+String getClassName(QString;QMappings;) | get class name
+String getClassName(QString;QString;) | get class name
+String getClassOrInterfaceName() | get class or interface name
+String getClassPath() | get class path
+String getClassTableName(QPersistentClass;QElement;QString;QString;QTable;QMappings;) | get class table name
+String getClassValue() | get class value
+String getCodeClassicStyle() | get code classic style
+String getColumnClassName(I) | get column class name
+String getComparatorClassName() | get comparator class name
+String getComponentClassName() | get component class name
+String getCustomizerClass() | get customizer class
+String getDefaultClassPath() | get default class path
+String getDialectClass(I) | get dialect class
+String getElementClassName() | get element class name
+String _getEnclosingClassName(IZ) | get enclosing class name
+String getEnclosingClassName(IZ) | get enclosing class name
+String getEnclosingClassName(QOpenDefinitionsDocument;) | get enclosing class name
+String getEnclosingTopLevelClassName(I) | get enclosing top level class name
+String getEntityClassName() | get entity class name
+String getEntityOrClassName() | get entity or class name
+String getErrorStyleClass() | get error style class
+String getExactClassName() | get exact class name
+String getFirstClassName(III) | get first class name
+String getFirstTopLevelClassName() | get first top level class name
+String getFormatPattern(String className, String pattern, Locale locale) | get format pattern
+String getFunctionReturnClassName(QString;) | get function return class name
+String getGUIClassName(QString;) | get gui class name
+String getHistoryPagerClass() | get history pager class
+String getImplementationClass() | get implementation class
+String getImportedClassName(QString;) | get imported class name
+String getImportedClass(QString;QSessionFactoryImplementor;) | get imported class
+String getIncrementFactoryClass() | get increment factory class
+String getInitFileClassIndex() | get init file class index
+String getInstanceClass(QResultSet;IQLoadable;QSerializable;QSessionImplementor;) | get instance class
+String getJdbcTypeClass(I) | get jdbc type class
+String _getMainClass() | get main class
+String getMainClass() | get main class
+String getMainClassName() | get main class name
+String getMainClassName(QURL;) | get main class name
+String getMainMethodClass() | get main method class
+String getModelMBeanClassName() | get model m bean class name
+String getNextTopLevelClassName(II) | get next top level class name
+String getParameterClassName(I) | get parameter class name
+String getPathFromClassName(String fqn, String alias) | get path from class name
+String getQualifiedClassName() | get qualified class name
+String getQualifiedClassName(I) | get qualified class name
+String getReturnClassName() | get return class name
+String getRootFromClass(QString;QString;) | get root from class
+String getSite(String request, String site, String packageName, String className, String extra) | get site
+String getStemmerClassname(QString;) | get stemmer classname
+String getTuplizerImplClassName(QEntityMode;) | get tuplizer impl class name
+String getTypeClass() | get type class
+String getUIClassID() | get ui class id
+String getValueClassName() | get value class name
+String getWeightClassName() | get weight class name
+String ignoreClassTipText() | ignore class tip text
+String includeClassTipText() | include class tip text
+String initFileClassIndexTipText() | init file class index tip text
+String majorityClassTipText() | majority class tip text
+String makeAuxiliaryClassName(QString;QString;) | make auxiliary class name
+String markovBlanketClassifierTipText() | markov blanket classifier tip text
+String metaClassifierTipText() | meta classifier tip text
+String normalizeNumericClassTipText() | normalize numeric class tip text
+String numClassesTipText() | num classes tip text
+String outputClassificationTipText() | output classification tip text
+String outputPerClassInfoRetrievalStatsTipText() | output per class info retrieval stats tip text
+String overrideClassname(QObject;) | override classname
+String overrideClassname(QString;) | override classname
+String pathToClass(QFile;QFile;) | path to class
+String printClass([D) | print class
+String priorClassTipText() | prior class tip text
+String removeClassColumnTipText() | remove class column tip text
+String removeOldClassTipText() | remove old class tip text
+String replaceClassName(QString;) | replace class name
+String serializedClassifierFileTipText() | serialized classifier file tip text
+String sourceClass(IQInstances;) | source class
+String sourceClass(QAttribute;[D) | source class
+String _testClassCall(QString;) | test class call
+String toClassDetailsString() | to class details string
+String toClassDetailsString(QString;) | to class details string
+Table SYSTEM_CLASSPRIVILEGES() | system classprivileges
+TagsAsset updateAsset(String className, long classPK, String entryNames, Date startDate, Date endDate, Date publishDate, Date expirationDate, String mimeType, String title, String description, String summary, String url, int height, int width) | update asset
+TorrentDownloaderImpl getClass(Z) | get class
+TreeItem createTreeItemFromIViewClass(QString;QString;QClass;) | create tree item from i view class
+TreeItem createTreeItemFromIViewClass(QString;QString;QString;QClass;[QClass;[QObject;QObject;QViewTitleInfo;Z) | create tree item from i view class
+TwoClassStats getTwoClassStats(I) | get two class stats
+URL getClassResource(QClass<*>;QString;) | get class resource
+Variant RenameClass(Variant Export, Variant Id) | rename class
+Vector getClasspath() | get classpath
+Vector getInstancesFromClass(QInstances;IIDQInstances;) | get instances from class
+Vector makePreClass(I) | make pre class
+Vector<QString;> getClassMatches(QString;) | get class matches
+Vector<QString;> getClassnames(QString;) | get classnames
+void acceptClassifier(QBatchClassifierEvent;) | accept classifier
+void acceptClassifier(QIncrementalClassifierEvent;) | accept classifier
+void actualUpdateClassifier(QInstance;) | actual update classifier
+void addBatchClassifierListener(QBatchClassifierListener;) | add batch classifier listener
+void addBuildDirectoryClassPath(QFile;) | add build directory class path
+void addClassesFromDir(QVector;QFile;QFile;) | add classes from dir
+void addClassesFromZip(QVector;QFile;) | add classes from zip
+void addClassMethodListener(PropertyChangeListener listener) | add class method listener
+void addClassPathFile(QFile;) | add class path file
+void addClassPath(QString;) | add class path
+void addClass(QPersistentClass;) | add class
+void add(Date timestamp, String className, String stackTrace, PrimaryKey entityPrimaryKey, PrimaryKey recordPrimaryKey) | add
+void addDocToClassPath(QOpenDefinitionsDocument;) | add doc to class path
+void addEnumClass(QString;QClass;) | add enum class
+void addExternalFilesClassPath(QFile;) | add external files class path
+void addExtraClassPath(QFile;) | add extra class path
+void addFromClass(QString;QQueryable;) | add from class
+void addHandlerForMimeType(String mimetype, String className) | add handler for mime type
+void addIncrementalClassifierListener(QIncrementalClassifierListener;) | add incremental classifier listener
+void addNumericTrainClass(DD) | add numeric train class
+void addOwnerClassListener(PropertyChangeListener listener) | add owner class listener
+void addProjectClassPath(QFile;) | add project class path
+void addProjectFilesClassPath(QFile;) | add project files class path
+void addSelectClass(QString;) | add select class
+void addStorableClass(QString;QClass;) | add storable class
+void add(String name, String className, String data) | add
+void add(Timestamp timestamp, String className, String stackTrace, PrimaryKey entityPrimaryKey, PrimaryKey recordPrimaryKey, DataSourceSet dss) | add
+void AnonymousInnerClass(II) | anonymous inner class
+void AnonymousInnerClassIndex(I) | anonymous inner class index
+void askForParameters(String classExpr) | ask for parameters
+void assertClassFileErrorCount(I) | assert class file error count
+void assignClass(QInstances;) | assign class
+void attributeAsClass() | attribute as class
+void attributeAsClassAt(I) | attribute as class at
+void begin_class(int version, int access, String className, Type superType, Type interfaces, String sourceFile) | begin class
+void bindClass(QElement;QPersistentClass;QMappings;Qjava.util.Map;) | bind class
+void bindPersistentClassCommonValues(QElement;QPersistentClass;QMappings;Qjava.util.Map;) | bind persistent class common values
+void bindRootClass(QElement;QRootClass;QMappings;Qjava.util.Map;) | bind root class
+void bindRootPersistentClassCommonValues(QElement;Qjava.util.Map;QMappings;QRootClass;) | bind root persistent class common values
+void buildClassifierForNode(QNDTree;QInstances;) | build classifier for node
+void buildClassifier(QInstances;) | build classifier
+void buildClassifier(QInstances;[[D[[D) | build classifier
+void buildClassifier(QInstances;IIZII) | build classifier
+void buildClassifierTree(QClassifier;) | build classifier tree
+void buildClassifierUsingResampling(QInstances;) | build classifier using resampling
+void buildClassifierWithWeights(QInstances;) | build classifier with weights
+void buildClassList() | build class list
+void buildTokenTypeASTClassMap() | build token type ast class map
+void canSplitUpClass(QAttrTypes;I) | can split up class
+void checkClassifier() | check classifier
+void checkForDuplicateClassAlias(QString;) | check for duplicate class alias
+void checkOnClassifierType() | check on classifier type
+void classFileError(QClassFileError;) | class file error
+void classFirst(Z) | class first
+void classifierDialog(QAESemaphore;QDisplay;QString;[QString;) | classifier dialog
+void classifierTrainingComplete(QBatchClassifierEvent;) | classifier training complete
+void classifyInstances(QInstances;QClassifier;) | classify instances
+void classInfoIndex(String name) | class info index
+void ClassRunner(QClass;[QString;) | class runner
+void collectClassNames() | collect class names
+void collectClassNames(QFile;) | collect class names
+void computeAverageClassValues() | compute average class values
+void configureForClassAttribute() | configure for class attribute
+void createClassicLandMap() | create classic land map
+void createClassProperties(QElement;QPersistentClass;QMappings;Qjava.util.Map;) | create class properties
+void createClassProperties(QElement;QPersistentClass;QMappings;Qjava.util.Map;QUniqueKey;ZZZ) | create class properties
+void CustomClassDescriptor([B) | custom class descriptor
+void defineClass(QContext;QScriptable;[QObject;QFunction;) | define class
+void defineClass(QScriptableObject;) | define class
+void defineClass(QScriptable;QClass;) | define class
+void defineClass(QScriptable;QClass;Z) | define class
+void deleteClassificationItem(String classifID) | delete classification item
+void deleteWithMissingClass() | delete with missing class
+void disableAllClassDependencies() | disable all class dependencies
+void disableAllClasses() | disable all classes
+void emitClassCode() | emit class code
+void emitClassName() | emit class name
+void enableAllClassDependencies() | enable all class dependencies
+void enableAllClasses() | enable all classes
+void EnclosingClassName(IZ) | enclosing class name
+void EntityClassTurn(II) | entity class turn
+void evaluateClustersWithRespectToClass(QInstances;QString;) | evaluate clusters with respect to class
+void evaluatePMMLClassifier([QString;) | evaluate pm ml classifier
+void generateClassifierForNode(QInstances;QRange;QRandom;QClassifier;QHashtable;) | generate classifier for node
+void generateClassifierForNode(QInstances;QRange;QRandom;QClassifier;QHashtable;[D) | generate classifier for node
+void generateRandomClassColomns() | generate random class colo mns
+void getClassFilesHelper(QFile;QLinkedList<QFile;>;) | get class files helper
+void getClassForByName(String className) | get class for by name
+void getFieldsFromClass(QClass;QString;) | get fields from class
+void getRootClassLoader() | get root class loader
+void getRootClassLoader(QFile;) | get root class loader
+void _handleClassPrepareEvent(QClassPrepareEvent;) | handle class prepare event
+void importClass(QNativeJavaClass;) | import class
+void initApplicationClassLoader(QClassLoader;) | init application class loader
+void initClassDefaults(QUIDefaults;) | init class defaults
+void initClassifier(QInstances;) | init classifier
+void initializePluginFromClass(QClass;QString;QString;ZZZ) | initialize plugin from class
+void initJacaretoSystemClassLoader() | init jacareto system class loader
+void insertClassIndexAtNode(I) | insert class index at node
+void insertClassIndex(I) | insert class index
+void insertClassNFA(QVector;II) | insert class nfa
+void insertNotClassNFA(QVector;II) | insert not class nfa
+void linkClass(QClass;) | link class
+void loadClassifier() | load classifier
+void loadClass(QContext;QScriptable;[QObject;QFunction;) | load class
+void makeClass(CZ) | make class
+void makeClassNot(QVector;Z) | make class not
+void makeClass(QIntCharSet;Z) | make class
+void makeClass(QString;Z) | make class
+void makeClass(QVector;Z) | make class
+void mapClasses(II[[I[I[D[DI) | map classes
+void notifyBatchClassifierListeners(QBatchClassifierEvent;) | notify batch classifier listeners
+void notifyIncrementalClassifierListeners(QIncrementalClassifierEvent;) | notify incremental classifier listeners
+void printClassificationsHeader(QInstances;QRange;ZQStringBuffer;) | print classifications header
+void printClassifications(QClassifier;QInstances;QDataSource;IQRange;QStringBuffer;) | print classifications
+void printClassifications(QClassifier;QInstances;QDataSource;IQRange;ZQStringBuffer;) | print classifications
+void printClassMenuList(HtmlPage output, ClassDoc classDocs, boolean categorized) | print class menu list
+void processClassFile(QFile;) | process class file
+void processClassifierPrediction(QInstance;QClassifier;QEvaluation;QInstances;QFastVector;QFastVector;) | process classifier prediction
+void propagateClassIndex(I) | propagate class index
+void purgeClasses() | purge classes
+void registerSecondaryClassloader(QSecondaryClassLoader;) | register secondary classloader
+void removeBatchClassifierListener(QBatchClassifierListener;) | remove batch classifier listener
+void removeIncrementalClassifierListener(QIncrementalClassifierListener;) | remove incremental classifier listener
+void rescanAdditionalClasspath() | rescan additional classpath
+void resetInteractionsClassPath() | reset interactions class path
+void runClassifier(QClassifier;[QString;) | run classifier
+void safeJUnitStaticInnerClass() | safe j unit static inner class
+void saveClassifier(QString;QClassifier;QInstances;) | save classifier
+void _scanClassFiles() | scan class files
+void setApplicationClassLoader(QClassLoader;) | set application class loader
+void setAssociatedClass(QPersistentClass;) | set associated class
+void setBalanceClass(Z) | set balance class
+void setBaseClass(QClass;) | set base class
+void setBiasToUniformClass(D) | set bias to uniform class
+void setCachedClassFile(QFile;) | set cached class file
+void setCacheProviderClass(QString;) | set cache provider class
+void setCanChangeClassInDialog(Z) | set can change class in dialog
+void setClassColumn(QString;) | set class column
+void setClassExpression(Qjava.lang.String;) | set class expression
+void setClassFileInSync(Z) | set class file in sync
+void setClassFlag(Z) | set class flag
+void setClassForIRStatistics(I) | set class for ir statistics
+void setClassic(Z) | set classic
+void setClassificationType(QSelectedTag;) | set classification type
+void setClassification(Z) | set classification
+void setClassifierName(QString;) | set classifier name
+void setClassifier(QClassifier;) | set classifier
+void setClassifier(Qweka.classifiers.Classifier;) | set classifier
+void setClassifiers([QClassifier;) | set classifiers
+void setClassifyIterations(I) | set classify iterations
+void setClassIndex(I) | set class index
+void setClassIndex(QString;) | set class index
+void setClassItem(String classname) | set class item
+void setClassLabels([I) | set class labels
+void setClassMissing() | set class missing
+void setClassName(Qjava.lang.String;) | set class name
+void setClassname(QString;) | set classname
+void setClassName(QString;) | set class name
+void setClassOrder(I) | set class order
+void setClassPath(ClassPathElement element) | set class path
+void setClasspath(QVector;) | set classpath
+void setClasspathRef(Reference r) | set classpath ref
+void setClassPaths(QIterable<+QFile;>;) | set class paths
+void setClass(QAttribute;) | set class
+void setClassShutter(QClassShutter;) | set class shutter
+void setClass(String _Class) | set class
+void setClassType(I) | set class type
+void setClassType(QClass;) | set class type
+void setClassType(Qjava.lang.String;) | set class type
+void setClassTypes() | set class types
+void setClassValue(D) | set class value
+void setClassValueIndex(I) | set class value index
+void setClassValue(QString;) | set class value
+void setCollectionPersisterClass(QClass;) | set collection persister class
+void setComparatorClassName(QString;) | set comparator class name
+void setComponentClassName(QString;) | set component class name
+void setCustomizerClass(QString;) | set customizer class
+void setDesignatedClass(QSelectedTag;) | set designated class
+void setDoNotOperateOnPerClassBasis(Z) | set do not operate on per class basis
+void setElementClassName(QString;) | set element class name
+void setEntityClassName(QString;) | set entity class name
+void setEntityPersisterClass(QClass;) | set entity persister class
+void setExtraClassPath(QIterable<QFile;>;) | set extra class path
+void setFactoryClass(Qjava.lang.String;) | set factory class
+void setFilterClass(String filterClass) | set filter class
+void setHeadingClass(String value) | set heading class
+void setHolderClass(QClass;) | set holder class
+void setIgnoreClass(Z) | set ignore class
+void setImageClass(Qjava.lang.String;) | set image class
+void setImplementationClass(QString;) | set implementation class
+void setIncludeClass(Z) | set include class
+void setIncrementerFactoryClass(Qjava.lang.String;) | set incrementer factory class
+void setIncrementFactoryClass(QString;) | set increment factory class
+void setInitFileClassIndex(QString;) | set init file class index
+void setIViewClassArgs([QClass;) | set i view class args
+void setIViewClass(QClass;) | set i view class
+void setIViewClassVals([QObject;) | set i view class vals
+void setJavaClass(String javaClass) | set java class
+void setMainClass(QString;) | set main class
+void setMainMethodClass(QString;) | set main method class
+void setMajorityClass(Z) | set majority class
+void setMarkovBlanketClassifier(Z) | set markov blanket classifier
+void setMetaClassifier(QClassifier;) | set meta classifier
+void setNoClass(Z) | set no class
+void setNormalizeNumericClass(Z) | set normalize numeric class
+void setNumClasses(I) | set num classes
+void setOpClass(String classIn) | set op class
+void setOutputClassification(Z) | set output classification
+void setOutputPerClassInfoRetrievalStats(Z) | set output per class info retrieval stats
+void setPersistentClass(QPersistentClass;) | set persistent class
+void setPluginBaseClass(QObject;) | set plugin base class
+void setPluginClassLoader(QClassLoader;) | set plugin class loader
+void setPredictedClass(D) | set predicted class
+void setPreferenceStorageClass(String preferenceStorageClass) | set preference storage class
+void setPriorClass(QSelectedTag;) | set prior class
+void setProjectClassName(QString;) | set project class name
+void setProjectClass(QClass;) | set project class
+void setPropertyClass(PropertyClass propertyClass) | set property class
+void setQOSClass(QTOTorrent;J) | set qos class
+void setRelationalClassFormat(QInstances;) | set relational class format
+void setRemoveClassColumn(Z) | set remove class column
+void setRemoveOldClass(Z) | set remove old class
+void setReportClassLoader(Qit.businesslogic.ireport.ReportClassLoader;) | set report class loader
+void setResponseClass(QClass;) | set response class
+void setScriptletClass(Qjava.lang.String;) | set scriptlet class
+void setSerializedClassifierFile(QFile;) | set serialized classifier file
+void setShowClassNames(Z) | set show class names
+void setStartupClassPath(QString;) | set startup class path
+void setSubreportExpressionClass(Qjava.lang.String;) | set subreport expression class
+void setTargetClass(I) | set target class
+void setTokenObjectClass(QString;) | set token object class
+void setUpClassValueSelectorCB() | set up class value selector cb
+void setUpdateIncrementalClassifier(Z) | set update incremental classifier
+void setWeightClass(I) | set weight class
+void setWotCharacterClass(String data) | set wot character class
+void _showClassNotFoundError(QClassNotFoundException;) | show class not found error
+void _showNoClassDefError(QNoClassDefFoundError;) | show no class def error
+void smartDeleteClassFiles(QMap<QFile;QSet<QString;>;>;) | smart delete class files
+void startClassifier() | start classifier
+void stopClassifier() | stop classifier
+void testAnonymousClassIndex() | test anonymous class index
+void testAnonymousInnerClass() | test anonymous inner class
+void testAnonymousInnerClassArg() | test anonymous inner class arg
+void testAnonymousInnerClassAssign() | test anonymous inner class assign
+void testClassFileSynchronization() | test class file synchronization
+void testClassFileSynchronizationAfterRename() | test class file synchronization after rename
+void testCompileClassPathOKDefaultPackage() | test compile class path ok default package
+void testCompileClassPathOKDifferentPackages() | test compile class path ok different packages
+void testCompileReferenceToNonPublicClass() | test compile reference to non public class
+void testCompileWithPackageStatementInsideClass() | test compile with package statement inside class
+void testErrorInSuperClass() | test error in super class
+void testExactClassName() | test exact class name
+void testGetColumnClassInt() | test get column class int
+void testGetColumnClassString() | test get column class string
+void testgetMainClassName() | test get main class name
+void testGetSrcClass() | test get src class
+void testGetSuiteClass() | test get suite class
+void testInsideClass() | test inside class
+void testInsideClassWithBraceSets() | test inside class with brace sets
+void testInteractionsCanSeeChangedClass() | test interactions can see changed class
+void testInteractionsCanSeeCompiledClasses() | test interactions can see compiled classes
+void testInteractionsDefineAnonymousInnerClass() | test interactions define anonymous inner class
+void testInteractionsLiveUpdateClassPath() | test interactions live update class path
+void testInteractionsVariableWithLowercaseClassName() | test interactions variable with lowercase class name
+void testIsMemberClass() | test is member class
+void testNoClassFile() | test no class file
+void testParenthesizedAnonymousInnerClass() | test parenthesized anonymous inner class
+void testSaveNullClassPropertyFilterHandler() | test save null class property filter handler
+void testSimpleExceptionMappingWithHandlerClassSpecifiedButWrongHandler() | test simple exception mapping with handler class specified but wrong handler
+void testsPerClassType(IZZ) | tests per class type
+void testsPerClassType(IZZZ) | tests per class type
+void testStringClassRecognition() | test string class recognition
+void testsWithoutClass(ZZ) | tests without class
+void textQualifiedClassNameWithoutPackage() | text qualified class name without package
+void textQualifiedClassNameWithPackage() | text qualified class name with package
+void textTopLevelClassName() | text top level class name
+void textTopLevelClassNameMisleading() | text top level class name misleading
+void textTopLevelClassNameNoSpace() | text top level class name no space
+void textTopLevelClassNameWComments() | text top level class name w comments
+void textTopLevelClassNameWithClassloaderImport() | text top level class name with classloader import
+void textTopLevelClassNameWithDelimiters() | text top level class name with delimiters
+void textTopLevelEnclosingClassName() | text top level enclosing class name
+void textTopLevelInterfaceNameBeforeClassName() | text top level interface name before class name
+void _toggleClassOptions() | toggle class options
+void _toggleMainClass() | toggle main class
+void TreeClass(QFastVector;IIIDQInstances;QTreeClass;) | tree class
+void unionClasses() | union classes
+void updateClassifier(QBayesNet;QInstance;) | update classifier
+void updateClassifier(QInstance;) | update classifier
+void updateStatsForClassifier([DQInstance;) | update stats for classifier
+void updateWeightsDiscreteClass(I) | update weights discrete class
+void updateWeightsNumericClass(I) | update weights numeric class
+void viewInteractionsClassPath() | view interactions class path
+void visitInnerClass(QString;QString;QString;I) | visit inner class
+void visitLocalVariableTableAttrInfo(ClassFile classFile, MethodInfo methodInfo, CodeAttrInfo codeAttrInfo, LocalVariableTableAttrInfo localVariableTableAttrInfo) | visit local variable table attr info
+void visitLookUpSwitchInstruction(ClassFile classFile, MethodInfo methodInfo, CodeAttrInfo codeAttrInfo, int offset, LookUpSwitchInstruction lookUpSwitchInstruction) | visit look up switch instruction
+void visitMethodrefCpInfo(ClassFile classFile, MethodrefCpInfo methodrefCpInfo) | visit methodref cp info
+void visitOuterClass(QString;QString;QString;) | visit outer class
+void visualizeClassifierErrors(QVisualizePanel;) | visualize classifier errors
+void writeJarOptions(String inputEntryOptionName, String outputEntryOptionName, ClassPath classPath) | write jar options
+void XXXtestBreakpointsAndStepsInNonPublicClasses() | xxx test breakpoints and steps in non public classes
+void XXXtestWatchLocalVarsFromInnerClass() | xxx test watch local vars from inner class
+weka.classifiers.Classifier getClassifier() | get classifier

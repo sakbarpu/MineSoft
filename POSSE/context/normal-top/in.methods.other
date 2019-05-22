@@ -1,0 +1,433 @@
+AIGoods buyGoodsInEurope(QConnection;QGoodsType;IQLocation;) | buy goods in europe
+AIUnit getCheapestUnitInEurope(QConnection;) | get cheapest unit in europe
+AIUnit getUnitInEurope(QConnection;QUnitType;) | get unit in europe
+AIUnit recruitAIUnitInEurope(I) | recruit ai unit in europe
+AIUnit trainAIUnitInEurope(QUnitType;) | train ai unit in europe
+ArrayList<QFile;> getFilesInDir(QFile;ZQFileFilter;) | get files in dir
+ArrayList<QGoods;> getGoodsForSaleInIndianSettlement(QUnit;QSettlement;) | get goods for sale in indian settlement
+ArrayList<QItemT;> getDocumentsInBin(QString;) | get documents in bin
+ASN1Object getObjectInTag(I) | get object in tag
+AST findTypeInChildren(QAST;I) | find type in children
+boolean areSettingsInSpec(II) | are settings in spec
+boolean bindLimitParametersInReverseOrder() | bind limit parameters in reverse order
+boolean canBeInAggregate() | can be in aggregate
+boolean canBeInGroupBy() | can be in group by
+boolean canBeInOrderBy() | can be in order by
+boolean canCashInTreasureTrain() | can cash in treasure train
+boolean canCashInTreasureTrain(QLocation;) | can cash in treasure train
+boolean canStoreInNodes(QRule;) | can store in nodes
+boolean canStoreInResults(QRule;) | can store in results
+boolean checkCashInTreasureTrain(QUnit;) | check cash in treasure train
+boolean checkIfClassFileInSync() | check if class file in sync
+boolean _compoundEditInProgress() | compound edit in progress
+boolean containsInGameComponents() | contains in game components
+boolean dataDefinitionIgnoredInTransactions() | data definition ignored in transactions
+boolean disallowNullsInExpressions() | disallow nulls in expressions
+boolean doesElementExistInArchive(QString;) | does element exist in archive
+boolean doomedInVacuum() | doomed in vacuum
+boolean doSkillCheckInPlace(QEntity;QPilotingRollData;) | do skill check in place
+boolean executeInBrowser(QString;) | execute in browser
+boolean existsInDatabase(QObject;QEventSource;QEntityPersister;) | exists in database
+boolean findCharInStmtBeforePos(CI) | find char in stmt before pos
+boolean[] getBytesInCache(QTOTorrent;[J[J) | get bytes in cache
+boolean getCanChangeClassInDialog() | get can change class in dialog
+boolean getClassFileInSync() | get class file in sync
+boolean getDisplayModelInOldFormat() | get display model in old format
+boolean getDomainIsPointsInTime() | get domain is points in time
+boolean getMechInFirst() | get mech in first
+boolean getMechInSecond() | get mech in second
+boolean getTemporaryInMemory() | get temporary in memory
+boolean hasDataTypeInIdentityColumn() | has data type in identity column
+boolean hasDownloadsInCommon() | has downloads in common
+boolean hasPluginUserInProfile(J) | has plugin user in profile
+boolean hasVibrobladesInLocation(I) | has vibroblades in location
+boolean isAssaultDropInProgress() | is assault drop in progress
+boolean isEmbeddedInXML() | is embedded in xml
+boolean isExistsInDatabase() | is exists in database
+boolean isExtensionListInDescription() | is extension list in description
+boolean isFileInArchive(QString;) | is file in archive
+boolean isFilesInJar() | is files in jar
+boolean isFoundInParent(QString;QObject;QEntityPersister;QCollectionPersister;QObject;) | is found in parent
+boolean isImpliedInFromClause() | is implied in from clause
+boolean isInArchive() | is in archive
+boolean isInArc(QCoords;IQCoords;I) | is in arc
+boolean isInArc(QIGame;IIQTargetable;) | is in arc
+boolean isInBuilding(QIGame;IQCoords;) | is in building
+boolean isInBuilding(QIGame;QEntity;) | is in building
+boolean isInBuilding(QIGame;QEntity;QCoords;) | is in building
+boolean isInCache(QString;) | is in cache
+boolean isInCategory(QDownloadManager;QCategory;) | is in category
+boolean isInConflict() | is in conflict
+boolean isInCurrentCategory(QDownloadManager;) | is in current category
+boolean isInCurrentPerspective() | is in current perspective
+boolean isInDebugMode() | is in debug mode
+boolean isInDefaultDownloadDir(QDownloadManager;) | is in default download dir
+boolean isInDefaultSaveDir() | is in default save dir
+boolean isInDefaultSaveDir(QDownload;) | is in default save dir
+boolean isInEndGameMode() | is in end game mode
+boolean isInErrorState() | is in error state
+boolean isInEurope() | is in europe
+boolean isInFollowLinkRegion(D) | is in follow link region
+boolean isInGame() | is in game
+boolean isInGroup(QString;) | is in group
+boolean isInGroup(QVisualItem;QString;) | is in group
+boolean isInIncludedPackage(QString;) | is in included package
+boolean isInList(QBeanInstance;QVector;) | is in list
+boolean isInManagedState(QObject;QEventSource;) | is in managed state
+boolean isInMap(II) | is in map
+boolean isInMemory() | is in memory
+boolean isInPeriod(Timestamp date) | is in period
+boolean isInplaceEdit() | is in place edit
+boolean isInProcessDatabaseType(QString;) | is in process database type
+boolean isInProgress() | is in progress
+boolean isInProgress(I) | is in progress
+boolean isInRange(D) | is in range
+boolean isInRange(I) | is in range
+boolean isInRange(QInetAddress;QString;[BZ) | is in range
+boolean isInRange(QString;) | is in range
+boolean isInRange(QString;QString;[B) | is in range
+boolean isInRange(QString;QString;[BZ) | is in range
+boolean isInSameBuilding(QIGame;QEntity;QTargetable;) | is in same building
+boolean isInScriptTag() | is in script tag
+boolean isInUse() | is in use
+boolean isInVerticalRegion(DD) | is in vertical region
+boolean isIsPrintInFirstWholeBand() | is is print in first whole band
+boolean isJoinedFetchEnabledInMapping(QFetchMode;QAssociationType;) | is joined fetch enabled in mapping
+boolean isKeepInMemory() | is keep in memory
+boolean isKeyInCache(QResultProducer;[QObject;) | is key in cache
+boolean isKeyInTable(QString;QResultProducer;[QObject;) | is key in table
+boolean isNextPlayerInNewTurn() | is next player in new turn
+boolean isPercentageInUse() | is percentage in use
+boolean isPointInImage(II) | is point in image
+boolean isSelectedInGroup(QItemT;) | is selected in group
+boolean isTestInProgress() | is test in progress
+boolean isTranformInProgress() | is tranform in progress
+boolean isTransactionInProgress() | is transaction in progress
+boolean isTransactionInProgress(Qjavax.transaction.Transaction;) | is transaction in progress
+boolean isTransactionInProgress(QJDBCContext;QContext;QTransaction;) | is transaction in progress
+boolean isTransactionInProgress(QSessionFactoryImplementor;) | is transaction in progress
+boolean isUserInRole(String arg0) | is user in role
+boolean mouseInBounds(QMouseEvent;) | mouse in bounds
+boolean notInBlock(I) | not in block
+boolean openInEMP(QDownloadManager;) | open in emp
+BooleanOption getPublishInWebOption() | get publish in web option
+Boolean performTemporaryTableDDLInIsolation() | perform temporary table ddl in isolation
+boolean playerNameInUse(QString;) | player name in use
+boolean recallNextInteractionInHistory() | recall next interaction in history
+boolean recallPreviousInteractionInHistory() | recall previous interaction in history
+boolean remoteLastInSequence(I) | remote last in sequence
+boolean _requestFocusInWindow() | request focus in window
+boolean requestFocusInWindow() | request focus in window
+boolean requiresDetailedProbabilitiesInTranslationTable() | requires detailed probabilities in translation table
+boolean runInMediaPlayer(QString;) | run in media player
+boolean shouldShowHighlightsInSource() | should show highlights in source
+boolean showInciteDialog(QPlayer;I) | show in cite dialog
+boolean showInFinder(QFile;QString;) | show in finder
+boolean showsFileInGenFields() | shows file in gen fields
+boolean supportsCatalogsInDataManipulation() | supports catalogs in data manipulation
+boolean supportsCatalogsInIndexDefinitions() | supports catalogs in index definitions
+boolean supportsCatalogsInPrivilegeDefinitions() | supports catalogs in privilege definitions
+boolean supportsCatalogsInProcedureCalls() | supports catalogs in procedure calls
+boolean supportsCatalogsInTableDefinitions() | supports catalogs in table definitions
+boolean supportsEmptyInList() | supports empty in list
+boolean supportsExistsInSelect() | supports exists in select
+boolean supportsExpressionsInOrderBy() | supports expressions in order by
+boolean supportsNullsInCandidateKeys() | supports nulls in candidate keys
+boolean supportsParametersInInsertSelect() | supports parameters in insert select
+boolean supportsRowValueConstructorSyntaxInInList() | supports row value constructor syntax in in list
+boolean supportsSchemasInDataManipulation() | supports schemas in data manipulation
+boolean supportsSchemasInIndexDefinitions() | supports schemas in index definitions
+boolean supportsSchemasInPrivilegeDefinitions() | supports schemas in privilege definitions
+boolean supportsSchemasInProcedureCalls() | supports schemas in procedure calls
+boolean supportsSchemasInTableDefinitions() | supports schemas in table definitions
+boolean supportsSubqueriesInComparisons() | supports subqueries in comparisons
+boolean supportsSubqueriesInExists() | supports subqueries in exists
+boolean supportsSubqueriesInIns() | supports subqueries in ins
+boolean supportsSubqueriesInQuantifieds() | supports subqueries in quantifieds
+boolean supportsSubselectAsInPredicateLHS() | supports subselect as in predicate lhs
+boolean supportsUniqueConstraintInCreateAlterTable() | supports unique constraint in create alter table
+Boolean testInCondition(QSession;QObject;) | test in condition
+Composite createOptInComposite(QComposite;) | create opt in composite
+CookieJar getSignInCookie(QCookieJar;) | get sign in cookie
+CookieJar getSignInCookie(QCookieJar;QString;QString;) | get sign in cookie
+DocumentStructureTreeNode findElementInTreeNode(QDocumentStructureTreeNode;QReportElement;) | find element in tree node
+double[] getChangeInWeights() | get change in weights
+double numberInInterval(QInstance;QInstance;) | number in interval
+DoubleVector cumulateInPlace() | cumulate in place
+Element cashInTreasureTrain(QConnection;QElement;) | cash in treasure train
+Element emigrateUnitInEurope(QConnection;QElement;) | emigrate unit in europe
+Element recruitUnitInEurope(QConnection;QElement;) | recruit unit in europe
+Element trainUnitInEurope(QConnection;QElement;) | train unit in europe
+EventDefinition getInEventDef(int idx) | get in event def
+Expression parseInPredicate(QExpression;) | parse in predicate
+File findFileInPaths(QString;QIterable<QFile;>;) | find file in paths
+File[] getFilesInFolder(QFile;Z) | get files in folder
+File[] getNewFilesInProject() | get new files in project
+FindResult _findNextInDoc(QOpenDefinitionsDocument;IIZ) | find next in doc
+FindResult _findNextInDocSegment(QOpenDefinitionsDocument;II) | find next in doc segment
+FindResult _findNextInDocSegment(QOpenDefinitionsDocument;IIZZ) | find next in doc segment
+FindResult _findNextInOtherDocs(QOpenDefinitionsDocument;II) | find next in other docs
+FreeColDialog createInciteDialog(QList<QPlayer;>;QPlayer;) | create in cite dialog
+FromElement createFromElementInSubselect(QString;QString;QFromElement;QString;) | create from element in subselect
+IABTValue setMakeUniqueInObjectSet(IABTUserSession session, IABTObject object, IABTAttribute property, IABTValue myValue, IABTValue newValue, String parentName, String arrayName) | set make unique in object set
+IHex getHexInDir(III) | get hex in dir
+IHex getHexInDir(QCoords;I) | get hex in dir
+InGameController getInGameController() | get in game controller
+InGameInputHandler getInGameInputHandler() | get in game input handler
+InputStream resolveInHibernateNamespace(QString;) | resolve in hibernate namespace
+InputStream resolveInLocalNamespace(QString;) | resolve in local namespace
+int checkMovementInBuilding(QMoveStep;QMoveStep;QCoords;QCoords;) | check movement in building
+int countCriticalSlotsFromEquipInLocation(QEntity;II) | count critical slots from equip in location
+Integer getAngleInDegrees() | get angle in degrees
+int findPieceInEndGameMode(QPEPeerTransport;I) | find piece in end game mode
+int getAmountInMarket() | get amount in market
+int getAutoCloseInMS() | get auto close in ms
+int getAverageCompletionInThousandNotation() | get average completion in thousand notation
+int getBytesInCount() | get bytes in count
+int getCheckingDoneInThousandNotation() | get checking done in thousand notation
+int getCurrentOrderInBlockSet() | get current order in block set
+int getDevicesInProgrammingMode() | get devices in programming mode
+int getFoundKeysInAux() | get found keys in aux
+int getInciteAmount(QPlayer;QPlayer;QPlayer;) | get in cite amount
+int getInDegree() | get in degree
+int getInDegree(I) | get in degree
+int getInDegree(QNode;) | get in degree
+int getInField() | get in field
+int getInPoint() | get in point
+int getLastYearInSelect() | get last year in select
+int getMaxColumnsInGroupBy() | get max columns in group by
+int getMaxColumnsInIndex() | get max columns in index
+int getMaxColumnsInOrderBy() | get max columns in order by
+int getMaxColumnsInSelect() | get max columns in select
+int getMaxColumnsInTable() | get max columns in table
+int getMaxInstancesInLeaf() | get max instances in leaf
+int getMaxInstInLeaf() | get max inst in leaf
+int getMaxTablesInSelect() | get max tables in select
+int getMessageInCount() | get message in count
+int getNumberOfParametersInSetClause() | get number of parameters in set clause
+int getNumInCache() | get num in cache
+int getObserverFieldOfViewInDegrees() | get observer field of view in degrees
+int getPercentDoneInThousandNotation() | get percent done in thousand notation
+int[] getPropertyTableNumbersInSelect() | get property table numbers in select
+int getTimeSinceLastDataReceivedInSeconds() | get time since last data received in seconds
+int getTimeSinceLastDataSentInSeconds() | get time since last data sent in seconds
+int indexOfElementInLevel(I[I) | index of element in level
+int isADayOffInWeek(QDate;) | is a day off in week
+int numValuesInResult() | num values in result
+int _processAllInCurrentDoc(QRunnable1<QFindResult;>;) | process all in current doc
+int _replaceAllInCurrentDoc() | replace all in current doc
+int resolveDuplicateInImport(QJabRefFrame;QBibtexEntry;QBibtexEntry;) | resolve duplicate in import
+int usedInPhase() | used in phase
+int xInDir(III) | x in dir
+int xInDir(IIII) | x in dir
+int yInDir(III) | y in dir
+int yInDir(IIII) | y in dir
+it.businesslogic.ireport.util.TreeNode findElementInTreeNode(Qit.businesslogic.ireport.util.TreeNode;QReportElement;) | find element in tree node
+List getAllPrefixesInList(QString;) | get all prefixes in list
+List listTablesInSchema(String schemaName) | list tables in schema
+List<QHelpDocument;> searchInHelpDocuments(QURL;[QString;) | search in help documents
+List<QPlayer;> getDominionsAtWar() | get dom in ions at war
+List<QUnitType;> getUnitTypesLearntInLostCity() | get unit types learnt in lost city
+List<QUnitType;> getUnitTypesPurchasedInEurope() | get unit types purchased in europe
+List<QUnitType;> getUnitTypesTrainedInEurope() | get unit types trained in europe
+LocationData getUnitsInEurope() | get units in europe
+long getByteOffestInTorrent() | get byte offest in torrent
+long getElementCountInMemory() | get element count in memory
+long getIcmpInDestUnreachs() | get icmp in dest unreachs
+long getIfInDiscards() | get if in discards
+long getIfInOctets() | get if in octets
+long getLinkIfInOctets(II) | get link if in octets
+long getSizeInMemory() | get size in memory
+long getTimeInMillis(QCalendar;) | get time in millis
+long getTimeInMillis(Qjava.util.Date;QCalendar;QCalendar;) | get time in millis
+long getTotalAddressesInRange() | get total addresses in range
+long getUnAckInSequenceCount() | get un ack in sequence count
+Node getInList() | get in list
+Object getColumnInType(II) | get column in type
+Object getIndexInOwner(QString;QString;QObject;QMap;) | get index in owner
+Object getIndexInParent(QString;QObject;QEntityPersister;QCollectionPersister;QObject;) | get index in parent
+Object getInType(I) | get in type
+Object isInRange(J) | is in range
+Object isInRange(QInetAddress;) | is in range
+Object isInRange(QString;) | is in range
+OPT_Instruction firstInstructionInCodeOrder() | first instruction in code order
+PermanentNodeHook getHookInNode(QMindMapNode;QString;) | get hook in node
+PilotingRollData rollMovementInBuilding(QBuilding;IQString;) | roll movement in building
+PointDouble determineBestInGrid(QGrid;QInstances;I) | determine best in grid
+Point getInPoint() | get in point
+Point getUnitImagePositionInTile(IIII) | get unit image position in tile
+Point getUnitImagePositionInTile(QImage;II) | get unit image position in tile
+Point getUnitLabelPositionInTile(QJLabel;QPoint;) | get unit label position in tile
+Point getUnitLabelPositionInTile(QJLabel;QTile;) | get unit label position in tile
+Properties getAttributesInNamespace(QString;) | get attributes in namespace
+Return executeInFrame(Executable e, int staticLink, int jfp) | execute in frame
+Serializable doWorkInCurrentTransaction(QConnection;QString;) | do work in current transaction
+Serializable doWorkInNewTransaction(QSessionImplementor;) | do work in new transaction
+Set getResoucesInPackage(QString;) | get resouces in package
+SortedSet<QImportFormat;> getBuiltInInputFormats() | get built in input formats
+String createReadinString([CII) | create read in string
+String displayModelInOldFormatTipText() | display model in old format tip text
+String findInDir(QString;QString;QOpenFileFilter;I) | find in dir
+String getInMethod() | get in method
+String getMemoryUsageInKB() | get memory usage in kb
+String getMemoryUsageInMB() | get memory usage in mb
+String getMessageInFragmentDetails() | get message in fragment details
+String getNameInNamespace() | get name in namespace
+String getSql_SET_LAST_INTIME() | get sql set last in time
+String maxInstancesInLeafTipText() | max instances in leaf tip text
+String maxInstInLeafTipText() | max inst in leaf tip text
+T extractInOrder() | extract in order
+TreeSet<QString;> findAllWordsInField(QBibtexDatabase;QString;QString;) | find all words in field
+TreeSet<QString;> findDeliminatedWordsInField(QBibtexDatabase;QString;QString;) | find deliminated words in field
+Unit getUnitInFront(QTile;) | get unit in front
+Vector getBeansInInputs() | get beans in inputs
+Vector getBeansInOutputs() | get beans in outputs
+Vector getBeansInSubFlow() | get beans in sub flow
+Vector scanForBoardsInDir(QFile;QString;II) | scan for boards in dir
+void addMouseListenerToHeaderInTable(JTable table) | add mouse listener to header in table
+void addMouseListenerToHeaderInTable(QJTable;) | add mouse listener to header in table
+void cashInTreasureTrain() | cash in treasure train
+void catchCookiesInRedirects() | catch cookies in redirects
+void checkColumnInCheckConstraint(QString;) | check column in check constraint
+void checkColumnInFKConstraint(I) | check column in fk constraint
+void checkColumnInFKConstraint(II) | check column in fk constraint
+void checkColumnIsInView(QTable;QString;) | check column is in view
+void checkPieceOfFurnitureNameInCategory() | check piece of furniture name in category
+void checkTradeRoutesInEurope() | check trade routes in europe
+void collectInGroupByExpressions(QHsqlArrayList;) | collect in group by expressions
+void createAIGoodsInColonies() | create ai goods in colon ies
+void doClickOnOkInDialog(QJDialog;QJComponentTester;) | do click on ok in dialog
+void DoShowInBrowser(QComponent;QAuctionEntry;) | do show in browser
+void drawBlockInPlace([QTileBlock;QWritableRaster;) | draw block in place
+void editInMenu(IQString;QString;QString;QString;) | edit in menu
+void emigrateUnitInEurope(I) | emigrate unit in europe
+void _ensureColInRow(QString;II) | ensure col in row
+void executeInBrowser(QString;) | execute in browser
+void executeInContext(QObject;QBstEntry;) | execute in context
+void forwardSearchInteractionsInHistory() | forward search interactions in history
+void getBytesInCache([Z[J[J) | get bytes in cache
+void getFilesInDir(QFile;QList<QFile;>;ZQFileFilter;) | get files in dir
+void handleInCompleteDownload(QDefaultRankCalculator;QProcessVars;QTotalsStats;) | handle in complete download
+void _highlightErrorInSource(QPosition;) | highlight error in source
+void ignoreCookiesInRedirects() | ignore cookies in redirects
+void initializeInDir(III) | initialize in dir
+void keepInMemory(Z) | keep in memory
+void lookAheadInGoodDirectionsSearch(QBayesNet;QInstances;II) | look ahead in good directions search
+void moveInDir(I) | move in dir
+void openNewFilesInProject() | open new files in project
+void outAInModeId(AInModeId node) | out a in mode id
+void ParserStateInEscapedCharacter(QParserState;) | parser state in escaped character
+void ParserStateInList(QParserState;) | parser state in list
+void PosInBlockComment(I) | pos in block comment
+void PosInParenPhrase(I) | pos in paren phrase
+void PosNotInBlock(I) | pos not in block
+void printInUse(Z) | print in use
+void putResultInQueryCache(QSessionImplementor;QQueryParameters;[QType;QQueryCache;QQueryKey;QList;) | put result in query cache
+void putResultInTable(QString;QResultProducer;[QObject;[QObject;) | put result in table
+void rearrangeWorkersInColonies() | rearrange workers in colon ies
+void recruitUnitInEurope(I) | recruit unit in europe
+void refreshInPort() | refresh in port
+void removeIfInList(QFile;) | remove if in list
+void removeInActivePanels() | remove in active panels
+void removeInGameComponents() | remove in game components
+void renameColumnInCheckConstraints(QString;QString;Z) | rename column in check constraints
+void renameTableInCheckConstraints(QSession;QString;QString;) | rename table in check constraints
+void replaceAsterisksInStatement() | replace asterisks in statement
+void _replaceInProgressText(QString;) | replace in progress text
+void replaceObjectsInRange(NSRange range, NSArray<E> otherArray, NSRange otherRange) | replace objects in range
+void resolveInFunctionCall(ZZ) | resolve in function call
+void reverseSearchInteractionsInHistory() | reverse search interactions in history
+void runTestsInList(QString;) | run tests in list
+void sellTradeGoodsInEurope(QUnit;) | sell trade goods in europe
+void setAmountInMarket(I) | set amount in market
+void setAngleInDegrees(QInteger;) | set angle in degrees
+void setArcChangeInProcess(boolean flag) | set arc change in process
+void setAssaultDropInProgress(Z) | set assault drop in progress
+void setAutoCloseInMS(I) | set auto close in ms
+void setCanChangeClassInDialog(Z) | set can change class in dialog
+void setCheckedInSetData(QTableItem;Z) | set checked in set data
+void setClassFileInSync(Z) | set class file in sync
+void setCompilationInProgress() | set compilation in progress
+void setDefaultInCollectionDetailView() | set default in collection detail view
+void setDisplayInFrame(Z) | set display in frame
+void setDisplayModelInOldFormat(Z) | set display model in old format
+void setExtensionListInDescription(Z) | set extension list in description
+void setForegroundInSWTThread(QColor;) | set foreground in swt thread
+void setIfInOctets(J) | set if in octets
+void setImpliedInFromClause(Z) | set implied in from clause
+void setInDebugMode(Z) | set in debug mode
+void setInGame(Z) | set in game
+void setInMemory(Z) | set in memory
+void setInplaceEdit(Z) | set in place edit
+void setInProgress(Z) | set in progress
+void setInProjectionList(Z) | set in projection list
+void setIsPrintInFirstWholeBand(Z) | set is print in first whole band
+void setJavadocInProgress() | set javadoc in progress
+void setJUnitInProgress() | set j unit in progress
+void setMaxInstancesInLeaf(I) | set max instances in leaf
+void setMaxInstInLeaf(I) | set max inst in leaf
+void setMechInFirst(Z) | set mech in first
+void setMechInSecond(Z) | set mech in second
+void setObserverFieldOfViewInDegrees(I) | set observer field of view in degrees
+void setResultsInGrid() | set results in grid
+void setResultsInText() | set results in text
+void setTimeInMillis(QCalendar;J) | set time in millis
+void showInFinder(QFile;) | show in finder
+void showInTerminal(QFile;) | show in terminal
+void showInTerminal(QString;) | show in terminal
+void showResultInText() | show result in text
+void _storeInCache(QQuery;QObject;I) | store in cache
+void storeInRegister(I) | store in register
+void switchToInsomniacUI() | switch to in so mni ac ui
+void systemInEcho(QString;) | system in echo
+void tabInAndAppendLine(String text, boolean includeNewline) | tab in and append line
+void testCannotReadInAWrite() | test cannot read in a write
+void testCannotWriteInARead() | test cannot write in a read
+void testCannotWriteInAWrite() | test cannot write in a write
+void testColonInTernaryOpIgnoreWhitespaceAndComments() | test colon in ternary op ignore whitespace and comments
+void testColonInTernaryOpMultiLineStmts() | test colon in ternary op multi line stmts
+void testColonInTernaryOpOneLineStmts() | test colon in ternary op one line stmts
+void testColonInTernaryOpTwoStmtsOnOneLine() | test colon in ternary op two stmts on one line
+void testColonNotInTernaryOpDueToQuestionMarkInCommentsOrQuotes() | test colon not in ternary op due to question mark in comments or quotes
+void testColonNotInTernaryOpMultiLineStmts() | test colon not in ternary op multi line stmts
+void testErrorInSuperClass() | test error in super class
+void testErrorsArrayInOrder() | test errors array in order
+void testErrorsInMultipleDocuments() | test errors in multiple documents
+void testFindMatchWithCaretInMiddle() | test find match with caret in middle
+void testFindMatchWithCaretInMiddleBackwards() | test find match with caret in middle backwards
+void testFindPdfInMultiple() | test find pdf in multiple
+void testFindReplaceInAllOpenFiles() | test find replace in all open files
+void testFindReplaceInAllOpenFilesWholeWord() | test find replace in all open files whole word
+void testFragmentIgnoreCaseSetNotInList() | test fragment ignore case set not in list
+void testFragmentSetNotInList() | test fragment set not in list
+void testGetDocumentsInBin() | test get documents in bin
+void testGetIndentOfCurrStmtIgnoreDelimsInParenPhrase() | test get indent of curr stmt ignore delims in paren phrase
+void testIgnoreCaseSetNotInList() | test ignore case set not in list
+void testImportEntriesINSPEC() | test import entries in spec
+void testIsIn1DArray() | test is in 1 d array
+void testIsIn2DArray() | test is in 2 d array
+void testNestedIfInSwitch() | test nested if in switch
+void testNewDependencyAppearsInCollections() | test new dependency appears in collections
+void testNewDocumentsInAndOutOfTheCache() | test new documents in and out of the cache
+void testNoDDocInCache() | test no d doc in cache
+void testNotInDocument() | test not in document
+void testNotInSameTableAndColumn() | test not in same table and column
+void testNotInScope() | test not in scope
+void testNotStartOfStmtDueToEndCharactersInCommentsOrQuotes() | test not start of stmt due to end characters in comments or quotes
+void testOldDocumentsInAndOutOfTheCache() | test old documents in and out of the cache
+void testPosInParenPhrase() | test pos in paren phrase
+void testResourceAppearsInListAfterCreation() | test resource appears in list after creation
+void testSetNotInList() | test set not in list
+void testStartOfStmtIgnoreWhiteSpaceAndCommentsInBetween() | test start of stmt ignore white space and comments in between
+void testTasksAreInDocumentOrder() | test tasks are in document order
+void testTypeBraceNotInCode() | test type brace not in code
+void testTypeEnterNotInCode() | test type enter not in code
+void testWrongKeysInErrors() | test wrong keys in errors
+void trainUnitInEurope(QUnitType;) | train unit in europe
+void transformStaticInTextFields() | transform static in text fields
+void transposeInPlace() | transpose in place
+void updateFirstDocInSearch() | update first doc in search
+void updatePeersInSuperSeedMode() | update peers in super seed mode
+void updateZoomInButton() | update zoom in button
+void XXXtestBreakpointsAndStepsInNonPublicClasses() | xxx test breakpoints and steps in non public classes
+void ZoomInAction(QController;) | zoom in action

@@ -1,0 +1,6 @@
+int getMaxUploadRateBPSNormal() | get max upload rate bps normal
+Matrix randomNormal(II) | random normal
+void addNormal(QTurnOrdered;) | add normal
+void exportNormal(QTransform3D;QVector3f;I[F) | export normal
+void testEscapeAtFrontBeforeNormal() | test escape at front before normal
+void writeNormal(QTransform3D;QVector3f;IQMap<QVector3f;QInteger;>;[I) | write normal

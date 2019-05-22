@@ -1,0 +1,5 @@
+boolean complete_included_ok | complete included ok
+boolean complete_recheck_in_progress | complete recheck in progress
+int complete_count | complete count
+int complete_recheck_progress | complete recheck progress
+java.lang.String COMPLETE_ATTRIBUTE_KEY | complete attribute key

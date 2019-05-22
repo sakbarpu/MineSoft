@@ -1,0 +1,30 @@
+boolean isConstant() | is constant
+boolean isFixedConstant() | is fixed constant
+Column getConstantColumn(QClass;QObject;) | get constant column
+ConstantInstruction copy(ConstantInstruction constantInstruction) | copy
+double[] getConstants() | get constants
+int addConstant(D) | add constant
+int addConstantDouble(double val) | add constant double
+int addConstant(F) | add constant
+int addConstant(I) | add constant
+int addConstant(J) | add constant
+int addConstant(QString;) | add constant
+Object getConstantValue(QString;) | get constant value
+String getConstantName(QClass;I) | get constant name
+String getStaticConstantWrapperType(D) | get static constant wrapper type
+void addConstantColumn(QString;QClass;QObject;) | add constant column
+void addLoadConstant(D) | add load constant
+void addLoadConstant(F) | add load constant
+void addLoadConstant(I) | add load constant
+void addLoadConstant(J) | add load constant
+void addLoadConstant(QString;) | add load constant
+void emitConstantDudeInitializers(QClassFileWriter;) | emit constant dude initializers
+void getConstants() | get constants
+void lookupConstant(QDotNode;) | lookup constant
+void processConstant(QAST;) | process constant
+void processConstant(QAST;Z) | process constant
+void setConstantValue(QDotNode;QString;QObject;) | set constant value
+void setResolvedConstant(QString;) | set resolved constant
+void testReturnConstant() | test return constant
+void testWorksAfterRestartConstant() | test works after restart constant
+void visitConstantElementValue(Clazz clazz, Annotation annotation, ConstantElementValue constantElementValue) | visit constant element value

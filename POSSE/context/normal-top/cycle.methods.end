@@ -1,0 +1,5 @@
+void fillHardNoCycle([IIIIIII) | fill hard no cycle
+void fillSimpleNoCycle([IIIIIII) | fill simple no cycle
+void pumpCycle() | pump cycle
+void requestProcessCycle(QDefaultRankCalculator;) | request process cycle
+void testSimpleCycle() | test simple cycle

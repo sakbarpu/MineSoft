@@ -1,0 +1,77 @@
+boolean bCreate | b create
+boolean bCreateIndex | b create index
+boolean create_from_dir | create from dir
+boolean createTempTable | create temp table
+byte[] created_by | created by
+int ADD_TYPE_CREATE | add type create
+int CREATE | create
+int _createJarFlags | create jar flags
+int create_time_secs | create time secs
+int CREATE_TRIGGER_COMMAND_1 | create trigger command  1
+int ET_CREATE_TABLE_COLUMN | et create table column
+int EVENT_CREATE_REQUEST | event create request
+int hnd_create_params | hnd create params
+int IMAGES_TO_CREATE | images to create
+int iNbCreatedFilesDest | i nb created files dest
+int iNbCreatedFilesSrc | i nb created files src
+int iNbCreatedThumbs | i nb created thumbs
+int MODE_CREATE_RSS | mode create rss
+int MODE_CREATE_SEARCH | mode create search
+int NODE_CREATED_COLUMN | node created column
+int TT_CREATE | tt create
+int TYPE_CREATE | type create
+java.awt.Checkbox cCreate | c create
+java.awt.Checkbox cCreateIndex | c create index
+java.awt.TextField tDestCreate | t dest create
+java.awt.TextField tDestCreateIndex | t dest create index
+java.io.File created_dirs_leaf | created dirs leaf
+java.io.File _createJarFile | create jar file
+java.lang.String create_audit_table_stmt | create audit table stmt
+java.lang.String createExtension | create extension
+java.lang.String[] createIndexHelp | create index help
+java.lang.String create_memory | create memory
+java.lang.String CREATETABLE | create table
+java.lang.String[] createTableHelp | create table help
+java.lang.String create_temp | create temp
+java.lang.String create_test_table_stmt | create test table stmt
+java.lang.String EVENT_CREATE_PROPERTY | event create property
+java.lang.String LD_CREATED_BY_ME | ld created by me
+java.lang.String MENU_ID_CREATE | menu id create
+java.lang.String OP_CREATE_SUBS | op create subs
+java.lang.String OP_CREATE_SUBSCRIPTION | op create subscription
+java.lang.String PARAM_CREATE_TIME | param create time
+java.lang.String sDestCreate | s dest create
+java.lang.String sDestCreateIndex | s dest create index
+java.lang.String T_CREATE | t create
+java.lang.String TITLE_CREATE | title create
+java.lang.String TK_CREATED_BY | tk created by
+java.lang.String torrent_created_by | torrent created by
+java.lang.String XML_NODE_HISTORY_CREATED_AT | xml node history created at
+java.util.HashMap createdIcons | created icons
+java.util.List created_dirs | created dirs
+java.util.List created_torrents | created torrents
+java.util.Set created_torrents_set | created torrents set
+javax.swing.JButton jButtonCreateNewLocale | j button create new locale
+javax.swing.JButton jButtonCreatePattern | j button create pattern
+javax.swing.JMenuItem jmiDevCreatePlaylist | jmi dev create playlist
+javax.swing.JMenuItem jmiDirCreatePlaylist | jmi dir create playlist
+javax.swing.JToggleButton createDimensionsButton | create dimensions button
+javax.swing.JToggleButton createWallsButton | create walls button
+javax.swing.JToggleButton.ToggleButtonModel createDimensionLinesToggleModel | create dimension lines toggle model
+javax.swing.JToggleButton.ToggleButtonModel createLabelsToggleModel | create labels toggle model
+javax.swing.JToggleButton.ToggleButtonModel createRoomsToggleModel | create rooms toggle model
+javax.swing.JToggleButton.ToggleButtonModel createWallsToggleModel | create walls toggle model
+long activation_bloom_create_time | activation bloom create time
+long createdAt | created at
+long createdOn | created on
+long create_time | create time
+long generate_bloom_create_time | generate bloom create time
+long incoming_bloom_create_time | incoming bloom create time
+long kb_verify_fail_bloom_create_time | kb verify fail bloom create time
+long last_incoming_sts_create | last incoming sts create
+long messageCreatedOn | message created on
+long total_creates | total creates
+long unauth_bloom_create_time | unauth bloom create time
+org.gudy.azureus2.platform.PlatformManagerCapabilities CreateCommandLineProcess | create command line process
+org.jhotdraw.draw.BezierFigure createdFigure | created figure
+org.jhotdraw.draw.Figure createdFigure | created figure

@@ -1,0 +1,22 @@
+boolean _isAnonymousInnerClass(II) | is anonymous inner class
+IClass getInnerClasses() | get inner classes
+int _getAnonymousInnerClassIndex(I) | get anonymous inner class index
+int getInnerLocation(I) | get inner location
+int getNumInnerNodes() | get num inner nodes
+int numInnerNodes() | num inner nodes
+Rectangle getInnerBounds(QNodeView;) | get inner bounds
+Vector getInnerNodes() | get inner nodes
+void AnonymousInnerClass(II) | anonymous inner class
+void AnonymousInnerClassIndex(I) | anonymous inner class index
+void createAndSetInnerQuery(QCriteriaQuery;QSessionFactoryImplementor;) | create and set inner query
+void fillInnerNodes(QVector;) | fill inner nodes
+void recomputeInnerBounds() | recompute inner bounds
+void safeJUnitStaticInnerClass() | safe j unit static inner class
+void testAnonymousInnerClass() | test anonymous inner class
+void testAnonymousInnerClassArg() | test anonymous inner class arg
+void testAnonymousInnerClassAssign() | test anonymous inner class assign
+void testInnerGapDelete() | test inner gap delete
+void testInteractionsDefineAnonymousInnerClass() | test interactions define anonymous inner class
+void testParenthesizedAnonymousInnerClass() | test parenthesized anonymous inner class
+void visitInnerClass(QString;QString;QString;I) | visit inner class
+void XXXtestWatchLocalVarsFromInnerClass() | xxx test watch local vars from inner class

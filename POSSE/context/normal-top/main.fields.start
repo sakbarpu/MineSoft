@@ -1,0 +1,50 @@
+boolean MAIN_DHT_ENABLE | main dht enable
+boolean MAIN_DHT_V6_ENABLE | main dht v 6  enable
+byte[] mainBuffer | main buffer
+com.aelitis.azureus.core.networkmanager.impl.ByteBucket main_bucket | main bucket
+com.aelitis.azureus.core.networkmanager.impl.EntityHandler main_controller | main controller
+com.aelitis.azureus.core.networkmanager.impl.RateHandler main_handler | main handler
+com.aelitis.azureus.plugins.dht.impl.DHTPluginImpl main_dht | main dht
+com.aelitis.azureus.plugins.dht.impl.DHTPluginImpl main_v6_dht | main v 6  dht
+com.aelitis.azureus.ui.swt.shells.main.MainWindow mainWindow | main window
+edu.rice.cs.drjava.ui.MainFrame _mainFrame | main frame
+edu.rice.cs.drjava.ui.MainFrame.ModelListener _mainListener | main listener
+edu.rice.cs.util.swing.FileSelectorStringComponent _mainClassField | main class field
+int[] mainColArray | main col array
+int MAIN_MENU_BAR | main menu bar
+int MAIN_MENU_TRANSFER | main menu transfer
+int mainPool | main pool
+it.businesslogic.ireport.gui.logpane.LogTextArea mainLogTextArea | main log text area
+it.businesslogic.ireport.gui.MainFrame mainFrame | main frame
+it.businesslogic.ireport.gui.MainFrame mainInstance | main instance
+java.awt.Font MAIN_FONT | main font
+java.awt.Image mainImage | main image
+java.awt.Polygon mainGun | main gun
+java.lang.String _mainClass | main class
+java.lang.String MAIN_CLASS | main class
+java.lang.String mainClassName | main class name
+java.lang.String mainClassSignature | main class signature
+java.lang.String mainMethodClass | main method class
+java.lang.String mainMethodClassName | main method class name
+java.lang.String main_name | main name
+java.lang.String MAIN_PANE_DIVIDER_LOCATION_VISUAL_PROPERTY | main pane divider location visual property
+java.lang.String mainString | main string
+java.lang.Thread _mainThread | main thread
+java.util.HashMap mainNames | main names
+java.util.Hashtable mainNames | main names
+javax.swing.JButton mainButton | main button
+javax.swing.JEditorPane _mainDocPane | main doc pane
+javax.swing.JFrame mainFrame | main frame
+javax.swing.JLabel _mainClassLabel | main class label
+javax.swing.JPanel _mainPanel | main panel
+javax.swing.JPanel mainPanel2 | main panel 2
+javax.swing.JScrollPane _mainScroll | main scroll
+javax.swing.JTextField _mainDocumentSelector | main document selector
+megamek.client.bot.CEntity MainTarget | main target
+org.gudy.azureus2.ui.swt.mainwindow.IMainMenu mainMenu | main menu
+org.gudy.azureus2.ui.swt.mainwindow.MainStatusBar mainStatusBar | main status bar
+org.gudy.azureus2.ui.swt.mainwindow.MainWindow mainWindow | main window
+org.gudy.azureus2.ui.swt.Tab mainTabSet | main tab set
+org.gudy.azureus2.ui.swt.views.table.TableViewSWTPanelCreator mainPanelCreator | main panel creator
+org.hsqldb.Index mainIndex | main index
+org.hsqldb.Table mainTable | main table

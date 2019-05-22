@@ -1,0 +1,94 @@
+boolean areTablesToBeUpdated(QSet;) | are tables to be updated
+boolean areTablesToUpdated(QList;QSet;) | are tables to updated
+boolean isTopLevelGroupSelected() | is top level group selected
+double getTotalPointsVisited() | get total points visited
+int bytesToSigned(BB) | bytes to signed
+int getToolsRequired(QBuildableType;) | get tools required
+int getTotalIntNodesVisited() | get total int nodes visited
+int getTotalLeavesVisited() | get total leaves visited
+long getTotalBytesDiscarded() | get total bytes discarded
+long getTotalBytesReceived() | get total bytes received
+long getTotalDataBytesReceived() | get total data bytes received
+long getTotalDiscarded() | get total discarded
+long getTotalDownloaded() | get total downloaded
+long getTotalFindNodesReceived() | get total find nodes received
+long getTotalFindValuesReceived() | get total find values received
+long getTotalGoodDataBytesReceived() | get total good data bytes received
+long getTotalKeyBlocksReceived() | get total key blocks received
+long getTotalPacketsReceived() | get total packets received
+long getTotalPingsReceived() | get total pings received
+long getTotalProtocolBytesReceived() | get total protocol bytes received
+long getTotalReceived() | get total received
+long getTotalStoresReceived() | get total stores received
+long getTotalUploaded() | get total uploaded
+String stringArrayToDelimited([QString;QString;) | string array to delimited
+UnderlinedNodeAction toggleUnderlined(QMindMapNode;Z) | toggle underlined
+void _assertTokenized(QString;[QString;) | assert tokenized
+void _assertTokenized(QString;[QString;Z) | assert tokenized
+void fireToolStarted(QDrawingView;) | fire tool started
+void jButtonAlignTopActionPerformed(Qjava.awt.event.ActionEvent;) | j button align top action performed
+void jButtonBoxColorTopActionPerformed(Qjava.awt.event.ActionEvent;) | j button box color top action performed
+void jButtonFormatAlignToBandBottomActionPerformed(Qjava.awt.event.ActionEvent;) | j button format align to band bottom action performed
+void jButtonFormatAlignToBandTopActionPerformed(Qjava.awt.event.ActionEvent;) | j button format align to band top action performed
+void jButtonFormatAlignToLeftMarginActionPerformed(Qjava.awt.event.ActionEvent;) | j button format align to left margin action performed
+void jButtonFormatAlignTopActionPerformed(Qjava.awt.event.ActionEvent;) | j button format align top action performed
+void jButtonFormatAlignToRightMarginActionPerformed(Qjava.awt.event.ActionEvent;) | j button format align to right margin action performed
+void jButtonRevertToSavedActionPerformed(Qjava.awt.event.ActionEvent;) | j button revert to saved action performed
+void jCheckBoxMenuItemSnapToGridActionPerformed(Qjava.awt.event.ActionEvent;) | j check box menu item snap to grid action performed
+void jComboBoxTopActionPerformed(Qjava.awt.event.ActionEvent;) | j combo box top action performed
+void jComboBoxTopMarginUnitActionPerformed(Qjava.awt.event.ActionEvent;) | j combo box top margin unit action performed
+void jMenuItemAlignToBandBottomActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item align to band bottom action performed
+void jMenuItemAlignToBandTopActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item align to band top action performed
+void jMenuItemAlignTopActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item align top action performed
+void jMenuItemBringToFrontActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item bring to front action performed
+void jMenuItemRevertToSavedActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item revert to saved action performed
+void jMenuItemRevertToSavedFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item revert to saved from list action performed
+void jMenuItemSendToBackActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item send to back action performed
+void jNumberFieldTopActionPerformed(Qjava.awt.event.ActionEvent;) | j number field top action performed
+void jNumberFieldTopMarginActionPerformed(Qjava.awt.event.ActionEvent;) | j number field top margin action performed
+void jPanelToolBarComponentResized(Qjava.awt.event.ComponentEvent;) | j panel tool bar component resized
+void jSpinnerTopStateChanged(QChangeEvent;) | j spinner top state changed
+void jToggleButtonBarcodeToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button barcode tool action performed
+void jToggleButtonBarcodeToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button barcode tool item state changed
+void jToggleButtonChartToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button chart tool action performed
+void jToggleButtonChartToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button chart tool item state changed
+void jToggleButtonEllipseToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button ellipse tool action performed
+void jToggleButtonEllipseToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button ellipse tool item state changed
+void jToggleButtonFrameToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button frame tool action performed
+void jToggleButtonFrameToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button frame tool item state changed
+void jToggleButtonImageToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button image tool action performed
+void jToggleButtonImageToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button image tool item state changed
+void jToggleButtonLineToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button line tool action performed
+void jToggleButtonLineToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button line tool item state changed
+void jToggleButtonPointerActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button pointer action performed
+void jToggleButtonPointerItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button pointer item state changed
+void jToggleButtonRectRoundToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button rect round tool action performed
+void jToggleButtonRectRoundToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button rect round tool item state changed
+void jToggleButtonRectToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button rect tool action performed
+void jToggleButtonRectToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button rect tool item state changed
+void jToggleButtonStaticTextToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button static text tool action performed
+void jToggleButtonStaticTextToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button static text tool item state changed
+void jToggleButtonSubreportToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button subreport tool action performed
+void jToggleButtonSubreportToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button subreport tool item state changed
+void jToggleButtonTextFieldToolActionPerformed(Qjava.awt.event.ActionEvent;) | j toggle button text field tool action performed
+void jToggleButtonTextFieldToolItemStateChanged(Qjava.awt.event.ItemEvent;) | j toggle button text field tool item state changed
+void setTCPTOSEnabled(Z) | set tcp tos enabled
+void setTotalDiscarded(J) | set total discarded
+void switchToAdvanced(QExperiment;) | switch to advanced
+void toggleAdvanced() | toggle advanced
+void toggleFolded() | toggle folded
+void toggleFolded(QListIterator;) | toggle folded
+void toggleSelected(QNodeView;) | toggle selected
+void toolStarted(QToolEvent;) | tool started
+void torrentAdded(QTrackerTorrent;) | torrent added
+void torrentAdded(QTRHostTorrent;) | torrent added
+void torrentChanged() | torrent changed
+void torrentChanged(QTrackerTorrent;) | torrent changed
+void torrentChanged(QTRHostTorrent;) | torrent changed
+void torrentCreationFailed(QException;) | torrent creation failed
+void torrentListenerRegistered() | torrent listener registered
+void torrentRemoved(QString;QTOTorrent;) | torrent removed
+void torrentRemoved(QTrackerTorrent;) | torrent removed
+void torrentRemoved(QTRHostTorrent;) | torrent removed
+void torrentWillBeRemoved(QTrackerTorrent;) | torrent will be removed
+void torrentWillBeRemoved(QTRHostTorrent;) | torrent will be removed

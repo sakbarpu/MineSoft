@@ -1,0 +1,2 @@
+void testAnnotationsAfterDefinition() | test annotations after definition
+void testAnnotationsAfterOpenCurly() | test annotations after open curly

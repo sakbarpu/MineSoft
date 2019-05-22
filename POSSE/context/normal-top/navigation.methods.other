@@ -1,0 +1,4 @@
+int getNavigationKeys() | get navigation keys
+void addNavigationListener(QINavigationListener<-QItemT;>;) | add navigation listener
+void _hideNavigationPane() | hide navigation pane
+void removeNavigationListener(QINavigationListener<-QItemT;>;) | remove navigation listener

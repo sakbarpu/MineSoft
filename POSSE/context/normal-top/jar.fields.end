@@ -1,0 +1,5 @@
+boolean filesInJar | files in jar
+boolean is_jar | is jar
+int DATA_FILE_JAR | data file jar
+java.lang.String EXTPROCESS_FILE_NAME_INSIDE_JAR | ext process file name inside jar
+java.lang.String UPDATER_JAR | updater jar

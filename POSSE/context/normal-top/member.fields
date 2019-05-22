@@ -1,0 +1,13 @@
+boolean allowMemberExprAsFunctionName | allow member expr as function name
+int FEATURE_MEMBER_EXPR_AS_FUNCTION_NAME | feature member expr as function name
+int MEMBER | member
+int MEMBER_TYPE_PROP | member type prop
+int REF_MEMBER | ref member
+int REF_NS_MEMBER | ref ns member
+java.lang.Object[] memberKeyArray | member key array
+java.lang.reflect.Member memberObject | member object
+java.lang.String T_MEMBER | t member
+java.util.Hashtable members | members
+java.util.Hashtable staticMembers | static members
+org.mozilla.javascript.JavaMembers members | members
+org.mozilla.javascript.MemberBox member | member

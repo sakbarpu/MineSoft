@@ -1,0 +1,11 @@
+boolean doesAutoTooltip() | does auto tooltip
+boolean doesElementExistInArchive(QString;) | does element exist in archive
+boolean doesElementExist(QFile;) | does element exist
+boolean doesLabelExist(QString;) | does label exist
+boolean doesLabelPrefixExist(QString;) | does label prefix exist
+boolean doesMaxRowSizeIncludeBlobs() | does max row size include blobs
+boolean doesParameterDefaultExist(QString;) | does parameter default exist
+boolean doesParameterNonDefaultExist(QString;) | does parameter non default exist
+boolean doesReadCommittedCauseWritersToBlockReaders() | does read committed cause writers to block readers
+boolean doesRepeatableReadCauseReadersToBlockWriters() | does repeatable read cause readers to block writers
+void doesNotExist(QFile;) | does not exist

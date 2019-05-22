@@ -1,0 +1,4 @@
+freemind.modes.actions.GotoLinkNodeAction gotoLinkNodeAction | goto link node action
+int GOTO_W | goto w
+javax.swing.AbstractAction gotoEndAction | goto end action
+javax.swing.AbstractAction gotoPromptPosAction | goto prompt pos action

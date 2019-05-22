@@ -1,0 +1,2 @@
+String getReadable() | get readable
+void setReadable(QString;) | set readable

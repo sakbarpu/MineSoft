@@ -1,0 +1,37 @@
+ArrayList getVariable(ClassifierAnalyser analyser, String name, int is_static, int is_final) | get variable
+boolean isVariable(QString;) | is variable
+it.businesslogic.ireport.JRVariable getVariable() | get variable
+Object[] getVariable(QString;) | get variable
+Object setPageVariable(String key, Object value) | set page variable
+String expandVariable(CQDownloadManager;) | expand variable
+String getEnvironmentalVariable(QString;) | get environmental variable
+String getSubreportVariable() | get subreport variable
+String getToVariable() | get to variable
+String readVariable(QBufferedReader;QString;) | read variable
+Term newVariable() | new variable
+UPnPStateVariable getStateVariable(QString;) | get state variable
+void addVariable(QJRVariable;) | add variable
+void addVariable(QString;QString;) | add variable
+void getVariable() | get variable
+void insertVariable(QString;) | insert variable
+void locate_variable(String bn_name, String variable_name, String result_type, int result_index) | locate variable
+void majVariable(int _idx, Variable _varToUpdate) | maj variable
+void mapTreeVariable(AlternativeElement e, String name) | map tree variable
+void modifyVariable(QJRVariable;) | modify variable
+void newVariable() | new variable
+void removeVariable(QJRVariable;) | remove variable
+void removeVariable(QString;) | remove variable
+void setSubreportVariable(QString;) | set subreport variable
+void setToVariable(QString;) | set to variable
+void setVariable() | set variable
+void setVariable(Qit.businesslogic.ireport.JRVariable;) | set variable
+void setVariable(QString;D) | set variable
+void setVariable(QString;I) | set variable
+void setVariable(QString;J) | set variable
+void setVariable(QString;QColor;) | set variable
+void setVariable(QString;QDate;) | set variable
+void setVariable(QString;QGregorianCalendar;) | set variable
+void setVariable(QString;QString;) | set variable
+void setVariable(QString;Z) | set variable
+void setVariable(String name, Object value) | set variable
+void setVariable(String name, String value) | set variable

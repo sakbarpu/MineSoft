@@ -1,0 +1,2 @@
+CONS ConfigurationDefaults() | configuration defaults
+CONS ConfigurationDefaults(QMap;) | configuration defaults

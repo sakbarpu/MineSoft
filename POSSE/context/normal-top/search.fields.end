@@ -1,0 +1,28 @@
+boolean bNeedSearch | b need search
+boolean bRegexSearch | b regex search
+com.aelitis.azureus.core.metasearch.impl.MetaSearchImpl meta_search | meta search
+com.aelitis.azureus.core.speedmanager.impl.v2.TransferMode.State DOWNLOAD_LIMIT_SEARCH | download limit search
+com.aelitis.azureus.core.speedmanager.impl.v2.TransferMode.State UPLOAD_LIMIT_SEARCH | upload limit search
+int Id_search | id search
+int LOAD_SEARCH | load search
+int MODE_CREATE_SEARCH | mode create search
+int MT_REQUEST_SEARCH | mt request search
+int RA_SEARCH | ra search
+int STOP_TO_SEARCH | stop to search
+java.awt.Button bNewSearch | b new search
+java.awt.Button m_bSearch | m b search
+java.awt.Panel m_pSearch | m p search
+java.lang.StringBuffer m_sbSearch | m sb search
+java.lang.String ICON_NET_SEARCH | icon net search
+java.lang.String IMAGE_SEARCH | image search
+java.lang.String OP_SEARCH | op search
+java.lang.String sLastSearch | s last search
+java.lang.String T_SEARCH | t search
+java.lang.String URL_ADD_SEARCH | url add search
+javax.swing.JButton m_bSearch | m b search
+javax.swing.JLabel jlSearch | jl search
+long last_explicit_search | last explicit search
+long m_nLastSearch | m n last search
+org.jajuk.ui.SearchBox sbSearch | sb search
+thePackage.Searcher curSearch | cur search
+thePackage.Searcher sellerSearch | seller search

@@ -1,0 +1,4 @@
+int JAVA_UNSUPPORTED_TYPE | java unsupported type
+int NATResultUnsupportedOp | nat result unsupported op
+int NATResultUnsupportedVer | nat result unsupported ver
+int RT_UNSUPPORTED_ENCODING | rt unsupported encoding

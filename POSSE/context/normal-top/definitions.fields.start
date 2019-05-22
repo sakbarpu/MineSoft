@@ -1,0 +1,12 @@
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_BACKGROUND_COLOR | definitions background color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_COMMENT_COLOR | definitions comment color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_DOUBLE_QUOTED_COLOR | definitions double quoted color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_KEYWORD_COLOR | definitions keyword color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_LINE_NUMBER_BACKGROUND_COLOR | definitions line number background color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_LINE_NUMBER_COLOR | definitions line number color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_MATCH_COLOR | definitions match color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_NORMAL_COLOR | definitions normal color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_NUMBER_COLOR | definitions number color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_SINGLE_QUOTED_COLOR | definitions single quoted color
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_TYPE_COLOR | definitions type color
+edu.rice.cs.drjava.ui.DefinitionsPane _definitionsPane | definitions pane

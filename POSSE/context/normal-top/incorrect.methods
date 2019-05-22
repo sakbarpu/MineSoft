@@ -1,0 +1,7 @@
+boolean wasIncorrect() | was incorrect
+double incorrect() | incorrect
+double numIncorrect() | num incorrect
+double numIncorrect(I) | num incorrect
+double pctIncorrect() | pct incorrect
+void sessionPasswordIncorrect() | session password incorrect
+void testCorrectFilesAfterIncorrectChanges() | test correct files after incorrect changes

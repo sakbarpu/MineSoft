@@ -1,0 +1,3 @@
+double diffFstDervLnGamma(D) | diff fst derv ln gamma
+double diffLnGamma(D) | diff ln gamma
+double diffSndDervLnGamma(D) | diff snd derv ln gamma

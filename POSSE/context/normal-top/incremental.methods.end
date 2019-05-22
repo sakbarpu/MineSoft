@@ -1,0 +1,4 @@
+boolean isIncremental() | is incremental
+void goIncremental() | go incremental
+void repeatIncremental() | repeat incremental
+void writeIncremental(QInstance;) | write incremental

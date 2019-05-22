@@ -1,0 +1,266 @@
+boolean countIncomingMessage(QString;II) | count incoming message
+boolean hasUrgentMessage() | has urgent message
+boolean hasWarningMessage() | has warning message
+boolean isUserMessage() | is user message
+boolean onSendMessage(Qorg.planetamessenger.plugin.JContactListItem;Qjava.lang.String;) | on send message
+boolean removeMessage(QMessage;Z) | remove message
+boolean saveMessage(Qorg.planetamessenger.plugin.JPlugin;Qjava.lang.String;IQjava.lang.String;) | save message
+boolean sendBrowserMessage(QString;QString;) | send browser message
+boolean sendBrowserMessage(QString;QString;QCollection;) | send browser message
+boolean sendBrowserMessage(QString;QString;QMap;) | send browser message
+boolean sendMessage(JQjava.lang.String;) | send message
+boolean sendTunnelMessage(QDHTTransportContact;[B) | send tunnel message
+boolean sendTunnelMessage(QDHTTransportContact;QMap;) | send tunnel message
+boolean shouldAllowMessage(QModelMessage;) | should allow message
+boolean showActionTipMessage(QString;) | show action tip message
+BuddyPluginBuddyMessage getPersistentMessage() | get persistent message
+BuddyPluginBuddyMessage queueMessage(IQMap;I) | queue message
+BuddyPluginBuddyMessage restoreMessage(QMap;) | restore message
+BuddyPluginBuddyMessage storeExplicitMessage(IQMap;) | store explicit message
+BuddyPluginBuddyMessage storeMessage(IQMap;) | store message
+ByteBuffer[] createSocks4aMessage() | create socks 4 a message
+ByteBuffer[] createSocks4Message() | create socks 4 message
+ByteBuffer[] createSocks5Message() | create socks 5 message
+ByteBuffer getMessage() | get message
+com.aelitis.azureus.core.networkmanager.RawMessage[] encodeMessage(Qcom.aelitis.azureus.core.peermanager.messaging.Message;) | encode message
+com.aelitis.azureus.core.peermanager.messaging.Message getCoreMessage() | get core message
+GUIMessage getMessage(I) | get message
+int getPercentDoneOfCurrentMessage() | get percent done of current message
+int readMessage(QByteBuffer;) | read message
+java.lang.String getMessage() | get message
+JPanel displayStatsMessage(QString;QStatisticsMessage;) | display stats message
+long generalMessage(QString;) | general message
+long updateMessage(PrivateMessage message) | update message
+long windowsMessage(IIJ) | windows message
+Map constructVersionCheckMessage(QString;) | construct version check message
+Map executeAZMessage(QMap;Z) | execute az message
+Map getMessage() | get message
+Map receiveMessage() | receive message
+Map receiveMessage(IQMap;) | receive message
+Map sendMessage(QInetSocketAddress;QInetSocketAddress;QMap;) | send message
+Map sendMessage(QNATTraversalHandler;QInetSocketAddress;QInetSocketAddress;QMap;) | send message
+Message createAZMessage(QDirectByteBuffer;) | create az message
+Message createBTMessage(QDirectByteBuffer;) | create bt message
+Message createMessage([BQDirectByteBuffer;B) | create message
+Message createMessage(QDirectByteBuffer;) | create message
+Message getBaseMessage() | get base message
+Message getMessage() | get message
+Message getOriginalMessage() | get original message
+Message getPluginMessage() | get plugin message
+Message lookupMessage([B) | lookup message
+Message lookupMessage(QString;) | lookup message
+MidiMessage getMidiMessage() | get midi message
+ModelMessage checkForGovMgtChangeMessage() | check for gov mgt change message
+org.gudy.azureus2.plugins.messaging.Message getOriginalMessage() | get original message
+RawMessage createAZRawMessage(QMessage;Z) | create az raw message
+RawMessage createBTRawMessage(QMessage;) | create bt raw message
+RawMessage encodeMessage(QMessage;) | encode message
+RawMessage[] encodeMessage(QMessage;) | encode message
+RawMessage getEmptyRawMessage(QMessage;) | get empty raw message
+SecureMessageServiceClientMessage sendMessage(QMap;QObject;QString;) | send message
+short getMessage() | get message
+SongMessage getMessage() | get message
+String buildMessage(QString;IQException;QString;Z) | build message
+String createInsufficientProductionMessage(QGoodsType;IQGoodsType;I) | create insufficient production message
+String createMessage(QString;) | create message
+String currentElapsedTimeToMessage(QString;) | current elapsed time to message
+String deviceMessage() | device message
+String elapsedTimeToMessage(QString;) | elapsed time to message
+String failMessage(JMLAssertionError e) | fail message
+String failMessage(JMLAssertionError e$) | fail message
+String getAdditionalMessage() | get additional message
+String getAlarmLevelMessage(QPlayer;) | get alarm level message
+String getCommitJSONMessage() | get commit json message
+String getCurrentStatusMessage() | get current status message
+String getDetailMessage() | get detail message
+String getDiscriptionMessage() | get discription message
+String getDisplayMessage() | get display message
+String getEmptyDrawingMessage() | get empty drawing message
+String getErrorMessage() | get error message
+String getErrorMessage(QString;) | get error message
+String getExceptionMessage(QException;QDBTYPE;) | get exception message
+String getExceptionMessage(QRhinoException;) | get exception message
+String getExceptionMessage(QThrowable;) | get exception message
+String getFileMessage() | get file message
+String getFormattedInviteMessage() | get formatted invite message
+String getFullMessage() | get full message
+String getIntegrityMessage(QString;) | get integrity message
+String getInvitationMessage() | get invitation message
+String getLineMessage() | get line message
+String getLocalizedMessage() | get localized message
+String getMessage() | get message
+String getMessage(I) | get message
+String getMessage(IZ[QObject;) | get message
+String[] getMessage(QBox<QBoolean;>;) | get message
+String getMessage(QString;) | get message
+String getMessage(QString;[QObject;) | get message
+String getMessage(QString;QObject;QObject;) | get message
+String getMessage(QString;QString;) | get message
+String getMessage(String code, Object args, Locale locale) | get message
+String getNestedExceptionMessage(QThrowable;) | get nested exception message
+String _getNumErrorsMessage(QString;QString;) | get num errors message
+String getOptionalMessage() | get optional message
+String getRandomBotMessage() | get random bot message
+String getResponseMessage() | get response message
+String getStatusMessage() | get status message
+String getTotalStatusMessage() | get total status message
+String getUserMessage() | get user message
+String getWarningMessage() | get warning message
+UIMessage createMessage() | create message
+void addInsufficientProductionMessage(QList<QString;>;QBuilding;) | add insufficient production message
+void addMessage(QChatMessage;) | add message
+void addMessage(QGUIMessage;) | add message
+void addMessage(QMessage;) | add message
+void addMessage(QMessage;Z) | add message
+void addMessage(String type, String origin, int priority, String message, int code) | add message
+void addModelMessage(QFreeColGameObject;QModelMessage.MessageType;QFreeColObject;QString;[QString;) | add model message
+void addModelMessage(QFreeColGameObject;QModelMessage.MessageType;QString;[QString;) | add model message
+void addModelMessage(QModelMessage;) | add model message
+void addToVersionCheckMessage(QMap;) | add to version check message
+void appendDetailMessage(QString;) | append detail message
+void appendMessage(QString;) | append message
+void buddyMessage(IQMap;I) | buddy message
+void chatMessage(QString;QMap;) | chat message
+void clearStatusMessage() | clear status message
+void createOptionalMessage() | create optional message
+void debug_message(QString;) | debug message
+void deleteChatMessage(QChatMessage;) | delete chat message
+void deleteMessage(QBuddyPluginBuddyMessage;) | delete message
+void dispatchMessage() | dispatch message
+void dispatchMessage(QHashtable;QJComVcEventListener;) | dispatch message
+void displayBrowserMessage(QString;) | display browser message
+void displayChatMessage(QPlayer;QString;Z) | display chat message
+void displayChatMessage(QString;) | display chat message
+void displayLastMessage(QDisplay;Z) | display last message
+void displayMessage(QString;) | display message
+void displayUserMessage(QMap;) | display user message
+void dumpMessage(QPart;) | dump message
+void errorMessage(QException;) | error message
+void errorMessage(QException;Z) | error message
+void errorMessage(QObject;) | error message
+void errorMessage(QObject;QJComponent;) | error message
+void errorMessage(QString;) | error message
+void errorMessage(QString;QString;) | error message
+void fireOnMessage(QJContactListItem;) | fire on message
+void fireOnReceiveMessage(Qjava.lang.String;Qjava.util.GregorianCalendar;Qjava.lang.String;) | fire on receive message
+void fireOnSendMessage(Qjava.lang.String;Qjava.lang.String;) | fire on send message
+void getMessage(QByteBuffer;Z) | get message
+void handleMessage(QBrowserMessage;) | handle message
+void handleNonTxnlMessage(QBrowserMessage;) | handle non tx nl message
+void handleTxnlMessage(QBrowserMessage;QBrowserTransaction;) | handle tx nl message
+void hasPendingRelayMessage(I) | has pending relay message
+void ignoreMessage(QModelMessage;Z) | ignore message
+void incomingMessage(QIncomingMessageEvent;) | incoming message
+void informationMessage(QObject;) | information message
+void informationMessage(QObject;QJComponent;) | information message
+void insertMessage(QStyledDocument;QModelMessage;QPlayer;) | insert message
+void internalSendMessage(QVuzeBuddy;QString;) | internal send message
+void inviteWithMessage(QString;) | invite with message
+void logChatMessage(QString;QColor;QMap;) | log chat message
+void logErrorMessage(QException;) | log error message
+void logMessage(QString;) | log message
+void logMessage(QString;QThrowable;) | log message
+void logMessage(QString;Z) | log message
+void newMessage(QChatMessage;) | new message
+void newMessage(QVuzeBuddy;QChatMessage;) | new message
+void nextModelMessage() | next model message
+void notifyListenersOfNewMessage(QVuzeBuddy;QChatMessage;) | notify listeners of new message
+void notifyOfExternallyReceivedMessage(QMessage;) | notify of externally received message
+void notifyOfExternallySentMessage(QMessage;) | notify of externally sent message
+void onIncomingMessage(QJOscarLib.Integration.Event.IncomingMessageEvent;) | on incoming message
+void onMessage(Qorg.planetamessenger.plugin.JContactListItem;) | on message
+void onOfflineMessage(QJOscarLib.Integration.Event.OfflineMessageEvent;) | on offline message
+void onReceiveMessage(JQjava.util.GregorianCalendar;Qjava.lang.String;) | on receive message
+void onSendMessage(JQjava.lang.String;) | on send message
+void onSendMessage(Qjava.lang.String;Qjava.lang.String;) | on send message
+void postMessage(String message) | post message
+void prepareBackgroundMessage() | prepare background message
+void printDebugMessage(QString;) | print debug message
+void printMessage(QString;) | print message
+void printMessage(StandardBlock sb) | print message
+void printServerOnlineMessage() | print server online message
+void processIncomingMessage(QString;QString;) | process incoming message
+void processMessage(QClientMessage;) | process message
+void putMessage(QByteBuffer;Z) | put message
+void queueHaveMessage(IZ) | queue have message
+void queueMessage(QPlatformMessage;QPlatformMessengerListener;) | queue message
+void queueMessage(QPlatformMessage;QPlatformMessengerListener;Z) | queue message
+void recordMessage(IQString;QString;QString;[QObject;I) | record message
+void renderMessage(QChatMessage;) | render message
+void renderSystemMessage(QString;) | render system message
+void reportErrorMessage(QString;QString;IQString;IZ) | report error message
+void sendAZ2Message(QBuddyPluginBuddy;QString;) | send az 2 message
+void sendAZ2TrackerMessage(QBuddyPluginBuddy;QMap;QBuddyPluginAZ2TrackerListener;) | send az 2 tracker message
+void sendBrowserMessage(QString;QString;) | send browser message
+void sendBrowserMessage(QString;QString;QMap;) | send browser message
+void sendBuddyMessage(QString;QMap;) | send buddy message
+void sendCloseMessage(QbuddyMessage;) | send close message
+void sendErrorMessage(Exception exc) | send error message
+void sendGhostSkipMessage(QPlayer;) | send ghost skip message
+void sendMessage(I) | send message
+void sendMessage(IQInetSocketAddress;) | send message
+void sendMessage(IQMap;) | send message
+void sendMessage(IQMap;IQBuddyPluginBuddyReplyListener;) | send message
+void sendMessage(IQMap;QInetSocketAddress;) | send message
+void sendMessage(QbuddyMessage;) | send message
+void sendMessage(QBuddyPluginBuddy;IQMap;) | send message
+void sendMessage(QBuddyPluginBuddy;QMap;) | send message
+void sendMessage(QByteBuffer;) | send message
+void sendMessage(QClientMessage;) | send message
+void sendMessage(QClientMessage;QMessage;) | send message
+void sendMessage(QMap;) | send message
+void sendMessage(QMessage;) | send message
+void sendMessage(QString;) | send message
+void sendMessage(QString;QXmlAction;) | send message
+void sendMessage(QVuzeBuddy;QString;) | send message
+void sendMessage(String name, Serializable o) | send message
+void sendMessage(String templateName, VelocityContext context) | send message
+void sendTurnErrorSkipMessage(QPlayer;) | send turn error skip message
+void setCurrentStatusMessage(QString;) | set current status message
+void setEmptyDrawingMessage(QString;) | set empty drawing message
+void setErrorMessage(QString;) | set error message
+void setLocalisedMessage(QString;) | set localised message
+void setMessage(Qjava.lang.String;) | set message
+void setMessage(QJContactListItem;Qjava.lang.String;) | set message
+void setMessage(QSongMessage;) | set message
+void setMessage(QString;) | set message
+void setMessage(QString;I) | set message
+void setMessage(String message) | set message
+void setPersistentMessage(QBuddyPluginBuddyMessage;) | set persistent message
+void setStatusMessage(QString;) | set status message
+void setSuppressErrorMessage(Z) | set suppress error message
+void setTotalStatusMessage(QString;) | set total status message
+void setUserMessage(QString;) | set user message
+void setUserMessage(Z) | set user message
+void showAwaitMapSharingMessage() | show await map sharing message
+void showDetailedErrorMessage(QString;QString;QString;) | show detailed error message
+void showErrorMessage(QString;) | show error message
+void showErrorMessage(QString;QOptionParseException;) | show error message
+void showErrorMessage(QString;QString;) | show error message
+void showErrorMessage(QString;QString;QString;) | show error message
+void showExceptionMessage(QException;) | show exception message
+void showInfoMessage(QString;) | show info message
+void showInfoMessage(QString;QIcon;) | show info message
+void showInfoMessage(QString;QString;) | show info message
+void showInformationMessage(QString;) | show information message
+void showInformationMessage(QString;QFreeColObject;) | show information message
+void showInformationMessage(QString;QFreeColObject;[QString;) | show information message
+void showInformationMessage(QString;[QString;) | show information message
+void showMapShareAcceptDeclineMessage(QString;) | show map share accept decline message
+void showMessage(QObject;QString;I) | show message
+void showMessage(QString;) | show message
+void showSharingAcceptedMessage(QString;) | show sharing accepted message
+void showSharingDeclinedMessage(QString;) | show sharing declined message
+void showSharingStoppedMessage(QString;) | show sharing stopped message
+void showTextMessage(QString;QString;QString;) | show text message
+void showWarningMessage(QString;) | show warning message
+void startIgnoringMessage(QString;I) | start ignoring message
+void statusMessage(QString;) | status message
+void stopIgnoringMessage(QString;) | stop ignoring message
+void storeChatMessage(QChatMessage;) | store chat message
+void storeExplicitMessage(QBuddyPluginBuddyMessage;) | store explicit message
+void storeMessage(QBuddyPluginBuddyMessage;) | store message
+void systemMessage(QString;) | system message
+void testClient2PbxMessage() | test client 2 pbx message
+void testMarkAsFlaggedMessage() | test mark as flagged message
+void testNonWsISchemaImportExceptionMessage() | test non ws i schema import exception message

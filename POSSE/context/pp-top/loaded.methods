@@ -1,0 +1,15 @@
+boolean isFullyLoaded() | is fully loaded
+boolean isHotLoaded() | is hot loaded
+boolean isLoaded() | is loaded
+boolean isLoadedWithLazyPropertiesUnfetched() | is loaded with lazy properties unfetched
+boolean isTileImagesLoaded() | is tile images loaded
+Object instanceNotYetLoaded(QResultSet;IQLoadable;QString;QEntityKey;QLockMode;QEntityKey;QObject;QList;QSessionImplementor;) | instance not yet loaded
+void checkLoaded() | check loaded
+void hookOnPageLoaded() | hook on page loaded
+void instanceAlreadyLoaded(QResultSet;IQLoadable;QEntityKey;QObject;QLockMode;QSessionImplementor;) | instance already loaded
+void notifyDataSetLoaded(QDataSetEvent;) | notify data set loaded
+void notifyInstanceLoaded(QInstanceEvent;) | notify instance loaded
+void saveFilesFromLoaded(QArrayList;) | save files from loaded
+void setLoaded(Z) | set loaded
+void setTypeNotLoaded() | set type not loaded
+void writeTasksFromLoaded(QArrayList;) | write tasks from loaded

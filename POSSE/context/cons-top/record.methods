@@ -1,0 +1,16 @@
+CONS ButtonRecord2(IIQMatrix;QAlphaTransform;I) | button record 2
+CONS ButtonRecord2(QInStream;I) | button record 2
+CONS ButtonRecord(IIQMatrix;I) | button record
+CONS ButtonRecord(QInStream;I) | button record
+CONS HomeAppletRecorder(QString;QString;QString;) | home applet recorder
+CONS HomeFileRecorder() | home file recorder
+CONS HomeFileRecorder(I) | home file recorder
+CONS InterruptedRecorderException() | interrupted recorder exception
+CONS InterruptedRecorderException(QString;) | interrupted recorder exception
+CONS MaxRecordsDialog(Qjava.awt.Dialog;Z) | max records dialog
+CONS MaxRecordsDialog(Qjava.awt.Frame;Z) | max records dialog
+CONS Record() | record
+CONS RecordedPanel() | recorded panel
+CONS RecorderException() | recorder exception
+CONS RecorderException(QString;) | recorder exception
+CONS RecorderException(QString;QThrowable;) | recorder exception

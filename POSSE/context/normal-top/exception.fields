@@ -1,0 +1,39 @@
+boolean breakOnExceptions | break on exceptions
+boolean continuationException | continuation exception
+boolean sawSecurityException | saw security exception
+boolean syntaxException | syntax exception
+com.aelitis.azureus.core.diskmanager.cache.CacheFileManagerException pending_exception | pending exception
+com.aelitis.net.udp.uc.PRUDPPacketHandlerException exception | exception
+com.eteks.sweethome3d.viewcontroller.ThreadedTaskController.ExceptionHandler exceptionHandler | exception handler
+int ECMAERROR_EXCEPTION | ecma error exception
+int EVALUATOR_EXCEPTION | evaluator exception
+int EXCEPTION_HANDLER_SLOT | exception handler slot
+int EXCEPTION_LOCAL_SLOT | exception local slot
+int EXCEPTION_SCOPE_SLOT | exception scope slot
+int EXCEPTION_SLOT_SIZE | exception slot size
+int ExceptionTableSize | exception table size
+int EXCEPTION_TRY_END_SLOT | exception try end slot
+int EXCEPTION_TRY_START_SLOT | exception try start slot
+int EXCEPTION_TYPE_SLOT | exception type slot
+int[] itsExceptionTable | its exception table
+int itsExceptionTableTop | its exception table top
+int JAVASCRIPT_EXCEPTION | javascript exception
+int UNEXPECTED_EXCEPTION | unexpected exception
+java.awt.print.PrinterException exception | exception
+java.io.IOException exception | exception
+java.lang.Exception _caughtException | caught exception
+java.lang.Exception encapsulatedException | encapsulated exception
+java.lang.Exception exception | exception
+java.lang.Exception myException | my exception
+java.lang.Exception _startupException | startup exception
+java.lang.String _exceptionMsgBuf | exception msg buf
+java.lang.String REPLY_EXCEPTION | reply exception
+java.lang.Throwable exception | exception
+java.lang.Throwable lastProcessedException | last processed exception
+java.util.Set exception_traces | exception traces
+javax.swing.JCheckBoxMenuItem breakOnExceptions | break on exceptions
+megamek.client.ui.AWT.util.ColorParser.ParseException exception | exception
+megamek.client.ui.swing.util.ColorParser.ParseException exception | exception
+megamek.common.util.LocaleParser.ParseException exception | exception
+org.gudy.azureus2.core3.util.ListenerManagerDispatcherWithException target_with_exception | target with exception
+org.mozilla.classfile.ExceptionTableEntry itsExceptionTable | its exception table

@@ -1,0 +1,84 @@
+boolean new_install | new install
+boolean newRange | new range
+boolean new_version | new version
+byte NEW_LINE | new line
+byte[] new_stats | new stats
+com.eteks.sweethome3d.model.DimensionLine newDimensionLine | new dimension line
+com.eteks.sweethome3d.model.Room newRoom | new room
+com.eteks.sweethome3d.model.Wall newWall | new wall
+double newValue | new value
+edu.rice.cs.drjava.config.ForcedChoiceOption NEW_VERSION_NOTIFICATION | new version notification
+edu.rice.cs.drjava.config.NonNegativeIntegerOption NEW_VERSION_NOTIFICATION_DAYS | new version notification days
+float[] newPoint | new point
+float newWallHeight | new wall height
+float newWallThickness | new wall thickness
+freemind.modes.actions.NewChildAction newChild | new child
+int NEW_CHILD | new child
+int NEW_CHILD_WITHOUT_FOCUS | new child without focus
+int newColumnWidth | new column width
+int newCount | new count
+int newDownloadLimit | new download limit
+int newFontSize | new font size
+int newHeight | new height
+int newHomeCount | new home count
+int newHomeNumber | new home number
+int newLimit | new limit
+int newNodePointer | new node pointer
+int newObjectType | new object type
+int newPhase | new phase
+int newPosition | new position
+int newprio | new prio
+int NEW_SIBLING_BEFORE | new sibling before
+int NEW_SIBLING_BEHIND | new sibling behind
+int NEWTASK | new task
+int newUploadLimit | new upload limit
+int newWidth | new width
+it.businesslogic.ireport.Band newBand | new band
+it.businesslogic.ireport.ReportElement newElement | new element
+it.businesslogic.ireport.ReportElement newStyle | new style
+it.businesslogic.ireport.Style newValue | new value
+java.awt.Font _newFont | new font
+java.awt.geom.Point2D.Double newAnchor | new anchor
+java.awt.geom.Point2D.Double newLead | new lead
+java.awt.Point newObjectOrigin | new object origin
+java.awt.Rectangle newBounds | new bounds
+java.io.File _newLead | new lead
+java.lang.Object newGeometry | new geometry
+java.lang.Object newRestoreData | new restore data
+java.lang.Object[] newRow | new row
+java.lang.Object newValue | new value
+java.lang.reflect.Method newGetBundleMethod | new get bundle method
+java.lang.String newCol | new col
+java.lang.String newElementGroup | new element group
+java.lang.String _NewId | new id
+java.lang.String NEW_INSTANCE_SIG | new instance sig
+java.lang.String newLib | new lib
+java.lang.String newLine | new line
+java.lang.String NEW_MAIN_ASSOC | new main assoc
+java.lang.String newReportFormat | new report format
+java.lang.String newRow | new row
+java.lang.String new_version | new version
+java.lang.String NEWVERSION_MSG | new version msg
+java.lang.String NEW_WALL_HEIGHT | new wall height
+java.lang.String NEW_WALL_THICKNESS | new wall thickness
+java.util.ArrayList<java.lang.String> NEW_VERSION_NOTIFICATION_CHOICES | new version notification choices
+java.util.LinkedList new_peers | new peers
+java.util.List<com.eteks.sweethome3d.model.Wall> newWalls | new walls
+java.util.List new_listeners | new listeners
+java.util.List new_ygm_buddies | new ygm buddies
+java.util.Map newEnabledState | new enabled state
+java.util.Set new_requests | new requests
+javax.swing.AbstractAction newLineAction | new line action
+javax.swing.Action newMap | new map
+javax.swing.Action newPreviousSibling | new previous sibling
+javax.swing.Action newSibling | new sibling
+javax.swing.JComboBox newType | new type
+javax.swing.JLabel newWallHeightLabel | new wall height label
+javax.swing.JLabel newWallThicknessLabel | new wall thickness label
+javax.swing.JSpinner newWallHeightSpinner | new wall height spinner
+javax.swing.JSpinner newWallThicknessSpinner | new wall thickness spinner
+megamek.common.IBoard newBoard | new board
+org.gudy.azureus2.core3.category.Category newCategory | new category
+org.gudy.azureus2.core3.util.AEMonitor new_canceled_mon | new canceled mon
+org.jhotdraw.draw.AttributeKeys.Orientation newValue | new value
+org.jhotdraw.geom.BezierPath.Node newValue | new value

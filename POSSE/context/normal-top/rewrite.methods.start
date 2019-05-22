@@ -1,0 +1,2 @@
+int rewriteForNumberVariables(QNode;) | rewrite for number variables
+void rewriteAsObjectChildren(QNode;QNode;) | rewrite as object children

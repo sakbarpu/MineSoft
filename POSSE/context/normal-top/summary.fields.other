@@ -1,0 +1,4 @@
+boolean isSummaryNewPage | is summary new page
+javax.swing.JCheckBox jCheckBoxSummaryOnNewPage | j check box summary on new page
+megamek.common.MechSummaryCache.Listener mechSummaryCacheListener | mech summary cache listener
+megamek.common.MechSummaryCache mechSummaryCache | mech summary cache

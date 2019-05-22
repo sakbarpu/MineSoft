@@ -1,0 +1,6 @@
+java.io.File _srcDir | src dir
+java.io.File srcDir | src dir
+java.lang.String _srcFileBase | src file base
+java.lang.String srcMatch | src match
+java.lang.String src_query | src query
+java.sql.Statement srcStatement | src statement

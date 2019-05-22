@@ -1,0 +1,21 @@
+boolean isDead() | is dead
+boolean isDeadNote() | is dead note
+DHTRouterContact contactDead([BZ) | contact dead
+Element setDead(QElement;) | set dead
+int getDeads() | get deads
+long getDeadline() | get deadline
+void buddyDead(QBuddyPluginBuddy;) | buddy dead
+void deadEntitiesCleanup() | dead entities cleanup
+void DeadlockException() | deadlock exception
+void DeadlockException(QString;) | deadlock exception
+void DeadlockException(QString;QThrowable;) | deadlock exception
+void DeadlockException(QThrowable;) | deadlock exception
+void dead(QDHTRouterContactImpl;Z) | dead
+void informDead() | inform dead
+void notifyDead() | notify dead
+void removeDeadAttacks() | remove dead attacks
+void removeDead(I) | remove dead
+void removeDeadServers() | remove dead servers
+void setDeadNote(Z) | set dead note
+void setDead(Z) | set dead
+void timeoutDeadKeys() | timeout dead keys

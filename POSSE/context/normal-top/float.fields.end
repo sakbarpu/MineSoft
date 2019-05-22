@@ -1,0 +1,9 @@
+byte CONSTANT_Float | constant float
+byte T_FLOAT | t float
+float def_float | def float
+float invSqStepFloat | inv sq step float
+int CLASS_CODE_FLOAT | class code float
+int Id_parseFloat | id parse float
+int SQL_FLOAT | sql float
+java.lang.String FORMAT_FLOAT | format float
+java.lang.String T_FLOAT | t float

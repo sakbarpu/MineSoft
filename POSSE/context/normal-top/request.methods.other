@@ -1,0 +1,80 @@
+boolean getRequestAuth() | get request auth
+boolean getRequestCanSpanPieces() | get request can span pieces
+boolean hasOutstandingCheckRequestForPiece(I) | has outstanding check request for piece
+boolean hasOutstandingReadRequestForPiece(I) | has outstanding read request for piece
+boolean hasOutstandingWriteRequestForPiece(I) | has outstanding write request for piece
+boolean onBuddyRequestAuthorization(Qjava.lang.String;Qjava.lang.String;) | on buddy request authorization
+boolean sendRequestHint(IIII) | send request hint
+BTMessageRequest createCoreBTRequestAdaptation(QMessage;) | create core bt request adaptation
+byte[] getRequestKey() | get request key
+CertificationRequestInfo getCertificationRequestInfo() | get certification request info
+DHTTransportRequestHandler getRequestHandler() | get request handler
+DHTUDPRequestHandler getRequestHandler() | get request handler
+Element getRequestXML() | get request xml
+EventRequestManager getEventRequestManager() | get event request manager
+InputStream createSOAPStreamFromRequestStream(InputStream req) | create soap stream from request stream
+int getAllocatableRequestCount() | get allocatable request count
+int getConsecutiveNoRequestCount() | get consecutive no request count
+int getIncomingRequestCount() | get incoming request count
+int getOutgoingRequestCount() | get outgoing request count
+int getRequestCandidate(QPEPeerTransport;) | get request candidate
+int getRequestCount() | get request count
+int[] getRequestHint() | get request hint
+int getRequestId() | get request id
+int getRequestIndex(QDiskManagerReadRequest;) | get request index
+int getRequestType() | get request type
+long getAffiliateRequestTime() | get affiliate request time
+long getLastRequestTime() | get last request time
+long _getNextRequestId() | get next request id
+long getPageRequestTime() | get page request time
+long getRequestId() | get request id
+Map getRequestProperties() | get request properties
+PendingRequestManager getPendingRequestManager() | get pending request manager
+PrimaryKey getRequestTypePrimaryKey() | get request type primary key
+PRUDPRequestHandler getRequestHandler() | get request handler
+QuoteRequestType getQuoteRequestType() | get quote request type
+RequestDispatcher getRequestDispatcher(String p0) | get request dispatcher
+RPReply processRequestSupport(QRPRequest;QRPRequestAccessController;) | process request support
+String getRequestHeaders(String name) | get request headers
+String getRequestKey(QTiVoQueryContainerRequest;) | get request key
+String getRequestMethod() | get request method
+String getRequestName() | get request name
+String getRequestParam(QHttpServletRequest;QString;) | get request param
+String getRequestProperty(QString;) | get request property
+String getRequestURI() | get request uri
+void addRequestEditParameter(String id, String version, String name) | add request edit parameter
+void addRequestListener(QBuddyPluginBuddyRequestListener;) | add request listener
+void addRequestListener(QTRTrackerServerRequestListener;) | add request listener
+void addRequestParameter(String key, String values) | add request parameter
+void addRequestProperty(QString;QString;) | add request property
+void clearRequestHint() | clear request hint
+void decodeAZRequestHint(QAZRequestHint;) | decode az request hint
+void enqueueCheckRequestSupport(QDiskManagerCheckRequest;QDiskManagerCheckRequestListener;Z) | enqueue check request support
+void figureRequestRemove(QFigureEvent;) | figure request remove
+void fireFigureRequestRemove() | fire figure request remove
+void fireHandleRequestRemove(QRectangle;) | fire handle request remove
+void fireHandleRequestSecondaryHandles() | fire handle request secondary handles
+void fireOnBuddyRequestAuthorization(Qjava.lang.String;Qjava.lang.String;) | fire on buddy request authorization
+void fireOnRequestAuthorization(Qjava.lang.String;Qjava.lang.String;) | fire on request authorization
+void getRequestProperties(QHttpURLConnection;) | get request properties
+void handleRequestRemove(QHandleEvent;) | handle request remove
+void handleRequestSecondaryHandles(QHandleEvent;) | handle request secondary handles
+void onBuddyRequestAuthorization(JQjava.lang.String;) | on buddy request authorization
+void onRequestAuthorization(Qjava.lang.String;Qjava.lang.String;) | on request authorization
+void outgoingRequestSent(QDHTUDPPacketRequest;) | outgoing request sent
+void printRequestStats() | print request stats
+void proxyStateV5RequestDNS() | proxy state v 5 request dns
+void proxyStateV5RequestIP() | proxy state v 5 request ip
+void proxyStateV5RequestPort(QString;QInetAddress;) | proxy state v 5 request port
+void removeRequestListener(QBuddyPluginBuddyRequestListener;) | remove request listener
+void removeRequestListener(QTRTrackerServerRequestListener;) | remove request listener
+void setConsecutiveNoRequestCount(I) | set consecutive no request count
+void setLastRequestTime(J) | set last request time
+void setRequestHandler(QDHTTransportRequestHandler;) | set request handler
+void setRequestHandler(QPRUDPRequestHandler;) | set request handler
+void setRequestMethod(QString;) | set request method
+void setRequestProperties(QHttpURLConnection;Z) | set request properties
+void setRequestProperties(QMap;) | set request properties
+void setRequestProperty(QString;QString;) | set request property
+void setRequestReadAhead(I) | set request read ahead
+void setR_RequestType_ID(int R_RequestType_ID) | set r request type id

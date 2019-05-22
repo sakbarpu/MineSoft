@@ -1,0 +1,40 @@
+boolean containsFinal(QStateSet;) | contains final
+boolean getFinalClimbMode() | get final climb mode
+boolean getFinalHullDown() | get final hull down
+boolean getFinalProne() | get final prone
+boolean isFinal() | is final
+boolean isFinalClass(QClass;) | is final class
+byte[] doFinal() | do final
+byte[] engineDoFinal([BII) | engine do final
+byte[] internalEngineDoFinal([BII) | internal engine do final
+Coords getFinalCoords() | get final coords
+FromClause getFinalFromClause() | get final from clause
+int doFinal([BI) | do final
+int engineDoFinal([BII[BI) | engine do final
+int getFinalElevation() | get final elevation
+int getFinalFacing() | get final facing
+int placeFinalBid(QCookieJar;QJHTML.Form;QAuctionEntry;QCurrency;I) | place final bid
+List<QFinalizationListener<QDefinitionsDocument;>;> getFinalizationListeners() | get finalization listeners
+List<QFinalizationListener<QDefinitionsPane;>;> getFinalizationListeners() | get finalization listeners
+List<QFinalizationListener<QT;>;> getFinalizationListeners() | get finalization listeners
+Node createTryCatchFinally(QNode;QNode;QNode;I) | create try catch finally
+Node getFinally() | get finally
+Object getFinal(IQType;) | get final
+Object getNonFinal(IQType;) | get non final
+Object getValue(Object parent, Object grandParent, boolean finalNode) | get value
+Object visitTryFinally(TryFinally node) | visit try finally
+URL getFinalURL() | get final url
+void addFinalizationListener(QFinalizationListener<QDefinitionsDocument;>;) | add finalization listener
+void addFinalizationListener(QFinalizationListener<QDefinitionsPane;>;) | add finalization listener
+void addFinalizationListener(QFinalizationListener<QT;>;) | add finalization listener
+void appearanceFinal() | appearance final
+void completeFinalBuffer(QByteBuffer;) | complete final buffer
+void finalDigest(QByteBuffer;) | final digest
+void finalize() | finalize
+void finalizeSaveSession(QSaveSession;) | finalize save session
+void finalizeStep(QArcState;QRobin;) | finalize step
+void runFinalizers() | run finalizers
+void setFinal(IZ) | set final
+void setFinally(QNode;) | set finally
+void setUpFinal() | set up final
+void visitTryCatchFinally(QNode.Jump;QNode;) | visit try catch finally

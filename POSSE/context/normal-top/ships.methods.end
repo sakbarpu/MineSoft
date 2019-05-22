@@ -1,0 +1,2 @@
+void bombardEnemyShips(QServerPlayer;) | bombard enemy ships
+void damageAllShips(QColony;QUnit;QLocation;) | damage all ships

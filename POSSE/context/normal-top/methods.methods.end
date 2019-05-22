@@ -1,0 +1,14 @@
+HashMap getAllInstanciationMethods() | get all instanciation methods
+Iterator iterateAllAccessibleMethods(QSession;Z) | iterate all accessible methods
+Iterator iterateRoutineMethods(QString;Z) | iterate routine methods
+Map getAuthenticationMethods() | get authentication methods
+String getSupportedMethods() | get supported methods
+void addMethods() | add methods
+void addMethods(QMethodHandler;QMethod;[QMethod;) | add methods
+void addReadWriteMethods(QClassFile;) | add read write methods
+void findMatchingMethods(String id, JavaType argTypes, boolean checkArgs, boolean allowConversion, boolean allowVarArgs, JavaStructuredType typeContext, Set<JavaFunction> foundMethods) | find matching methods
+void proxyStateV5Methods(I) | proxy state v 5 methods
+void setIgnoreAbstractMethods(boolean aIgnoreAbstractMethods) | set ignore abstract methods
+void setMethods(List methods) | set methods
+void testMoveMethods() | test move methods
+void validateTestMethods(Class<? extends Annotation> annotation, boolean isStatic) | validate test methods

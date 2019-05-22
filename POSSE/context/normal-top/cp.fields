@@ -1,0 +1,18 @@
+boolean cpp | cpp
+boolean log_cpu | log cpu
+char cpbegin | cp begin
+int cp | cp
+int cpend | cp end
+java.lang.String cpath | cpath
+java.util.ArrayList cpDependencies | cp dependencies
+java.util.ArrayList cpNodesArrayList | cp nodes array list
+java.util.LinkedList<java.io.File> _buildCP | build cp
+java.util.LinkedList<java.io.File> _externalFilesCP | external files cp
+java.util.LinkedList<java.io.File> _extraCP | extra cp
+java.util.LinkedList<java.io.File> _projectCP | project cp
+java.util.LinkedList<java.io.File> _projectFilesCP | project files cp
+javax.swing.tree.DefaultMutableTreeNode cpNode | cp node
+org.bouncycastle.asn1.x509.PolicyQualifierId id_qt_cps | id qt cps
+short CP_FLUSH | cp flush
+short CP_NONE | cp none
+short CP_READ_CACHE | cp read cache

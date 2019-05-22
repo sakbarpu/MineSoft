@@ -1,0 +1,3 @@
+java.lang.String _enclosingBraceType | enclosing brace type
+java.util.HashMap<edu.rice.cs.drjava.model.OpenDefinitionsDocument,java.lang.String> _enclosingClassNames | enclosing class names
+javax.swing.event.DocumentListener _enclosingFileDocumentListener | enclosing file document listener

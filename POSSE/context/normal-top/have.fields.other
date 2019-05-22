@@ -1,0 +1,14 @@
+boolean _testsHaveRun | tests have run
+byte az_have_version | az have version
+byte bt_have_version | bt have version
+byte[] ID_AZ_HAVE_BYTES | id az have bytes
+byte[] ID_AZ_SESSION_HAVE_BYTES | id az session have bytes
+byte[] ID_BT_HAVE_BYTES | id bt have bytes
+byte other_peer_az_have_version | other peer az have version
+byte other_peer_bt_have_version | other peer bt have version
+com.aelitis.azureus.core.peermanager.piecepicker.util.BitFlags peerHavePieces | peer have pieces
+com.aelitis.azureus.core.peermanager.utils.OutgoingBTHaveMessageAggregator outgoing_have_message_aggregator | outgoing have message aggregator
+int ALREADY_HAVE_ROLE | already have role
+int BLOCKCOLOR_HAVEALL | block color have all
+int BLOCKCOLOR_HAVESOME | block color have some
+int DONT_HAVE_ROLE | dont have role

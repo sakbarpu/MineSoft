@@ -1,0 +1,6 @@
+edu.rice.cs.util.swing.FileSelectorComponent _jarFileSelector | jar file selector
+int JAR_CLASSES | jar classes
+int JAR_SOURCES | jar sources
+java.lang.Class JarSigner_class | jar signer class
+javax.swing.JCheckBox _jarClasses | jar classes
+javax.swing.JCheckBox _jarSources | jar sources

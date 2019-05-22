@@ -1,0 +1,4 @@
+void accumulate() | accumulate
+void accumulate(JJD) | accumulate
+void accumulate(QArcState;D) | accumulate
+void addAccumulatedIconsToTreeSet(QMindMapNode;QTreeSet;QTreeSet;) | add accumulated icons to tree set

@@ -1,0 +1,2 @@
+int INDENT_WARNING_THRESHOLD | indent warning threshold
+java.lang.Object rootWarning_mutex | root warning mutex

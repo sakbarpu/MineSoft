@@ -1,0 +1,6 @@
+int getInstructionObserverThreshold() | get instruction observer threshold
+OPT_Instruction firstInstructionInCodeOrder() | first instruction in code order
+void addInstructionCount(QContext;QCallFrame;I) | add instruction count
+void observeInstructionCount(I) | observe instruction count
+void observeInstructionCount(QContext;I) | observe instruction count
+void setInstructionObserverThreshold(I) | set instruction observer threshold

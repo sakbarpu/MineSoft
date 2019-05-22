@@ -1,0 +1,3 @@
+char getHandleMementoDelimiter() | get handle memento delimiter
+UnmarshallingEventHandler spawnChild(Class clazz, int memento) | spawn child
+void createPartControl(Composite parent, IMemento memento) | create part control

@@ -1,0 +1,32 @@
+boolean getMinimizeExpectedCost() | get minimize expected cost
+boolean supportsExpectedLobUsagePattern() | supports expected lob usage pattern
+double[] expectedCosts([D) | expected costs
+double[] expectedCosts([DQInstance;) | expected costs
+double getExpectedDamage(QEntity;QMounted;II) | get expected damage
+double getExpectedFrequency() | get expected frequency
+double getExpectedKickDamage(QEntity;QEntity;QIGame;III) | get expected kick damage
+double getExpectedNumber() | get expected number
+double getExpectedSubstitutionsToTime(double time) | get expected substitutions to time
+float getExpectedDamage(QIGame;QWeaponAttackAction;) | get expected damage
+int getExpectedNumber() | get expected number
+int getExpectedResultsPerAverage() | get expected results per average
+int getExpectedRowCount() | get expected row count
+JAXBElement<T> unmarshal(Node node, Class<T> expectedType) | unmarshal
+Set getExpectedPolicies() | get expected policies
+String computeExpectedRootElements() | compute expected root elements
+String expectedResultsPerAverageTipText() | expected results per average tip text
+String getExpectedEmpty() | get expected empty
+String[] getExpectedRows() | get expected rows
+String minimizeExpectedCostTipText() | minimize expected cost tip text
+Type getExpectedType() | get expected type
+Type getNamedParameterExpectedType(QString;) | get named parameter expected type
+Type getOrdinalParameterExpectedType(I) | get ordinal parameter expected type
+void errorExpectedInput(QString;IQString;) | error expected input
+void setExpectedCreateCallExpectationCalls(int calls) | set expected create call expectation calls
+void setExpectedGetAttributeStringIntCalls(int calls) | set expected get attribute string int calls
+void setExpectedResultsPerAverage(I) | set expected results per average
+void setExpectedType(QType;) | set expected type
+void setMinimizeExpectedCost(Z) | set minimize expected cost
+WeaponAttackAction getHighestExpectedDamage(QIGame;QVector;) | get highest expected damage
+XMLParseException expectedInput(QString;) | expected input
+XMLParseException expectedInput(QString;I) | expected input

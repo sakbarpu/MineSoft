@@ -1,0 +1,2 @@
+edu.rice.cs.drjava.config.BooleanOption OPEN_FOLDER_RECURSIVE | open folder recursive
+java.lang.String T_RECURSIVE | t recursive

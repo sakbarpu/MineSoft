@@ -1,0 +1,66 @@
+boolean bind_ip_set | bind ip set
+boolean bSet | b set
+boolean busy_pool_timer_set | busy pool timer set
+boolean cached_values_set | cached values set
+boolean _debugPortSet | debug port set
+boolean enabled_set | enabled set
+boolean explicit_bind_address_set | explicit bind address set
+boolean idle_average_set | idle average set
+boolean isSet | is set
+boolean itemCountSet | item count set
+boolean locale_set | locale set
+boolean[] parameterSet | parameter set
+boolean result_set | result set
+boolean _shippingSet | shipping set
+boolean system_properties_set | system properties set
+boolean USE_SWT32_BG_SET | use swt 32  bg set
+int HIGH_BIT_SET | high bit set
+int Icode_LITERAL_SET | icode literal set
+int JDBC_NO_RESULT_SET | jdbc no result set
+int JDBC_PARAMETER_NOT_SET | jdbc parameter not set
+int nbSet | nb set
+java.lang.String OP_SET | op set
+java.lang.String PR_PROPERTIES_SET | pr properties set
+java.lang.String T_SET | t set
+java.util.ArrayList driverSet | driver set
+java.util.HashSet boxSet | box set
+java.util.HashSet capabilitySet | capability set
+java.util.HashSet<java.lang.String> _autoImportSet | auto import set
+java.util.Hashtable labelSet | label set
+java.util.List ready_set | ready set
+java.util.Map cookie_names_set | cookie names set
+java.util.Set capabilitySet | capability set
+java.util.Set created_torrents_set | created torrents set
+java.util.Set found_set | found set
+java.util.Set ignore_set | ignore set
+java.util.Set last_processed_download_set | last processed download set
+java.util.Set non_releasable_set | non releasable set
+java.util.Set offline_seq_set | offline seq set
+java.util.Set values_found_set | values found set
+java.util.SortedSet<java.lang.Object> EMPTY_SET | empty set
+java.util.TreeSet tree_set | tree set
+javax.swing.JPanel jPanelBeansSet | j panel beans set
+net.sourceforge.ganttproject.action.ResourceActionSet myResourceActionSet | my resource action set
+net.sourceforge.ganttproject.roles.RoleSetImpl DEFAULT_ROLE_SET | default role set
+net.sourceforge.ganttproject.roles.RoleSetImpl myProjectRoleSet | my project role set
+net.sourceforge.ganttproject.roles.RoleSetImpl SOFTWARE_DEVELOPMENT_ROLE_SET | software development role set
+net.sourceforge.ganttproject.roles.RoleSet myChangedRoleSet | my changed role set
+net.sourceforge.ganttproject.roles.RoleSet myRoleSet | my role set
+org.bouncycastle.asn1.DERObjectIdentifier srsaOAEPEncryptionSET | sr sa oaep encryption set
+org.gudy.azureus2.core3.download.impl.DownloadManagerController.FileInfoFacadeSet fileFacadeSet | file facade set
+org.gudy.azureus2.core3.torrent.TOTorrentAnnounceURLSet delegateSet | delegate set
+org.gudy.azureus2.core3.util.LightHashSet managedInterningSet | managed interning set
+org.gudy.azureus2.core3.util.LightHashSet unmanagedInterningSet | unmanaged interning set
+org.gudy.azureus2.ui.swt.Tab mainTabSet | main tab set
+org.hsqldb.lib.HashSet hashSet | hash set
+org.hsqldb.lib.HashSet nonCachedTablesSet | non cached tables set
+org.hsqldb.lib.HashSet serverConnSet | server conn set
+org.hsqldb.lib.IntValueHashMap commandSet | command set
+org.hsqldb.lib.IntValueHashMap tokenSet | token set
+org.hsqldb.lib.Set keySet | key set
+org.mozilla.javascript.ObjArray loopAndSwitchSet | loop and switch set
+org.mozilla.javascript.ObjArray loopSet | loop set
+org.mozilla.javascript.optimizer.DataFlowBitSet itsLiveOnEntrySet | its live on entry set
+org.mozilla.javascript.optimizer.DataFlowBitSet itsLiveOnExitSet | its live on exit set
+org.mozilla.javascript.optimizer.DataFlowBitSet itsNotDefSet | its not def set
+org.mozilla.javascript.optimizer.DataFlowBitSet itsUseBeforeDefSet | its use before def set

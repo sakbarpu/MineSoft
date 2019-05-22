@@ -1,0 +1,3 @@
+int getExisting(QObject;) | get existing
+void disposeExisting(QTableCell;) | dispose existing
+void disposeExisting(QTableCell;QImage;) | dispose existing

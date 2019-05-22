@@ -1,0 +1,13 @@
+boolean _voidReturnFlag | void return flag
+int iReturnType | i return type
+it.businesslogic.ireport.JRSubreportReturnValue subreportReturnValue | subreport return value
+java.lang.Integer kAutoGenerateReturnID | k auto generate return id
+java.lang.String CHARACTER_RETURN_STYLE | character return style
+java.lang.String NUMBER_RETURN_STYLE | number return style
+java.lang.String OBJECT_RETURN_STYLE | object return style
+java.lang.String STRING_RETURN_STYLE | string return style
+javax.swing.JButton jButtonAddReturnValue | j button add return value
+javax.swing.JButton jButtonModReturnValue | j button mod return value
+javax.swing.JButton jButtonRemReturnValue | j button rem return value
+javax.swing.JPanel jPanelSubreportReturnValues | j panel subreport return values
+javax.swing.JTable jTableSubreportReturnValues | j table subreport return values

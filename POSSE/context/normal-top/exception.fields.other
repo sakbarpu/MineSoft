@@ -1,0 +1,3 @@
+int[] itsExceptionTable | its exception table
+int itsExceptionTableTop | its exception table top
+org.mozilla.classfile.ExceptionTableEntry itsExceptionTable | its exception table

@@ -1,0 +1,6 @@
+boolean isNullValueAllowed | is null value allowed
+boolean value_reply_received | value reply received
+int ET_ATTRIBUTE_VALUE_ADDED | et attribute value added
+int ET_ATTRIBUTE_VALUE_REMOVED | et attribute value removed
+int ET_VALUE_DELETED | et value deleted
+java.util.Map fake_values_when_disabled | fake values when disabled

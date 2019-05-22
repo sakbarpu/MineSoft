@@ -1,0 +1,15 @@
+boolean loadOnStartup | load on startup
+boolean LOAD_PLUGINS_IN_OTHER_THREAD | load plugins in other thread
+float loadFactor | load factor
+int LOAD_FILE | load file
+int LOAD_MYITEMS | load my items
+int LOAD_SAVE_PROPERTIES | load save properties
+int LOAD_SEARCH | load search
+int LOAD_SELLER | load seller
+int LOAD_STRINGS | load strings
+int LOAD_TITLE | load title
+int LOAD_URL | load url
+java.lang.StringBuffer loadReport | load report
+javax.swing.JButton loadButton | load button
+long loadTime | load time
+org.gudy.azureus2.core3.util.DelayedEvent loadTorrentsDelay | load torrents delay

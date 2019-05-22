@@ -1,0 +1,14 @@
+boolean showFailedEquip | show failed equip
+boolean udp_fallback_for_failed_connection | udp fallback for failed connection
+int interpreterResetFailedCount | interpreter reset failed count
+int OUTCOME_FAILED_NO_REND | outcome failed no rend
+int OUTCOME_FAILED_OTHER | outcome failed other
+java.lang.Object SCHEDULER_FAILED_SCAN_CONSEC_KEY | scheduler failed scan consec key
+java.lang.Object SCHEDULER_FAILED_SCAN_TIME_KEY | scheduler failed scan time key
+java.lang.String IGNORE_FAILED_EQUIP | ignore failed equip
+java.lang.String last_failed_user_pw | last failed user pw
+java.lang.String SHOW_FAILEDEQUIP | show failed equip
+java.util.Hashtable hFailedFiles | h failed files
+java.util.Vector ignoreFailedEquip | ignore failed equip
+long last_failed_read | last failed read
+long last_failed_user_pw_time | last failed user pw time

@@ -1,0 +1,54 @@
+boolean closeLog(I) | close log
+boolean getDisableLog() | get disable log
+boolean hasLog() | has log
+boolean isLog() | is log
+boolean isProcessingLog() | is processing log
+boolean keepGameLog() | keep game log
+double dchisqLog(D) | dchi sq log
+double dchisqLog(DD) | dchi sq log
+double dnormLog(D) | dnorm log
+double dnormLog(DDD) | dnorm log
+DoubleVector dchisqLog(DQDoubleVector;) | dchi sq log
+DoubleVector dnormLog(DQDoubleVector;D) | dnorm log
+Logger getLog() | get log
+Logger setupLog(QString;QString;) | setup log
+Log getLog() | get log
+Log newLog(QString;II) | new log
+LogTextArea createNewLog() | create new log
+PrintWriter getMekHitLocLog() | get mek hit loc log
+void addClearLog() | add clear log
+void addLog(ProcessInfoLog logEntry) | add log
+void checkAndSwapLog() | check and swap log
+void clearLog() | clear log
+void closeLog() | close log
+void debugLog(QString;) | debug log
+void deleteLog() | delete log
+void deleteNoCheckFromLog(QSession;[QObject;) | delete no check from log
+void diagLoggerLog(QString;) | diag logger log
+void doLog(QLevel;QString;QString;QString;I) | do log
+void initGameLog() | init game log
+void insertNoCheckFromLog(QSession;[QObject;) | insert no check from log
+void makeLog(QFile;) | make log
+void openLog() | open log
+void openLog(QDatabase;) | open log
+void parseLog() | parse log
+void processLog() | process log
+void removeLog(I) | remove log
+void removeLog(QLogTextArea;) | remove log
+void resetErrorLog() | reset error log
+void setActiveLog(QLogTextArea;) | set active log
+void setKeepGameLog(Z) | set keep game log
+void setLog(QLog;) | set log
+void setLog(QLogger;) | set log
+void setLog(Qweka.gui.Logger;) | set log
+void setMekHitLocLog() | set mek hit loc log
+void setSavelog(boolean savelog) | set save log
+void setSFLog(LogSF log) | set sf log
+void SimpleLog() | simple log
+void SimpleLog(QString;) | simple log
+void SimpleLog(QString;Z) | simple log
+void synchLog() | synch log
+void testLog() | test log
+void TransactionLog() | transaction log
+void updateLog() | update log
+void writeToLog(QSession;QString;) | write to log

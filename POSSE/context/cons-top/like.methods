@@ -1,0 +1,6 @@
+CONS LikeExpression(QString;QString;) | like expression
+CONS LikeExpression(QString;QString;QCharacter;Z) | like expression
+CONS LikeExpression(QString;QString;QMatchMode;) | like expression
+CONS LikeExpression(QString;QString;QMatchMode;QCharacter;Z) | like expression
+CONS Like(QCharacter;Z) | like
+CONS TestLikePredicateOptimizations(QString;) | test like predicate optimizations

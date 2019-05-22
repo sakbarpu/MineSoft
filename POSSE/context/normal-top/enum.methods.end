@@ -1,0 +1,6 @@
+Enum createEnum(QString;QString;) | create enum
+Enumeration getEvenEnum() | get even enum
+Enumeration getTurnEnum() | get turn enum
+void addEnum(QString;QEnum;) | add enum
+void doNetEnum(QArrayList;ZQString;IQSmbFilenameFilter;QSmbFileFilter;) | do net enum
+void invokeIfExistsWithEnum(QObject;QString;QString;QString;) | invoke if exists with enum

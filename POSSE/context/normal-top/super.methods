@@ -1,0 +1,61 @@
+boolean canToggleSuperSeedMode() | can toggle super seed mode
+boolean checkSubclassOrSuperclassPropertyReference(QFromReferenceNode;QString;) | check subclass or superclass property reference
+boolean getUseSupervisedDiscretization() | get use supervised discretization
+boolean isApplicationVersionSuperiorTo(QString;) | is application version superior to
+boolean isClassOrSuperclassJoin(QJoin;) | is class or superclass join
+boolean isClassOrSuperclassTable(I) | is class or superclass table
+boolean isClassOrSuperclassTable(QTable;) | is class or superclass table
+boolean isDereferencedBySuperclassOrSubclassProperty() | is dereferenced by superclass or subclass property
+boolean isDereferencedBySuperclassProperty() | is dereferenced by superclass property
+boolean isJava5OrSuperior() | is java 5 or superior
+boolean isJavaVersionSuperiorTo(QString;) | is java version superior to
+boolean isMacOSXLeopardOrSuperior() | is mac osx leopard or superior
+boolean isSuperclassProperty(QString;) | is superclass property
+boolean isSuperSeeding() | is super seeding
+boolean isSuperSeedMode() | is super seed mode
+boolean is_superset_of(Qlalr_item_set;) | is superset of
+boolean is_superset_of(Qsymbol_set;) | is superset of
+boolean is_superset_of(Qterminal_set;) | is superset of
+boolean isSupertask() | is super task
+boolean[] supervisedEstimator() | supervised estimator
+Datatype getSupertype() | get supertype
+double superMatch(QIHex;QIHex;) | super match
+int getNbSuperSeeds() | get nb super seeds
+List<QImage;> getSupers(QIHex;QComponent;) | get supers
+List<QImage;> getSupers(QIHex;QJComponent;) | get supers
+List supersFor(QIHex;) | supers for
+List supersFor(QIHex;QComponent;) | supers for
+List supersFor(QIHex;QJComponent;) | supers for
+MiscType createSuperCharger() | create super charger
+PersistentClass getSuperclass() | get superclass
+PersistentClass getSuperclass(QMappings;QElement;) | get superclass
+ResultSet getSuperTables(QString;QString;QString;) | get super tables
+ResultSet getSuperTypes(QString;QString;QString;) | get super types
+Set superClassesOf(OWLClass clazz) | super classes of
+String getMappedSuperclass() | get mapped superclass
+String getSuperclass() | get superclass
+String useSupervisedDiscretizationTipText() | use supervised discretization tip text
+Table SYSTEM_SUPERTABLES() | system supertables
+Table SYSTEM_SUPERTYPES() | system supertypes
+Task getSupertask() | get super task
+Type getSuperType(QTypeSystem;) | get super type
+void addSuperTypes() | add super types
+void begin_class(int version, int access, String className, Type superType, Type interfaces, String sourceFile) | begin class
+void generateSuper(QClassFileWriter;QString;QString;QString;QString;[QClass;QClass;) | generate super
+void initialiseSuperSeedMode() | initialise super seed mode
+void recalculateSupertaskCompletionPercentageBottomUp(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task completion percentage bottom up
+void recalculateSupertaskCompletionPercentage(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task completion percentage
+void recalculateSupertaskScheduleBottomUp(QSet;QTaskContainmentHierarchyFacade;) | recalculate super task schedule bottom up
+void recalculateSupertaskSchedule(QTask;QTaskContainmentHierarchyFacade;) | recalculate super task schedule
+void setNbSuperSeedsFromHTML(QString;) | set nb super seeds from html
+void setParameterSuper(String key, int line, String action_parameter, int parameter_types) | set parameter super
+void setPSuperactNameWf(String pSuperactNameWf) | set p superact name wf
+void setSuperclass(QPersistentClass;) | set superclass
+void setSuperSeedMode(Z) | set super seed mode
+void setUseSupervisedDiscretization(Z) | set use supervised discretization
+void superBasicSetBounds(QPoint2D.Double;QPoint2D.Double;) | super basic set bounds
+void testErrorInSuperClass() | test error in super class
+void testLoopingDependencyTargetedAtSupertask() | test looping dependency targeted at super task
+void testSupertaskDurationShrinksWhenNestedTasksShrink() | test super task duration shrinks when nested tasks shrink
+void updatePeersInSuperSeedMode() | update peers in super seed mode
+void updateSuperSeedPiece(QPEPeer;I) | update super seed piece

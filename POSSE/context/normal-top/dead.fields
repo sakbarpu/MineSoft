@@ -1,0 +1,9 @@
+boolean dead | dead
+boolean isAlreadyDead | is already dead
+int consecutive_dead | consecutive dead
+int DEAD_CONNECTION_TIMEOUT_PERIOD | dead connection timeout period
+int DEAD_KEY_RETENTION_PERIOD | dead key retention period
+int DOS_CHECK_DEAD_WOOD_COUNT | dos check dead wood count
+int ST_CONTACTS_DEAD | st contacts dead
+java.lang.String DEAD | dead
+java.util.Map recently_dead_keys | recently dead keys

@@ -1,0 +1,77 @@
+boolean failed() | failed
+boolean getFailed() | get failed
+boolean hasFailed() | has failed
+boolean setFailed() | set failed
+String getFailed() | get failed
+void asxFailed() | asx failed
+void authenticationFailed() | authentication failed
+void checkFailed(QDiskManagerCheckRequest;QThrowable;) | check failed
+void checkFailed(QExternalIPCheckerService;QString;) | check failed
+void connectionFailed(QBasicConnection;QString;) | connection failed
+void contactAddedFailed(I) | contact added failed
+void contactRemovedFailed(I) | contact removed failed
+void dataFailed() | data failed
+void decodeFailed(QProtocolDecoder;QThrowable;) | decode failed
+void deliveryFailed(QBuddyPluginBuddyMessage;QBuddyPluginException;) | delivery failed
+void engineFailed(QEngine;QThrowable;) | engine failed
+void failed() | failed
+void failed([BQSubscriptionException;) | failed
+void failed(I) | failed
+void failed(QDHTTransportContact;QThrowable;) | failed
+void failed(QGenericMessageConnection;QThrowable;) | failed
+void failed(QPluginException;) | failed
+void failed(QResourceDownloader;QResourceDownloaderException;) | failed
+void failed(QSubscriptionException;) | failed
+void failed(QSubscription;QSubscriptionException;) | failed
+void failed(QThrowable;) | failed
+void failed(QTorrentException;) | failed
+void failed(QUDPConnection;QThrowable;) | failed
+void failed(QUDPConnectionSet;) | failed
+void failed(QUpdateChecker;) | failed
+void findNodeFailed() | find node failed
+void findValueFailed() | find value failed
+void fireConnectionFailed(QFtpConnection;QString;) | fire connection failed
+void fireOnLoginFailed() | fire on login failed
+void fireOnPasswordChangedFailed() | fire on password changed failed
+void fireOnRegisterUserFailed() | fire on register user failed
+void hashFailed(I) | hash failed
+void incrementFailed(I) | increment failed
+void informFailed(QPeerReadRequest;) | inform failed
+void informFailed(QResourceDownloaderException;) | inform failed
+void _interpreterResetFailed(QThrowable;) | interpreter reset failed
+void interpreterResetFailed(QThrowable;) | interpreter reset failed
+void keyBlockFailed() | key block failed
+void messageFailed(QBuddyPluginBuddy;QThrowable;) | message failed
+void _notifyInterpreterResetFailed(QThrowable;) | notify interpreter reset failed
+void onPasswordChangedFailed() | on password changed failed
+void onRegisterUserFailed() | on register user failed
+void pingFailed() | ping failed
+void pingFailed(QDHTSpeedTesterContact;) | ping failed
+void pingSourceFailed(QSpeedManagerPingSource;) | ping source failed
+void putFailed(QBuddyPluginBuddyMessage;QThrowable;) | put failed
+void readFailed(QDiskManagerReadRequest;QThrowable;) | read failed
+void readFailed(QThrowable;) | read failed
+void rendezvousFailed(QDHTTransportContact;Z) | rendezvous failed
+void reportFailed(QBuddyPluginBuddyMessage;QThrowable;Z) | report failed
+void reportFailed(QThrowable;) | report failed
+void requestFailed(QDiskAccessRequest;QThrowable;) | request failed
+void requestFailed(QPeerReadRequest;) | request failed
+void runFailed(QString;) | run failed
+void scanFailed(QSubscription;) | scan failed
+void sendAttemptFailed(QClientMessage;QThrowable;) | send attempt failed
+void sendFailed(QBuddyPluginBuddy;QBuddyPluginException;) | send failed
+void serverFailed(QThrowable;) | server failed
+void setAsFailed() | set as failed
+void setFailed() | set failed
+void setFailed(QDiskManagerFileInfo;QString;) | set failed
+void setFailed(QString;) | set failed
+void setFailed(QThrowable;) | set failed
+void startFailed(QException;) | start failed
+void statsFailed() | stats failed
+void statusCheckFailed() | status check failed
+void storeFailed() | store failed
+void testFailed(IQTest;QThrowable;) | test failed
+void torrentCreationFailed(QException;) | torrent creation failed
+void verificationFailed(QUpdate;QThrowable;) | verification failed
+void writeFailed(QDiskManagerWriteRequest;QThrowable;) | write failed
+void writeFailed(QThrowable;) | write failed

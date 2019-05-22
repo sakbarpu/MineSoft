@@ -1,0 +1,10 @@
+int FAIL_BADMULTI | fail bad multi
+int FAIL_CONNECT | fail connect
+int fail_count | fail count
+int failCount | fail count
+int fail_index | fail index
+int FAIL_INIT_DELAY | fail init delay
+int FAIL_MAX_DELAY | fail max delay
+int FAIL_PARSE | fail parse
+int fail_percentage | fail percentage
+int FAIL_PERCENTAGE | fail percentage

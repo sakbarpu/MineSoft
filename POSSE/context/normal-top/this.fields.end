@@ -1,0 +1,5 @@
+int Icode_ELEM_AND_THIS | icode elem and this
+int Icode_NAME_AND_THIS | icode name and this
+int Icode_PROP_AND_THIS | icode prop and this
+int Icode_VALUE_AND_THIS | icode value and this
+javax.swing.JMenuItem jMenuItemCloseAllExceptThis | j menu item close all except this

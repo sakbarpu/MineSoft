@@ -1,0 +1,9 @@
+Class getHolderClass() | get holder class
+HolderInstantiator createClassicHolderInstantiator(QConstructor;QResultTransformer;) | create classic holder instantiator
+HolderInstantiator getHolderInstantiator() | get holder instantiator
+HolderInstantiator getHolderInstantiator(QResultTransformer;QResultTransformer;[QString;) | get holder instantiator
+HolderInstantiator getHolderInstantiator(QResultTransformer;[QString;) | get holder instantiator
+IPermission pHolder2AddArray(IUpdatingPermissionManager upm, ArrayList holders) | p holder 2 add array
+JPanel makeHolderPanelForToolBarBean(QString;QObject;ZQString;Z) | make holder panel for tool bar bean
+List getSelectedProjectHolderTreeNodes() | get selected project holder tree nodes
+void setHolderClass(QClass;) | set holder class

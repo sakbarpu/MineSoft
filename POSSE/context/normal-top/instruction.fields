@@ -1,0 +1,6 @@
+int BUFFER_INSTRUCTIONS | buffer instructions
+int instructionCount | instruction count
+int instructionThreshold | instruction threshold
+java.lang.String eBayPayInstructions | e bay pay instructions
+javax.swing.JLabel _instructionLabel | instruction label
+org.bouncycastle.asn1.DERObjectIdentifier InstructionCode | instruction code

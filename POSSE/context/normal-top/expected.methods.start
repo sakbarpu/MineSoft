@@ -1,0 +1,5 @@
+double[] expectedCosts([D) | expected costs
+double[] expectedCosts([DQInstance;) | expected costs
+String expectedResultsPerAverageTipText() | expected results per average tip text
+XMLParseException expectedInput(QString;) | expected input
+XMLParseException expectedInput(QString;I) | expected input

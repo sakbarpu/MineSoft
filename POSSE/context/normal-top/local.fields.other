@@ -1,0 +1,24 @@
+boolean DISABLE_LAN_LOCAL_STUFF | disable lan local stuff
+byte LAN_LOCAL_MAYBE | lan local maybe
+byte LAN_LOCAL_NO | lan local no
+byte LAN_LOCAL_YES | lan local yes
+com.aelitis.azureus.core.dht.transport.DHTTransportContact rendezvous_local_contact | rendezvous local contact
+freemind.modes.actions.AddLocalLinkAction addLocalLinkAction | add local link action
+int COMMAND_LOCAL_PN | command local pn
+int EXCEPTION_LOCAL_SLOT | exception local slot
+int HKEY_LOCAL_MACHINE | hkey local machine
+int hnd_local_names | hnd local names
+int Icode_LOCAL_CLEAR | icode local clear
+int itsLocalTop | its local top
+int total_local_keys | total local keys
+int VD_LOCAL_SIZE | vd local size
+java.lang.String attLocalName | att local name
+java.lang.String CONF_P2P_HIDE_LOCAL_PROPERTIES | conf p 2 p hide local properties
+java.lang.String CORE_PARAM_STRING_LOCAL_BIND_IP | core param string local bind ip
+java.lang.String currentElementLocalName | current element local name
+java.lang.String INNER_CLASS_WITH_LOCAL_VARS | inner class with local vars
+java.lang.String PID_LOCAL_TRACKER | pid local tracker
+java.net.InetAddress anyLocalAddressIPv4 | any local address ipv 4
+java.net.InetAddress anyLocalAddressIPv6 | any local address ipv 6
+long last_non_local_connection_time | last non local connection time
+org.bouncycastle.asn1.DERObjectIdentifier pkcs_9_at_localKeyId | pkcs  9  at local key id

@@ -1,0 +1,32 @@
+boolean _testsHaveRun | tests have run
+byte AL_MSG_BT_HAVE | al msg bt have
+byte az_have_version | az have version
+byte bt_have_version | bt have version
+byte[] ID_AZ_HAVE_BYTES | id az have bytes
+byte[] ID_AZ_SESSION_HAVE_BYTES | id az session have bytes
+byte[] ID_BT_HAVE_BYTES | id bt have bytes
+byte other_peer_az_have_version | other peer az have version
+byte other_peer_bt_have_version | other peer bt have version
+com.aelitis.azureus.core.peermanager.piecepicker.util.BitFlags peerHavePieces | peer have pieces
+com.aelitis.azureus.core.peermanager.utils.OutgoingBTHaveMessageAggregator outgoing_have_message_aggregator | outgoing have message aggregator
+int ALREADY_HAVE_ROLE | already have role
+int BLOCKCOLOR_AVAIL_HAVE | block color avail have
+int BLOCKCOLOR_AVAIL_NOHAVE | block color avail no have
+int BLOCKCOLOR_HAVE | block color have
+int BLOCKCOLOR_HAVEALL | block color have all
+int BLOCKCOLOR_HAVESOME | block color have some
+int BLOCKCOLORL_NOHAVE | block colorl no have
+int BLOCKCOLOR_NOAVAIL_HAVE | block color noa va il have
+int BLOCKCOLOR_NOAVAIL_NOHAVE | block color noa va il no have
+int BLOCKCOLOR_NOHAVE | block color no have
+int DONT_HAVE_ROLE | dont have role
+int haveWidth | have width
+int next_have | next have
+int SUBID_BT_HAVE | subid bt have
+int SUBID_ID_AZ_HAVE | subid id az have
+java.lang.String HAVE_VACANCY_STRING | have vacancy string
+java.lang.String ID_AZ_HAVE | id az have
+java.lang.String ID_AZ_SESSION_HAVE | id az session have
+java.lang.String ID_BT_HAVE | id bt have
+java.util.ArrayList pending_haves | pending haves
+org.gudy.azureus2.core3.util.AEMonitor pending_haves_mon | pending haves mon

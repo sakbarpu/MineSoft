@@ -1,0 +1,4 @@
+byte FIELD_KEYWORD | field keyword
+byte PARAMETER_KEYWORD | parameter keyword
+byte VARIABLE_KEYWORD | variable keyword
+int lastKeyword | last keyword

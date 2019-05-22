@@ -1,0 +1,13 @@
+CONS Alias() | alias
+CONS AliasedProjection(QProjection;QString;) | aliased projection
+CONS Alias(IQString;) | alias
+CONS Alias(QString;) | alias
+CONS AliasToBeanConstructorResultTransformer(QConstructor;) | alias to bean constructor result transformer
+CONS AliasToBeanResultTransformer(QClass;) | alias to bean result transformer
+CONS AliasToEntityMapResultTransformer() | alias to entity map result transformer
+CONS ColumnCollectionAliases(QMap;QSQLLoadableCollection;) | column collection aliases
+CONS ColumnEntityAliases(QMap;QLoadable;QString;) | column entity aliases
+CONS DefaultEntityAliases(QLoadable;QString;) | default entity aliases
+CONS DefaultEntityAliases(QMap;QLoadable;QString;) | default entity aliases
+CONS GeneratedCollectionAliases(QCollectionPersister;QString;) | generated collection aliases
+CONS GeneratedCollectionAliases(QMap;QCollectionPersister;QString;) | generated collection aliases

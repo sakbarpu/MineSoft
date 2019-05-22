@@ -1,0 +1,130 @@
+AIMain getAIMain() | get ai main
+ArffViewerMainPanel getMainPanel() | get main panel
+boolean getMainWindowStatus() | get main window status
+boolean hasMainGun() | has main gun
+boolean hasMainRef(QSession;[QObject;) | has main ref
+boolean isMainlineStyle(QString;) | is mainline style
+boolean _javadocMainHasExecuteMethod(QClass;) | javadoc main has execute method
+Composite createMainPanel(QComposite;) | create main panel
+File getMainClassContainingFile() | get main class containing file
+File _getMainFile() | get main file
+Font getChartMainFont() | get chart main font
+Font getDefaultMainFont() | get default main font
+Frame getMainFrame() | get main frame
+IMainMenu createMainMenu(QShell;) | create main menu
+IMainMenu getMainMenu() | get main menu
+IMainWindow getMainWindow() | get main window
+Index getMainIndex() | get main index
+int[] getMainColumns() | get main columns
+int getMainFontSize() | get main font size
+it.businesslogic.ireport.gui.MainFrame getIReportMainFrame() | get i report main frame
+it.businesslogic.ireport.gui.MainFrame getMainFrame() | get main frame
+java.awt.Dimension getMainWindowSize() | get main window size
+java.awt.Point getMainWindowLocation() | get main window location
+JComponent createMainPane(QHome;QUserPreferences;QHomeController;) | create main pane
+JMenu buildMainMenu() | build main menu
+JMOSWindow getMainWindow() | get main window
+JPanel buildMainPanel() | build main panel
+JPanel getMainPanel() | get main panel
+JPanel _mainDocumentSelector() | main document selector
+JPanel _makeMainClassSelectorPanel() | make main class selector panel
+LogTextArea getMainLogTextArea() | get main log text area
+MainFrame getMainFrame() | get main frame
+MainFrame getMainInstance() | get main instance
+MainlineDHTManager getMainlineDHTManager() | get mainline dht manager
+MainlineDHTProvider getMainlineDHTProvider() | get mainline dht provider
+MainMenu getMainMenu() | get main menu
+MainPanel getMainPanel() | get main panel
+MainStatusBar getMainStatusBar() | get main status bar
+MainTreeModel getMainTreeModel() | get main tree model
+MainWindow getMainWindow() | get main window
+MainWindow getOldMainWindow() | get old main window
+Method getMainMethod(String pcName) | get main method
+Mounted getMainWeapon() | get main weapon
+org.gudy.azureus2.ui.swt.mainwindow.MainWindow createOldMainWindow() | create old main window
+org.gudy.azureus2.ui.swt.mainwindow.MainWindow getOldMainWindow(Z) | get old main window
+Result getResultMain(QSession;) | get result main
+Shell createMainShell(I) | create main shell
+Shell getMainShell() | get main shell
+String getMainAlias() | get main alias
+String _getMainClass() | get main class
+String getMainClass() | get main class
+String getMainClassName() | get main class name
+String getMainClassName(QURL;) | get main class name
+String getMainlineStyleClientName(QString;) | get mainline style client name
+String getMainlineStyleVersionNumber(QString;) | get mainline style version number
+String getMainMethodClass() | get main method class
+String getMainNumber() | get main number
+String getMainString() | get main string
+SWTSkinObject getMainSkinObject() | get main skin object
+Tab getMainTabSet() | get main tab set
+Table getMain() | get main
+TableViewSWTPanelCreator getMainPanelCreator() | get main panel creator
+URL getMainHelpPageUrl() | get main help page url
+void addMainFlagMustNotBePresent(String inFlagName, String inError) | add main flag must not be present
+void addMainlineStyle(CQString;) | add mainline style
+void addMaintenanceListenerForMenu(QMenu;QMenuBuilder;) | add maintenance listener for menu
+void _assertMainTransformation(QString;QString;) | assert main transformation
+void checkConnectionToFreeMindMain() | check connection to free mind main
+void closeMainPanel() | close main panel
+void createMainTable() | create main table
+void decodeMainlineDHTPort(QBTDHTPort;) | decode mainline dht port
+void disableStateMaintenance() | disable state maintenance
+void _displayMainError(QURL;) | display main error
+void _displayMainError(QURL;QException;) | display main error
+void emitMain() | emit main
+void generateMain(QClassFileWriter;) | generate main
+void invokeMain(QString;[QString;) | invoke main
+void main() | main
+void main2([QString;) | main 2
+void mainEmbeddedImpl(QContextFactory;QObject;QString;) | main embedded impl
+void mainLoop() | main loop
+void main([Qjava.lang.String;) | main
+void main(QScript;[QString;) | main
+void _main([QString;) | main
+void main([QString;) | main
+void maintainWhitespace(Z) | maintain whitespace
+void mainx([QString;) | ma inx
+void notifyMainThread() | notify main thread
+void objectMain([QString;) | object main
+void openMainView(QString;QUISWTViewEventListener;QObject;) | open main view
+void openMainView(QString;QUISWTViewEventListener;QObject;Z) | open main view
+void paintMainArea(QGraphics;QPainter;) | paint main area
+void println(StringBuffer main, String x) | println
+void RefreshMainDisplay() | refresh main display
+void _resetMainPane() | reset main pane
+void resizeMainBrowser() | resize main browser
+void _runMain() | run main
+void runMain(QString;) | run main
+void sendMainlineDHTPort() | send mainline dht port
+void setAIMain(QAIMain;) | set ai main
+void setDmzMain(DmzMain dmzMain) | set dmz main
+void setHasMainGun(Z) | set has main gun
+void setIReportMainFrame(Qit.businesslogic.ireport.gui.MainFrame;) | set i report main frame
+void setMainClass(QString;) | set main class
+void _setMainFont() | set main font
+void setMainFrame(Qit.businesslogic.ireport.gui.MainFrame;) | set main frame
+void setMainFrame(QMainFrame;) | set main frame
+void setMainlineDHTProvider(QMainlineDHTProvider;) | set mainline dht provider
+void setMainLogTextArea(QLogTextArea;) | set main log text area
+void setMainMenu(QIMainMenu;) | set main menu
+void setMainMethodClass(QString;) | set main method class
+void setMainPanelCreator(QTableViewSWTPanelCreator;) | set main panel creator
+void setMainSkinObject(QSWTSkinObject;) | set main skin object
+void setMainString(QString;) | set main string
+void setMaintainMouseOver(boolean maintain) | set maintain mouse over
+void setMainThread(Qjava.lang.Thread;) | set main thread
+void setMainWindowProperties(Qjava.awt.Point;Qjava.awt.Dimension;Z) | set main window properties
+void setMainWindow(QMainWindow;) | set main window
+void setShowMainWindow(Z) | set show main window
+void setupMainPanel() | setup main panel
+void showMainMenu() | show main menu
+void showMainPanel() | show main panel
+void showMainWindow() | show main window
+void storeMainAddress(String postAddress1, String postAddress2, String postAddress3, String postAddress4, PrimaryKey cityPk, PrimaryKey zipCodePk, PrimaryKey statePk, PrimaryKey countryPk, AnyLogicContext alc) | store main address
+void testgetMainClassName() | test get main class name
+void testMainScript(QConnection;Z) | test main script
+void testRunMainMethod() | test run main method
+void _toggleMainClass() | toggle main class
+void updateMainTabs() | update main tabs
+void writeMainDeck(CardList main) | write main deck

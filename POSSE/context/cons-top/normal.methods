@@ -1,0 +1,6 @@
+CONS NormalEstimator(D) | normal estimator
+CONS NormalizableDistance() | normalizable distance
+CONS NormalizableDistance(QInstances;) | normalizable distance
+CONS NormalizedPolyKernel() | normalized poly kernel
+CONS NormalizedPolyKernel(QInstances;IDZ) | normalized poly kernel
+CONS NormalMixture() | normal mixture

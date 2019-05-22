@@ -1,0 +1,45 @@
+BigInteger getIterationCount() | get iteration count
+BigInteger getIterations() | get iterations
+boolean hasMoreIterations() | has more iterations
+boolean performIteration(I[[D[[D[[DQInstances;) | perform iteration
+boolean stopIteration(II) | stop iteration
+boolean stopKMeansIteration(II) | stop k means iteration
+double measureNumIterations() | measure num iterations
+int getAttsToEliminatePerIteration() | get atts to eliminate per iteration
+int getBestIteration([DI) | get best iteration
+int getClassifyIterations() | get classify iterations
+int getHillclimbIterations() | get hill climb iterations
+int getIterationCount() | get iteration count
+int getIterations() | get iterations
+int getMaxBoostingIterations() | get max boosting iterations
+int getMaxIterations() | get max iterations
+int getNumBoostingIterations() | get num boosting iterations
+int getNumIterations() | get num iterations
+int getNumOfBoostingIterations() | get num of boosting iterations
+int getPercentToEliminatePerIteration() | get percent to eliminate per iteration
+int getTrainIterations() | get train iterations
+String attsToEliminatePerIterationTipText() | atts to eliminate per iteration tip text
+String hillclimbIterationsTipText() | hill climb iterations tip text
+String maxBoostingIterationsTipText() | max boosting iterations tip text
+String maxIterationsTipText() | max iterations tip text
+String numBoostingIterationsTipText() | num boosting iterations tip text
+String numIterationsTipText() | num iterations tip text
+String numOfBoostingIterationsTipText() | num of boosting iterations tip text
+String percentToEliminatePerIterationTipText() | percent to eliminate per iteration tip text
+void nextIteration() | next iteration
+void performIteration([[D[[D[[DQInstances;D) | perform iteration
+void setAttsToEliminatePerIteration(I) | set atts to eliminate per iteration
+void setClassifyIterations(I) | set classify iterations
+void setHillclimbIterations(I) | set hill climb iterations
+void setIterationID(long value) | set iteration id
+void setIterations(I) | set iterations
+void setIterations(int iter) | set iterations
+void setMaxBoostingIterations(I) | set max boosting iterations
+void setMaxIteration(I) | set max iteration
+void setMaxIterations(I) | set max iterations
+void setNumBoostingIterations(I) | set num boosting iterations
+void setNumIterations(I) | set num iterations
+void setNumOfBoostingIterations(I) | set num of boosting iterations
+void setPercentToEliminatePerIteration(I) | set percent to eliminate per iteration
+void setTrainIterations(I) | set train iterations
+void testRemoveFromAggregateUnderIteration() | test remove from aggregate under iteration

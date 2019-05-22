@@ -1,0 +1,15 @@
+boolean supportsBindAsCallableArgument() | supports bind as callable argument
+SQLException invalidArgument() | invalid argument
+SQLException invalidArgument(QString;) | invalid argument
+SQLException nullArgument() | null argument
+SQLException nullArgument(QString;) | null argument
+SQLException outOfRangeArgument() | out of range argument
+SQLException outOfRangeArgument(QString;) | out of range argument
+String[] parseArgument(QString;) | parse argument
+String transformArgument(QString;) | transform argument
+String transformLocalArgument(QString;) | transform local argument
+String typeArgument() | type argument
+void addArgument(QString;QString;) | add argument
+void putArgument(String key, Object value) | put argument
+void setArgument(IQExpression;) | set argument
+void setArgument(QString;) | set argument

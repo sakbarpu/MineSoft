@@ -1,0 +1,26 @@
+byte COMPACT_MODE_NORMAL | compact mode normal
+int CACHE_MODE_NORMAL | cache mode normal
+int CLOSEMODE_NORMAL | closemode normal
+int EXPIRE_NORMAL | expire normal
+int HIT_NORMAL | hit normal
+int LOG_NORMAL | log normal
+int max_upload_rate_bps_normal | max upload rate bps normal
+int numNormal | num normal
+int PADDING_MAX_NORMAL | padding max normal
+int PLAYLIST_TYPE_NORMAL | playlist type normal
+int PRIORITY_NORMAL | priority normal
+int STATE_NORMAL | state normal
+int SW_NORMAL | sw normal
+int SW_SHOWNORMAL | sw show normal
+int TRANSPORT_MODE_NORMAL | transport mode normal
+int TYPE_NORMAL | type normal
+int WIDGET_STATE_NORMAL | widget state normal
+java.awt.Color colorNormal | color normal
+java.lang.Long DRAW_NORMAL | draw normal
+java.lang.String ACCURACY_NORMAL | accuracy normal
+java.lang.String DETAIL_SPECIAL_MODE_NORMAL | detail special mode normal
+java.lang.String ICON_MODE_NORMAL | icon mode normal
+java.lang.String ICON_PLAYLIST_NORMAL | icon playlist normal
+javax.swing.border.Border borderNormal | border normal
+javax.swing.ImageIcon iconNormal | icon normal
+short PROTOCOL_NORMAL | protocol normal

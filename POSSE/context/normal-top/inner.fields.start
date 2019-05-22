@@ -1,0 +1,8 @@
+double innerRadius | inner radius
+float innerWidth | inner width
+int INNER_BUFFER_WIDTH | inner buffer width
+java.awt.Rectangle innerBounds | inner bounds
+java.lang.String INNER_CLASS_WITH_LOCAL_VARS | inner class with local vars
+java.lang.String innerSphere | inner sphere
+megamek.common.loaders.HMVTechType INNER_SPHERE | inner sphere
+megamek.common.loaders.TechType INNER_SPHERE | inner sphere

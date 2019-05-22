@@ -1,0 +1,100 @@
+BibtexEntry parseEntryBibTeX(QString;Z) | parse entry bib te x
+BigInteger getX() | get x
+boolean hasX() | has x
+boolean showGridX() | show grid x
+boolean showMajorGridX() | show major grid x
+boolean showMinorGridX() | show minor grid x
+double convertFromPanelX(D) | convert from panel x
+double convertToAttribX(D) | convert to attrib x
+double convertToPanelX(D) | convert to panel x
+double distortX(DQPoint2D;QRectangle2D;) | distort x
+double getControlX() | get control x
+double getDisplayX() | get display x
+double getEndX() | get end x
+double getEndX(I) | get end x
+double getMaxX() | get max x
+double getMinX() | get min x
+double getPropertyX() | get property x
+double getRandomX(I) | get random x
+double getScaleX() | get scale x
+double getStartX() | get start x
+double getStartX(I) | get start x
+double getStepX() | get step x
+double getTranslateX() | get translate x
+double getX() | get x
+double getX(I) | get x
+ECFieldElement getX() | get x
+float getLayoutAlignmentX(QContainer;) | get layout alignment x
+float getMaxX(QHomePieceOfFurniture;) | get max x
+float getMinX(QHomePieceOfFurniture;) | get min x
+float getX() | get x
+Float getX() | get x
+int calculateCurrentX() | calculate current x
+int calculateX(I) | calculate x
+int convertToPanelX(D) | convert to panel x
+int getCanvasX() | get canvas x
+int getDeltaX() | get delta x
+int getDisplayPosX() | get display pos x
+int getExtendedX() | get extended x
+int getLeftX() | get left x
+int getMaxTileX() | get max tile x
+int getMaxX() | get max x
+int getMiddleX() | get middle x
+int getMiddleX(QString;QFont;) | get middle x
+int getMinimapPosX() | get minimap pos x
+int getMiniReportPosX() | get mini report pos x
+int getMinTileX() | get min tile x
+int getMinX() | get min x
+int getPopupX() | get popup x
+int getPositionX(I) | get position x
+int getPosX() | get pos x
+int getRightX() | get right x
+int getRootX() | get root x
+int getRulerPosX() | get ruler pos x
+int getStartX() | get start x
+int getWindowPosX() | get window pos x
+int getX() | get x
+int getX(FF) | get x
+int getX(J) | get x
+int _offsetToX(II) | offset to x
+int offsetToX(II) | offset to x
+int _offsetToX(int line, int offset) | offset to x
+int pturbX(DD) | pt urb x
+int tileXToX(I) | tile x to x
+int tileXToX(III) | tile x to x
+Matrix getX(QInstance;) | get x
+Matrix getX(QInstances;) | get x
+Number getStartX(int series, int item) | get start x
+String getLabelX() | get label x
+void addConfigPortX(QString;ZQString;QString;) | add config port x
+void drawX(QGraphics;DDI) | draw x
+void reduce_x(IIQPartition;QInput;) | reduce x
+void setControlX(D) | set control x
+void setDisplayPosX(I) | set display pos x
+void setEndX(D) | set end x
+void setEndX(ID) | set end x
+void setGridX(Z) | set grid x
+void setLowerAbsFreqX(double lowerAbsFreqX) | set lower abs freq x
+void setMajorGridX(Z) | set major grid x
+void setMaxX(D) | set max x
+void setMaxX(I) | set max x
+void setMinimapPosX(I) | set minimap pos x
+void setMiniReportPosX(I) | set mini report pos x
+void setMinMaxX(DD) | set min max x
+void setMinorGridX(Z) | set minor grid x
+void setMinX(D) | set min x
+void setMinX(I) | set min x
+void setPosX(int position) | set pos x
+void setPropertyX(QString;) | set property x
+void setRulerPosX(I) | set ruler pos x
+void setScaleX(D) | set scale x
+void setStartX(D) | set start x
+void setStartX(ID) | set start x
+void setTranslateX(D) | set translate x
+void setWindowPosX(I) | set window pos x
+void setX(D) | set x
+void setX(F) | set x
+void setX(I) | set x
+void setX(ID) | set x
+void setX(QFloat;) | set x
+void setX(QVisualItem;QVisualItem;D) | set x

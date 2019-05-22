@@ -1,0 +1,7 @@
+CONS MSVValidator(QValidationContext;QValidatableObject;) | msv validator
+CONS NonValidator() | non validator
+CONS SchemaValidator(QConfiguration;) | schema validator
+CONS SchemaValidator(QConfiguration;QProperties;) | schema validator
+CONS SchemaValidator(QConfiguration;QSettings;) | schema validator
+CONS TransferSpeedValidator(QString;QNumber;) | transfer speed validator
+CONS ValidatorPlugin() | validator plugin

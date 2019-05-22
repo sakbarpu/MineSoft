@@ -1,0 +1,25 @@
+boolean compileFunctionsWithDynamicScopeFlag | compile functions with dynamic scope flag
+boolean itsIgnoreDynamicScope | its ignore dynamic scope
+boolean itsUseDynamicScope | its use dynamic scope
+boolean topScopeFlag | top scope flag
+boolean useDynamicScope | use dynamic scope
+int CATCH_SCOPE | catch scope
+int CATCH_SCOPE_PROP | catch scope prop
+int EXCEPTION_SCOPE_SLOT | exception scope slot
+int FEATURE_DYNAMIC_SCOPE | feature dynamic scope
+int Icode_SCOPE_LOAD | icode scope load
+int Icode_SCOPE_SAVE | icode scope save
+int JDBC_INVALID_BRI_SCOPE | jdbc invalid bri scope
+int LAST_SCOPE_FUNCTION_ID | last scope function id
+int SCOPE | scope
+int SCOPE_PROVIDER | scope provider
+java.lang.Object LIBRARY_SCOPE_KEY | library scope key
+java.lang.String BRI_SESSION_SCOPE_IN_LIST | bri session scope in list
+java.lang.String BRI_TEMPORARY_SCOPE_IN_LIST | bri temporary scope in list
+java.lang.String BRI_TRANSACTION_SCOPE_IN_LIST | bri transaction scope in list
+java.lang.String T_SCOPE | t scope
+org.mozilla.javascript.ScriptableObject scope | scope
+org.mozilla.javascript.Scriptable parentScopeObject | parent scope object
+org.mozilla.javascript.Scriptable scope | scope
+org.mozilla.javascript.Scriptable topCallScope | top call scope
+org.mozilla.javascript.tools.debugger.ScopeProvider scopeProvider | scope provider

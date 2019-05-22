@@ -1,0 +1,18 @@
+boolean isGetThis(QString;) | is get this
+boolean wasThis(QString;) | was this
+Callable getElemFunctionAndThis(QObject;QObject;QContext;) | get elem function and this
+Callable getNameFunctionAndThis(QString;QContext;QScriptable;) | get name function and this
+Callable getPropFunctionAndThis(QObject;QString;QContext;) | get prop function and this
+Callable getValueFunctionAndThis(QObject;QContext;) | get value function and this
+DJClass getThis() | get this
+DJClass getThis(QString;) | get this
+FormatCharacterFileTask getThis() | get this
+ImporterTopLevel realThis(QScriptable;QIdFunctionObject;) | real this
+NativeRegExp realThis(QScriptable;QIdFunctionObject;) | real this
+NativeScript realThis(QScriptable;QIdFunctionObject;) | real this
+NativeString realThis(QScriptable;QIdFunctionObject;) | real this
+String getThis(QString;) | get this
+void addLoadThis() | add load this
+void generateCallFunAndThis(QNode;) | generate call fun and this
+void matchThis(QString;) | match this
+void readThis(I) | read this

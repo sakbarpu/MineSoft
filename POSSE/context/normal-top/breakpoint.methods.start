@@ -1,0 +1,3 @@
+void BreakpointPropertyVisitor(QString;) | breakpoint property visitor
+void BreakpointRegionTreeUserObj(QBreakpoint;) | breakpoint region tree user obj
+void BreakpointTestListener() | breakpoint test listener

@@ -1,0 +1,6 @@
+boolean delegate_is_https | delegate is https
+int delegate_to_port | delegate to port
+java.lang.Object delegateTo | delegate to
+java.lang.String delegate_to_host | delegate to host
+java.net.URL delegate_to | delegate to
+org.gudy.azureus2.core3.torrent.TOTorrentAnnounceURLSet delegateSet | delegate set

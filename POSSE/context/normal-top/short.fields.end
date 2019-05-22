@@ -1,0 +1,7 @@
+byte OP_GETSHORT | op get short
+byte OP_PUTSHORT | op put short
+byte T_SHORT | t short
+int CLASS_CODE_SHORT | class code short
+int myMinimaxShort | my minimax short
+int RANGE_SHORT | range short
+int r_short | r short

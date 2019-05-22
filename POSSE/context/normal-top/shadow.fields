@@ -1,0 +1,8 @@
+boolean displayShadowOnFloor | display shadow on floor
+boolean hasShadow | has shadow
+byte[] shadows | shadows
+java.awt.image.BufferedImage[] shadowsImages | shadows images
+java.util.HashMap shadow_client_version_map | shadow client version map
+java.util.HashMap shadow_style_code_map | shadow style code map
+org.jhotdraw.draw.AttributeKey<java.awt.Color> TEXT_SHADOW_COLOR | text shadow color
+org.jhotdraw.draw.AttributeKey<org.jhotdraw.geom.Dimension2DDouble> TEXT_SHADOW_OFFSET | text shadow offset

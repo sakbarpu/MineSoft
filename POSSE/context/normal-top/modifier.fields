@@ -1,0 +1,6 @@
+int modifier | modifier
+int modifiers | modifiers
+int toHitModifier | to hit modifier
+java.lang.String modifiers | modifiers
+java.lang.String MODIFIER_SEPARATOR | modifier separator
+java.util.ArrayList<megamek.common.TargetRoll.Modifier> modifiers | modifiers

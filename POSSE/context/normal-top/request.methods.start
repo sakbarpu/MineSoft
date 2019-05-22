@@ -1,0 +1,64 @@
+boolean requestAllocationStarts([I) | request allocation starts
+boolean requestAssumedCompleteMode() | request assumed complete mode
+boolean requestClose() | request close
+boolean requestExists(QString;III) | request exists
+boolean _requestFocusInWindow() | request focus in window
+boolean requestFocusInWindow() | request focus in window
+boolean requestPing([B) | request ping
+Element requestLaunch(QConnection;QElement;) | request launch
+long requestUpdateSupport() | request update support
+NtlmPasswordAuthentication requestNtlmPasswordAuthentication(QString;QSmbAuthException;) | request ntlm password authentication
+RrdDb requestRrdDb(QRrdDef;) | request rrd db
+RrdDb requestRrdDb(QString;) | request rrd db
+RrdDb requestRrdDb(QString;QString;) | request rrd db
+void requestAdd(QDHTRouterContact;) | request add
+void requestAllocationComplete() | request allocation complete
+void requestBugReport(QError;) | request bug report
+void requestComplete(QDiskAccessRequest;) | request complete
+void requestComplete(QPeerReadRequest;QPooledByteBuffer;) | request complete
+void requestComplete(QPeerReadRequest;QPooledByteBuffer;QPeer;) | request complete
+void requestComplete(QpendingRequest;) | request complete
+void requestConnectSelect(QAEProxyConnectionImpl;QSocketChannel;) | request connect select
+void requestConnectSelect(QSocketChannel;) | request connect select
+void requestDispatcher(I) | request dispatcher
+void requestDispatcher(QDiskManagerReadRequest;QDiskManagerReadRequestListener;QDirectByteBuffer;QList;) | request dispatcher
+void requestDispatcher(QDiskManagerWriteRequest;QDiskManagerWriteRequestListener;QDirectByteBuffer;QList;) | request dispatcher
+void requestEnds(Z) | request ends
+void requestFocus() | request focus
+void requestIncomingConnectionRouting(QByteMatcher;QRoutingListener;QMessageStreamFactory;) | request incoming connection routing
+void requestInstall(QString;QInstallablePlugin;) | request install
+void requestLaunch() | request launch
+void requestLock(String lockStr, int transactionIsolationLevel) | request lock
+void requestLookup([BQString;) | request lookup
+void requestNewConnection(QInetSocketAddress;QConnectListener;I) | request new connection
+void requestNewConnection(QInetSocketAddress;QConnectListener;JI) | request new connection
+void requestNodeAdd(QDHTRouterContactImpl;) | request node add
+void requestNodeAdd(QDHTRouterContactImpl;Z) | request node add
+void requestPatchDump(int bankNum, int patchNum) | request patch dump
+void requestPing(QDHTRouterContact;) | request ping
+void requestPing(QDHTRouterContactImpl;) | request ping
+void requestProcessCycle(QDefaultRankCalculator;) | request process cycle
+void requestReadSelect() | request read select
+void requestReadSelect(QAEProxyConnectionImpl;QSocketChannel;) | request read select
+void requestReadSelect(QSocketChannel;) | request read select
+void requestReceiveReplyProcessor(QDHTTransportUDPContactImpl;QDHTUDPPacketReply;) | request receive reply processor
+void requestReceiveRequestProcessor(QDHTTransportUDPContactImpl;QDHTUDPPacketRequest;) | request receive request processor
+void requestRecheck() | request recheck
+void requestRefresh() | request refresh
+void requestRemove() | request remove
+void requestRestart() | request restart
+void requestSelectionUpdate(QItemT;) | request selection update
+void requestSendReplyProcessor(QDHTTransportUDPContactImpl;QDHTTransportReplyHandler;QDHTUDPPacketReply;J) | request send reply processor
+void requestSendRequestProcessor(QDHTTransportUDPContactImpl;QDHTUDPPacketRequest;) | request send request processor
+void requestStarts() | request starts
+void requestStop() | request stop
+void requestTimedOut() | request timed out
+void requestTrackerAnnounce() | request tracker announce
+void requestTrackerAnnounce(Z) | request tracker announce
+void requestTrackerScrape(Z) | request tracker scrape
+void requestUpdate() | request update
+void requestUserAttention() | request user attention
+void requestUserAttention(IQObject;) | request user attention
+void requestWriteSelect() | request write select
+void requestWriteSelect(QAEProxyConnectionImpl;QSocketChannel;) | request write select
+void requestWriteSelect(QSocketChannel;) | request write select

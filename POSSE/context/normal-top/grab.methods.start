@@ -1,0 +1,2 @@
+DHTPlugin grabDHT() | grab dht
+void grabNextKeyStroke(QActionListener;) | grab next key stroke

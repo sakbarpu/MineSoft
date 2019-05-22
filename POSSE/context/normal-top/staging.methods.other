@@ -1,0 +1,2 @@
+boolean hasStagingGroup() | has staging group
+Map getStagingLevel2AttrsMap() | get staging level 2 attrs map

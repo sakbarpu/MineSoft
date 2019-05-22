@@ -1,0 +1,8 @@
+boolean isInitialised() | is initialised
+void checkPluginsInitialised() | check plugins initialised
+void fireInitialised(Z) | fire initialised
+void initialised(QDownload;) | initialised
+void initialised(QDownloadManager;) | initialised
+void initialised(Z) | initialised
+void shouldBeInitialised(Z) | should be initialised
+void waitUntilInitialised() | wait until initialised

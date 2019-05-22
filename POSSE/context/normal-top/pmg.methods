@@ -1,0 +1,1 @@
+void clearCaseDelegate(YPersistenceManager pmgr, YIdentifier id) | clear case delegate

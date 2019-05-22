@@ -1,0 +1,110 @@
+boolean isDocDirty | is doc dirty
+boolean _searchAllDocuments | search all documents
+edu.rice.cs.drjava.config.BooleanOption FIND_ALL_DOCUMENTS | find all documents
+edu.rice.cs.drjava.config.FontOption FONT_DOCLIST | font doc list
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_BEGIN_DOCUMENT | key begin document
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_END_DOCUMENT | key end document
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_NEXT_DOCUMENT | key next document
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_PREVIOUS_DOCUMENT | key previous document
+edu.rice.cs.drjava.config.NonNegativeIntegerOption DOC_LIST_WIDTH | doc list width
+edu.rice.cs.drjava.model.AbstractDJDocument _doc | doc
+edu.rice.cs.drjava.model.AbstractDJDocument _document | document
+edu.rice.cs.drjava.model.definitions.DefinitionsDocument _currentDefDoc | current def doc
+edu.rice.cs.drjava.model.definitions.DefinitionsDocument _doc | doc
+edu.rice.cs.drjava.model.definitions.DefinitionsDocument doc | doc
+edu.rice.cs.drjava.model.OpenDefinitionsDocument _activeDocument | active document
+edu.rice.cs.drjava.model.OpenDefinitionsDocument _doc | doc
+edu.rice.cs.drjava.model.OpenDefinitionsDocument _docNext | doc next
+edu.rice.cs.drjava.model.OpenDefinitionsDocument _docPrev | doc prev
+edu.rice.cs.drjava.model.OpenDefinitionsDocument _document | document
+edu.rice.cs.drjava.model.OpenDefinitionsDocument _firstDoc | first doc
+edu.rice.cs.drjava.model.OpenDefinitionsDocument _openDoc | open doc
+edu.rice.cs.drjava.model.OpenDefinitionsDocument[] _openDocs | open docs
+edu.rice.cs.drjava.model.repl.InteractionsDJDocument _consoleDocAdapter | console doc adapter
+edu.rice.cs.drjava.model.repl.InteractionsDJDocument _doc | doc
+edu.rice.cs.drjava.model.repl.InteractionsDJDocument _interactionsDJDocument | interactions dj document
+edu.rice.cs.drjava.model.repl.InteractionsDJDocument _interactionsDocument | interactions document
+edu.rice.cs.drjava.model.repl.InteractionsDocument _doc | doc
+edu.rice.cs.drjava.model.repl.InteractionsDocument _document | document
+edu.rice.cs.util.docnavigation.IDocumentNavigator<edu.rice.cs.drjava.model.OpenDefinitionsDocument> _documentNavigator | document navigator
+edu.rice.cs.util.swing.DocumentIterator _docIterator | doc iterator
+edu.rice.cs.util.text.ConsoleDocument _consoleDoc | console doc
+edu.rice.cs.util.text.ConsoleDocument _doc | doc
+edu.rice.cs.util.text.ConsoleDocumentInterface _cDoc | c doc
+edu.rice.cs.util.text.ConsoleDocumentInterface _document | document
+edu.rice.cs.util.text.EditDocumentInterface _document | document
+edu.rice.cs.util.text.SwingDocument _defDoc | def doc
+edu.rice.cs.util.text.SwingDocument _doc | doc
+edu.rice.cs.util.text.SwingDocument _junitDoc | junit doc
+edu.rice.cs.util.text.SwingDocument NULL_DOCUMENT | null document
+int docCounter | doc counter
+int _finalDocCt | final doc ct
+int kAEOpenDocuments | k ae open documents
+int LOC_DOCUMENTS | loc documents
+int SHORT_DOC_MAX_LENGTH | short doc max length
+it.businesslogic.ireport.gui.documentstructure.DocumentStructurePanel documentStructurePanel | document structure panel
+java.awt.event.ActionListener DOCUMENT_END | document end
+java.awt.event.ActionListener DOCUMENT_HOME | document home
+java.awt.event.ActionListener SELECT_DOC_END | select doc end
+java.awt.event.ActionListener SELECT_DOC_HOME | select doc home
+java.lang.ref.WeakReference<edu.rice.cs.drjava.model.OpenDefinitionsDocument> _doc | doc
+java.lang.String doctype | doctype
+java.lang.String _Documentation | documentation
+java.lang.String DOCUMENT_OUT_OF_SYNC_MSG | document out of sync msg
+java.lang.String DOCUMENT_TEXT | document text
+java.lang.String OPTION_DOC | option doc
+java.lang.String PATH_DOCS | path docs
+java.lang.String PATH_RELATIVE_DOCS | path relative docs
+java.lang.String XML_SAVE_DOCTYPE | xml save doctype
+java.lang.String XML_SEARCHES_DOCTYPE | xml searches doctype
+java.util.AbstractMap<java.io.File,edu.rice.cs.drjava.model.OpenDefinitionsDocument> _documentsRepos | documents repos
+java.util.ArrayList alDockingViews | al docking views
+java.util.Collection unmodifiableDocuments | unmodifiable documents
+java.util.HashMap<edu.rice.cs.drjava.model.OpenDefinitionsDocument,javax.swing.tree.DefaultMutableTreeNode> _docToTreeNode | doc to tree node
+java.util.HashMap<ItemT,edu.rice.cs.util.docnavigation.LeafNode<ItemT>> _doc2node | doc 2 node
+java.util.HashMap<java.io.File,edu.rice.cs.drjava.model.OpenDefinitionsDocument> docs | docs
+java.util.LinkedList<edu.rice.cs.drjava.model.OpenDefinitionsDocument> _docs | docs
+java.util.List documents | documents
+java.util.List openedNodesDocumentStructure | opened nodes document structure
+java.util.Set<edu.rice.cs.drjava.model.OpenDefinitionsDocument> _documents | documents
+java.util.Set<java.net.URL> referencedDocuments | referenced documents
+javax.swing.Action documentation | documentation
+javax.swing.event.DocumentListener _documentListener | document listener
+javax.swing.event.DocumentListener _enclosingFileDocumentListener | enclosing file document listener
+javax.swing.event.DocumentListener _workDirDocumentListener | work dir document listener
+javax.swing.ImageIcon dirtyDocumentIcon | dirty document icon
+javax.swing.ImageIcon docIcon | doc icon
+javax.swing.ImageIcon documentIcon | document icon
+javax.swing.JCheckBox _searchAllDocuments | search all documents
+javax.swing.JEditorPane _contentsDocPane | contents doc pane
+javax.swing.JEditorPane _mainDocPane | main doc pane
+javax.swing.JLabel jLabelTemplateForNewDocs | j label template for new docs
+javax.swing.JMenuItem jMenuItemNewDocument | j menu item new document
+javax.swing.JPopupMenu jPopupMenuDocumentStructure | j popup menu document structure
+javax.swing.JPopupMenu jPopupMenuDocumentStructureBand | j popup menu document structure band
+javax.swing.JPopupMenu jPopupMenuDocumentStructureGroup | j popup menu document structure group
+javax.swing.JTextField _mainDocumentSelector | main document selector
+javax.swing.JTree jTreeDocument | j tree document
+javax.swing.text.Document _doc | doc
+javax.swing.text.Document lastDoc | last doc
+javax.swing.text.StyledDocument _commandEnclosingFileLineDoc | command enclosing file line doc
+javax.swing.text.StyledDocument _commandLineDoc | command line doc
+javax.swing.text.StyledDocument _commandWorkDirLineDoc | command work dir line doc
+javax.xml.parsers.DocumentBuilder documentBuilder | document builder
+net.n3.nanoxml.IXMLElement document | document
+net.n3.nanoxml.XMLElement document | document
+net.sourceforge.ganttproject.document.Document document | document
+net.sourceforge.ganttproject.document.DocumentManager myDocumentManager | my document manager
+net.sourceforge.ganttproject.document.Document myDefaultDocument | my default document
+net.sourceforge.ganttproject.document.Document myDocumentAfter | my document after
+net.sourceforge.ganttproject.document.Document myDocumentBefore | my document before
+net.sourceforge.ganttproject.document.Document myPhysicalDocument | my physical document
+net.sourceforge.ganttproject.document.Document projectDocument | project document
+net.sourceforge.ganttproject.document.DocumentsMRU documentsMRU | documents mru
+org.gudy.azureus2.pluginsimpl.local.utils.xml.simpleparser.SimpleXMLParserDocumentImpl document | document
+org.syntax.jedit.JEditTextArea.DocumentHandler documentHandler | document handler
+org.syntax.jedit.SyntaxDocument document | document
+org.w3c.dom.Document _document | document
+org.w3c.dom.Document document | document
+thePackage.JHTML _htmlDocument | html document
+thePackage.JHTML mDoc | m doc

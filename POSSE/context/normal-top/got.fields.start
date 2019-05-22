@@ -1,0 +1,6 @@
+boolean gotBrowserStyle | got browser style
+boolean got_extended_use | got extended use
+boolean gotFocus | got focus
+boolean got_header | got header
+boolean got_length | got length
+boolean gotPavementBonus | got pavement bonus

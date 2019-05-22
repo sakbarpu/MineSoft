@@ -1,0 +1,16 @@
+FindResult _findWrapped(QOpenDefinitionsDocument;IIZ) | find wrapped
+int[] findModified([QObject;[QObject;QObject;QSessionImplementor;) | find modified
+int[] findModified([QStandardProperty;[QObject;[QObject;[[ZZQSessionImplementor;) | find modified
+int findUnescaped(QString;CI) | find unescaped
+long getTotalFindNodesReceived() | get total find nodes received
+long getTotalFindValuesReceived() | get total find values received
+void findAllUnused(QIBoard;IQHashSet;QHashSet;QIHex;QHashMap;) | find all unused
+void findNodeFailed() | find node failed
+void findNodeReceived() | find node received
+void findValueFailed() | find value failed
+void findValueReceived() | find value received
+void jButtonCancelFindActionPerformed(Qjava.awt.event.ActionEvent;) | j button cancel find action performed
+void jButtonFindActionPerformed(Qjava.awt.event.ActionEvent;) | j button find action performed
+void jButtonFindImageActionPerformed(Qjava.awt.event.ActionEvent;) | j button find image action performed
+void setFindClubEnabled(Z) | set find club enabled
+void setFireFindClubEnabled(Z) | set fire find club enabled

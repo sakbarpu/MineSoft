@@ -1,0 +1,10 @@
+Object assembleCacheEntry(QCacheEntry;QSerializable;QEntityPersister;QLoadEvent;) | assemble cache entry
+Object[] assemble(QObject;QSerializable;QEntityPersister;QInterceptor;QEventSource;) | assemble
+Object assemble(QSerializable;QObject;) | assemble
+Object[] assemble([QSerializable;QObject;QSerializable;QEntityPersister;QInterceptor;QEventSource;) | assemble
+Object assemble(QSerializable;QSessionImplementor;QObject;) | assemble
+Object[] assemble([QSerializable;[QType;QSessionImplementor;QObject;) | assemble
+Serializable assembleId(QSerializable;QSessionImplementor;) | assemble id
+void assemble(QPersistentCollection;QCollectionPersister;QObject;) | assemble
+void beforeAssemble(QSerializable;QSessionImplementor;) | before assemble
+void beforeAssemble([QSerializable;[QType;QSessionImplementor;) | before assemble

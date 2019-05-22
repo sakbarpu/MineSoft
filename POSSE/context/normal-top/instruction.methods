@@ -1,0 +1,19 @@
+boolean removeProcessingInstruction(QString;) | remove processing instruction
+Element addProcessingInstruction(QString;QMap;) | add processing instruction
+Element addProcessingInstruction(QString;QString;) | add processing instruction
+int getInstructionObserverThreshold() | get instruction observer threshold
+List processingInstructions() | processing instructions
+List processingInstructions(QString;) | processing instructions
+OPT_Instruction firstInstructionInCodeOrder() | first instruction in code order
+ProcessingInstruction processingInstruction(QString;) | processing instruction
+String getInstruction() | get instruction
+void addInstructionCount(QContext;QCallFrame;I) | add instruction count
+void newProcessingInstruction(QString;QReader;) | new processing instruction
+void observeInstructionCount(I) | observe instruction count
+void observeInstructionCount(QContext;I) | observe instruction count
+void processingInstruction(QString;QString;) | processing instruction
+void processingInstruction(String target, String data) | processing instruction
+void setInstructionObserverThreshold(I) | set instruction observer threshold
+void setInstruction(QString;) | set instruction
+void setProcessingInstructions(QList;) | set processing instructions
+void visitLookUpSwitchInstruction(ClassFile classFile, MethodInfo methodInfo, CodeAttrInfo codeAttrInfo, int offset, LookUpSwitchInstruction lookUpSwitchInstruction) | visit look up switch instruction

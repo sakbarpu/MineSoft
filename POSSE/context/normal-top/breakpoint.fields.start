@@ -1,0 +1,4 @@
+edu.rice.cs.drjava.model.ConcreteRegionManager<edu.rice.cs.drjava.model.debug.Breakpoint> _breakpointManager | breakpoint manager
+edu.rice.cs.drjava.project.ProjectFileParser.BreakpointListVisitor breakpointListVisitor | breakpoint list visitor
+edu.rice.cs.drjava.ui.ReverseHighlighter.DrJavaHighlightPainter BREAKPOINT_PAINTER | breakpoint painter
+int breakpointReachedCount | breakpoint reached count

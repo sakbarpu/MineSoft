@@ -1,0 +1,668 @@
+AIUnit getBraveForSeekAndDestroy(QIndianSettlement;) | get br ave for seek and destroy
+Analyzer getAnalyzer() | get analyzer
+AnnotationType getAnnotationType(Class klass) | get annotation type
+AnnotationVisitor visitAnnotation(QString;Z) | visit annotation
+AnnotationVisitor visitParameterAnnotation(int parameter, String desc, boolean visible) | visit parameter annotation
+AnotherSubClass getAnotherSubClass() | get another sub class
+ArrayList getVariable(ClassifierAnalyser analyser, String name, int is_static, int is_final) | get variable
+ArrayList<QString;> getLookAndFeels() | get look and feels
+BitFlags and(QBitFlags;) | and
+boolean acquirePrinterJobAndPageFormat() | acquire printer job and page format
+boolean animate() | animate
+boolean announceGroupsContainsURL(QTOTorrent;QString;) | announce groups contains url
+boolean anyBiddingErrors(QComponent;QAuctionEntry;) | any bidding errors
+boolean anyEarlier(QAuctionEntry;) | any earlier
+boolean anyShellHaveStyle(I) | any shell have style
+boolean anySnipes() | any snipes
+boolean canDoAntiMech() | can do anti mech
+boolean checkAndLaunch(QClass;[QString;) | check and launch
+boolean checkEqualAndMinimumSize() | check equal and minimum size
+boolean checkForDuplicateKeyAndAdd(QString;QString;Z) | check for duplicate key and add
+boolean checkForValidNonInfantryAndOrProtomechs(I) | check for valid non infantry and or protomechs
+boolean _combineCurrentAndNextIfEscape(QTokenList.Iterator;) | combine current and next if escape
+boolean _combineCurrentAndNextIfFind(QString;QString;QTokenList.Iterator;) | combine current and next if find
+boolean containsAny([QBibtexEntry;) | contains any
+boolean extractAndLoadLibrary() | extract and load library
+boolean FayyadAndIranisMDL([D[[DDI) | fa yy ad and iran is mdl
+boolean getAnswer() | get answer
+boolean getAntialiasAll() | get antialias all
+boolean getAntialiasEdges() | get antialias edges
+Boolean getAnyAllValue(QSession;QObject;QSubQuery;) | get any all value
+boolean getCombineUsingAnd() | get combine using and
+boolean getEnableStatusAnimation() | get enable status animation
+boolean getIgnoreCommentsAndStrings() | get ignore comments and strings
+boolean getLoginAndRetry() | get login and retry
+boolean getRocAnalysis() | get roc analysis
+boolean hasActiveAngelECCM() | has active angel eccm
+boolean hasActiveAngelECM() | has active angel ecm
+boolean hasAncestor(QDirectory;) | has ancestor
+boolean hasAntds() | has an tds
+boolean hasAnyQueuedActions() | has any queued actions
+boolean isAffectedByAngelECM(QEntity;QCoords;QCoords;) | is affected by angel ecm
+boolean isAncestorOf(QFile;QFile;) | is ancestor of
+boolean isAncestor(QFile;QFile;) | is ancestor
+boolean isAnonymous() | is anonymous
+boolean isAnonymousClass(QClass<*>;) | is anonymous class
+boolean _isAnonymousInnerClass(II) | is anonymous inner class
+boolean isAnsi() | is ansi
+boolean isAnyCollectionProperty(QString;) | is any collection property
+boolean isAnyDeviceRefreshing() | is any device refreshing
+boolean isAnyType() | is any type
+boolean isAutoReleaseAndAllowManual() | is auto release and allow manual
+boolean isInitialAnchorRandom() | is initial anchor random
+boolean isInvisibleAndCanRefresh() | is invisible and can refresh
+boolean isNativeLookAndFeel() | is native look and feel
+boolean isProtectedByAngelECM(QEntity;QCoords;QCoords;) | is protected by angel ecm
+boolean isSupportedLookAndFeel() | is supported look and feel
+boolean isSupportedLookAndFeel(QJLookAndFeelInfo;) | is supported look and feel
+boolean isTargetValidForSeekAndDestroy(QUnit;QUnit;) | is target valid for seek and destroy
+boolean isUntitledAndEmpty() | is untitled and empty
+boolean loadLookAndFeel(QJLookAndFeelInfo;) | load look and feel
+boolean mergeAnnounceURLs(QTOTorrent;QTOTorrent;) | merge announce urls
+boolean openExternalFileAnyFormat(QMetaData;QString;QExternalFileType;) | open external file any format
+boolean readAndDisplay(QGPInputStream;) | read and display
+boolean replaceAnnounceURL(QTOTorrent;QURL;QURL;) | replace announce url
+boolean setAnnounceURL(QURL;) | set announce url
+boolean setCommentAndFormatLinks(QControl;QString;) | set comment and format links
+boolean setLookAndFeel() | set look and feel
+boolean setLookAndFeel(QString;) | set look and feel
+boolean supportsANSI92EntryLevelSQL() | supports ansi 92 entry level sql
+boolean supportsANSI92FullSQL() | supports ansi 92 full sql
+boolean supportsANSI92IntermediateSQL() | supports ansi 92 intermediate sql
+boolean supportsDataDefinitionAndDataManipulationTransactions() | supports data definition and data manipulation transactions
+Boolean testAnyAllCondition(QSession;QObject;) | test any all condition
+boolean useAntiAliasing() | use anti aliasing
+boolean waitForRegistrationAndSynchronization(String ticket, int timeout) | wait for registration and synchronization
+byte[] getAnonymousPeerId(QString;I) | get anonymous peer id
+byte[] getAnsiHash([B) | get ansi hash
+byte[] signAndInsert(QMap;QString;) | sign and insert
+Callable getElemFunctionAndThis(QObject;QObject;QContext;) | get elem function and this
+Callable getNameFunctionAndThis(QString;QContext;QScriptable;) | get name function and this
+Callable getPropFunctionAndThis(QObject;QString;QContext;) | get prop function and this
+Callable getValueFunctionAndThis(QObject;QContext;) | get value function and this
+Class<*> anonClass() | anon class
+Color getAntiColor1(QColor;) | get anti color 1
+Color getAntiColor2(QColor;) | get anti color 2
+ControllerState getDragAndDropState() | get drag and drop state
+CustomPropertyDefinition decodeTypeAndDefaultValue(QString;QString;) | decode type and default value
+Date getOffsetAnchor() | get offset anchor
+DockPosition getAnchorControlPosition() | get anchor control position
+double angle(DDDD) | angle
+double calcAngularWidth(QNodeItem;I) | calc angular width
+double evaluateModelOnceAndRecordPrediction([DQInstance;) | evaluate model once and record prediction
+double evaluateModelOnceAndRecordPrediction(QClassifier;QInstance;) | evaluate model once and record prediction
+double[] findNumericSplitpointAndLS(QInstances;I) | find numeric split point and ls
+double getAngle() | get angle
+double[][] minsAndMaxs(QInstances;[[DI) | mins and maxs
+double pointToAngle(QRectangle2D.Double;QPoint2D.Double;) | point to angle
+double pointToAngle(QRectangle;QPoint;) | point to angle
+DownloadAnnounceResult getLastAnnounceResult() | get last announce result
+Expression AndExpression() | and expression
+Expression parseAllAnyPredicate() | parse all any predicate
+Expression readAnd() | read and
+FarragoSessionExecutableStmt prepareStmtImpl(FarragoSessionPreparingStmt stmt, SqlNode sqlNode, FarragoAllocationOwner owner, FarragoSessionAnalyzedSql analyzedSql) | prepare stmt impl
+File checkAndCreateFile(QString;) | check and create file
+File createAndSetDirectories() | create and set directories
+float getAngle() | get angle
+float getEndAngle() | get end angle
+float getStartAngle() | get start angle
+float getSteerAngle() | get steer angle
+FromElement createAndAddFromElement(QString;QString;QEntityPersister;QEntityType;QString;) | create and add from element
+GanttLookAndFeelInfo[] getInstalledLookAndFeels() | get installed look and feels
+GanttLookAndFeelInfo getLookAndFeel() | get look and feel
+GanttLookAndFeels getGanttLookAndFeels() | get gantt look and feels
+HashSet addGranteeAndRoles(QHashSet;) | add grantee and roles
+HashSet getGrantedClassNames(boolean andToPublic) | get granted class names
+Hashtable getFieldAndMethodsObjects(QScriptable;QObject;Z) | get field and methods objects
+HomePieceOfFurniture getWidthAndDepthResizedPieceOfFurnitureAt(FF) | get width and depth resized piece of furniture at
+HqlSqlWalker analyze(QHqlParser;QString;) | analyze
+HsqlException[] getAndClearWarnings() | get and clear warnings
+ImageIcon getAnimatedIcon() | get animated icon
+IndividualList getIndividualAndEntityEmailList(int userID, int startAT, int EndAt, String searchString, String sortColumn, int dbID) | get individual and entity email list
+int addAnnotation(AnnotationSet annotationSet, Set lookupSet, Region matchedRegion) | add annotation
+int[] analyzeGraphGrid(QTupleSet;) | analyze graph grid
+IntCharSet and(QIntCharSet;) | and
+int computeAndCompareDistances2([B[B[B) | compute and compare distances 2
+int computeAndCompareDistances([B[B[B) | compute and compare distances
+Integer getAngleInDegrees() | get angle in degrees
+Integer getRoomSideAngle(QRoom;I) | get room side angle
+Integer getWallAngle(QWall;) | get wall angle
+Integer getWallAngle(QWall;F) | get wall angle
+int getAnchorOffset() | get anchor offset
+int[] getAndMarkBlocks(QPEPeer;IZ) | get and mark blocks
+int getAndRemoveElement() | get and remove element
+int getAndResetNumLinesChangedAfter() | get and reset num lines changed after
+int getAngelECMRange() | get angel ecm range
+int getAnimationDelay(QString;) | get animation delay
+int getAnnounceCachePeerThreshold() | get announce cache peer threshold
+int getAnnounceCachePeriod() | get announce cache period
+int _getAnonymousInnerClassIndex(I) | get anonymous inner class index
+int getAntiAlias(FZFZFF) | get anti alias
+int getAttributeDefaultValueType(String name, String aname) | get attribute default value type
+int getCurrentAnimationIndex([QImage;) | get current animation index
+int getDataAndProtocolReceiveRate() | get data and protocol receive rate
+int getDataAndProtocolSendRate() | get data and protocol send rate
+int getEnemyAngelECCMFields(QEntity;QCoords;QCoords;) | get enemy angel eccm fields
+int getFiringAngle(QCoords;IQCoords;) | get firing angle
+int getFriendlyAngelECCMFields(QEntity;QCoords;QCoords;) | get friendly angel eccm fields
+int getNbIpsBlockedAndLoggable() | get nb ips blocked and loggable
+int getNumAntds() | get num an tds
+int getParamAndVarCount() | get param and var count
+int getUniqueAnnounce() | get unique announce
+int getUnitSeekAndDestroyMissionValue(QUnit;QTile;I) | get unit seek and destroy mission value
+int getWeaponsAndEquipmentCost() | get weapons and equipment cost
+int indexGradientAntiAlias(FF) | index gradient anti alias
+IntIterator getAndIterator(QTable;QAndPredicate;) | get and iterator
+int padAndAppend(QStringBuffer;QString;II) | pad and append
+int readAndXWireFormat([BI) | read and x wire format
+int shellExecuteAndWait(QString;QString;) | shell execute and wait
+int writeAndXWireFormat([BI) | write and x wire format
+IPRange createAndAddRange(QString;QString;QString;Z) | create and add range
+IssuerAndSerialNumber getIssuerAndSerialNumber() | get issuer and serial number
+JAPConfAnon getAnonModule() | get anon module
+java.lang.String getAnchorNameExpression() | get anchor name expression
+java.lang.String getHyperlinkAnchorExpression() | get hyperlink anchor expression
+java.lang.String getLookAndFeelPath() | get look and feel path
+java.util.Vector getLookAndFeelList() | get look and feel list
+JExpression analyse(CExpressionContext context) | analyse
+JLookAndFeelInfo getLookAndFeelInfo() | get look and feel info
+JLookAndFeelInfo getLookAndFeel(QString;QString;) | get look and feel
+JLookAndFeelManager getLookAndFeelManager() | get look and feel manager
+JournalTemplate findByG_S_PrevAndNext(long id, long groupId, String structureId, OrderByComparator obc) | find by g s prev and next
+JPanel createTextFieldAndListPanel(QString;QJTextField;QJList;) | create text field and list panel
+Key[] createAndStoreKeys(QString;) | create and store keys
+List announceGroupsToList(QTOTorrent;) | announce groups to list
+ListConfigurationVO getForUserByTypeAndName(Type type, String name, UserVO user) | get for user by type and name
+List doQueryAndInitializeNonLazyCollections(QSessionImplementor;QQueryParameters;Z) | do query and initialize non lazy collections
+List findByCreateTimeAndPriority(Integer subj, long begin, long end, int priority, PageInfo pageInfo) | find by create time and priority
+List getAnnotatedAttributes() | get annotated attributes
+List<String> getAnnotationVRs() | get annotation v rs
+LogicalExpression and(QCriterion;QCriterion;) | and
+long getAnnounceCount() | get announce count
+long getAnnounceRetryInterval(QTRTrackerServerTorrentImpl;) | get announce retry interval
+long getAnnounceTime() | get announce time
+long getAverageAnnounceCount() | get average announce count
+long getMinAnnounceRetryInterval() | get min announce retry interval
+long getSeedAnnounceIntervalMultiplier() | get seed announce interval multiplier
+Long[] getSizeAndCount(QFile;) | get size and count
+Map exportAnnounceToMap(QString;QHashMap;QTRTrackerServerPeerImpl;ZIJJZBBQDHTNetworkPosition;) | export announce to map
+Map verifyAndExtract([B[B) | verify and extract
+MiscType createCLAngelECM() | create cl angel ecm
+MiscType createISAngelECM() | create is angel ecm
+MiscType createISTHBAngelECM() | create isthb angel ecm
+net.infonode.docking.View addViewAndPlaceIt(QIView;) | add view and place it
+Node andExpr(Z) | and expr
+Node bitAndExpr(Z) | bit and expr
+NodeItem ancestor(QNodeItem;QNodeItem;QNodeItem;) | ancestor
+NoosToolWindowBar getBar(ToolWindowAnchor anchor) | get bar
+Object getAnyLessThan(J) | get any less than
+Object getAnything() | get anything
+Object[] handleAnnounceAndScrape(QString;QPRUDPPacketRequest;I) | handle announce and scrape
+Object invokeAndWait() | invoke and wait
+Object lockAndLoad(QLoadEvent;QEntityPersister;QEntityKey;QLoadEventListener.LoadType;QSessionImplementor;) | lock and load
+Object resolveAny(QString;QSerializable;QSessionImplementor;) | resolve any
+Object unproxyAndReassociate(QObject;) | unproxy and reassociate
+Operation getAntiOperation(QOperation;) | get anti operation
+Pair<QInteger;QInteger;> getOffsetAndLength(QString;IIII) | get offset and length
+ParsedElementAnnotation makeElementAnnotation() | make element annotation
+Point2D.Double angleToPoint(QRectangle2D.Double;D) | angle to point
+Point2D.Double getAnchor() | get anchor
+Point2D.Double ovalAngleToPoint(QRectangle2D.Double;D) | oval angle to point
+Point2D getLayoutAnchor() | get layout anchor
+Point angleToPoint(QRectangle;D) | angle to point
+Point ovalAngleToPoint(QRectangle;D) | oval angle to point
+PollQuestionAnswer getPollQuestionAnswer(long id) | get poll question answer
+Properties getAnonymizedJajukProperties() | get anonymized jajuk properties
+Properties getAnonymizedSystemProperties() | get anonymized system properties
+PRUDPPacketHandlerRequestImpl sendAndReceive(QPasswordAuthentication;QPRUDPPacket;QInetSocketAddress;QPRUDPPacketReceiver;JI) | send and receive
+PRUDPPacket sendAndReceive(QPasswordAuthentication;QPRUDPPacket;QInetSocketAddress;) | send and receive
+PRUDPPacket sendAndReceive(QPasswordAuthentication;QPRUDPPacket;QInetSocketAddress;J) | send and receive
+PRUDPPacket sendAndReceive(QPasswordAuthentication;QPRUDPPacket;QInetSocketAddress;JI) | send and receive
+PRUDPPacket sendAndReceive(QPRUDPPacket;QInetSocketAddress;) | send and receive
+Rectangle getAnimationArea() | get animation area
+Rectangle getDirtyAnimationArea() | get dirty animation area
+REMatch getMatchImpl(CharIndexed input, int anchor, int eflags, StringBuffer buffer) | get match impl
+ResizedImageInfo loadAndResizeImage(QFile;IIF) | load and resize image
+Result getHighestMeshIndexWithAnyPing() | get highest mesh index with any ping
+Result[] searchAndMap([QSearchParameter;QMap;IIQString;QResultListener;) | search and map
+Serializable executeAndExtract(QPreparedStatement;) | execute and extract
+Shell findAnyShell() | find any shell
+short addNameAndType(QString;QString;) | add name and type
+startAndEndTimes getStartAndEndTimesForOnTheFlyAnnotation(startAndEndTimes times) | get start and end times for on the fly annotation
+String and(QString;QString;QObject;) | and
+String announceHTTP([QURL;QURL;QByteArrayOutputStream;) | announce http
+String announceUDP(QURL;QByteArrayOutputStream;Z) | announce udp
+String anyResponse([[B) | any response
+StringBuffer getAllCookiesAndPage(QString;) | get all cookies and page
+StringBuffer getAllCookiesAndPage(QString;QString;) | get all cookies and page
+StringBuffer getAllCookiesAndPage(QString;QString;Z) | get all cookies and page
+StringBuffer getAllCookiesAndPage(QString;QString;ZQList;) | get all cookies and page
+String _escapeQuotesAndBackslashes(QString;) | escape quotes and backslashes
+String firstAuthorVonAndLast(QString;) | first author von and last
+String formatSnipeAndBid(QAuctionEntry;) | format snipe and bid
+String getAnchorItem() | get anchor item
+String getAnchorNameExpression() | get anchor name expression
+String getAnimatedIconPath() | get animated icon path
+String getAnnotationPropertyValue(String repositoryID, String theResourceURI, String theAnnotationPropertyURI, String language) | get annotation property value
+String getAnswer() | get answer
+String getAnthem() | get an them
+String getAny() | get any
+String getAuthorsFirstFirstAnds() | get authors first first ands
+String getAuthorsLastFirstAnds(Z) | get authors last first ands
+String getAuthorsLastFirstFirstLastAnds(Z) | get authors last first first last ands
+String getBirthAndDeath() | get birth and death
+String getDateAndTime() | get date and time
+String getDefaultLookAndFeel() | get default look and feel
+String getFieldAndFormat(QString;QBibtexEntry;QBibtexDatabase;) | get field and format
+String getFullNameAndLoginHTML() | get full name and login html
+String getHyperlinkAnchorExpression() | get hyperlink anchor expression
+String[] getInstalledLookAndFeels() | get installed look and feels
+String getInternalAndArmor() | get internal and armor
+String getLookAndFeel() | get look and feel
+String[] getNameAndVersion(QFile;) | get name and version
+String getNestedExceptionMessageAndStack(QThrowable;) | get nested exception message and stack
+String[] getParamAndVarNames() | get param and var names
+String getSelectedResponseAnnotationSetName() | get selected response annotation set name
+String getSystemAndDrJavaInfo() | get system and dr java info
+String getSystemLookAndFeel() | get system look and feel
+String getTimeAndDate() | get time and date
+String getTitleAndComment(QAuctionEntry;) | get title and comment
+String hashAnnounceURL(QURL;) | hash announce url
+String initialAnchorRandomTipText() | initial anchor random tip text
+String injectCatalogAndSchema(QString;QString;QString;) | inject catalog and schema
+String instancesAndWeights() | instances and weights
+String makePeerIDReadableAndUsable([B) | make peer id readable and usable
+String moveAndToBeginning(QString;) | move and to beginning
+String numAntdsTipText() | num an tds tip text
+String parseServerAndShare(QString;) | parse server and share
+String rocAnalysisTipText() | roc analysis tip text
+String saveHTML_escapeUnicodeAndSpecialCharacters(QString;) | save html escape unicode and special characters
+String saveRFT_escapeUnicodeAndSpecialCharacters(QString;) | save rft escape unicode and special characters
+String skipAndRecordWhitespace(I) | skip and record whitespace
+String sortWordsAndRemoveDuplicates(QString;) | sort words and remove duplicates
+String trimLeadingCommaAndSpaces(QString;) | trim leading comma and spaces
+String writeEndTag(Annotation annot) | write end tag
+TableCellRenderer getAngleRenderer() | get angle renderer
+TAIResult negotiateValidateandEstablishTrust(HttpServletRequest req, HttpServletResponse resp) | negotiate validate and establish trust
+TempNode getFurthestFromMeanAnchor(II) | get furthest from mean anchor
+TempNode getRandomAnchor(II) | get random anchor
+TorrentAnnounceURLList getAnnounceURLList() | get announce url list
+TOTorrentAnnounceURLGroup getAnnounceURLGroup() | get announce url group
+TOTorrentAnnounceURLSet createAnnounceURLSet([QURL;) | create announce url set
+TOTorrentAnnounceURLSet[] getAnnounceURLSets() | get announce url sets
+TreePath getAnchorSelectionPath() | get anchor selection path
+TRTrackerAnnouncer createAnnouncer() | create announcer
+TwoAndMoreOperandsBoolGate createTwoAndMoreOperandsBoolGate() | create two and more operands bool gate
+Type any(QType;QType;) | any
+URL anonymityTransform(QURL;) | anonymity transform
+URL getAnnounceURL() | get announce url
+URL[] getAnnounceURLs() | get announce urls
+URL[][] getAnnounceURLs() | get announce urls
+void abortInvalidAndOneTimeMissions() | abort invalid and one time missions
+void addAnalysisType(FeatureProperty fp, String analysis) | add analysis type
+void addAncestorListener() | add ancestor listener
+void addAncestorListener(QCanvas3D;Z) | add ancestor listener
+void addAndCondition(QExpression;) | add and condition
+void addAndFireListener(QMessageTextListener;) | add and fire listener
+void addAndFireParameterListener(QString;QParameterListener;) | add and fire parameter listener
+void addAndFireParameterListeners([QString;QParameterListener;) | add and fire parameter listeners
+void addAndFirePropertyChangeListener(QNetworkAdminPropertyChangeListener;) | add and fire property change listener
+void addAndUpdate(QRule;) | add and update
+void addAnimationListener(QAnimationListener;) | add animation listener
+void addAnnounce(JJJZ) | add announce
+void addExtension(String anExtension) | add extension
+void addListenerAndChildren(QComposite;IQListener;) | add listener and children
+void addLookAndFeel(QGanttLookAndFeelInfo;) | add look and feel
+void addMenuAndNonTextChildren(QComposite;QMenu;) | add menu and non text children
+void addPathAliasAndJoin(QString;QString;QJoinSequence;) | add path alias and join
+void addTorrentAnnounceURLSet([QURL;) | add torrent announce url set
+void addTrackerAnnounce(QTOTorrent;) | add tracker announce
+void adjustImageOffsetY(int anInt) | adjust image offset y
+void analyseDump(QFile;) | analyse dump
+void analyse(QByteBuffer;I) | analyse
+void analyseTrackerResponse(QTRTrackerAnnouncerResponse;) | analyse tracker response
+void analyzePixels() | analyze pixels
+void and() | and
+void andExpression() | and expression
+void and(QCapabilities;) | and
+void aniadeRegistro(Vector _vector) | aniade registro
+void animate() | animate
+void animateFade(I) | animate fade
+void animatePanAbs(DDJ) | animate pan abs
+void animatePanAndZoomToAbs(QPoint2D;DJ) | animate pan and zoom to abs
+void animatePanAndZoomTo(QPoint2D;DJ) | animate pan and zoom to
+void animatePan(DDJ) | animate pan
+void animatePanToAbs(QPoint2D;J) | animate pan to abs
+void animatePanTo(QPoint2D;J) | animate pan to
+void animateScaling(QDimension;QDimension;I) | animate scaling
+void animateZoomAbs(QPoint2D;DJ) | animate zoom abs
+void animateZoom(QPoint2D;DJ) | animate zoom
+void animationReady() | animation ready
+void AnimationThread() | animation thread
+void anInternalFrameListener() | an internal frame listener
+void announceAll() | announce all
+void announceAll(Z) | announce all
+void announceCacheEntry(QMap;ZB) | announce cache entry
+void announce(Container player, String args) | announce
+void announceGroupsInsertFirst(QTOTorrent;QString;) | announce groups insert first
+void announceGroupsInsertFirst(QTOTorrent;[QURL;) | announce groups insert first
+void announceGroupsInsertFirst(QTOTorrent;QURL;) | announce groups insert first
+void announceGroupsInsertLast(QTOTorrent;[QURL;) | announce groups insert last
+void announceGroupsSetFirst(QTOTorrent;QString;) | announce groups set first
+void announceNewVersion() | announce new version
+void announce(QString;[B[BI) | announce
+void announceResult(QDownloadAnnounceResult;) | announce result
+void announceResult(QTRTrackerAnnouncerResponse;) | announce result
+void announceTrackerResultsToListener(QDownloadTrackerListener;) | announce tracker results to listener
+void anonContact(QDHTTransportContact;) | anon contact
+void anonValue(QDHTTransportValue;) | anon value
+void AnonymousInnerClass(II) | anonymous inner class
+void AnonymousInnerClassIndex(I) | anonymous inner class index
+void anotherConfig() | another config
+void anotherSearch(QString;) | another search
+void anotherSearch(QString;Z) | another search
+void answerExecution() | answer execution
+void Antd(QAttribute;) | an td
+void Antd(QAttribute;[D) | an td
+void Antd(QAttribute;DDD) | an td
+void antiAliasFillRaster([IIIIIII) | anti alias fill raster
+void anyEvent() | any event
+void AnyFileFilter() | any file filter
+void applyMissingAndOutlierTreatments([D) | apply missing and outlier treatments
+void assertCoordinatesAndAnglesEqualCameraLocationAndAngles(FFFFFQCamera;) | assert coordinates and angles equal camera location and angles
+void assertLocationAndOrientationEqualPiece(FFFQHomePieceOfFurniture;) | assert location and orientation equal piece
+void bindAny(QElement;QAny;ZQMappings;) | bind any
+void bitAnd() | bit and
+void bringAnStart(QString;Z) | bring an start
+void cacheStatsAndCleaner() | cache stats and cleaner
+void calcAngularBounds(QNodeItem;) | calc angular bounds
+void caseAOomediatorAnykeyword(AOomediatorAnykeyword node) | case a oomediator anykeyword
+void changeAntialias(QString;) | change antialias
+void changeLookAndFeel(QGanttLookAndFeelInfo;) | change look and feel
+void changeToAnotherMap(QString;) | change to another map
+void CharArrayAndFlag(I[CZ) | char array and flag
+void checkAndSwapLog() | check and swap log
+void checkAndUpdate(II) | check and update
+void checkBuddiesAndRepublish() | check buddies and republish
+void checkDumpsAndNatives() | check dumps and natives
+void checkViewTranslationAndContent(QString;[QString;QString;QString;QObject;) | check view translation and content
+void cleanAndReport() | clean and report
+void cleanupAnyOrphanedSession(QSessionFactory;) | cleanup any orphaned session
+void clearTemps_and_EdgesFromNodes() | clear temps and edges from nodes
+void closeAndRemoveAllPeers(QString;Z) | close and remove all peers
+void closeAndRemovePeer(QPEPeerTransport;QString;Z) | close and remove peer
+void commitAndResetAutoCommit() | commit and reset auto commit
+void configureAndLoadDrJavaRoot([QString;) | configure and load dr java root
+void createAnchorsHierarchy(QVector;III) | create anchors hierarchy
+void createAndSetInnerQuery(QCriteriaQuery;QSessionFactoryImplementor;) | create and set inner query
+void createAndShowGUI() | create and show gui
+void CreateLightIntensitySliderAndLabel() | create light intensity slider and label
+void DebugStartAndStopListener() | debug start and stop listener
+void decodeArmorAndInternals(QMech;IQString;) | decode armor and internals
+void deleteNewAndOldFiles() | delete new and old files
+void diagLoggerLogAndOut(QString;Z) | diag logger log and out
+void diagLoggerLogAndOut(QThrowable;) | diag logger log and out
+void disableApplyAndOk() | disable apply and ok
+void disableMenuItemsDuringDragAndDrop(QView;QJMenuBar;) | disable menu items during drag and drop
+void displayAdditionsAndImprovements(QGraphics2D;QMap;QTile;II) | display additions and improvements
+void displayMessageAndExit(QString;) | display message and exit
+void doMoveAndShowItems([QSelectable;FF) | do move and show items
+void doPasswordCheckAndDecryptNode(QEncryptedMindMapNode;) | do password check and decrypt node
+void drawBlockAndCopy([QTileBlock;QWritableRaster;) | draw block and copy
+void _dumpVariablesIntoInterpreterAndSwitch() | dump variables into interpreter and switch
+void enableApplyAndOk() | enable apply and ok
+void fileSavedAndReviewNext(QProject;QFile;QObject;) | file saved and review next
+void filterAndSortFurniture() | filter and sort furniture
+void findNextAndCenter() | find next and center
+void finishedAnimation() | finished animation
+void finishLoadAndDisplay() | finish load and display
+void gatherLeavesAndSetParentsStyle(QMindMapNode;) | gather leaves and set parents style
+void gatherLeavesAndSetStyle(QMindMapNode;) | gather leaves and set style
+void generateCallFunAndThis(QNode;) | generate call fun and this
+void generateFunctionAndThisObj(QNode;QNode;) | generate function and this obj
+void generateStaticPotentialSplittersAndNumericIndices() | generate static potential splitters and numeric indices
+void getAndMarkBlock(QPEPeer;I) | get and mark block
+void gotoNodesAndClose(I[I) | goto nodes and close
+void goToRegionAndHighlight(QIDocumentRegion;) | go to region and highlight
+void handleAndSendReply(QBufferedInputStream;) | handle and send reply
+void handleAnnounce(QDownload;QDownloadAnnounceResult;) | handle announce
+void handleAnnounceScrapeStatus(QDownload;QString;) | handle announce scrape status
+void helpTestStylesListContentAndReset() | help test styles list content and reset
+void hideValueAndType() | hide value and type
+void incrementAndSendGameRound() | increment and send game round
+void initializeAndAddFromElement(QFromElement;QString;QString;QEntityPersister;QEntityType;QString;) | initialize and add from element
+void initializeEntitiesAndCollections(QList;QObject;QSessionImplementor;Z) | initialize entities and collections
+void initLookAndFeel() | init look and feel
+void IntAndString(IQString;) | int and string
+void invalidateAndRefresh(QTableCell;) | invalidate and refresh
+void invalidatePlanBoundsAndRevalidate() | invalidate plan bounds and revalidate
+void invokeAndWait(QRunnable;) | invoke and wait
+void listToAnnounceGroups(QList;QTOTorrent;) | list to announce groups
+void loadAnimation(QFile;Z) | load animation
+void loadDefaultLookAndFeel() | load default look and feel
+void logAndClearWarnings(QConnection;) | log and clear warnings
+void logAndOut(QString;) | log and out
+void logAndOut(QString;Z) | log and out
+void logAndOut(QThrowable;) | log and out
+void logMessageAndPopup(QString;) | log message and popup
+void logMessageAndPopup(QString;QThrowable;) | log message and popup
+void LookAndFeelListener(QJFrame;) | look and feel listener
+void markAnyTypeVariables([I) | mark any type variables
+void moveAndInsertRow(II) | move and insert row
+void moveAndShowSelectedItems(FF) | move and show selected items
+void NameAndVersion(QString;QVersionNumber;ZQFile;) | name and version
+void NatPMPUPnPWANConnection() | nat pmpu pn pw an connection
+void NominalAntd(QAttribute;) | nominal an td
+void NominalAntd(QAttribute;[D) | nominal an td
+void NominalAntd(QAttribute;DDD) | nominal an td
+void NumericAntd(QAttribute;) | numeric an td
+void NumericAntd(QAttribute;[D) | numeric an td
+void NumericAntd(QAttribute;DDD) | numeric an td
+void openAndScroll(QOpenDefinitionsDocument;IQString;Z) | open and scroll
+void openAndScroll(QOpenDefinitionsDocument;QLocation;Z) | open and scroll
+void OptionAntialiasAction(QController;) | option antialias action
+void outAEffectAnykeyword(AEffectAnykeyword node) | out a effect anykeyword
+void paintAngleFeddback(QGraphics2D;QPoint2D;QPoint2D;QPoint2D;FQColor;) | paint angle fed db ack
+void paintRoomsNameAndArea(QGraphics2D;QList<QSelectable;>;FQColor;QPaintMode;) | paint rooms name and area
+void panAndZoom(QPoint2D;DJ) | pan and zoom
+void PointWithAngleMagnetism(FFFFQLengthUnit;F) | point with angle magnetism
+void populateWeaponsAndEquipmentChoices() | populate weapons and equipment choices
+void postPieceOfFurnitureWidthAndDepthResize(QHomePieceOfFurniture;FFFFZ) | post piece of furniture width and depth resize
+void PrefixAndFile(QString;QFile;) | prefix and file
+void prepareAnyImplicitJoins(QDotNode;) | prepare any implicit joins
+void printUsageAndExit() | print usage and exit
+void readAndShow(QInputStream;) | read and show
+void readFactorsAndCovariates(QElement;QString;) | read factors and covariates
+void registerAndSetAsDefaultFactory(QRrdBackendFactory;) | register and set as default factory
+void registerAndShow(QString;QSidePaneComponent;) | register and show
+void removeAndCloseConnection(QTRNonBlockingServerProcessor;) | remove and close connection
+void RemoveGroupAndSubgroupsAction() | remove group and subgroups action
+void removeUselessSeparatorsAndEmptyMenus(QJComponent;) | remove useless separators and empty menus
+void requestTrackerAnnounce() | request tracker announce
+void requestTrackerAnnounce(Z) | request tracker announce
+void resolveAndCheckNAT() | resolve and check nat
+void rollbackAndResetAutoCommit() | rollback and reset auto commit
+void rollInitAndResolveTies() | roll init and resolve ties
+void rollInitAndResolveTies(QVector;QVector;) | roll init and resolve ties
+void rotY(float angle) | rot y
+void runFlowAnalyzes(QOptFunctionNode;[QNode;) | run flow analyzes
+void saveAndApply() | save and apply
+void saveAndCompress() | save and compress
+void saveAnimation() | save animation
+void saveAnimation(QFile;) | save animation
+void saveChangesAndReviewNext() | save changes and review next
+void saveToFileAndReviewNext(QFile;) | save to file and review next
+void scrollToDocumentAndOffset(QOpenDefinitionsDocument;IZ) | scroll to document and offset
+void scrollToDocumentAndOffset(QOpenDefinitionsDocument;IZZ) | scroll to document and offset
+void selectAndShowItems(QList<+QSelectable;>;) | select and show items
+void sendAndClose(QString;) | send and close
+void sendAndReceive(QDHTUDPPacketRequest;QInetSocketAddress;QDHTUDPPacketReceiver;JI) | send and receive
+void sendAndReceive(QPRUDPPacket;QInetSocketAddress;QPRUDPPacketReceiver;JI) | send and receive
+void sendAndWait(QElement;) | send and wait
+void sendAndWaitSafely(QElement;) | send and wait safely
+void setActivoAnchura(boolean activo) | set activo anchura
+void setAnalyzer(QAnalyzer;) | set analyzer
+void setAnchor() | set anchor
+void setAnchorControlPosition(QDockPosition;) | set anchor control position
+void setAnchorItem(QString;) | set anchor item
+void setAnchorNameExpression(Qjava.lang.String;) | set anchor name expression
+void setAnchorNameExpression(QString;) | set anchor name expression
+void setAnchorOffset(I) | set anchor offset
+void setAndUpdate(QString;) | set and update
+void setAngle(F) | set angle
+void setAngleFeedback(FFFFFF) | set angle feedback
+void setAngleInDegrees(QInteger;) | set angle in degrees
+void setAngleLabelsVisible(boolean visible) | set angle labels visible
+void setAngularBounds(DD) | set angular bounds
+void setAnimationAdapter(AnimationAdapter anad) | set animation adapter
+void _setAnimationState__AnimationStateSetR(long _pointer_, long animSet) | set animation state  animation state set r
+void setAnnounceDataProvider(QTRTrackerAnnouncerDataProvider;) | set announce data provider
+void setAnnounceResult(QDownloadAnnounceResult;) | set announce result
+void setAnnounceURL(QURL;) | set announce url
+void setAnnounceURLSets([QTOTorrentAnnounceURLSet;) | set announce url sets
+void setAnnounceURLs([QURL;) | set announce urls
+void setAnthem(QString;) | set an them
+void setAntialiasAll(Z) | set antialias all
+void setAntialiasEdges(Z) | set antialias edges
+void setAntiAliasing(Z) | set anti aliasing
+void setAzimuthAngle(BigDecimal new_azimuthAngle) | set azimuth angle
+void setBackAndForwardEnabledState() | set back and forward enabled state
+void setCombinedAnswer(String answer) | set combined answer
+void setDebugAndChildren(Z) | set debug and children
+void setDirAndPrefix(QString;QString;) | set dir and prefix
+void setFindAnyOccurrence() | set find any occurrence
+void setFunctionProtoAndParent(QBaseFunction;QScriptable;) | set function proto and parent
+void setGroupFontAndIcon(QJMenuItem;QAbstractGroup;) | set group font and icon
+void setHyperlinkAnchorExpression(Qjava.lang.String;) | set hyperlink anchor expression
+void setHyperlinkAnchorExpression(QString;) | set hyperlink anchor expression
+void setIgnoreCommentsAndStrings(Z) | set ignore comments and strings
+void setInitialAnchorRandom(Z) | set initial anchor random
+void setInstanceIDAndVersion(IB) | set instance id and version
+void setInterAnchorDistances(QVector;QTempNode;QVector;) | set inter anchor distances
+void setLayoutAnchor(QPoint2D;) | set layout anchor
+void setLinkAnchor(String key, String anchor) | set link anchor
+void setLocationAndSize(II) | set location and size
+void setLocationAndSize(QDimension;) | set location and size
+void setLoginAndRetry(Z) | set login and retry
+void setLookAndFeelInfo(QJLookAndFeelInfo;) | set look and feel info
+void setLookAndFeel(QGanttLookAndFeelInfo;) | set look and feel
+void setLookAndFeel(QString;) | set look and feel
+void setModelRotationAndSize([[FFFF) | set model rotation and size
+void setNameAndShortDescription(QActionType;QString;) | set name and short description
+void setNumAntds(I) | set num an tds
+void setObjectProtoAndParent(QScriptableObject;QScriptable;) | set object proto and parent
+void setOriginatorAndSender(QDHTTransportContact;) | set originator and sender
+void setPlatformLookAndFeel() | set platform look and feel
+void setPoolAttributeAndFlush(String attName, Object attValue) | set pool attribute and flush
+void setPositionAndScroll(I) | set position and scroll
+void setPropertyNameAndPath(QAST;) | set property name and path
+void setRocAnalysis(Z) | set roc analysis
+void setSelectedAniCheckbox(AniCheckbox box) | set selected ani checkbox
+void setSizeAndTorrent(J[QTOTorrent;) | set size and torrent
+void setTransormationConfigFileRef(String fileRef) | set tr ans or mat ion config file ref
+void setUniqueAnnounce(I) | set unique announce
+void setUnlessAntLike(String version) | set unless ant like
+void setupAndShowDialog() | setup and show dialog
+void showFileChooserAndOpen() | show file chooser and open
+void showRoomAngleFeedback(QRoom;I) | show room angle feedback
+void showWallAngleFeedback(QWall;) | show wall angle feedback
+void skipAnimation() | skip animation
+void sortAndRefresh() | sort and refresh
+void StartAndEndIndex(II) | start and end index
+void startAnimation() | start animation
+void stopAndQueue() | stop and queue
+void tabInAndAppendLine(String text, boolean includeNewline) | tab in and append line
+void testActiveAndInactive() | test active and inactive
+void testAddAndRemoveListeners() | test add and remove listeners
+void testAndedSubselects() | test anded subselects
+void testAndReconnect() | test and reconnect
+void testAnnotationsAfterDefinition() | test annotations after definition
+void testAnnotationsAfterOpenCurly() | test annotations after open curly
+void testAnonymousClassIndex() | test anonymous class index
+void testAnonymousInnerClass() | test anonymous inner class
+void testAnonymousInnerClassArg() | test anonymous inner class arg
+void testAnonymousInnerClassAssign() | test anonymous inner class assign
+void testAny() | test any
+void testAnyOccurrenceSearchIgnore() | test any occurrence search ignore
+void testColonInTernaryOpIgnoreWhitespaceAndComments() | test colon in ternary op ignore whitespace and comments
+void testCommandFinderAndEmptyStrings() | test command finder and empty strings
+void testCommandLineToLists_PipeAndSeq() | test command line to lists pipe and seq
+void testContentsAndReset() | test contents and reset
+void testDayAndHoursTimeFrameEvenBounds() | test day and hours time frame even bounds
+void testDayAndHoursTimeFrameUnevenBounds() | test day and hours time frame uneven bounds
+void testDeleteAndCombine() | test delete and combine
+void testDeleteAndCombine2() | test delete and combine 2
+void testDeleteAndCombine3() | test delete and combine 3
+void testDeleteAndMergeTwoGaps() | test delete and merge two gaps
+void testDeleteNewlineAndShadowBlockCommentStart() | test delete newline and shadow block comment start
+void testEntryEditorForFieldAnotherAutoCompleter() | test entry editor for field another auto completer
+void testFieldAndFormat() | test field and format
+void testFindNextAndFailIsOnMatch() | test find next and fail is on match
+void testFindWithNamedParametersAndTypes() | test find with named parameters and types
+void testGetAuthorsFirstFirstAnds() | test get authors first first ands
+void testGetAuthorsLastFirstAnds() | test get authors last first ands
+void testGetOffsetAndLength() | test get offset and length
+void testInsertBraceAndBreakBlockCommentStart() | test insert brace and break block comment start
+void testInsertBraceAndBreakLineComment() | test insert brace and break line comment
+void testInsertBraceAtStartAndEnd() | test insert brace at start and end
+void testInteractionsDefineAnonymousInnerClass() | test interactions define anonymous inner class
+void testInternalResourceViewResolverWithJstlAndContextParam() | test internal resource view resolver with jstl and context param
+void testLoadHistoryWithAndWithoutSemicolons() | test load history with and without semicolons
+void testLocalWorkingCopyAndCvsrootModuleAreMutuallyExclusive() | test local working copy and cvsroot module are mutually exclusive
+void testMakeLabelAndCheckLegalKeys() | test make label and check legal keys
+void testMakeLabelAndCheckLegalKeysAccentGrave() | test make label and check legal keys accent grave
+void testMonthAndDayFrameEvenBounds() | test month and day frame even bounds
+void testMonthAndDayFrameUnevenBounds() | test month and day frame uneven bounds
+void testMultipleAnnotation() | test multiple annotation
+void testMultipleReadersAndWriters() | test multiple readers and writers
+void testNewDocumentsInAndOutOfTheCache() | test new documents in and out of the cache
+void testNotInSameTableAndColumn() | test not in same table and column
+void testOldDocumentsInAndOutOfTheCache() | test old documents in and out of the cache
+void testPageSetupAndPrintPreview() | test page setup and print preview
+void testParenthesizedAnonymousInnerClass() | test parenthesized anonymous inner class
+void testPutGetAndResize() | test put get and resize
+void testReadAndWriteTempFile() | test read and write temp file
+void testSaveAndLoadConstructors() | test save and load constructors
+void testSaveAsExistsAndOpen() | test save as exists and open
+void testSaveClearAndLoadHistory() | test save clear and load history
+void testStartOfStmtIgnoreWhiteSpaceAndCommentsInBetween() | test start of stmt ignore white space and comments in between
+void testTokenizeAndStringify() | test tokenize and stringify
+void testUnsavedAndUnCompiledChanges() | test unsaved and un compiled changes
+void testUserFieldAndFormat() | test user field and format
+void testWriteAndReadLines() | test write and read lines
+void testWriteSingleUpdatesDCAndInfo() | test write single updates dc and info
+void testZoomAndAligment() | test zoom and aligment
+void textUndoAndRedoAfterMultipleLineCommentAndUncomment() | text undo and redo after multiple line comment and uncomment
+void textUndoAndRedoAfterMultipleLineIndent() | text undo and redo after multiple line indent
+void tileAnodine() | tile anodine
+void transformInvokevirtualsIntoPutAndGetfields(QClassFile;) | transform invokevirtuals into put and get fields
+void UnitMoveAnimationCanvasSwingTask(QUnit;QDirection;) | unit move animation canvas swing task
+void UnitMoveAnimationCanvasSwingTask(QUnit;QTile;) | unit move animation canvas swing task
+void UnitMoveAnimationCanvasSwingTask(QUnit;QTile;Z) | unit move animation canvas swing task
+void updateAnchor(QPoint2D.Double;) | update anchor
+void updateAndNotify(I) | update and notify
+void updateAntialiasMode() | update antialias mode
+void updateBackgroundColorAndTexture(QAppearance;QHome;) | update background color and texture
+void updateCutAndPasteMenu(QJReportFrame;) | update cut and paste menu
+void updateDefsForArgumentsAndFunction() | update defs for arguments and function
+void updateLookAndFeel() | update look and feel
+void updateShapeNamesAndWindowPanesTransparency(QScene;) | update shape names and window panes transparency
+void updateStepsAndLength(FFFFQUserPreferencesController;) | update steps and length
+void updateTrackerAnnounceInterval() | update tracker announce interval
+void updateTreeHeightsAndRelativeYOfAncestors(QNodeView;) | update tree heights and relative y of ancestors
+void updateTreeHeightsAndRelativeYOfDescendantsAndAncestors(QNodeView;) | update tree heights and relative y of descendants and ancestors
+void updateTreeHeightsAndRelativeYOfDescendants(QNodeView;) | update tree heights and relative y of descendants
+void updateTreeHeightsAndRelativeYOfWholeMap() | update tree heights and relative y of whole map
+void validateAndLoadValues(QMap;) | validate and load values
+void validateTestMethods(Class<? extends Annotation> annotation, boolean isStatic) | validate test methods
+void visitAncestors(QNodeItem;) | visit ancestors
+void visitConstantElementValue(Clazz clazz, Annotation annotation, ConstantElementValue constantElementValue) | visit constant element value
+void waitForAndSetNewQuestionId() | wait for and set new question id
+void writeAndHandoverBuffer(QDirectByteBuffer;J) | write and handover buffer
+void writeAndHandoverBuffers([QDirectByteBuffer;J) | write and handover buffers
+void XXXtestBreakpointsAndStepsInNonPublicClasses() | xxx test breakpoints and steps in non public classes
+void XXXtestMultiThreadedBreakpointsAndStep() | xxx test multi threaded breakpoints and step
+void XXXtestStartupAndShutdown() | xxx test startup and shutdown
+VuzeFile loadAndHandleVuzeFile(QString;I) | load and handle vu ze file
+XMLElement createAnotherElement() | create another element
+XmlObject getAnimationElement() | get animation element

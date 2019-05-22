@@ -1,0 +1,122 @@
+boolean isHandler(int type) | is handler
+boolean[] multiInstanceHandler() | multi instance handler
+boolean removeHandler(QString;) | remove handler
+boolean[] weightedInstancesHandler() | weighted instances handler
+BuddyPluginAZ2 getAZ2Handler() | get az 2 handler
+BuddyPluginBuddyMessageHandler getMessageHandler() | get message handler
+CapabilitiesHandler getHandler() | get handler
+CharacterEscapeHandler createEscapeHandler(QString;) | create escape handler
+ClientMessageHandler getHandler() | get handler
+ConnectionHandler getConnectionHandler() | get connection handler
+CryptoHandler getECCHandler() | get ecc handler
+DHTTransportRequestHandler getRequestHandler() | get request handler
+DHTUDPPacketHandler getHandler(QDHTTransportUDPImpl;QDHTUDPRequestHandler;) | get handler
+DHTUDPRequestHandler getRequestHandler() | get request handler
+DTDHandler getDTDHandler() | get dtd handler
+EventHandler getHandler() | get handler
+ExecuteStreamHandler createStreamHandler() | create stream handler
+FieldHandler getFieldHandler() | get field handler
+FileHandler getFileHandler() | get file handler
+GenericMessageHandler getHandler(QString;) | get handler
+InGameInputHandler getInGameInputHandler() | get in game input handler
+InputHandler getInputHandler() | get input handler
+InterpretResult.Visitor<QVoid;> resultHandler() | result handler
+int getExceptionHandler(QCallFrame;Z) | get exception handler
+MessageHandler getMessageHandler() | get message handler
+NetworkHandler getNetworkHandler() | get network handler
+OptionHandler getDefaultHandler() | get default handler
+OptionHandler getOptionHandler() | get option handler
+ParseErrorHandler getParseErrorHandler() | get parse error handler
+PreGameInputHandler getPreGameInputHandler() | get pre game input handler
+PRUDPPacketHandler getHandler() | get handler
+PRUDPPacketHandler getHandler(I) | get handler
+PRUDPPacketHandler getHandler(IQInetAddress;QPRUDPRequestHandler;) | get handler
+PRUDPPacketHandler getHandler(IQPRUDPRequestHandler;) | get handler
+PRUDPPacketHandler getPacketHandler() | get packet handler
+PRUDPReleasablePacketHandler getReleasableHandler(I) | get releasable handler
+PRUDPReleasablePacketHandler getReleasableHandler(IQPRUDPRequestHandler;) | get releasable handler
+PRUDPRequestHandler getRequestHandler() | get request handler
+SAXUnmarshallerHandler createUnmarshallerHandler(QLocator;) | create unmarshaller handler
+SQLDataHandler getDefaultHandler() | get default handler
+TagHandler getDefaultTagHandler() | get default tag handler
+UnmarshallerHandler getUnmarshallerHandler() | get unmarshaller handler
+UnmarshallingEventHandler getCurrentHandler() | get current handler
+URLStreamHandler createURLStreamHandler(QString;) | create url stream handler
+URLStreamHandler getDefaultStreamHandler(QString;) | get default stream handler
+UserConnectionHandler getUserConnectionHandler() | get user connection handler
+ValidationEventHandler getEventHandler() | get event handler
+void addExceptionHandler(IIIQString;) | add exception handler
+void addExceptionHandler(IIIZII) | add exception handler
+void addExternalHandler(QIpFilterExternalHandler;) | add external handler
+void addHandler(IQEventHandler;) | add handler
+void addHandler(QString;QSQLDataHandler;) | add handler
+void addPasswordHandler(QCryptoManagerPasswordHandler;) | add password handler
+void addTagHandler(QTagHandler;) | add tag handler
+void addTransferHandler(QDistributedDatabaseTransferType;QDistributedDatabaseTransferHandler;) | add transfer handler
+void AimedShotHandler() | aimed shot handler
+void ChildHandler(QAbstractCompositeFigure;) | child handler
+void ChildHandler(QLabeledLineConnectionFigure;) | child handler
+void ColumnHandler(QResourceColumn;) | column handler
+void ConnectionHandler(QLineConnectionFigure;) | connection handler
+void createPacketHandler() | create packet handler
+void deregisterHandler(QActionHandler;) | deregister handler
+void deRegisterMouseWheelEventHandler(QMouseWheelEventHandler;) | de register mouse wheel event handler
+void ExceptionHandler() | exception handler
+void FileListEditorTransferHandler() | file list editor transfer handler
+void FileTransferHandler(QOptionsTable;) | file transfer handler
+void FileTransferHandler(ZQOptionsTable;) | file transfer handler
+void fragmentHandler(QGenericMessageConnection;QfragmentHandlerReceiver;) | fragment handler
+void installFramePrefsHandler(QPreferences;QString;QWindow;) | install frame prefs handler
+void installInternalFramePrefsHandler(QPreferences;QString;QJInternalFrame;QJDesktopPane;) | install internal frame prefs handler
+void installPalettePrefsHandler(QPreferences;QString;QWindow;) | install palette prefs handler
+void installPalettePrefsHandler(QPreferences;QString;QWindow;I) | install palette prefs handler
+void installToolBarPrefsHandler(QPreferences;QString;QJToolBar;) | install tool bar prefs handler
+void lookupResultHandler(QDHTOperationListener;) | lookup result handler
+void markHandler(I) | mark handler
+void MyErrorHandler(QPrintWriter;) | my error handler
+void PassThroughHandler(QObject;QString;) | pass through handler
+void popContentHandler() | pop content handler
+void PresentationFigureHandler(QGraphicalCompositeFigure;) | presentation figure handler
+void pushContentHandler(QUnmarshallingEventHandler;I) | push content handler
+void refExceptionHandler(Token exTypeAndName, Token action) | ref exception handler
+void registerAlertHandler() | register alert handler
+void registerExtensionHandler(QString;QPEPeerTransportExtensionHandler;) | register extension handler
+void registerHandler([BQDHTPluginTransferHandler;) | register handler
+void registerHandler(QActionHandler;) | register handler
+void registerHandler(QNATTraversalHandler;) | register handler
+void registerMessageHandler() | register message handler
+void registerMouseWheelEventHandler(QMouseWheelEventHandler;) | register mouse wheel event handler
+void registerSmbURLHandler() | register smb url handler
+void registerTransferHandler([BQDHTTransportTransferHandler;) | register transfer handler
+void removeExternalHandler(QIpFilterExternalHandler;) | remove external handler
+void removePasswordHandler(QCryptoManagerPasswordHandler;) | remove password handler
+void setCertificateHandler(QURL;QSECertificateListener;) | set certificate handler
+void setConnectionHandler(QConnectionHandler;) | set connection handler
+void setContentHandler(ContentHandler handler) | set content handler
+void setCookieHandler() | set cookie handler
+void setErrorHandler(ErrorHandler handler) | set error handler
+void setEventHandler(QValidationEventHandler;) | set event handler
+void setFieldHandler(QFieldHandler;) | set field handler
+void setFileHandler(QFileHandler;) | set file handler
+void setHandler(QCapabilitiesHandler;) | set handler
+void setHandler(QClientMessageHandler;) | set handler
+void setHandler(String handler) | set handler
+void setInputHandler(QInputHandler;) | set input handler
+void setMessageHandler(QMessageHandler;) | set message handler
+void setOptionHandler(QOptionHandler;) | set option handler
+void setOutgoingMessageHandler(QDummyConnection;) | set outgoing message handler
+void setOutgoingMessageHandler(QMessageHandler;) | set outgoing message handler
+void setPasswordHandler(QURL;QSEPasswordListener;) | set password handler
+void setPrimordialHandler(QPRUDPPrimordialHandler;) | set primordial handler
+void setRequestHandler(QDHTTransportRequestHandler;) | set request handler
+void setRequestHandler(QPRUDPRequestHandler;) | set request handler
+void setSingleInstanceHandler(IQPluginManagerArgumentHandler;) | set single instance handler
+void setStatementHandler(StatementHandler sh) | set statement handler
+void setThreadPasswordHandler(QSEPasswordListener;) | set thread password handler
+void setTorrentURLHandler(QtorrentURLHandler;) | set torrent url handler
+void startHandler() | start handler
+void testSaveNullClassPropertyFilterHandler() | test save null class property filter handler
+void testSimpleExceptionMappingWithHandlerClassSpecifiedButWrongHandler() | test simple exception mapping with handler class specified but wrong handler
+void testTransferHandler() | test transfer handler
+void trailerHandler(Response resp, RoRequest req) | trailer handler
+void unsetThreadPasswordHandler() | unset thread password handler

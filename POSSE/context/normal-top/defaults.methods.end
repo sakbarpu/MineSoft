@@ -1,0 +1,21 @@
+PluginManagerDefaults getDefaults() | get defaults
+PluginManagerDefaults getPluginManagerDefaults() | get plugin manager defaults
+TextAreaDefaults getDefaults() | get defaults
+UIDefaults getDefaults() | get defaults
+void checkFKColumnDefaults(QTable;QConstraint;) | check fk column defaults
+void initClassDefaults(QUIDefaults;) | init class defaults
+void initComponentDefaults(QUIDefaults;) | init component defaults
+void initDefaults() | init defaults
+void initSystemColorDefaults(QUIDefaults;) | init system color defaults
+void installDefaults() | install defaults
+void installDefaults(JSeparator s) | install defaults
+void installDefaults(QAbstractButton;) | install defaults
+void registerDefaults() | register defaults
+void registerExternalDefaults(QMap;) | register external defaults
+void resetToDefaults() | reset to defaults
+void restoreDefaults() | restore defaults
+void setDefaults() | set defaults
+void setDefaults(QFigure;) | set defaults
+void setDefaults([QString;) | set defaults
+void setDefaults(QString;QString;) | set defaults
+void setOptionsToDefaults() | set options to defaults

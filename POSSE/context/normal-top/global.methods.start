@@ -1,0 +1,3 @@
+ArrayList globalGetAllDownloadPeers() | global get all download peers
+String globalBlendTipText() | global blend tip text
+String globalInfo() | global info

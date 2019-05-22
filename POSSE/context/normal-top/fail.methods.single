@@ -1,0 +1,2 @@
+void fail() | fail
+void fail(QString;) | fail

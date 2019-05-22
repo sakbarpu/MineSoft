@@ -1,0 +1,3 @@
+void accumulate() | accumulate
+void accumulate(JJD) | accumulate
+void accumulate(QArcState;D) | accumulate

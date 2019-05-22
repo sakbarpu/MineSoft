@@ -1,0 +1,63 @@
+Action getDefault() | get default
+boolean getBooleanDefault(QString;) | get boolean default
+boolean isDefault() | is default
+boolean isMinimalPutsEnabledByDefault() | is minimal puts enabled by default
+boolean isPeerSourceEnabledByDefault(QString;) | is peer source enabled by default
+boolean resetIntDefault(QString;) | reset int default
+byte[] getByteArrayDefault(QString;) | get byte array default
+double getCloseToDefault() | get close to default
+double getDoubleDefault(QString;) | get double default
+double getMaxDefault() | get max default
+double getMinDefault() | get min default
+ExecuteUpdateResultCheckStyle determineDefault(QString;Z) | determine default
+int getIntDefault(QString;) | get int default
+Locale getDefault() | get default
+Node getDefault() | get default
+Object getDefault() | get default
+Object getDefault(I) | get default
+Object getDefault(QString;) | get default
+PrintStream getDefault() | get default
+String getColDefault(I) | get col default
+String getKeyDefault(QString;) | get key default
+String setToDefault(QString;) | set to default
+T getDefault() | get default
+void checkBooleanDefault(QString;I) | check boolean default
+void compute_default() | compute default
+void initByDefault() | init by default
+void markTableSwitchDefault(I) | mark table switch default
+void putDefault(QUIDefaults;QString;) | put default
+void readDefault() | read default
+void resetToDefault() | reset to default
+void revertToDefault(I) | revert to default
+void revertToDefault(IQString;) | revert to default
+void revertToDefault(QString;) | revert to default
+void setBooleanDefault(QString;Z) | set boolean default
+void setByteDefault(QString;[B) | set byte default
+void setCloseToDefault(D) | set close to default
+void setDefault(IQObject;) | set default
+void setDefault(QLocale;) | set default
+void setDefault(QNode;) | set default
+void setDefault(QNtlmAuthenticator;) | set default
+void setDefault(QString;D) | set default
+void setDefault(QString;F) | set default
+void setDefault(QString;I) | set default
+void setDefault(QString;J) | set default
+void setDefault(QString;QColor;) | set default
+void setDefault(QString;QObject;) | set default
+void setDefault(QString;QString;) | set default
+void setDefault(QString;Z) | set default
+void setFloatDefault(QString;F) | set float default
+void setIntDefault(QString;I) | set int default
+void setInterpolatedDefault(QString;D) | set interpolated default
+void setInterpolatedDefault(QString;F) | set interpolated default
+void setInterpolatedDefault(QString;I) | set interpolated default
+void setInterpolatedDefault(QString;J) | set interpolated default
+void setInterpolatedDefault(QString;QObject;) | set interpolated default
+void setInterpolatedDefault(QString;Z) | set interpolated default
+void setLongDefault(QString;J) | set long default
+void setMaxDefault(D) | set max default
+void setMinDefault(D) | set min default
+void setParameterDefault(QString;) | set parameter default
+void setStringDefault(QString;QString;) | set string default
+void testApplyThenResetDefault() | test apply then reset default
+void updateWidgetsDefault() | update widgets default

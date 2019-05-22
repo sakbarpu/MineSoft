@@ -1,0 +1,7 @@
+int ICONST_0 | iconst  0
+int ICONST_1 | iconst  1
+int ICONST_2 | iconst  2
+int ICONST_3 | iconst  3
+int ICONST_4 | iconst  4
+int ICONST_5 | iconst  5
+int ICONST_M1 | iconst m 1

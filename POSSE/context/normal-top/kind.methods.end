@@ -1,0 +1,3 @@
+ElementKind getKind() | get kind
+VariableKind getVariableKind(PsiVariable psiVariable) | get variable kind
+void setConformanceKind(String value) | set conformance kind

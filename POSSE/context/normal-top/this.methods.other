@@ -1,0 +1,27 @@
+boolean doHandleThisSite(QURL;) | do handle this site
+boolean isKoThisRound() | is ko this round
+boolean isLoadableThisTurn() | is loadable this turn
+boolean isSelectableThisTurn() | is selectable this turn
+boolean isThisStepBackwards() | is this step backwards
+boolean isThisThreadSWT() | is this thread swt
+boolean isUnloadedThisTurn() | is unloaded this turn
+boolean isUsedThisRound() | is used this round
+boolean isWrittenToThisSession() | is written to this session
+boolean shouldDeployThisRound() | should deploy this round
+boolean trackThisEntitiesVisibilityInfo(QEntity;) | track this entities visibility info
+Date getThisUpdate() | get this update
+int matchThisSizeOrBigger() | match this size or bigger
+Object readThisLine(String theLine) | read this line
+Time getThisUpdate() | get this update
+void addThisColumnSubMenu(I) | add this column sub menu
+void addThisColumnSubMenu(QString;QMenu;) | add this column sub menu
+void clearDeploymentThisRound() | clear deployment this round
+void copyNextGenToThisGen() | copy next gen to this gen
+void generateFunctionAndThisObj(QNode;QNode;) | generate function and this obj
+void setKoThisRound(Z) | set ko this round
+void setThisStepBackwards(Z) | set this step backwards
+void setThisUpdate(QDate;) | set this update
+void setThisUpdate(QDERUTCTime;) | set this update
+void setThisUpdate(QTime;) | set this update
+void setUsedThisRound(Z) | set used this round
+void setWrittenToThisSession(Z) | set written to this session

@@ -1,0 +1,3 @@
+boolean isRetryAllowed | is retry allowed
+int MAX_RETAINED | max retained
+int MIN_RETAINED | min retained

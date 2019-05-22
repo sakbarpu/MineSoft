@@ -1,0 +1,2 @@
+int DEAD_CONNECTION_TIMEOUT_PERIOD | dead connection timeout period
+int DEAD_KEY_RETENTION_PERIOD | dead key retention period

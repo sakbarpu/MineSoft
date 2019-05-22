@@ -1,0 +1,4 @@
+boolean directoryEnd(QFile;) | directory end
+boolean directoryStart(QFile;I) | directory start
+String directoryToXML(QDirectory;) | directory to xml
+void DirectoryFilter() | directory filter

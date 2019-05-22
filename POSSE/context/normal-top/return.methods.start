@@ -1,0 +1,13 @@
+byte returnByte(B) | return byte
+byte returnByte(byte in) | return byte
+Object returnNarrowedProxy(QLoadEvent;QEntityPersister;QEntityKey;QLoadEventListener.LoadType;QPersistenceContext;QObject;) | return narrowed proxy
+String returnBuf() | return buf
+Type returnType() | return type
+void returnBufferSupport(QDirectByteBuffer;) | return buffer support
+void returnLeaves([QFastVector;) | return leaves
+void returnStorageManager(StorageManager sm) | return storage manager
+void returnToPool() | return to pool
+void returnToPoolIfNotFree() | return to pool if not free
+void returnToTitle() | return to title
+void returnUnusedChunks(II) | return unused chunks
+void returnValue() | return value

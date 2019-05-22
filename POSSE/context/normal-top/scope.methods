@@ -1,0 +1,48 @@
+ActionForm getBean(String id, String scope) | get bean
+Bindings getBindings(int scope) | get bindings
+boolean containsOutScopeReadOnly(String fieldName) | contains out scope read only
+boolean getIgnoreDynamicScope() | get ignore dynamic scope
+boolean hasCompileFunctionsWithDynamicScope() | has compile functions with dynamic scope
+boolean hasScope() | has scope
+boolean isUseDynamicScope() | is use dynamic scope
+boolean setPackageScope(QString;) | set package scope
+Expression compileMethodInvocation(Type type, ExpressionFactory expr, String name, ArgumentTransformations implicit, Expression args, int flags, Scope scope, AST pos) | compile method invocation
+HashSet getDialectScopes() | get dialect scopes
+Integer getBRIScope() | get bri scope
+int getScope(String scopeName) | get scope
+int readScopeWireFormat([BI) | read scope wire format
+int writeScopeWireFormat([BI) | write scope wire format
+List<QScope;> getScopes() | get scopes
+Object getTopScopeValue(QScriptable;QObject;) | get top scope value
+Object scope() | scope
+Object topScopeName(QContext;QScriptable;QString;) | top scope name
+ObjectViolationInfo valProp_methodMatcherRefName(ObjectViolationInfo valInfo, FilterChainConfiguration self, int severity, int scope, IContext context, boolean traverse) | val prop method matcher ref name
+Resource getResource(long companyId, String name, int scope, String primKey) | get resource
+Scope getScope() | get scope
+ScopeProvider newScopeProvider(QScriptable;) | new scope provider
+Scriptable checkDynamicScope(QScriptable;QScriptable;) | check dynamic scope
+Scriptable getParentScope() | get parent scope
+Scriptable getScope() | get scope
+Scriptable getTopCallScope(QContext;) | get top call scope
+Scriptable getTopLevelScope(QScriptable;) | get top level scope
+Scriptable newCatchScope(QThrowable;QScriptable;QString;QContext;QScriptable;) | new catch scope
+ScriptableObject getLibraryScopeOrNull(QScriptable;) | get library scope or null
+String getColScopeCat(I) | get col scope cat
+String getColScopeSchem(I) | get col scope schem
+String getColScopeTable(I) | get col scope table
+Surreal filter(CompMatrix matrix, ScopeRules scope) | filter
+void addDialectScope(QString;) | add dialect scope
+void exportAsScopeProperty() | export as scope property
+void setAttribute(String key, Object value, int scope) | set attribute
+void setCompileFunctionsWithDynamicScope(Z) | set compile functions with dynamic scope
+void setParentScope(QScriptable;) | set parent scope
+void setScopeProvider(QScopeProvider;) | set scope provider
+void setScope(QScriptable;) | set scope
+void setScopes(QList<QScope;>;) | set scopes
+void setScope(String scope) | set scope
+void testAliasScope() | test alias scope
+void testMessageTag1ArgNamePropertyNoScopeAlternateBundle() | test message tag 1 arg name property no scope alternate bundle
+void testNotInScope() | test not in scope
+XMLLib bindToScope(QScriptable;) | bind to scope
+XMLLib extractFromScopeOrNull(QScriptable;) | extract from scope or null
+XMLLib extractFromScope(QScriptable;) | extract from scope

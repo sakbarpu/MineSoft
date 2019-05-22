@@ -1,0 +1,13 @@
+boolean isBoundToWall() | is bound to wall
+boolean lowerNumericBoundIsOpen() | lower numeric bound is open
+boolean upperNumericBoundIsOpen() | upper numeric bound is open
+double getLowerBoundMinSupport() | get lower bound min support
+double getUpperBoundMinSupport() | get upper bound min support
+InetAddress getBoundToAddress() | get bound to address
+String interpolationParameterLowerBoundTipText() | interpolation parameter lower bound tip text
+String interpolationParameterUpperBoundTipText() | interpolation parameter upper bound tip text
+String lowerBoundMinSupportTipText() | lower bound min support tip text
+String upperBoundMinSupportTipText() | upper bound min support tip text
+void setBoundToWall(Z) | set bound to wall
+void setLowerBoundMinSupport(D) | set lower bound min support
+void setUpperBoundMinSupport(D) | set upper bound min support

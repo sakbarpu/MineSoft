@@ -1,0 +1,53 @@
+boolean errorPresent | error present
+com.eteks.sweethome3d.model.Content errorIconContent | error icon content
+edu.rice.cs.drjava.ui.CompilerErrorPanel.CompilerErrorListPane _errorListPane | error list pane
+edu.rice.cs.drjava.ui.ErrorCaretListener _errorListener | error listener
+edu.rice.cs.drjava.ui.JavadocErrorPanel.JavadocErrorListPane _errorListPane | error list pane
+edu.rice.cs.drjava.ui.JUnitPanel.JUnitErrorListPane _errorListPane | error list pane
+edu.rice.cs.drjava.ui.ReverseHighlighter.DrJavaHighlightPainter ERROR_PAINTER | error painter
+edu.rice.cs.util.swing.HighlightManager.HighlightInfo _errorHighlightTag | error highlight tag
+float ERROR_MIN | error min
+int ERRORAT | error at
+int ERROR_CODE | error code
+int[] errorCodes | error codes
+int _errorCount | error count
+int ERROR_IN_BINARY_SCRIPT_1 | error in binary script  1
+int ERROR_IN_BINARY_SCRIPT_2 | error in binary script  2
+int ERROR_IN_CONSTRAINT_COLUMN_LIST | error in constraint column list
+int _errorIndex | error index
+int ERROR_IN_SCRIPT_FILE | error in script file
+int ERROR_SUCCESS | error success
+int error_type | error type
+int errorType | error type
+java.awt.Color ERROR_COLOR | error color
+java.lang.Object ERROR_TAG | error tag
+java.lang.String errorCompleteTooltip | error complete tooltip
+java.lang.String errorDetail | error detail
+java.lang.String ERROR_EXCEEDED_DRM_DELIVERY_LIMIT | error exceeded drm delivery limit
+java.lang.String ERROR_INCOMPATIBLE_CLIENT | error incompatible client
+java.lang.String errorInCompleteTooltip | error in complete tooltip
+java.lang.String[] errorKeys | error keys
+java.lang.String error_message | error message
+java.lang.String errorMessage | error message
+java.lang.String ERROR_MSG | error msg
+java.lang.String errorName | error name
+java.lang.String errorReporterProperty | error reporter property
+java.lang.String ERROR_SERVER_COMMUNICATION | error server communication
+java.lang.String errorStr | error str
+java.lang.String errorString1 | error string 1
+java.lang.String errorString2 | error string 2
+java.lang.String ERROR_STYLE | error style
+java.util.HashMap<javax.swing.text.Position,edu.rice.cs.drjava.model.DJError> _errorTable | error table
+java.util.Map error_map | error map
+javax.media.j3d.Texture errorTexture | error texture
+javax.swing.Icon errorIcon | error icon
+javax.swing.JComponent _errorInfo | error info
+javax.swing.JEditorPane _errorInfo | error info
+javax.swing.JLabel _errorLabel | error label
+javax.swing.JPanel _errorNavButtonsPanel | error nav buttons panel
+javax.swing.JPanel _errorNavPanel | error nav panel
+javax.swing.text.Position[] _errorListPositions | error list positions
+long ERROR_ETA | error eta
+long ERROR_RECHECKIN_MINS | error recheck in mins
+org.mozilla.javascript.ErrorReporter errorReporter | error reporter
+org.mozilla.javascript.tools.ToolErrorReporter errorReporter | error reporter

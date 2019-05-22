@@ -1,0 +1,7 @@
+boolean privateKey | private key
+boolean privateTorrent | private torrent
+byte[] private_key | private key
+java.math.BigInteger privateExponent | private exponent
+org.bouncycastle.asn1.DERObjectIdentifier PrivateKeyUsagePeriod | private key usage period
+org.bouncycastle.crypto.CipherParameters privateParam | private param
+org.gudy.azureus2.ui.swt.components.BufferedLabel privateStatus | private status

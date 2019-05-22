@@ -1,0 +1,6 @@
+java.lang.String FOO_PACKAGE_AFTER_IMPORT | foo package after import
+java.lang.String FOO_PACKAGE_AS_FIELD | foo package as field
+java.lang.String FOO_PACKAGE_AS_FIELD_2 | foo package as field  2
+java.lang.String FOO_PACKAGE_AS_PART_OF_FIELD | foo package as part of field
+java.lang.String FOO_PACKAGE_INSIDE_CLASS | foo package inside class
+java.lang.String localPackageName | local package name

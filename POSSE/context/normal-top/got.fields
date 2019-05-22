@@ -1,0 +1,17 @@
+boolean bGotoBetter | b goto better
+boolean gotBrowserStyle | got browser style
+boolean got_extended_use | got extended use
+boolean gotFocus | got focus
+boolean got_header | got header
+boolean got_length | got length
+boolean gotPavementBonus | got pavement bonus
+edu.rice.cs.drjava.config.BooleanOption DIALOG_GOTOFILE_STORE_POSITION | dialog goto file store position
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_GOTO_FILE | key goto file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_GOTO_FILE_UNDER_CURSOR | key goto file under cursor
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_GOTO_LINE | key goto line
+edu.rice.cs.drjava.config.StringOption DIALOG_GOTOFILE_STATE | dialog goto file state
+freemind.modes.actions.GotoLinkNodeAction gotoLinkNodeAction | goto link node action
+int GOTO | goto
+int GOTO_W | goto w
+javax.swing.AbstractAction gotoEndAction | goto end action
+javax.swing.AbstractAction gotoPromptPosAction | goto prompt pos action

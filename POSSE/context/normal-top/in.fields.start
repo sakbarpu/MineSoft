@@ -1,0 +1,27 @@
+boolean inCollectingMode | in collecting mode
+boolean _inCompoundEdit | in compound edit
+boolean inDanger | in danger
+boolean _in_deleting | in deleting
+boolean inDirectCallFunction | in direct call function
+boolean inEvent | in event
+boolean inProgress | in progress
+boolean inTitle | in title
+com.aelitis.azureus.core.networkmanager.impl.udp.UDPConnectionSet.SequenceGenerator in_seq_generator | in seq generator
+int inField | in field
+int IN_QUEUE | in queue
+int IN_SCHEMA_DEFINITION | in schema definition
+java.awt.Polygon inStCentralTorso | in st central torso
+java.awt.Polygon inStLeftArm | in st left arm
+java.awt.Polygon inStLeftLeg | in st left leg
+java.awt.Polygon inStLeftTorso | in st left torso
+java.awt.Polygon inStRightArm | in st right arm
+java.awt.Polygon inStRightLeg | in st right leg
+java.awt.Polygon inStRightTorso | in st right torso
+java.io.InputStream inStream | in stream
+java.io.PrintWriter inPipe | in pipe
+java.lang.String inMethod | in method
+java.lang.String IN_PROCESS_FILE_URL | in process file url
+java.util.Map in_progress | in progress
+javax.swing.JTable _inTable | in table
+org.gudy.azureus2.pluginsimpl.local.network.IncomingMessageQueueImpl in_queue | in queue
+org.gudy.azureus2.ui.swt.components.graphics.SpeedGraphic inGraph | in graph

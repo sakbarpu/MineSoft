@@ -1,0 +1,7 @@
+boolean hasClasspathProblems() | has classpath problems
+Object getProblem(QList<QObject;>;QList<QInteger;>;I) | get problem
+Object getProblem(QVector;QVector;) | get problem
+String getProblemCharacters() | get problem characters
+void testSecondLineProblem() | test second line problem
+void testSecondLineProblem2() | test second line problem 2
+void testSmallFileProblem() | test small file problem

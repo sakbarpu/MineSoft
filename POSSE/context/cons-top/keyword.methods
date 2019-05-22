@@ -1,0 +1,6 @@
+CONS IReportKeywordLookup() | i report keyword lookup
+CONS KeywordGroup(QString;QString;QString;ZZI) | keyword group
+CONS KeywordMap(Z) | keyword map
+CONS KeywordMap(ZI) | keyword map
+CONS KeywordSearchTupleSet() | keyword search tuple set
+CONS KeywordSearchTupleSet(QLuceneSearcher;) | keyword search tuple set

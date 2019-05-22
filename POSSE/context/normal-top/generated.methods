@@ -1,0 +1,29 @@
+BibtexDatabase getGeneratedDatabase() | get generated database
+boolean hasInsertGeneratedProperties() | has insert generated properties
+boolean hasInsertGeneratedValues() | has insert generated values
+boolean hasUpdateGeneratedProperties() | has update generated properties
+boolean hasUpdateGeneratedValues() | has update generated values
+boolean isDatabaseGeneratedTimestamp(QType;) | is database generated timestamp
+boolean isGeneratedScript() | is generated script
+boolean isGeneratedScript(QString;) | is generated script
+boolean jvmSupportsGetGeneratedKeys() | jvm supports get generated keys
+boolean supportsGetGeneratedKeys() | supports get generated keys
+boolean useGetGeneratedKeys() | use get generated keys
+InsertGeneratedIdentifierDelegate getInsertGeneratedIdentifierDelegate(QPostInsertIdentityPersister;QDialect;Z) | get insert generated identifier delegate
+int getGeneratedUnitCount() | get generated unit count
+int getNumberOfGeneratedClusters() | get number of generated clusters
+ResultSet getGeneratedKeys() | get generated keys
+Serializable determineGeneratedIdentifier(QSessionImplementor;QObject;) | determine generated identifier
+Serializable getGeneratedId() | get generated id
+Serializable getGeneratedIdentity(QResultSet;QType;) | get generated identity
+Serializable saveWithGeneratedId(QObject;QString;QObject;QEventSource;Z) | save with generated id
+Serializable saveWithGeneratedOrRequestedId(QSaveOrUpdateEvent;) | save with generated or requested id
+String generateGeneratedValuesSelectString([QValueInclusion;) | generate generated values select string
+String generateInsertGeneratedValuesSelectString() | generate insert generated values select string
+String generateUpdateGeneratedValuesSelectString() | generate update generated values select string
+String makeUrlForGeneratedScript(ZQString;I) | make url for generated script
+void GetGeneratedKeysDelegate(QPostInsertIdentityPersister;QDialect;) | get generated keys delegate
+void processGeneratedProperties(QSerializable;QObject;[QObject;QSessionImplementor;QString;[QValueInclusion;) | process generated properties
+void processInsertGeneratedProperties(QSerializable;QObject;[QObject;QSessionImplementor;) | process insert generated properties
+void processUpdateGeneratedProperties(QSerializable;QObject;[QObject;QSessionImplementor;) | process update generated properties
+void showGeneratedInstances(QString;) | show generated instances

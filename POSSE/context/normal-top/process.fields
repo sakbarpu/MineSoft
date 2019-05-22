@@ -1,0 +1,58 @@
+boolean fromProcess | from process
+boolean isEscapeProcessing | is escape processing
+boolean isProcessingLog | is processing log
+boolean isProcessingScript | is processing script
+boolean ourCriticProcess | our critic process
+boolean processing | processing
+boolean processing_complete | processing complete
+boolean processStdin | process stdin
+char PROCESS_SEPARATOR_CHAR | process separator char
+com.aelitis.azureus.core.networkmanager.impl.TransferProcessor download_processor | download processor
+com.aelitis.azureus.core.networkmanager.impl.TransferProcessor lan_download_processor | lan download processor
+com.aelitis.azureus.core.networkmanager.impl.TransferProcessor lan_upload_processor | lan upload processor
+com.aelitis.azureus.core.networkmanager.impl.TransferProcessor upload_processor | upload processor
+com.aelitis.azureus.core.util.CopyOnWriteList processors | processors
+edu.rice.cs.drjava.config.BooleanOption DIALOG_EDITEXTERNALPROCESS_STORE_POSITION | dialog edite xternal process store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_EXTERNALPROCESS_STORE_POSITION | dialog external process store position
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_EXEC_PROCESS | key exec process
+edu.rice.cs.drjava.config.StringOption DIALOG_EDITEXTERNALPROCESS_STATE | dialog edite xternal process state
+edu.rice.cs.drjava.config.StringOption DIALOG_EXTERNALPROCESS_STATE | dialog external process state
+edu.rice.cs.drjava.ui.JarOptionsDialog.ProcessingFrame _processingFrame | processing frame
+int active_write_queue_processor_count | active write queue processor count
+int last_processed_download_set_id | last processed download set id
+int MAX_PROCESSORS | max processors
+int PROCESS_CHECK_PERIOD | process check period
+int PROCESS_FILES | process files
+int PROCESSING_POST_MULTIPLIER | processing post multiplier
+int processor_num | processor num
+java.lang.Process DUMMY_PROCESS | dummy process
+java.lang.Process[] _processes | processes
+java.lang.String EXTPROCESS_FILE_EXTENSION | ext process file extension
+java.lang.String EXTPROCESS_FILE_NAME_INSIDE_JAR | ext process file name inside jar
+java.lang.String IN_PROCESS_FILE_URL | in process file url
+java.lang.String PROCESS_SEPARATOR | process separator
+java.lang.Throwable lastProcessedException | last processed exception
+java.util.List myPreImporterProcessors | my pre importer processors
+java.util.List processDataSourcesOutstanding | process data sources outstanding
+java.util.List processors | processors
+java.util.Set last_processed_download_set | last processed download set
+java.util.Vector<megamek.server.DynamicTerrainProcessor> terrainProcessors | terrain processors
+javax.swing.JPanel jPanelProcesses | j panel processes
+javax.swing.JScrollPane jScrollProcesses | j scroll processes
+long last_process_time | last process time
+long processCount | process count
+long PROCESSING_GET_LIMIT | processing get limit
+long processLastComplete | process last complete
+long processMaxMS | process max ms
+long processMergeCount | process merge count
+long processTotalGap | process total gap
+long processTotalMS | process total ms
+long processTotalRecalcs | process total rec al cs
+long processTotalZeroRecalcs | process total zero rec al cs
+org.gudy.azureus2.core3.tracker.server.impl.tcp.nonblocking.TRNonBlockingServerProcessorFactory processor_factory | processor factory
+org.gudy.azureus2.core3.util.AEMonitor process_mon | process mon
+org.gudy.azureus2.core3.util.TimerEvent timerEventProcessDS | timer event process ds
+org.gudy.azureus2.core3.util.Timer timerProcess | timer process
+org.gudy.azureus2.core3.util.Timer timerProcessDataSources | timer process data sources
+org.gudy.azureus2.platform.PlatformManagerCapabilities CreateCommandLineProcess | create command line process
+org.gudy.azureus2.ui.swt.Utils.addDataSourceCallback processDataSourceQueueCallback | process data source queue callback

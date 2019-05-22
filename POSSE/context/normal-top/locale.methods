@@ -1,0 +1,47 @@
+boolean changeLocale(QLocale;) | change locale
+boolean changeLocale(QLocale;Z) | change locale
+boolean isCurrentLocale(QLocale;) | is current locale
+boolean keyExistsForDefaultLocale(QString;) | key exists for default locale
+java.util.Locale getLocale() | get locale
+java.util.Locale getLocaleFromString(QString;) | get locale from string
+List getSupportedLocale() | get supported locale
+Locale getCurrentLocale() | get current locale
+Locale getLocale() | get locale
+Locale getLocale(I) | get locale
+Locale getLocale(QString;) | get locale
+Locale[] getLocales() | get locales
+LocaleResourceFilesDialog getLocaleFilesDialog() | get locale files dialog
+Locale setLocale(QLocale;) | set locale
+LocaleUtil getLocaleUtil() | get locale util
+LocaleUtilities getLocaleUtilities() | get locale utilities
+Object convert(Object data, Locale locale) | convert
+org.hsqldb.lib.Iterator getLocalesIterator() | get locales iterator
+Query setLocale(IQLocale;) | set locale
+Query setLocale(QString;QLocale;) | set locale
+String formatDownloadStatusDefaultLocale(QDownloadManager;) | format download status default locale
+String getCurrentLocaleID() | get current locale id
+String getDefaultLocaleString(QString;) | get default locale string
+String getFormatPattern(String className, String pattern, Locale locale) | get format pattern
+String getLocaleHelpPath() | get locale help path
+String getLocaleName(QString;QString;) | get locale name
+String getLocaleString() | get locale string
+String getMessage(String code, Object args, Locale locale) | get message
+String toLocale_helper(DI) | to locale helper
+void checkLocaleChange() | check locale change
+void load(Locale locale, String pkg) | load
+void LocaleAdapter(QLocale;) | locale adapter
+void parseLocale() | parse locale
+void revertToDefaultLocale() | revert to default locale
+void setCollationAsLocale() | set collation as locale
+void setCurrentLocale(QLocale;) | set current locale
+void setCurrentLocale(QString;) | set current locale
+void setCurrentLocale(QString;QString;) | set current locale
+void setDisplayformatlocalekey(String string) | set display format locale key
+void setLocaleFilesDialog(QLocaleResourceFilesDialog;) | set locale files dialog
+void setLocale(Qjava.util.Locale;) | set locale
+void setLocale(QLocale;) | set locale
+void setLocale(QString;) | set locale
+void testLocaleSpecificFormat() | test locale specific format
+void updateDefaultLocale() | update default locale
+void updateJMenuItemReportLocaleText() | update j menu item report locale text
+void updateLocale(QLocaleUtilities;) | update locale

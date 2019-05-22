@@ -1,0 +1,44 @@
+boolean isAllcaps | is all caps
+boolean _searchAllDocuments | search all documents
+boolean showAllNodes | show all nodes
+boolean SHOW_ALL_PLUGINS | show all plugins
+boolean treatAllElements | treat all elements
+boolean updateAllViews | update all views
+edu.rice.cs.drjava.config.BooleanOption FIND_ALL_DOCUMENTS | find all documents
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_CLOSE_ALL_FILES | key close all files
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_DEBUG_CLEAR_ALL_BREAKPOINTS | key debug clear all breakpoints
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_SAVE_ALL_FILES | key save all files
+freemind.extensions.HookInstanciationMethod OnceForAllNodes | once for all nodes
+freemind.modes.actions.RemoveAllIconsAction removeAllIconsAction | remove all icons action
+freemind.modes.actions.SelectAllAction selectAllAction | select all action
+int SQL_ALL_TYPES | sql all types
+java.awt.CheckboxGroup gAllWords | g all words
+java.lang.String MENU_ID_ALL_PEERS | menu id all peers
+java.lang.String MENU_ID_CLOSE_ALL_DETAIL | menu id close all detail
+java.lang.String MENU_ID_CLOSE_ALL_DL_BARS | menu id close all dl bars
+java.lang.String MENU_ID_START_ALL_TRANSFERS | menu id start all transfers
+java.lang.String MENU_ID_STOP_ALL_TRANSFERS | menu id stop all transfers
+java.lang.String MENU_ID_WINDOW_ALL_TO_FRONT | menu id window all to front
+java.lang.String OP_GET_ALL_ENGINES | op get all engines
+java.lang.String SQL_SELECT_ALL_FIELDS | sql select all fields
+java.lang.String TABLE_ALL_PEERS | table all peers
+java.lang.String TABLE_MYTORRENTS_ALL_BIG | table mytorrents all big
+java.util.Vector mAllIconNames | m all icon names
+javax.swing.Action _findAllAction | find all action
+javax.swing.Action _replaceAllAction | replace all action
+javax.swing.JButton _findAllButton | find all button
+javax.swing.JButton _removeAllButton | remove all button
+javax.swing.JButton _replaceAllButton | replace all button
+javax.swing.JCheckBox _searchAllDocuments | search all documents
+javax.swing.JMenuItem jMenuItemCloseAllExceptThis | j menu item close all except this
+javax.swing.JMenuItem jMenuItemCloseAllExceptThisFromList | j menu item close all except this from list
+javax.swing.JMenuItem jMenuItemCloseAllFromList | j menu item close all from list
+javax.swing.JMenuItem jMenuItemSaveAllFromList | j menu item save all from list
+javax.swing.JRadioButtonMenuItem rbAllSchemas | rb all schemas
+javax.swing.undo.UndoableEdit DISCARD_ALL_EDITS | discard all edits
+org.gudy.azureus2.plugins.ui.Graphic icon_rss_all_add_big | icon rss all add big
+org.gudy.azureus2.plugins.ui.Graphic icon_rss_all_add_small | icon rss all add small
+org.gudy.azureus2.plugins.ui.menus.MenuItemListener deleteAllResultsListener | delete all results listener
+org.gudy.azureus2.plugins.ui.menus.MenuItemListener markAllResultsListener | mark all results listener
+org.gudy.azureus2.plugins.ui.menus.MenuItemListener unmarkAllResultsListener | unmark all results listener
+org.hsqldb.lib.StopWatch saveAllTimer | save all timer

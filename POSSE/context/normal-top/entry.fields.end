@@ -1,0 +1,8 @@
+boolean is_bucket_entry | is bucket entry
+com.aelitis.azureus.ui.swt.views.skin.sidebar.SideBarEntrySWT currentSideBarEntry | current side bar entry
+com.aelitis.azureus.ui.swt.views.skin.sidebar.SideBarEntrySWT sb_entry | sb entry
+com.aelitis.azureus.ui.swt.views.skin.sidebar.SideBarEntrySWT sideBarEntry | side bar entry
+int BYTES_PER_ENTRY | bytes per entry
+java.lang.String URL_FAQ_BY_TOPIC_ENTRY | url faq by topic entry
+java.lang.String VMT_ACTIVITYENTRY | vmt activity entry
+java.util.Map mapTitleInfoToEntry | map title info to entry

@@ -1,0 +1,9 @@
+boolean[] bArgNullable | b arg nullable
+int iArgCount | i arg count
+int[] iArgType | i arg type
+int iSqlArgCount | i sql arg count
+int iSqlArgStart | i sql arg start
+java.lang.Class[] aArgClasses | a arg classes
+org.hsqldb.Expression eArg2 | e arg 2
+short itsOneArgArray | its one arg array
+short itsZeroArgArray | its zero arg array

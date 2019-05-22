@@ -1,0 +1,53 @@
+boolean doTest(I) | do test
+boolean isHitTest() | is hit test
+boolean _isJUnitTest(QClass<*>;) | is j unit test
+boolean passesTest(QInstance;) | passes test
+boolean[] runBasicTest(QAttrTypes;IIIIIZZIIIQFastVector;) | run basic test
+boolean[] runBasicTest(QAttrTypes;IIIIZZIIIQFastVector;) | run basic test
+boolean[] runBasicTest(ZZZZZZIIIZZIIIQFastVector;) | run basic test
+boolean[] runBasicTest(ZZZZZZIIIZZIIQFastVector;) | run basic test
+boolean[] runBasicTest(ZZZZZZIIZZIIIQFastVector;) | run basic test
+boolean[] runBasicTest(ZZZZZZIIZZIIQFastVector;) | run basic test
+boolean[] runBasicTest(ZZZZZZIZIQFastVector;) | run basic test
+boolean tryTest(QNetStatusProtocolTesterBT;QDistributedDatabaseContact;) | try test
+Class<*> loadPossibleTest(QString;) | load possible test
+NetStatusProtocolTesterBT runTest(QNetStatusProtocolTesterListener;) | run test
+NetStatusProtocolTesterBT runTest(QString;QNetStatusProtocolTesterListener;) | run test
+NetworkAdminSpeedTester getTest() | get test
+NetworkAdminSpeedTestScheduledTest getCurrentTest() | get current test
+NetworkAdminSpeedTestScheduledTest scheduleTest(I) | schedule test
+Point trasformTest(QPoint;I) | trasform test
+Test addTest(QPrismRule;QTest;QTest;) | add test
+VirtualServerChannelSelector createTest(QInetSocketAddress;IQVirtualServerChannelSelector.SelectListener;) | create test
+void addTest(QTest;) | add test
+void cancelTest() | cancel test
+void commandLogtest(QConsoleInput;QList;) | command log test
+void ControllerTest(QHome;QUserPreferences;QViewFactory;) | controller test
+void ControllerTest(QUserPreferences;QViewFactory;) | controller test
+void deleteTest() | delete test
+void doTest() | do test
+void endTest(Z) | end test
+void helperCommentTest(QString;IIQString;) | helper comment test
+void manualTest(QCacheFileManager;) | manual test
+void nonPreparedTest() | non prepared test
+void paintTextLayoutTest(Graphics g) | paint text layout test
+void performTest() | perform test
+void randomTest() | random test
+void randomTest(QCacheFileManager;) | random test
+void readTabProfileTest(QStatement;) | read tab profile test
+void runImmediateQuitTest() | run immediate quit test
+void runPlanContollerTest() | run plan contoller test
+void runtest() | run test
+void runTest() | run test
+void runTest(IZ) | run test
+void searchForBestTest() | search for best test
+void searchForBestTest(QPredictionNode;QInstances;) | search for best test
+void selfTest(IIQjava.lang.String;Qjava.lang.String;[J) | self test
+void simpleTest() | simple test
+void startLetterTest() | start letter test
+void startTest() | start test
+void startTest(QString;I) | start test
+void taTest() | ta test
+void ViewTest(QHomeController;) | view test
+void visitTypeTest(JCInstanceOf tree) | visit type test
+void writeTest(QCacheFileManagerImpl;) | write test

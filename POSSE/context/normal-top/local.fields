@@ -1,0 +1,122 @@
+boolean DISABLE_LAN_LOCAL_STUFF | disable lan local stuff
+boolean local | local
+boolean LOCAL_BLOOM_TRACE | local bloom trace
+boolean locale_set | locale set
+boolean local_is_complete | local is complete
+boolean[] locals | locals
+byte is_lan_local | is lan local
+byte LAN_LOCAL_MAYBE | lan local maybe
+byte LAN_LOCAL_NO | lan local no
+byte LAN_LOCAL_YES | lan local yes
+com.aelitis.azureus.core.dht.router.impl.DHTRouterContactImpl local_contact | local contact
+com.aelitis.azureus.core.dht.transport.DHTTransportContact current_local | current local
+com.aelitis.azureus.core.dht.transport.DHTTransportContact local_contact | local contact
+com.aelitis.azureus.core.dht.transport.DHTTransportContact rendezvous_local_contact | rendezvous local contact
+com.aelitis.azureus.core.dht.transport.udp.impl.DHTTransportUDPContactImpl local_contact | local contact
+com.aelitis.azureus.util.LocalResourceHTTPServer local_publisher | local publisher
+double LocalTZA | local tza
+freemind.modes.actions.AddLocalLinkAction addLocalLinkAction | add local link action
+int COMMAND_LOCAL_PN | command local pn
+int ENGINE_SOURCE_LOCAL | engine source local
+int EXCEPTION_LOCAL_SLOT | exception local slot
+int HKEY_LOCAL_MACHINE | hkey local machine
+int hnd_local_names | hnd local names
+int Icode_LOCAL_CLEAR | icode local clear
+int Id_toLocaleDateString | id to locale date string
+int Id_toLocaleString | id to locale string
+int Id_toLocaleTimeString | id to locale time string
+int itsLocalTop | its local top
+int itsMaxLocals | its max locals
+int LOCAL | local
+int LOCAL_BLOCK | local block
+int LOCAL_BLOCK_PROP | local block prop
+int LOCAL_COVER | local cover
+int LOCAL_DIVERSIFICATION_ENTRIES_LIMIT | local diversification entries limit
+int LOCAL_DIVERSIFICATION_READS_PER_MIN | local diversification reads per min
+int LOCAL_DIVERSIFICATION_READS_PER_MIN_SAMPLES | local diversification reads per min samples
+int LOCAL_DIVERSIFICATION_SIZE_LIMIT | local diversification size limit
+int LOCAL_ESTIMATE_HISTORY | local estimate history
+int LOCAL_LOAD | local load
+int local_pn | local pn
+int local_port | local port
+int LOCAL_PROP | local prop
+int localShift | local shift
+int local_size | local size
+int LOCALTIME | localtime
+int LOCALTIMESTAMP | localtimestamp
+int MAX_LOCALS | max locals
+int total_local_keys | total local keys
+int TT_LOCAL | tt local
+int VD_LOCAL_SIZE | vd local size
+it.businesslogic.ireport.gui.locale.LocaleResourceFilesDialog localeFilesDialog | locale files dialog
+java.awt.Choice locale | locale
+java.lang.String attLocalName | att local name
+java.lang.String CONF_P2P_HIDE_LOCAL_PROPERTIES | conf p 2 p hide local properties
+java.lang.String CORE_PARAM_STRING_LOCAL_BIND_IP | core param string local bind ip
+java.lang.String currentElementLocalName | current element local name
+java.lang.String HSQLDB_LOCALHOST_URL | hsqldb localhost url
+java.lang.String INNER_CLASS_WITH_LOCAL_VARS | inner class with local vars
+java.lang.String local_control_url | local control url
+java.lang.String local_cookies | local cookies
+java.lang.String local_desc_url | local desc url
+java.lang.String LOCALE | locale
+java.lang.String[] LOCALE_CHOICES | locale choices
+java.lang.String _LocalFileName | local file name
+java.lang.String _localId | local id
+java.lang.String localName | local name
+java.lang.String localPackageName | local package name
+java.lang.String _localTitle | local title
+java.lang.String PID_LOCAL_TRACKER | pid local tracker
+java.lang.String sLocal | s local
+java.lang.String sql_compare_in_locale | sql compare in locale
+java.lang.String T_LOCAL | t local
+java.lang.String T_LOCALTIME | t localtime
+java.lang.String T_LOCALTIMESTAMP | t localtimestamp
+java.lang.ThreadLocal contextLocal | context local
+java.net.InetAddress anyLocalAddressIPv4 | any local address ipv 4
+java.net.InetAddress anyLocalAddressIPv6 | any local address ipv 6
+java.net.InetAddress local_address | local address
+java.net.InetAddress localhostV4 | localhost v 4
+java.net.InetAddress localhostV6 | localhost v 6
+java.text.DateFormat localeDateFormatter | locale date formatter
+java.text.DateFormat localeDateTimeFormatter | locale date time formatter
+java.text.DateFormat localeTimeFormatter | locale time formatter
+java.text.SimpleDateFormat localClockFormat | local clock format
+java.util.ArrayList alLocals | al locals
+java.util.ArrayList localActionList | local action list
+java.util.HashMap<java.lang.String,java.lang.Object> _localProperties | local properties
+java.util.Locale colorChooserLocale | color chooser locale
+java.util.Locale currentLocale | current locale
+java.util.Locale defaultLocale | default locale
+java.util.Locale formatLocale | format locale
+java.util.Locale locale | locale
+java.util.Locale LOCALE_CURRENT | locale current
+java.util.Locale LOCALE_DEFAULT | locale default
+java.util.Locale LOCALE_ENGLISH | locale english
+java.util.Map local_connections | local connections
+java.util.Map local_estimate_values | local estimate values
+java.util.Map local_storage_keys | local storage keys
+java.util.Map pluginLocalizationPaths | plugin localization paths
+javax.swing.JButton jButtonCreateNewLocale | j button create new locale
+javax.swing.JCheckBox localServerBrowseBox | local server browse box
+javax.swing.JComboBox displayLocale | display locale
+javax.swing.JMenuItem jMenuItemReportLocale | j menu item report locale
+javax.swing.JMenuItem jMenuLocaleFiles | j menu locale files
+javax.swing.JPopupMenu localPopup | local popup
+long last_non_local_connection_time | last non local connection time
+long local_dht_estimate | local dht estimate
+megamek.common.Player localPlayer | local player
+org.bouncycastle.asn1.DERObjectIdentifier localityName | locality name
+org.bouncycastle.asn1.DERObjectIdentifier pkcs_9_at_localKeyId | pkcs  9  at local key id
+org.hsqldb.lib.Iterator localeIterator | locale iterator
+org.mozilla.javascript.tools.debugger.MyTreeTable localsTable | locals table
+short argsLocal | args local
+short contextLocal | context local
+short firstFreeLocal | first free local
+short funObjLocal | fun obj local
+short itsMaxLocals | its max locals
+short localsMax | locals max
+short popvLocal | po pv local
+short scriptRegexpLocal | script regexp local
+short thisObjLocal | this obj local
+short variableObjectLocal | variable object local

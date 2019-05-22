@@ -1,0 +1,40 @@
+boolean restrict_non_blocking_requests | restrict non blocking requests
+boolean TRACE_REQUESTS | trace requests
+int consecutive_no_requests | consecutive no requests
+int MAX_ACTIVE_REQUESTS | max active requests
+int MAX_OUTSTANDING_BT_REQUESTS | max outstanding bt requests
+int requests_discarded_endgame | requests discarded end game
+int REQUESTS_MAX | requests max
+int REQUESTS_MIN | requests min
+int SLOPE_REQUESTS | slope requests
+java.util.ArrayList canceled_requests | canceled requests
+java.util.LinkedHashMap recent_outgoing_requests | recent outgoing requests
+java.util.LinkedList pending_requests | pending requests
+java.util.LinkedList requests | requests
+java.util.List active_requests | active requests
+java.util.List choked_requests | choked requests
+java.util.List http_requests | http requests
+java.util.List outstanding_requests | outstanding requests
+java.util.List[] peer_requests | peer requests
+java.util.List requests | requests
+java.util.Map requests | requests
+java.util.Set new_requests | new requests
+java.util.Set read_requests | read requests
+java.util.Set write_requests | write requests
+java.util.Vector initiativeRerollRequests | initiative reroll requests
+java.util.Vector<T> _requests | requests
+long incoming_requests | incoming requests
+long incoming_version_requests | incoming version requests
+long outgoing_requests | outgoing requests
+long outgoing_version_requests | outgoing version requests
+long requests_timeout | requests timeout
+long total_aggregated_requests_made | total aggregated requests made
+long total_getright_requests | total get right requests
+long total_invalid_requests | total invalid requests
+long total_ok_requests | total ok requests
+long total_requests | total requests
+long total_single_requests_made | total single requests made
+long total_webseed_requests | total web seed requests
+org.gudy.azureus2.core3.util.AEMonitor recent_outgoing_requests_mon | recent outgoing requests mon
+org.gudy.azureus2.core3.util.AEMonitor requests_mon | requests mon
+org.gudy.azureus2.plugins.utils.Monitor requests_mon | requests mon

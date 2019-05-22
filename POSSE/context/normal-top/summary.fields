@@ -1,0 +1,8 @@
+boolean isSummaryNewPage | is summary new page
+boolean summaryOnNewPage | summary on new page
+int DSV_IMPORT_SUMMARY | dsv import summary
+int REPLY_TRACKER_SUMMARY | reply tracker summary
+int REQUEST_TRACKER_SUMMARY | request tracker summary
+javax.swing.JCheckBox jCheckBoxSummaryOnNewPage | j check box summary on new page
+megamek.common.MechSummaryCache.Listener mechSummaryCacheListener | mech summary cache listener
+megamek.common.MechSummaryCache mechSummaryCache | mech summary cache

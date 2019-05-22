@@ -1,0 +1,2 @@
+String getFormatted(QString;[QObject;) | get formatted
+String getFormatted(QString;QString;) | get formatted

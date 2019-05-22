@@ -1,0 +1,26 @@
+double[] structureCosts | structure costs
+float ceilStructure | ceil structure
+freemind.controller.actions.generated.instance.MenuStructure mMenuStructure | m menu structure
+freemind.modes.actions.ImportFolderStructureAction importFolderStructure | import folder structure
+int CLAN_STRUCTURE | clan structure
+int INT_STRUCTURE_OFFSET | int structure offset
+int roundedInternalStructure | rounded internal structure
+int structureFlags | structure flags
+int[] structureLevels | structure levels
+int structureType | structure type
+int T_STRUCTURE_COMPOSITE | t structure composite
+int T_STRUCTURE_ENDO_PROTOTYPE | t structure endo prototype
+int T_STRUCTURE_ENDO_STEEL | t structure endo steel
+int T_STRUCTURE_STANDARD | t structure standard
+int T_STRUCTURE_UNKNOWN | t structure unknown
+it.businesslogic.ireport.gui.documentstructure.DocumentStructurePanel documentStructurePanel | document structure panel
+java.lang.String STRUCTURE | structure
+java.lang.String[] structureNames | structure names
+java.lang.String structureType | structure type
+java.util.List listStructure | list structure
+java.util.List openedNodesDocumentStructure | opened nodes document structure
+javax.swing.JPopupMenu jPopupMenuDocumentStructure | j popup menu document structure
+javax.swing.JPopupMenu jPopupMenuDocumentStructureBand | j popup menu document structure band
+javax.swing.JPopupMenu jPopupMenuDocumentStructureGroup | j popup menu document structure group
+megamek.common.loaders.InternalStructureType internalStructureType | internal structure type
+megamek.common.verifier.Structure structure | structure

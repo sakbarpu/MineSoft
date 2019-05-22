@@ -1,0 +1,4 @@
+Date getDateRecorded() | get date recorded
+void checkSelectionStateRecorded() | check selection state recorded
+void jMenuItemMaxRecordsActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item max records action performed
+void setDateRecorded(QDate;) | set date recorded

@@ -1,0 +1,79 @@
+ArtilleryModifier getModifierByCoords(QVector;QCoords;) | get modifier by coords
+boolean addModifier(QModifier;) | add modifier
+DecimalFormat getModifierFormat() | get modifier format
+double getAimModifier(II) | get aim modifier
+float applyModifier(FQString;) | apply modifier
+float applyModifier(FQString;QFreeColGameObjectType;) | apply modifier
+float applyModifier(FQString;QFreeColGameObjectType;QTurn;) | apply modifier
+float applyModifierSet(FQTurn;QSet<QModifier;>;) | apply modifier set
+int applyModifiers(I) | apply modifiers
+int getExtremeRangeModifier() | get extreme range modifier
+int getHeatFiringModifier() | get heat firing modifier
+int getLongRangeModifier() | get long range modifier
+int getMediumRangeModifier() | get medium range modifier
+int getModifier() | get modifier
+int getModifier(QMounted;QCoords;) | get modifier
+int getModifiers() | get modifiers
+int[] getModifiers(QEntity;) | get modifiers
+int getMovementBeforeSkidPSRModifier(I) | get movement before skid psr modifier
+int getShortRangeModifier() | get short range modifier
+int getToHitModifier() | get to hit modifier
+int pilotingModifier() | piloting modifier
+int terrainPilotingModifier() | terrain piloting modifier
+KeyStroke addShiftModifier(QKeyStroke;) | add shift modifier
+List<QModifier;> getModifiers(QString;) | get modifiers
+Modifier createTeaPartyModifier(QTurn;) | create tea party modifier
+Modifier getModifier(QString;) | get modifier
+Modifier getProductionModifier() | get production modifier
+Modifier getProductionModifier(QGoodsType;) | get production modifier
+Modifier removeModifier(QModifier;) | remove modifier
+Set<QModifier;> getDefensiveModifiers(QColony;QUnit;) | get defensive modifiers
+Set<QModifier;> getDefensiveModifiers(QUnit;QUnit;) | get defensive modifiers
+Set<QModifier;> getModifiers() | get modifiers
+Set<QModifier;> getModifierSet(QString;) | get modifier set
+Set<QModifier;> getModifierSet(QString;QFreeColGameObjectType;) | get modifier set
+Set<QModifier;> getModifierSet(QString;QFreeColGameObjectType;QTurn;) | get modifier set
+Set<QModifier;> getOffensiveModifiers(QColony;QUnit;) | get offensive modifiers
+Set<QModifier;> getOffensiveModifiers(QUnit;QUnit;) | get offensive modifiers
+Set<QModifier;> getProductionModifier(QGoodsType;QUnitType;) | get production modifier
+Set<QModifier;> getProductionModifiers(QGoodsType;QUnitType;) | get production modifiers
+Set<QModifier;> getProductivityModifiers(QUnit;) | get productivity modifiers
+Set<QModifier;> sortModifiers(QSet<QModifier;>;) | sort modifiers
+String accessModifiersAsShouldBe(IMethodInfo oldmth, IMethodInfo newmth) | access modifiers as should be
+String applyModifiers(QString;[QString;I) | apply modifiers
+String getModifier() | get modifier
+String getModifierAsString(QModifier;) | get modifier as string
+String getModifierString(QInputEvent;) | get modifier string
+String getSymbolicModifierName(I) | get symbolic modifier name
+String modifiersToString(I) | modifiers to string
+TargetRoll getStealthModifier(I) | get stealth modifier
+ToHitData getAttackerMovementModifier(QIGame;I) | get attacker movement modifier
+ToHitData getAttackerMovementModifier(QIGame;II) | get attacker movement modifier
+ToHitData getAttackerTerrainModifier(QIGame;I) | get attacker terrain modifier
+ToHitData getLimbModifier(IQEntity;) | get limb modifier
+ToHitData getSpotterMovementModifier(QIGame;I) | get spotter movement modifier
+ToHitData getSpotterMovementModifier(QIGame;II) | get spotter movement modifier
+ToHitData getTargetMovementModifier(IZZZ) | get target movement modifier
+ToHitData getTargetMovementModifier(QIGame;I) | get target movement modifier
+ToHitData getTargetTerrainModifier(QIGame;QTargetable;) | get target terrain modifier
+ToHitData getTargetTerrainModifier(QIGame;QTargetable;I) | get target terrain modifier
+ToHitData losModifiers(QIGame;) | los modifiers
+ToHitData losModifiers(QIGame;I) | los modifiers
+ToHitData nightModifiers(QIGame;QTargetable;QAmmoType;QEntity;) | night modifiers
+Vector getWeaponModifiers(QMounted;) | get weapon modifiers
+void addModifier(IQString;) | add modifier
+void addModifier(Modifier modifier) | add modifier
+void addModifier(QModifier;) | add modifier
+void addPilotingModifierForTerrain(QPilotingRollData;) | add piloting modifier for terrain
+void addPilotingModifierForTerrain(QPilotingRollData;QCoords;) | add piloting modifier for terrain
+void addPilotingModifierForTerrain(QPilotingRollData;QMoveStep;) | add piloting modifier for terrain
+void ArtilleryModifier() | artillery modifier
+void ArtilleryModifier(QCoords;I) | artillery modifier
+void Modifier(IQString;) | modifier
+void setCommonModifiers(QToHitData;QIGame;QEntity;QTargetable;) | set common modifiers
+void setModifier(I) | set modifier
+void setModifierMapping(IIII) | set modifier mapping
+void setModifier(QMounted;IQCoords;) | set modifier
+void setModifierRole(String modifierRole) | set modifier role
+void setModifiers(int modifiers) | set modifiers
+void visitVariableDefinition(JVariableDefinition self, int modifiers, CType type, String ident, JExpression expr) | visit variable definition

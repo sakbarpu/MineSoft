@@ -1,0 +1,27 @@
+boolean isInIncludedPackage(QString;) | is in included package
+boolean isSamePackage(String packageName, TypeSummary parentSummary) | is same package
+Object js_importPackage([QObject;) | js import package
+PackageBinding getCurrentPackage() | get current package
+Set getResoucesInPackage(QString;) | get resouces in package
+String getDefaultPackage() | get default package
+String getFullPackage() | get full package
+String getMappingPackage() | get mapping package
+String getPackage() | get package
+String getPackage(QString;) | get package
+void emit_package(QPrintWriter;) | emit package
+void forcePackage(QString;QScriptable;) | force package
+void importPackage(QContext;QScriptable;[QObject;QFunction;) | import package
+void importPackage(QNativeJavaPackage;) | import package
+void processPackage(QJComponent;QString;Qweka.gui.HierarchyPropertyParser;) | process package
+void setDefaultPackage(QString;) | set default package
+void setPackage(QString;) | set package
+void setPackage(String s) | set package
+void testCompileClassPathOKDefaultPackage() | test compile class path ok default package
+void testFileDefaultPackage() | test file default package
+void testFileOnePackage() | test file one package
+void testFilesOnePackage() | test files one package
+void testGetMultipleSourceRootsDefaultPackage() | test get multiple source roots default package
+void testGetSourceRootDefaultPackage() | test get source root default package
+void textQualifiedClassNameWithoutPackage() | text qualified class name without package
+void textQualifiedClassNameWithPackage() | text qualified class name with package
+void XXXtestStepOverWithPackage() | xxx test step over with package

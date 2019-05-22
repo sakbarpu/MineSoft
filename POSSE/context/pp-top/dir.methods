@@ -1,0 +1,11 @@
+boolean isAlwaysDirtyChecked() | is always dirty checked
+boolean isDirected() | is directed
+void currentDirectoryChanged(QFile;) | current directory changed
+void jButtonBackupDirectoryActionPerformed(Qjava.awt.event.ActionEvent;) | j button backup directory action performed
+void jButtonCompilationDirActionPerformed(Qjava.awt.event.ActionEvent;) | j button compilation dir action performed
+void jButtonVirtualizerDirBrowseActionPerformed(Qjava.awt.event.ActionEvent;) | j button virtualizer dir browse action performed
+void jCheckBoxUseCurrentFilesDirectoryForCompilesActionPerformed(Qjava.awt.event.ActionEvent;) | j check box use current files directory for compiles action performed
+void jComboBoxLineDirectionActionPerformed(Qjava.awt.event.ActionEvent;) | j combo box line direction action performed
+void jTextFieldVirtualizerDirActionPerformed(Qjava.awt.event.ActionEvent;) | j text field virtualizer dir action performed
+void projectBuildDirChanged() | project build dir changed
+void projectWorkDirChanged() | project work dir changed

@@ -1,0 +1,6 @@
+CONS Modifier() | modifier
+CONS Modifier(QElement;) | modifier
+CONS Modifier(QModifier;) | modifier
+CONS Modifier(QString;FQType;) | modifier
+CONS Modifier(QString;QFreeColGameObjectType;FQType;) | modifier
+CONS Modifier(QXMLStreamReader;) | modifier

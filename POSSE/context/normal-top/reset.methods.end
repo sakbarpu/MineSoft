@@ -1,0 +1,14 @@
+boolean getReset() | get reset
+boolean isReset() | is reset
+String getSerieReset() | get serie reset
+void consoleReset() | console reset
+void documentReset() | document reset
+void engineReset() | engine reset
+void helpTestStylesListContentAndReset() | help test styles list content and reset
+void plotReset(QInstances;I) | plot reset
+void progressReset(I) | progress reset
+void setDoReset(boolean doReset) | set do reset
+void setReset(Z) | set reset
+void setSerieReset(QString;) | set serie reset
+void testContentsAndReset() | test contents and reset
+void testReset() | test reset

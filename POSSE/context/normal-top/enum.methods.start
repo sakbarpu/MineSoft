@@ -1,0 +1,5 @@
+Boolean enumNext(QObject;) | enum next
+Object enumId(QObject;QContext;) | enum id
+Object enumInit(QObject;QContext;Z) | enum init
+Vector enumToVector(QEnumeration;) | enum to vector
+void enumChangeObject(QIdEnumeration;) | enum change object

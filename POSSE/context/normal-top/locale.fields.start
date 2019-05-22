@@ -1,0 +1,10 @@
+boolean locale_set | locale set
+it.businesslogic.ireport.gui.locale.LocaleResourceFilesDialog localeFilesDialog | locale files dialog
+java.lang.String[] LOCALE_CHOICES | locale choices
+java.text.DateFormat localeDateFormatter | locale date formatter
+java.text.DateFormat localeDateTimeFormatter | locale date time formatter
+java.text.DateFormat localeTimeFormatter | locale time formatter
+java.util.Locale LOCALE_CURRENT | locale current
+java.util.Locale LOCALE_DEFAULT | locale default
+java.util.Locale LOCALE_ENGLISH | locale english
+org.hsqldb.lib.Iterator localeIterator | locale iterator

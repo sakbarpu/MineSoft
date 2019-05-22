@@ -1,0 +1,2 @@
+boolean useReflectionOptimizer() | use reflection optimizer
+ReflectionOptimizer getReflectionOptimizer(QClass;[QString;[QString;[QClass;) | get reflection optimizer

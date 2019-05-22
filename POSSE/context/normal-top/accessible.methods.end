@@ -1,0 +1,11 @@
+boolean isAccessible(QHsqlName;) | is accessible
+boolean isAccessible(QHsqlName;I) | is accessible
+boolean isAccessible(QString;) | is accessible
+boolean isDirectlyAccessible() | is directly accessible
+boolean isDirectlyAccessible(QObject;I) | is directly accessible
+boolean setPrivateAccessible(Z) | set private accessible
+boolean tryToMakeAccessible(QObject;) | try to make accessible
+void setDirectlyAccessible(Z) | set directly accessible
+void setInterpreterPrivateAccessible(boolean accessible) | set interpreter private accessible
+void setInterpreterPrivateAccessible(Z) | set interpreter private accessible
+void setPrivateAccessible(Z) | set private accessible

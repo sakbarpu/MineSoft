@@ -1,0 +1,120 @@
+AbstractUndoableEdit getUndoForAddPreviousEntries() | get undo for add previous entries
+Action _getAddAction() | get add action
+AddArrowLinkXmlAction createAddArrowLinkXmlAction(QMindMapLink;) | create add arrow link xml action
+AddArrowLinkXmlAction createAddArrowLinkXmlAction(QMindMapNode;QMindMapNode;QString;) | create add arrow link xml action
+AddCloudXmlAction createAddCloudXmlAction(QMindMapNode;ZQColor;) | create add cloud xml action
+AddIconAction createAddIconAction(QMindMapNode;QMindIcon;) | create add icon action
+AddLinkXmlAction createAddLinkXmlAction(QMindMapNode;QString;) | create add link xml action
+BloomFilter createAddOnly(I) | create add only
+BloomFilter createAddRemove4Bit(I) | create add remove 4 bit
+BloomFilter createAddRemove8Bit(I) | create add remove 8 bit
+boolean canAddNewPlayer() | can add new player
+boolean getAddHashes() | get add hashes
+boolean getAddOtherHashes() | get add other hashes
+boolean isAddBuddyMode() | is add buddy mode
+boolean supportsAlterTableWithAddColumn() | supports alter table with add column
+chatParticipant getOrAddParticipant(QBuddyPluginBuddy;) | get or add participant
+Coords driftAddSmoke(IIII) | drift add smoke
+Date getOrAddDate(J) | get or add date
+Double getOrAddDouble(J) | get or add double
+freemind.controller.actions.generated.instance.AddArrowLinkXmlAction createAddArrowLinkXmlAction() | create add arrow link xml action
+freemind.controller.actions.generated.instance.AddArrowLinkXmlActionType createAddArrowLinkXmlActionType() | create add arrow link xml action type
+freemind.controller.actions.generated.instance.AddCloudXmlAction createAddCloudXmlAction() | create add cloud xml action
+freemind.controller.actions.generated.instance.AddCloudXmlActionType createAddCloudXmlActionType() | create add cloud xml action type
+freemind.controller.actions.generated.instance.AddIconAction createAddIconAction() | create add icon action
+freemind.controller.actions.generated.instance.AddIconActionType createAddIconActionType() | create add icon action type
+freemind.controller.actions.generated.instance.AddLinkXmlAction createAddLinkXmlAction() | create add link xml action
+freemind.controller.actions.generated.instance.AddLinkXmlActionType createAddLinkXmlActionType() | create add link xml action type
+FromElement createAndAddFromElement(QString;QString;QEntityPersister;QEntityType;QString;) | create and add from element
+Integer getOrAddInteger(I) | get or add integer
+int getAddAlpha() | get add alpha
+int getAddBlue() | get add blue
+int getAddGreen() | get add green
+int getAddWorkTurns() | get add work turns
+IPermission pHolder2AddArray(IUpdatingPermissionManager upm, ArrayList holders) | p holder 2 add array
+IPRange createAndAddRange(QString;QString;QString;Z) | create and add range
+IScriptAlterTableAddPrimaryKey newScriptAlterTableAddPrimaryKey() | new script alter table add primary key
+java.lang.String formatAddUserString(QJUserDetails;QJSystemDetails;J) | format add user string
+Long getOrAddLong(J) | get or add long
+NewNodeAction getAddNodeAction(QMindMapNode;IQString;Qfreemind.main.Tools.BooleanHolder;) | get add node action
+Object getOrAddObject(QObject;) | get or add object
+Packet createAddEntityPacket(I) | create add entity packet
+Point2D.Double v2AddII(QPoint2D.Double;QPoint2D.Double;) | v 2 add ii
+ResourceAssignment auxAddAssignment(QProjectResource;) | aux add assignment
+String getAddColumnString() | get add column string
+String getAddForeignKeyConstraintString(QString;[QString;QString;[QString;Z) | get add foreign key constraint string
+String getAddPrimaryKeyConstraintString(QString;) | get add primary key constraint string
+String getOrAddString(QObject;) | get or add string
+void acceptAddOrdersToBatchOrder(Object p0_HttpServletRequest, Object p1_BatchOrder) | accept add orders to batch order
+void ActionAddArc() | action add arc
+void ActionAddNode() | action add node
+void afterAddInstance(QKDTreeNode;) | after add instance
+void basicAddAll(IQCollection<QFigure;>;) | basic add all
+void basicAddAll(QCollection<QFigure;>;) | basic add all
+void basicAddNode(IQBezierPath.Node;) | basic add node
+void basicAddNode(QBezierPath.Node;) | basic add node
+void checkAddColumn(QTable;QColumn;) | check add column
+void cmdAddAuction(QString;) | cmd add auction
+void createAddModelsPanel() | create add models panel
+void doAddBuddyToShare() | do add buddy to share
+void doAddDimensionLines([QDimensionLine;Z) | do add dimension lines
+void doAddFurniture([QHomePieceOfFurniture;[IZ) | do add furniture
+void doAddLabel(QHome;QLabel;Z) | do add label
+void doAddLabels([QLabel;Z) | do add labels
+void doAddRooms([QRoom;[IZ) | do add rooms
+void doAddWalls([QJoinedWall;Z) | do add walls
+void fireOnAddUserToContactList(Qjava.lang.String;) | fire on add user to contact list
+void forceAddValue(QString;) | force add value
+void getMultipleAddAttributesHelper(QString;QNode;QList<QNode;>;) | get multiple add attributes helper
+void helpTestCannotAddNullStyleToList() | help test cannot add null style to list
+void initializeAndAddFromElement(QFromElement;QString;QString;QEntityPersister;QEntityType;QString;) | initialize and add from element
+void jjAddStates(II) | jj add states
+void jjAddStates(int i, int j) | jj add states
+void jjAddStates(int start, int end) | jj add states
+void jjCheckNAddStates(II) | jj check n add states
+void jjCheckNAddTwoStates(II) | jj check n add two states
+void logADDREMOVE(QString;) | log add remove
+void notifyAddListeners(QShell;) | notify add listeners
+void onAddChild(QMindMapNode;) | on add child
+void onAddChildren(QMindMapNode;) | on add children
+void onAddPlugin(Qorg.planetamessenger.plugin.JPlugin;) | on add plugin
+void onAddUserToContactList(Qjava.lang.String;) | on add user to contact list
+void perhapsAddBonus(QTile;Z) | perhaps add bonus
+void processAlterTableAddCheckConstraint(QTable;QHsqlName;) | process alter table add check constraint
+void processAlterTableAddColumn(QTable;) | process alter table add column
+void processAlterTableAddForeignKeyConstraint(QTable;QHsqlName;) | process alter table add foreign key constraint
+void processAlterTableAddPrimaryKey(QTable;QHsqlName;) | process alter table add primary key
+void processAlterTableAddUniqueConstraint(QTable;QHsqlName;) | process alter table add unique constraint
+void processNodesAfterAddInstance(QBallNode;) | process nodes after add instance
+void reallyAddDataSources([QObject;) | really add data sources
+void recursiveCallAddChildren(QMindMapNode;QMindMapNode;) | recursive call add children
+void sendAddEntity(QEntity;) | send add entity
+void setAddAlpha(I) | set add alpha
+void setAddBlue(I) | set add blue
+void setAddBuddyMode(Z) | set add buddy mode
+void setAddFriendsMode() | set add friends mode
+void setAddGreen(I) | set add green
+void setAddOtherHashes(Z) | set add other hashes
+void testAddAndRemoveListeners() | test add and remove listeners
+void testAddChild() | test add child
+void testAddColumn() | test add column
+void testAddKeywordQuotes() | test add keyword quotes
+void testAddKeywordWhitespace() | test add keyword whitespace
+void testAddMoreThanMaxSize() | test add more than max size
+void testAddNewQuotes() | test add new quotes
+void testAddQuotesRepeat() | test add quotes repeat
+void testAddQuotesWhitespace() | test add quotes whitespace
+void testAddRemove() | test add remove
+void testAddRow() | test add row
+void testAddRows() | test add rows
+void testAddSpaces() | test add spaces
+void testAddSpacesMidLine() | test add spaces mid line
+void testAddToAggregate() | test add to aggregate
+void testBothIndentedAddSpaces() | test both indented add spaces
+void testBothIndentedAddStuff() | test both indented add stuff
+void testConcurrentAddUser() | test concurrent add user
+void testImpossibleToAddDependencyTwice() | test impossible to add dependency twice
+void triggerAddListener(QList;) | trigger add listener
+void triggerAddListener(QVuzeBuddy;I) | trigger add listener
+void updateAddTaxToBells() | update add tax to bells
+void validateAddMember(String groupIDs, String personIDs) | validate add member

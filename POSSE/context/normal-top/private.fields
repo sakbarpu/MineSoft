@@ -1,0 +1,17 @@
+boolean forPrivateKey | for private key
+boolean _isPrivate | is private
+boolean privateKey | private key
+boolean privateTorrent | private torrent
+byte[] private_key | private key
+edu.rice.cs.drjava.config.BooleanOption ALLOW_PRIVATE_ACCESS | allow private access
+int FIELD_PRIVATE | field private
+int PR_PRIVATE | pr private
+java.lang.String AZUREUS_PRIVATE_PROPERTIES | azureus private properties
+java.lang.String TK_PRIVATE | tk private
+java.math.BigInteger privateExponent | private exponent
+java.security.PrivateKey myPrivateKey | my private key
+java.security.PrivateKey use_method_private_key | use method private key
+org.bouncycastle.asn1.DERObjectIdentifier PrivateKeyUsagePeriod | private key usage period
+org.bouncycastle.crypto.CipherParameters privateParam | private param
+org.gudy.azureus2.ui.swt.components.BufferedLabel privateStatus | private status
+short ACC_PRIVATE | acc private

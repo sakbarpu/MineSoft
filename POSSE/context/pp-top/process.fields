@@ -1,0 +1,4 @@
+boolean processed | processed
+java.util.List myCurrentlyProcessed | my currently processed
+java.util.List myPreviousStateCurrentlyProcessed | my previous state currently processed
+long total_requests_processed | total requests processed

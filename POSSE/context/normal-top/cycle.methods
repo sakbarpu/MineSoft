@@ -1,0 +1,26 @@
+boolean hasCycles() | has cycles
+CycleMethodEnum getCycleMethod() | get cycle method
+int defaultNumCycles() | default num cycles
+int getNumCycles() | get num cycles
+MultipleGradientPaint.CycleMethodEnum translateSVGSpreadToCycleMethod(QElement;) | translate svg spread to cycle method
+Set<V> findCycles() | find cycles
+String getCycleEnd() | get cycle end
+String getCycleStart() | get cycle start
+String numCyclesTipText() | num cycles tip text
+String translateCycleMethodToSVG(QMultipleGradientPaint.CycleMethodEnum;) | translate cycle method to svg
+void activateExternalPage(Object parameters, IRequestCycle cycle) | activate external page
+void addLifeCycleListener(QTableLifeCycleListener;) | add life cycle listener
+void cycle(QJTextComponent;I) | cycle
+void fillHardNoCycle([IIIIIII) | fill hard no cycle
+void fillSimpleNoCycle([IIIIIII) | fill simple no cycle
+void Listener39(IPage page, Object component, Long cycle) | listener 39
+void pumpCycle() | pump cycle
+void removeCycles() | remove cycles
+void removeCycles2(I[I) | remove cycles 2
+void requestProcessCycle(QDefaultRankCalculator;) | request process cycle
+void setMaxCycles(int maxCycles) | set max cycles
+void setNumCycles(I) | set num cycles
+void testCaretMovementCyclesWhenAtEnd() | test caret movement cycles when at end
+void testCaretMovementCyclesWhenAtPrompt() | test caret movement cycles when at prompt
+void testSimpleCycle() | test simple cycle
+void triggerLifeCycleListener(I) | trigger life cycle listener

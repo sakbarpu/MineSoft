@@ -1,0 +1,4 @@
+double leastSquaresNonMissing(QInstances;I) | least squares non missing
+double leastSquares(QInstances;) | least squares
+int leastExplainingColumn(QPaceMatrix;QIntVector;II) | least explaining column
+int leastRestrictiveLoc(II) | least restrictive loc

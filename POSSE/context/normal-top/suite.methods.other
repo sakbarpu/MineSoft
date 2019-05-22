@@ -1,0 +1,3 @@
+Class<+QTestCase;> loadSuiteClass(QString;) | load suite class
+void assertJUnitSuiteStartedCount(I) | assert j unit suite started count
+void testGetSuiteClass() | test get suite class

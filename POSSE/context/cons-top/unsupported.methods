@@ -1,0 +1,5 @@
+CONS UnsupportedAttributeTypeException() | unsupported attribute type exception
+CONS UnsupportedAttributeTypeException(QString;) | unsupported attribute type exception
+CONS UnsupportedClassTypeException() | unsupported class type exception
+CONS UnsupportedClassTypeException(QString;) | unsupported class type exception
+CONS UnsupportedVersionException(QString;I) | unsupported version exception

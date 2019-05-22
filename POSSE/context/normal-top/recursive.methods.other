@@ -1,0 +1,5 @@
+boolean addDirectoryRecursiveHelper(QFile;QString;[BQFileFilter;) | add directory recursive helper
+MenuItem addShareFolderContentRecursiveMenuItem(QMenu;) | add share folder content recursive menu item
+Property getRecursiveProperty(QString;) | get recursive property
+Property getRecursiveProperty(QString;QIterator;) | get recursive property
+void testRecursiveDirectoryDelete() | test recursive directory delete

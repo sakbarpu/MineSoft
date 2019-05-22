@@ -1,0 +1,9 @@
+void deRegisterMouseWheelEventHandler(QMouseWheelEventHandler;) | de register mouse wheel event handler
+void deRegisterServer(QServer;) | de register server
+void deRegisterServer(QServer;QDatabase;) | de register server
+void fireOnRegisterExistingUser(Qjava.lang.String;Qjava.lang.String;Qjava.lang.String;) | fire on register existing user
+void fireOnRegisterNewUser(Qjava.lang.String;Qjava.lang.StringBuffer;Qjava.lang.String;) | fire on register new user
+void fireOnRegisterUserSucessfull() | fire on register user sucessfull
+void onRegisterExistingUser(Qjava.lang.String;Qjava.lang.String;Qjava.lang.String;) | on register existing user
+void onRegisterNewUser(Qjava.lang.String;Qjava.lang.StringBuffer;Qjava.lang.String;) | on register new user
+void onRegisterUserSucessfull() | on register user sucessfull

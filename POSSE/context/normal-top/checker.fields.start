@@ -1,0 +1,2 @@
+java.lang.String CHECKER_URL | checker url
+org.gudy.azureus2.core3.disk.impl.access.DMChecker checker_use_accessor | checker use accessor

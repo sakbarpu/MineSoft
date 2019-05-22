@@ -1,0 +1,4 @@
+java.lang.String FIRE_PROTECTION | fire protection
+java.security.ProtectionDomain protectionDomain | protection domain
+long F_VACUUM_PROTECTION | f vacuum protection
+org.bouncycastle.asn1.x509.KeyPurposeId id_kp_emailProtection | id kp email protection

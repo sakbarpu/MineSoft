@@ -1,0 +1,4 @@
+boolean getExport3dBorders() | get export 3 d borders
+void createGreyRectangleWithNiceBorders() | create grey rectangle with nice borders
+void displayUnexploredBorders(QGraphics2D;QMap;QTile;II) | display unexplored borders
+void setExport3dBorders(Z) | set export 3 d borders

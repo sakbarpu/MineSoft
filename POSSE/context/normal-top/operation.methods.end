@@ -1,0 +1,22 @@
+AzureusCoreOperation createOperation(I) | create operation
+boolean isCompactableOperation() | is compact able operation
+int getOperation() | get operation
+Object refInvokeOperation(String requestedOperation, List args) | ref invoke operation
+Operation getAntiOperation(QOperation;) | get anti operation
+Operation getOptimalOperation(QBayesNet;QInstances;) | get optimal operation
+OperationInfo findOperation(Service endpoint, QName inMessageName) | find operation
+Shape getShapeOfOperation() | get shape of operation
+UndoOperation getRedoOperation() | get redo operation
+UndoOperation getUndoOperation() | get undo operation
+void addFileInstallOperation(QFilePluginInstaller;) | add file install operation
+void addUndoOperation(QUndoOperation;) | add undo operation
+void afterOperation(Z) | after operation
+void afterScrollOperation() | after scroll operation
+void cancelOperation() | cancel operation
+void createOperation(IQAzureusCoreOperationTask;) | create operation
+void doOperation(Z) | do operation
+void performOperation(QBayesNet;QInstances;QOperation;) | perform operation
+void queueOperation(QObject;) | queue operation
+void registerOperation(QString;QString;) | register operation
+void runOperation(MultiOperation op, IRodinElement sibling, String newName, IProgressMonitor monitor) | run operation
+void setSingleNodeOperation(QSingleNodeOperation;) | set single node operation

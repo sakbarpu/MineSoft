@@ -1,0 +1,61 @@
+boolean embeddedPlayerAvail | embedded player avail
+int COMMAND_PLAYER_ADD | command player add
+int COMMAND_PLAYER_READY | command player ready
+int COMMAND_PLAYER_REMOVE | command player remove
+int COMMAND_PLAYER_UPDATE | command player update
+int COMMAND_SENDING_PLAYERS | command sending players
+int GAME_PLAYER_CHANGE | game player change
+int GAME_PLAYER_CHAT | game player chat
+int goalPlayers | goal players
+int player | player
+int playerId | player id
+int PLAYER_NONE | player none
+int[] playerTypes | player types
+int victoryPlayerId | victory player id
+java.awt.Choice m_chPlayer | m ch player
+java.awt.Label labPlayerInfo | lab player info
+java.awt.Label m_labelPlayer | m label player
+java.awt.List lisPlayerInfo | lis player info
+java.awt.List playerList | player list
+java.awt.MenuItem viewPlayerList | view player list
+java.awt.Panel panPlayerInfo | pan player info
+java.lang.Class cPlayerImpl | c player impl
+java.lang.String EVENT_PLAYER_PAUSE | event player pause
+java.lang.String EVENT_PLAYER_PLAY | event player play
+java.lang.String EVENT_PLAYER_RESUME | event player resume
+java.lang.String EVENT_PLAYER_STOP | event player stop
+java.lang.String EXT_AZUREUS_PLAYER_DATA | ext azureus player data
+java.lang.String FILE_PLAYER_PERSPECTIVE | file player perspective
+java.lang.String GOAL_PLAYERS | goal players
+java.lang.String ICON_DEVICE_PLAYER_MOUNTED_SMALL | icon device player mounted small
+java.lang.String ICON_DEVICE_PLAYER_UNMOUNTED_SMALL | icon device player unmounted small
+java.lang.String ICON_PERSPECTIVE_PLAYER | icon perspective player
+java.lang.String LAST_PLAYER_CAMO_NAME | last player camo name
+java.lang.String LAST_PLAYER_CATEGORY | last player category
+java.lang.String LAST_PLAYER_COLOR | last player color
+java.lang.String LAST_PLAYER_NAME | last player name
+java.lang.String PERSPECTIVE_NAME_PLAYER | perspective name player
+java.lang.String PLAYER_IMPL_JAVALAYER | player impl java layer
+java.lang.String playerName | player name
+java.lang.String XML_TYPE_PLAYER_IMPL | xml type player impl
+java.util.Hashtable playerIds | player ids
+java.util.Vector players | players
+javax.swing.JComboBox m_chPlayer | m ch player
+javax.swing.JLabel labPlayerInfo | lab player info
+javax.swing.JLabel m_labelPlayer | m label player
+javax.swing.JList lisPlayerInfo | lis player info
+javax.swing.JList playerList | player list
+javax.swing.JMenuItem viewPlayerList | view player list
+javax.swing.JPanel panPlayerInfo | pan player info
+megamek.client.ui.AWT.PlayerListDialog playerListDialog | player list dialog
+megamek.client.ui.AWT.widget.PMSimpleLabel playerL | player l
+megamek.client.ui.AWT.widget.PMSimpleLabel playerR | player r
+megamek.client.ui.swing.PlayerListDialog playerListDialog | player list dialog
+megamek.client.ui.swing.widget.PMSimpleLabel playerL | player l
+megamek.client.ui.swing.widget.PMSimpleLabel playerR | player r
+megamek.common.Player localPlayer | local player
+megamek.common.Player[] m_players | m players
+megamek.common.Player player | player
+org.jajuk.players.IPlayerImpl playerImpl | player impl
+org.jajuk.players.IPlayerImpl playerImpl1 | player impl 1
+org.jajuk.players.IPlayerImpl playerImpl2 | player impl 2

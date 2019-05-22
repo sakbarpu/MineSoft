@@ -1,0 +1,14 @@
+boolean getAlwaysRightClickScroll() | get always right click scroll
+boolean getClickEdgeScroll() | get click edge scroll
+int getToggleClickCount() | get toggle click count
+JPopupMenu getRightClickPopup() | get right click popup
+MouseListener createDoubleClickListener(QJFileChooser;QJList;) | create double click listener
+void doClickOnOkInDialog(QJDialog;QJComponentTester;) | do click on ok in dialog
+void DoubleClickListener(QJList;) | double click listener
+void historyRightClickPopup(QString;II) | history right click popup
+void setAlwaysRightClickScroll(Z) | set always right click scroll
+void setClickEdgeScroll(Z) | set click edge scroll
+void setMouseClickIsDefaultSelection(Z) | set mouse click is default selection
+void setRightClickPopup(QJPopupMenu;) | set right click popup
+void showIconRightClickMenu(QMouseEvent;I[QString;) | show icon right click menu
+void showOrdinaryRightClickMenu(QMouseEvent;) | show ordinary right click menu

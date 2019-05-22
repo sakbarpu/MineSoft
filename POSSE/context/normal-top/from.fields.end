@@ -1,0 +1,6 @@
+byte[] BYTES_DELETE_FROM | bytes delete from
+java.lang.String T_FROM | t from
+java.lang.String TORRENT_AZ_PROP_OBTAINED_FROM | torrent az prop obtained from
+java.lang.String XML_DJ_FROM | xml dj from
+javax.swing.JLabel jlFrom | jl from
+javax.swing.JTextField jtfFrom | jtf from

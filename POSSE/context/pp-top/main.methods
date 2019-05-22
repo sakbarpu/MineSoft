@@ -1,0 +1,5 @@
+void mainEmbedded(QContextFactory;QScopeProvider;QString;) | main embedded
+void mainEmbedded(QContextFactory;QScriptable;QString;) | main embedded
+void mainEmbedded(QString;) | main embedded
+void oldMainWindowInitialized(QMainWindow;) | old main window initialized
+void setMainlineDHTEnabled(Z) | set mainline dht enabled

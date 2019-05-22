@@ -1,0 +1,10 @@
+float[] floatArrayAttribute(QNode;QString;) | float array attribute
+float[] floatArrayAttribute(QNode;QString;[F) | float array attribute
+float[] floatArrayAttribute(QNode;QString;QString;) | float array attribute
+float floatAttribute(QNode;QString;) | float attribute
+float floatAttribute(QNode;QString;F) | float attribute
+float floatOption(QString;) | float option
+float floatValue() | float value
+void FloatEntry(FI) | float entry
+void FloatEntry(FIQEntry;I) | float entry
+void floatParameterChanging(QParameter;D) | float parameter changing

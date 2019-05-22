@@ -1,0 +1,4 @@
+int iterationCount | iteration count
+java.math.BigInteger iterationCount | iteration count
+long iterationNumber | iteration number
+org.bouncycastle.asn1.DERInteger iterationCount | iteration count

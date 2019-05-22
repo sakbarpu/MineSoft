@@ -1,0 +1,3 @@
+boolean tick(Tickable ticking, int tickID) | tick
+void tick() | tick
+void tick(I) | tick

@@ -1,0 +1,5 @@
+java.util.LinkedList<java.io.File> _buildCP | build cp
+java.util.LinkedList<java.io.File> _externalFilesCP | external files cp
+java.util.LinkedList<java.io.File> _extraCP | extra cp
+java.util.LinkedList<java.io.File> _projectCP | project cp
+java.util.LinkedList<java.io.File> _projectFilesCP | project files cp

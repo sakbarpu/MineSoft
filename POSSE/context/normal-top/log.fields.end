@@ -1,0 +1,24 @@
+boolean bDebugLog | b debug log
+boolean FORCE_LOG | force log
+boolean isProcessingLog | is processing log
+com.aelitis.azureus.core.dht.DHTLogger dht_log | dht log
+int Id_log | id log
+int MSG_TYPE_LOG | msg type log
+int next_request_num_log | next request num log
+java.awt.Checkbox keepGameLog | keep game log
+java.io.PrintWriter mekHitLocLog | mek hit loc log
+java.lang.String MEK_HIT_LOC_LOG | mek hit loc log
+java.lang.String OP_LOG | op log
+java.lang.String OPTION_LOG | option log
+java.lang.String PR_LOG | pr log
+javax.swing.JCheckBox keepGameLog | keep game log
+javax.swing.JMenuItem jMenuItemClearLog | j menu item clear log
+javax.swing.JMenuItem jMenuItemCloseLog | j menu item close log
+javax.swing.JMenuItem jMenuItemKeepLog | j menu item keep log
+javax.swing.JPopupMenu jPopupMenuLog | j popup menu log
+long last_lag_log | last lag log
+long next_request_byte_log | next request byte log
+org.gudy.azureus2.core3.util.AEDiagnosticsLogger dLog | d log
+org.gudy.azureus2.plugins.ui.config.BooleanParameter trace_to_log | trace to log
+org.hsqldb.HsqlNameManager.HsqlName schemaToLog | schema to log
+org.hsqldb.lib.SimpleLog appLog | app log

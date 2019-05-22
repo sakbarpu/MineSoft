@@ -1,0 +1,28 @@
+boolean latest_forcedStart | latest forced start
+boolean latest_informed_force_start | latest informed force start
+com.aelitis.azureus.plugins.net.buddy.BuddyPlugin.publishDetails latest_publish | latest publish
+int latency | latency
+int LATENCY | latency
+int LATENCY_FACTOR | latency factor
+int LATER | later
+int LATERAL | lateral
+int latestReportType | latest report type
+int latest_state | latest state
+int latestVersion | latest version
+int START_LATER_VARIATION | start later variation
+int STEP_LATERAL_LEFT | step lateral left
+int STEP_LATERAL_LEFT_BACKWARDS | step lateral left backwards
+int STEP_LATERAL_RIGHT | step lateral right
+int STEP_LATERAL_RIGHT_BACKWARDS | step lateral right backwards
+java.awt.Color myLaterPreviousTaskColor | my later previous task color
+java.lang.String CONFIG_LATENCY_FACTOR | config latency factor
+java.lang.String LATEST_VERSION_PROPERTY | latest version property
+java.lang.String T_LATERAL | t lateral
+java.lang.Thread latest_waiter | latest waiter
+java.util.HashMap myLateAssigmnent2roleBinding | my late ass ig mn ent 2 role binding
+java.util.HashMap myLateResource2roleBinding | my late resource 2 role binding
+long latest_time | latest time
+long latest_ygm_time | latest ygm time
+org.gudy.azureus2.core3.util.AEMonitor latestReport_mon | latest report mon
+org.gudy.azureus2.ui.swt.progress.IProgressReport latestProgressReport | latest progress report
+org.gudy.azureus2.ui.swt.progress.IProgressReport latestReport | latest report

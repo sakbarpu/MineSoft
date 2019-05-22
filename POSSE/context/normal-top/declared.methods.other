@@ -1,0 +1,3 @@
+Iterable<QType;> getDeclaredThrownTypes() | get declared thrown types
+Method getDeclaredMethod(int index) | get declared method
+void iterateDeclaredPrefixes(QPrefixCallback;) | iterate declared prefixes

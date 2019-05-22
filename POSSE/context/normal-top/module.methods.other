@@ -1,0 +1,10 @@
+BaseModule getOptBaseModuleList(int i) | get opt base module list
+MapModuleManager getMapModuleManager() | get map module manager
+Set getModuleSet() | get module set
+String getModuleName() | get module name
+String jythonModuleTipText() | jython module tip text
+void outSnmpModuleSupportPart(Node node) | out snmp module support part
+void printModuleTree(IRodinFile file, IModuleFactory moduleFactory) | print module tree
+void setModulePath(Path modulePath) | set module path
+void testLocalWorkingCopyAndCvsrootModuleAreMutuallyExclusive() | test local working copy and cvsroot module are mutually exclusive
+void updateMapModuleName() | update map module name

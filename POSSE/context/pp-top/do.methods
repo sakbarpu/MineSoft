@@ -1,0 +1,108 @@
+boolean getDownloadCompleted() | get download completed
+boolean[] getDownloaded() | get downloaded
+boolean isDocked() | is docked
+boolean isDocumentSelected() | is document selected
+boolean isDoomed() | is doomed
+boolean isDoubleSupported() | is double supported
+boolean isDownloaded() | is downloaded
+boolean isDownloaded(I) | is downloaded
+boolean isSettingDownloadUnlimited() | is setting download unlimited
+boolean moveDownloadFilesWhenEndedOrRemoved(ZZ) | move download files when ended or removed
+Download addDownloadStopped(QTorrent;QFile;QFile;) | add download stopped
+int do_escaped(QPrintWriter;C) | do escaped
+int getAverageDownloadSpeed() | get average download speed
+int getCurrentDataDownloadSpeed() | get current data download speed
+int getCurrentDataDownloadSpeed(I) | get current data download speed
+int getCurrentProtocolDownloadSpeed() | get current protocol download speed
+int getCurrentProtocolDownloadSpeed(I) | get current protocol download speed
+int getDownloadCompleted(Z) | get download completed
+int[] getDownloaded() | get downloaded
+int getDownloadSpeed() | get download speed
+long getAverageDownloaded() | get average downloaded
+long getBiasedDownloaded() | get biased downloaded
+long getBytesDownloaded() | get bytes downloaded
+long getDownloaded() | get downloaded
+long getInitialBytesDownloaded() | get initial bytes downloaded
+long getInitialBytesDownloaded(J) | get initial bytes downloaded
+long getTotalDownloaded() | get total downloaded
+String formatDownloaded(QDownloadManagerStats;) | format downloaded
+String joinAsDotted(QString;QString;) | join as dotted
+String joinAsDotted(QString;QString;QString;) | join as dotted
+TorrentDownloader downloadManaged(QString;) | download managed
+TorrentDownloader downloadManaged(QString;QString;) | download managed
+TorrentDownloader downloadManaged(QString;QString;Z) | download managed
+TorrentDownloader downloadManaged(QString;Z) | download managed
+void activeDocumentChanged(QOpenDefinitionsDocument;) | active document changed
+void activeDocumentRefreshed(QOpenDefinitionsDocument;) | active document refreshed
+void canDownloadManagerBeRemoved(QDownloadManager;ZZ) | can download manager be removed
+void clearDownloaded(I) | clear downloaded
+void closedownInitiated() | close down initiated
+void doChatClicked() | do chat clicked
+void doChatClicked(Z) | do chat clicked
+void DoClearDeleted(QComponent;) | do clear deleted
+void documentChanged(QDocumentEvent;) | document changed
+void documentModified() | document modified
+void documentSaved() | document saved
+void doLinkClicked() | do link clicked
+void DoSetNotEnded(QComponent;QAuctionEntry;) | do set not ended
+void doubleClicked(QMouseEvent;) | double clicked
+void downButtonActionPerformed(Qjava.awt.event.ActionEvent;) | down button action performed
+void downloadAdded(QDownload;) | download added
+void downloadAdded(QDownloadManager;) | download added
+void downloadEnded() | download ended
+void downloadEnded(Z) | download ended
+void downloadFinished() | download finished
+void downloadManagerAdded(QCategory;QDownloadManager;) | download manager added
+void downloadManagerAdded(QDownloadManager;) | download manager added
+void downloadManagerAdded(QDownloadManager;Z) | download manager added
+void downloadManagerRemoved(QCategory;QDownloadManager;) | download manager removed
+void downloadManagerRemoved(QDownloadManager;) | download manager removed
+void downloadRemoved() | download removed
+void downloadRemoved(QDownload;) | download removed
+void downloadRemoved(QFile;QFile;) | download removed
+void downloadSucceeded(QDownload;QFile;QFile;) | download succeeded
+void downloadWillBeRemoved(QDownload;) | download will be removed
+void downloadWillBeRemoved(QDownloadManager;ZZ) | download will be removed
+void fireDownloaded(Z) | fire downloaded
+void HackDownloadSpeed() | hack download speed
+void iconLeftDoubleClicked(Qsnoozesoft.systray4j.SysTrayMenuEvent;) | icon left double clicked
+void imageDownloaded([B) | image downloaded
+void informDownCapChanged() | inform down cap changed
+void informDownloadEnded() | inform download ended
+void jButtonMoveDownActionPerformed(Qjava.awt.event.ActionEvent;) | j button move down action performed
+void jButtonMoveDownGroupActionPerformed(Qjava.awt.event.ActionEvent;) | j button move down group action performed
+void jMenuItemMoveDownActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item move down action performed
+void jMenuItemNewDocumentActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item new document action performed
+void jTreeDocumentMousePressed(Qjava.awt.event.MouseEvent;) | j tree document mouse pressed
+void jTreeDocumentTreeCollapsed(Qjavax.swing.event.TreeExpansionEvent;) | j tree document tree collapsed
+void jTreeDocumentTreeExpanded(Qjavax.swing.event.TreeExpansionEvent;) | j tree document tree expanded
+void jTreeDocumentValueChanged(Qjavax.swing.event.TreeSelectionEvent;) | j tree document value changed
+void loadFileDownloaded(QDownloadManager;[QDiskManagerFileInfoHelper;) | load file downloaded
+void pieceDoneChanged(QDiskManagerPiece;) | piece done changed
+void removeDownloadDelayed(QDownload;) | remove download delayed
+void setDocked(Z) | set docked
+void setDodgeEnabled(Z) | set dodge enabled
+void setDoomed(Z) | set doomed
+void setDownloadCompleted() | set download completed
+void setDownloadCompleted(I) | set download completed
+void setDownloaded(I) | set downloaded
+void setDownloaded(J) | set downloaded
+void setDownloadSpeed(I) | set download speed
+void setDownSpeed(I) | set down speed
+void setHullDownEnabled(Z) | set hull down enabled
+void setMoveHullDownEnabled(Z) | set move hull down enabled
+void setPhysicalDodgeEnabled(Z) | set physical dodge enabled
+void setSavedDownloadedUploaded(JJ) | set saved downloaded uploaded
+void setSelectedPeersDownSpeed(IQTableView;) | set selected peers down speed
+void storeFileDownloaded(QDownloadManager;[QDiskManagerFileInfo;Z) | store file downloaded
+void subscriptionDownloaded(QSubscription;Z) | subscription downloaded
+void testDollarEscapedQuoted() | test dollar escaped quoted
+void testDollarEscapeQuoted() | test dollar escape quoted
+void testDollarNestedQuoted() | test dollar nested quoted
+void testDollarQuoted() | test dollar quoted
+void testDoubleIntSpeed() | test double int speed
+void testEscapeDollarNestedQuoted() | test escape dollar nested quoted
+void testEscapeDollarQuoted() | test escape dollar quoted
+void testEscapePipeDollarNestedQuoted() | test escape pipe dollar nested quoted
+void testEscapePipeDollarQuoted() | test escape pipe dollar quoted
+void waitDocChanged() | wait doc changed

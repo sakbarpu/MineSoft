@@ -1,0 +1,5 @@
+Enumeration children() | children
+Enumeration<QGroupTreeNode;> children() | children
+Iterator children() | children
+Iterator children(QNode;) | children
+VariableNode[] children(QVariableNode;) | children

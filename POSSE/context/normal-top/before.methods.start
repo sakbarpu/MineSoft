@@ -1,0 +1,26 @@
+boolean beforeFirst() | before first
+void beforeAdd(I) | before add
+void beforeAssemble(QSerializable;QSessionImplementor;) | before assemble
+void beforeAssemble([QSerializable;[QType;QSessionImplementor;) | before assemble
+void beforeClose() | before close
+void beforeColumnInit() | before column init
+void beforeCompletion() | before completion
+void beforeDetailEval() | before detail eval
+void beforeExecute(QThread;QRunnable;) | before execute
+void beforeExecutions() | before executions
+void beforeFetch() | before fetch
+void beforeFirst() | before first
+void beforeGroupInit(QString;) | before group init
+void beforeInitialize(QCollectionPersister;I) | before initialize
+void beforeLoad() | before load
+void beforePageInit() | before page init
+void beforePopup(QJPopupMenu;QMouseEvent;) | before popup
+void beforeProcessingGrid(I) | before processing grid
+void beforeProcessingTimeFrames() | before processing time frames
+void beforeQuit() | before quit
+void beforeRemove(I) | before remove
+void beforeReportInit() | before report init
+void beforeSelectClause() | before select clause
+void beforeTransactionCompletion(QTransaction;) | before transaction completion
+void beforeUISetup() | before ui setup
+void beforeUpdate() | before update

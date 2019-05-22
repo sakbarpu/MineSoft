@@ -1,0 +1,12 @@
+boolean performIteration(I[[D[[D[[DQInstances;) | perform iteration
+boolean stopIteration(II) | stop iteration
+boolean stopKMeansIteration(II) | stop k means iteration
+int getAttsToEliminatePerIteration() | get atts to eliminate per iteration
+int getBestIteration([DI) | get best iteration
+int getPercentToEliminatePerIteration() | get percent to eliminate per iteration
+void nextIteration() | next iteration
+void performIteration([[D[[D[[DQInstances;D) | perform iteration
+void setAttsToEliminatePerIteration(I) | set atts to eliminate per iteration
+void setMaxIteration(I) | set max iteration
+void setPercentToEliminatePerIteration(I) | set percent to eliminate per iteration
+void testRemoveFromAggregateUnderIteration() | test remove from aggregate under iteration

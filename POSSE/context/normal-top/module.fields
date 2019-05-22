@@ -1,0 +1,6 @@
+freemind.controller.MapModuleManager mapModuleManager | map module manager
+freemind.view.MapModule mapModule | map module
+int MISSING_SOFTWARE_MODULE | missing software module
+int MODULE | module
+java.lang.String T_MODULE | t module
+java.util.Map mapModules | map modules

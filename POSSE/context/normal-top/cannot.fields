@@ -1,0 +1,2 @@
+int BID_ERROR_CANNOT | bid error cannot
+int CANNOT_CONNECT_TABLE | cannot connect table

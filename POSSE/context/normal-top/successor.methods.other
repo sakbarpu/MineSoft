@@ -1,0 +1,4 @@
+int getSuccessorTaskID() | get successor task id
+Task getSuccessorTask() | get successor task
+void setSuccessorTask(I) | set successor task
+void setSuccessorTask(QTask;) | set successor task

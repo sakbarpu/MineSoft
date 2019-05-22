@@ -1,0 +1,4 @@
+Component _extraClassPathComponent() | extra class path component
+int extraArcs(QBayesNet;) | extra arcs
+void ExtraPanel() | extra panel
+void ExtraPanel(QClientGUI;) | extra panel

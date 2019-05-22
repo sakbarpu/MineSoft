@@ -1,0 +1,16 @@
+edu.rice.cs.drjava.config.BooleanOption DIALOG_AUTOIMPORT_STORE_POSITION | dialog autoimport store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_CLIPBOARD_HISTORY_STORE_POSITION | dialog clipboard history store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_COMPLETE_WORD_STORE_POSITION | dialog complete word store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_DEBUGFRAME_STORE_POSITION | dialog debug frame store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_EDITEXTERNALPROCESS_STORE_POSITION | dialog edite xternal process store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_EXTERNALPROCESS_STORE_POSITION | dialog external process store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_GOTOFILE_STORE_POSITION | dialog goto file store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_JAROPTIONS_STORE_POSITION | dialog jar options store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_OPENJAVADOC_STORE_POSITION | dialog open javadoc store position
+edu.rice.cs.drjava.config.BooleanOption DIALOG_TABBEDPANES_STORE_POSITION | dialog tabbed panes store position
+edu.rice.cs.drjava.config.BooleanOption WINDOW_STORE_POSITION | window store position
+int FIELDS_STORE_SIZE | fields store size
+int INT_STORE_SIZE | int store size
+int LONG_STORE_SIZE | long store size
+java.lang.String AT_FILE_STORE_TYPES | at file store types
+java.lang.String CLIENT_SETTINGS_STORE_NAME | client settings store name

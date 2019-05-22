@@ -1,0 +1,3 @@
+int getTimeUntilNextUpdate() | get time until next update
+void waitUntilIdle() | wait until idle
+void waitUntilIdleSupport() | wait until idle support

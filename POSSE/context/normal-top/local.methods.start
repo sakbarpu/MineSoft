@@ -1,0 +1,5 @@
+ClassifierSplitModel localModel() | local model
+double[] localDistributionForInstance(QInstance;QIndexes;) | local distribution for instance
+double LocalTime(D) | local time
+void localNaiveBayes(QIndexes;) | local naive bayes
+void localUpdate() | local update

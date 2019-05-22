@@ -1,0 +1,2 @@
+boolean isSharingToolsAmongProjects() | is sharing tools among projects
+Vector getProjects() | get projects

@@ -1,0 +1,136 @@
+AutoFlushEventListener[] getAutoFlushEventListeners() | get auto flush event listeners
+boolean hasPostCommitEventListeners() | has post commit event listeners
+boolean isEventSource() | is event source
+boolean isGuiEventThread() | is gui event thread
+boolean showEventDialog(I) | show event dialog
+boolean triggerEvent2(IQObject;) | trigger event 2
+DeleteEventListener[] getDeleteEventListeners() | get delete event listeners
+DirtyCheckEventListener[] getDirtyCheckEventListeners() | get dirty check event listeners
+DownloadEventNotifier getGlobalDownloadEventNotifier() | get global download event notifier
+Event903 getEvent903() | get event 903
+Event905 addNewEvent905() | add new event 905
+EventDefinition getInEventDef(int idx) | get in event def
+EventListeners getEventListeners() | get event listeners
+EventListeners getInitializedEventListeners() | get initialized event listeners
+EventRequestManager getEventRequestManager() | get event request manager
+EventSetDescriptor[] getEventSetDescriptors() | get event set descriptors
+EventSetDescriptor getSourceEventSetDescriptor() | get source event set descriptor
+EvictEventListener[] getEvictEventListeners() | get evict event listeners
+FlushEntityEventListener[] getFlushEntityEventListeners() | get flush entity event listeners
+FlushEventListener[] getFlushEventListeners() | get flush event listeners
+InitializeCollectionEventListener[] getInitializeCollectionEventListeners() | get initialize collection event listeners
+int appleEventProc(III) | apple event proc
+int getDefaultEventIndex() | get default event index
+int getEventType() | get event type
+IView createTreeItemFromEventListener(QString;QTreeItem;QUISWTViewEventListener;QString;ZQObject;) | create tree item from event listener
+LoadEventListener[] getLoadEventListeners() | get load event listeners
+LockEventListener[] getLockEventListeners() | get lock event listeners
+MergeEventListener[] getMergeEventListeners() | get merge event listeners
+MergeEventListener[] getSaveOrUpdateCopyEventListeners() | get save or update copy event listeners
+MidiTrackEvent getMidiTrackEventAt(I) | get midi track event at
+OptionEventDispatcher getOptionEventDispatcher() | get option event dispatcher
+PersistEventListener[] getPersistEventListeners() | get persist event listeners
+PersistEventListener[] getPersistOnFlushEventListeners() | get persist on flush event listeners
+PostCollectionRecreateEventListener[] getPostCollectionRecreateEventListeners() | get post collection recreate event listeners
+PostCollectionRemoveEventListener[] getPostCollectionRemoveEventListeners() | get post collection remove event listeners
+PostCollectionUpdateEventListener[] getPostCollectionUpdateEventListeners() | get post collection update event listeners
+PostDeleteEventListener[] getPostCommitDeleteEventListeners() | get post commit delete event listeners
+PostDeleteEventListener[] getPostDeleteEventListeners() | get post delete event listeners
+PostInsertEventListener[] getPostCommitInsertEventListeners() | get post commit insert event listeners
+PostInsertEventListener[] getPostInsertEventListeners() | get post insert event listeners
+PostLoadEventListener[] getPostLoadEventListeners() | get post load event listeners
+PostUpdateEventListener[] getPostCommitUpdateEventListeners() | get post commit update event listeners
+PostUpdateEventListener[] getPostUpdateEventListeners() | get post update event listeners
+PreCollectionRecreateEventListener[] getPreCollectionRecreateEventListeners() | get pre collection recreate event listeners
+PreCollectionRemoveEventListener[] getPreCollectionRemoveEventListeners() | get pre collection remove event listeners
+PreCollectionUpdateEventListener[] getPreCollectionUpdateEventListeners() | get pre collection update event listeners
+PreDeleteEventListener[] getPreDeleteEventListeners() | get pre delete event listeners
+PreInsertEventListener[] getPreInsertEventListeners() | get pre insert event listeners
+PreLoadEventListener[] getPreLoadEventListeners() | get pre load event listeners
+PreUpdateEventListener[] getPreUpdateEventListeners() | get pre update event listeners
+RefreshEventListener[] getRefreshEventListeners() | get refresh event listeners
+ReplicateEventListener[] getReplicateEventListeners() | get replicate event listeners
+SaveOrUpdateEventListener[] getSaveEventListeners() | get save event listeners
+SaveOrUpdateEventListener[] getSaveOrUpdateEventListeners() | get save or update event listeners
+SaveOrUpdateEventListener[] getUpdateEventListeners() | get update event listeners
+String getEventName() | get event name
+String getEventSubtypesImpl() | get event subtypes impl
+String MidiEventToString(QMidiEvent;) | midi event to string
+UISWTViewEventListener getEventListener() | get event listener
+ValidationEventHandler getEventHandler() | get event handler
+void addComVcEventListener(QJComVcEventListener;) | add com vc event listener
+void addDatagramEventListener(Qorg.planetamessenger.net.JDatagramEventListener;) | add datagram event listener
+void addEventListener(ChangeListener l) | add event listener
+void addEventListener(QPerformanceEventListener;) | add event listener
+void addEventListener(QPluginEventListener;) | add event listener
+void addEventListener(XEventListener listener) | add event listener
+void addEventOut(String name, ConstField field) | add event out
+void addLayoutCompleteEventListener(QLayoutCompleteEventListener;) | add layout complete event listener
+void addMenuEventHandlers() | add menu event handlers
+void addMessengerEventListener(QJMessengerEventListener;) | add messenger event listener
+void addPopupWindowEventListener(QJPopupWindowEventListener;) | add popup window event listener
+void addProjectEventListener(QProjectEventListener;) | add project event listener
+void addSocketEventListener(Qorg.planetamessenger.net.JSocketEventListener;) | add socket event listener
+void addUIEventListener(QUIManagerEventListener;) | add ui event listener
+void clearEventQueue() | clear event queue
+void clearEventQueue(Z) | clear event queue
+void createMoveOnEventGrouping(QComposite;QString;QString;QString;QString;QString;QString;) | create move on event grouping
+void deRegisterMouseWheelEventHandler(QMouseWheelEventHandler;) | de register mouse wheel event handler
+void fireEventSupport(IQObject;) | fire event support
+void JComVcEventImpl(QJPlugin;) | j com vc event impl
+void registerMouseWheelEventHandler(QMouseWheelEventHandler;) | register mouse wheel event handler
+void removeDatagramEventListener(Qorg.planetamessenger.net.JDatagramEventListener;) | remove datagram event listener
+void removeEventListener(QPluginEventListener;) | remove event listener
+void removeEventListeners() | remove event listeners
+void removeLayoutCompleteEventListener(QLayoutCompleteEventListener;) | remove layout complete event listener
+void removeMessengerEventListener(QJMessengerEventListener;) | remove messenger event listener
+void removePopupWindowEventListener(QJPopupWindowEventListener;) | remove popup window event listener
+void removeProjectEventListener(QProjectEventListener;) | remove project event listener
+void removeSocketEventListener(Qorg.planetamessenger.net.JSocketEventListener;) | remove socket event listener
+void removeUIEventListener(QUIManagerEventListener;) | remove ui event listener
+void setAutoFlushEventListeners([QAutoFlushEventListener;) | set auto flush event listeners
+void setDeleteEventListeners([QDeleteEventListener;) | set delete event listeners
+void setDirtyCheckEventListeners([QDirtyCheckEventListener;) | set dirty check event listeners
+void setEventHandler(QValidationEventHandler;) | set event handler
+void setEventListener(QUISWTViewEventListener;) | set event listener
+void setEvictEventListeners([QEvictEventListener;) | set evict event listeners
+void setFlushEntityEventListeners([QFlushEntityEventListener;) | set flush entity event listeners
+void setFlushEventListeners([QFlushEventListener;) | set flush event listeners
+void setInitializeCollectionEventListeners([QInitializeCollectionEventListener;) | set initialize collection event listeners
+void setLoadEventListeners([QLoadEventListener;) | set load event listeners
+void setLockEventListeners([QLockEventListener;) | set lock event listeners
+void setMergeEventListeners([QMergeEventListener;) | set merge event listeners
+void setPersistEventListeners([QPersistEventListener;) | set persist event listeners
+void setPersistOnFlushEventListeners([QPersistEventListener;) | set persist on flush event listeners
+void setPostCollectionRecreateEventListeners([QPostCollectionRecreateEventListener;) | set post collection recreate event listeners
+void setPostCollectionRemoveEventListeners([QPostCollectionRemoveEventListener;) | set post collection remove event listeners
+void setPostCollectionUpdateEventListeners([QPostCollectionUpdateEventListener;) | set post collection update event listeners
+void setPostCommitDeleteEventListeners([QPostDeleteEventListener;) | set post commit delete event listeners
+void setPostCommitInsertEventListeners([QPostInsertEventListener;) | set post commit insert event listeners
+void setPostCommitUpdateEventListeners([QPostUpdateEventListener;) | set post commit update event listeners
+void setPostDeleteEventListeners([QPostDeleteEventListener;) | set post delete event listeners
+void setPostInsertEventListeners([QPostInsertEventListener;) | set post insert event listeners
+void setPostLoadEventListeners([QPostLoadEventListener;) | set post load event listeners
+void setPostUpdateEventListeners([QPostUpdateEventListener;) | set post update event listeners
+void setPreCollectionRecreateEventListeners([QPreCollectionRecreateEventListener;) | set pre collection recreate event listeners
+void setPreCollectionRemoveEventListeners([QPreCollectionRemoveEventListener;) | set pre collection remove event listeners
+void setPreCollectionUpdateEventListeners([QPreCollectionUpdateEventListener;) | set pre collection update event listeners
+void setPreDeleteEventListeners([QPreDeleteEventListener;) | set pre delete event listeners
+void setPreInsertEventListeners([QPreInsertEventListener;) | set pre insert event listeners
+void setPreLoadEventListeners([QPreLoadEventListener;) | set pre load event listeners
+void setPreUpdateEventListeners([QPreUpdateEventListener;) | set pre update event listeners
+void setRefreshEventListeners([QRefreshEventListener;) | set refresh event listeners
+void setReplicateEventListeners([QReplicateEventListener;) | set replicate event listeners
+void setSaveEventListeners([QSaveOrUpdateEventListener;) | set save event listeners
+void setSaveOrUpdateCopyEventListeners([QMergeEventListener;) | set save or update copy event listeners
+void setSaveOrUpdateEventListeners([QSaveOrUpdateEventListener;) | set save or update event listeners
+void setUpdateEventListeners([QSaveOrUpdateEventListener;) | set update event listeners
+void testClearEventQueue() | test clear event queue
+void testDependencyEventIsSentOnDependencyCreation() | test dependency event is sent on dependency creation
+void testDependencyEventIsSentOnDependencyRemoval() | test dependency event is sent on dependency removal
+void testEventIsSentOnCreatingNewTask() | test event is sent on creating new task
+void testTaskScheduleEventIsSendOnTaskDurationChange() | test task schedule event is send on task duration change
+void testTaskScheduleEventIsSendOnTaskEndChange() | test task schedule event is send on task end change
+void testTaskScheduleEventIsSendOnTaskStartChange() | test task schedule event is send on task start change
+void userServiceEventImplementation(int eventType, IUserBean iub) | user service event implementation
+XMLEventReader createXMLEventReader(String systemId, Reader reader) | create xml event reader

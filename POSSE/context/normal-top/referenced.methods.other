@@ -1,0 +1,19 @@
+boolean hasReferencedRow(QSession;[QObject;[IQIndex;) | has referenced row
+FromElement getReferencedFromElement() | get referenced from element
+int getCrossreferencedEntriesCount() | get cross referenced entries count
+List getReferencedColumns() | get referenced columns
+Property getReferencedProperty(QString;) | get referenced property
+Set getReferencedColumns(QExpression;) | get referenced columns
+Set<QURL;> getReferencedDocuments() | get referenced documents
+String getReferencedEntityName() | get referenced entity name
+String getReferencedPropertyName() | get referenced property name
+Table getReferencedTable() | get referenced table
+Type getReferencedPropertyType(QString;QString;) | get referenced property type
+void addReferencedColumn(QColumn;) | add referenced column
+void addReferencedColumns(QIterator;) | add referenced columns
+void addReferencedDocument(QString;) | add referenced document
+void checkReferencedRows(QSession;QTable;[IQIndex;) | check referenced rows
+void processNeverReferencedCollection(QPersistentCollection;QSessionImplementor;) | process never referenced collection
+void setReferencedEntityName(QString;) | set referenced entity name
+void setReferencedPropertyName(QString;) | set referenced property name
+void setReferencedTable(QTable;) | set referenced table

@@ -1,0 +1,23 @@
+boolean handleMouseClick(QPoint2D.Double;QMouseEvent;QDrawingView;) | handle mouse click
+MouseEvent getLastMouseClick() | get last mouse click
+void doClick() | do click
+void doDoubleClick() | do double click
+void doDoubleClick(QMouseEvent;III) | do double click
+void doSingleClick(QMouseEvent;III) | do single click
+void doTripleClick(QMouseEvent;III) | do triple click
+void doubleClick() | double click
+void doubleClick(QMouseEvent;) | double click
+void handleClick(QMouseEvent;) | handle click
+void handleDoubleClick(QMouseEvent;) | handle double click
+void handleRightClick(QMouseEvent;II) | handle right click
+void handleRightNodeClick(QMouseEvent;) | handle right node click
+void internalDoubleClick(QMouseEvent;) | internal double click
+void mouseDoubleClick(QMouseEvent;) | mouse double click
+void onClick() | on click
+void OnDoubleClick(QJTable;QObject;QMouseEvent;) | on double click
+void onMouseClick(QMouseEvent;) | on mouse click
+void plainClick(QMouseEvent;) | plain click
+void processMouseClick(IIQMouseEvent;) | process mouse click
+void setOnClick(String script) | set on click
+void trackDoubleClick(QPoint;I) | track double click
+void trackDoubleClick(QPoint;IQDrawingView;) | track double click

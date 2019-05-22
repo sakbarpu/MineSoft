@@ -1,0 +1,12 @@
+File retrieveFile() | retrieve file
+Grammar retrieveGrammar(XMLGrammarDescription gDesc) | retrieve grammar
+Instances retrieveInstances() | retrieve instances
+Instances retrieveInstances(QString;) | retrieve instances
+List retrieveExplicitMessages(I) | retrieve explicit messages
+List retrieveMessages(I) | retrieve messages
+Raster retrieveRaster() | retrieve raster
+String retrieveDir() | retrieve dir
+String retrieveError() | retrieve error
+String retrieveURL() | retrieve url
+UserPreferenceCatalog retrievePreferences(String uuid, UserPreferenceCatalog prefs) | retrieve preferences
+void retrieveServerInfo() | retrieve server info

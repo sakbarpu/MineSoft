@@ -1,0 +1,249 @@
+boolean hasReportedError() | has reported error
+boolean isReportCatalogs() | is report catalogs
+boolean isReportFontMode() | is report font mode
+boolean isReportingWarnings() | is reporting warnings
+boolean isSynchronizeReportName() | is synchronize report name
+boolean isUseReportVirtualizer() | is use report virtualizer
+boolean reportNode(IQInetAddress;I) | report node
+boolean saveiReportConfiguration() | savei report configuration
+boolean saveiReportConfiguration(QString;) | savei report configuration
+Element getForeignAffairsReport() | get foreign affairs report
+ErrorReporter getErrorReporter() | get error reporter
+ErrorReporter setErrorReporter(QErrorReporter;) | set error reporter
+EvaluatorException reportRuntimeError0(QString;) | report runtime error 0
+EvaluatorException reportRuntimeError1(QString;QObject;) | report runtime error 1
+EvaluatorException reportRuntimeError2(QString;QObject;QObject;) | report runtime error 2
+EvaluatorException reportRuntimeError3(QString;QObject;QObject;QObject;) | report runtime error 3
+EvaluatorException reportRuntimeError4(QString;QObject;QObject;QObject;QObject;) | report runtime error 4
+EvaluatorException reportRuntimeError(QString;) | report runtime error
+EvaluatorException reportRuntimeError(QString;QString;IQString;I) | report runtime error
+File getReportDirectory() | get report directory
+FSTranslateReporter getReporter() | get reporter
+int getMiniReportPosX() | get mini report pos x
+int getMiniReportPosY() | get mini report pos y
+int getMiniReportSizeHeight() | get mini report size height
+int getMiniReportSizeWidth() | get mini report size width
+int getReportedPeerCount() | get reported peer count
+int getReporterCount(I) | get reporter count
+int getReporterID() | get reporter id
+int getReportFrequency() | get report frequency
+int getReportHeight() | get report height
+int getReportType() | get report type
+int getReportViewer() | get report viewer
+int getReportWidth() | get report width
+int reportHam(String filename) | report ham
+int reporting(IQIProgressReporter;) | reporting
+int report(QIProgressReport;) | report
+int reportRelease() | report release
+int reportUsage() | report usage
+IProgressReporter addReporter() | add reporter
+IProgressReporter addReporter(QString;) | add reporter
+IProgressReporter getCurrentReporter() | get current reporter
+IProgressReporter getNextActiveReporter() | get next active reporter
+IProgressReporter getProgressReporter() | get progress reporter
+IProgressReporter[] getReportersArray(Z) | get reporters array
+IProgressReport getProgressReport() | get progress report
+IReportConnection getIReportConnection() | get i report connection
+IReportFont getIReportFont() | get i report font
+IReportFont getReportFontByName(QString;) | get report font by name
+it.businesslogic.ireport.gui.JReportFrame getJReportFrame() | get j report frame
+it.businesslogic.ireport.gui.JReportFrame getReportFrame() | get report frame
+it.businesslogic.ireport.gui.JReportPanel getJPanelReport() | get j panel report
+it.businesslogic.ireport.gui.MainFrame getIReportMainFrame() | get i report main frame
+it.businesslogic.ireport.gui.ReportQueryDialog getReportQueryDialog() | get report query dialog
+it.businesslogic.ireport.IReportConnection getIReportConnection() | get i report connection
+it.businesslogic.ireport.IReportFont getIReportFont() | get i report font
+it.businesslogic.ireport.ReportClassLoader getReportClassLoader() | get report class loader
+it.businesslogic.ireport.Report getReport() | get report
+java.lang.String getReportFont() | get report font
+java.lang.String getReportFormat() | get report format
+java.lang.String getReportName() | get report name
+JMenuItem getReportsTradeMenuItem() | get reports trade menu item
+JReportFrame findReportFrameByFilename(QString;) | find report frame by filename
+JReportFrame findReportFrameByFile(QFile;) | find report frame by file
+JReportFrame getActiveReportFrame() | get active report frame
+JReportFrame getJReportFrame() | get j report frame
+JReportFrame getReportFrame() | get report frame
+JReportFrame openNewReportWindow(QReport;) | open new report window
+JReportPanel getReportPanel() | get report panel
+List getReporters(Z) | get reporters
+Object fillReport(Class klass, String name, Map parameters) | fill report
+Packet createAllReportsPacket(QPlayer;) | create all reports packet
+Packet createReportPacket(QPlayer;) | create report packet
+Packet createSpecialReportPacket() | create special report packet
+Packet createTacticalGeniusReportPacket() | create tactical genius report packet
+Report createColumnarReport(QString;) | create columnar report
+Report createTabularReport(QString;) | create tabular report
+ReportElement getReportElement() | get report element
+Report filterReport(QReport;QPlayer;Z) | filter report
+Report getReport() | get report
+RuntimeException reportError(QString;) | report error
+RuntimeException reportMemberNotFound(QString;) | report member not found
+RuntimeException reportRuntimeError(QString;) | report runtime error
+RuntimeException reportRuntimeError(QString;QString;) | report runtime error
+String getDetailedVictoryReport() | get detailed victory report
+String getExceptionReport(QThrowable;) | get exception report
+String getReport() | get report
+String getReporterType() | get reporter type
+String populationReport(I) | population report
+String receiveReport(QVector;) | receive report
+String reportFrequencyTipText() | report frequency tip text
+ToolErrorReporter getReporter() | get reporter
+Vector DBReadAreaData(String areaID, boolean reportStatus) | db read area data
+Vector filterPastReports(QVector;QPlayer;) | filter past reports
+Vector filterReportVector(QVector;QPlayer;) | filter report vector
+Vector getAllReports() | get all reports
+Vector getReports(I) | get reports
+Vector getTurnReport() | get turn report
+Vector victoryReport() | victory report
+void addNodeReports(TreeNodeCheckedImage node, Set reports) | add node reports
+void addReport(JPanel panel, String title, int width, int height) | add report
+void addReportListener(Qit.businesslogic.ireport.gui.event.ReportListener;) | add report listener
+void addReportListener(QResourceDownloader;) | add report listener
+void addReport(QReport;) | add report
+void addReport(QVector;) | add report
+void addReports(QVector;) | add reports
+void addReportSubDatasetChangedListener(Qit.businesslogic.ireport.gui.event.ReportSubDatasetChangedListener;) | add report sub dataset changed listener
+void afterReportInit() | after report init
+void appendReportTab(QString;) | append report tab
+void beforeReportInit() | before report init
+void buildReportMenu() | build report menu
+void cleanAndReport() | clean and report
+void clearAllReports() | clear all reports
+void ClearReport() | clear report
+void clearReports() | clear reports
+void copyBaseReportElement(QReportElement;QReportElement;) | copy base report element
+void damageReport() | damage report
+void damageReport(QRectangle2D;) | damage report
+void damageReport(QVisualItem;QRectangle2D;) | damage report
+void driftSmokeReport(QCoords;IZ) | drift smoke report
+void EM_Report(QInstances;) | em report
+void exportReport() | export report
+void exportReportToWriter() | export report to writer
+void gameReport(QGameReportEvent;) | game report
+void genRejectReportRecord(QPrintWriter;IIQString;QString;QThrowable;) | gen reject report record
+void loadiReportConfiguration() | loa di report configuration
+void loadiReportConfiguration(QString;) | loa di report configuration
+void paintReportPanel(QGraphics;) | paint report panel
+void prepareVictoryReport() | prepare victory report
+void ProgressReport() | progress report
+void readXMLReportElement(QNode;QReportElement;) | read xml report element
+void removeReporter(QIProgressReporter;) | remove reporter
+void removeReportListener(Qit.businesslogic.ireport.gui.event.ReportListener;) | remove report listener
+void removeReport(Session ses, String reportName) | remove report
+void removeReportSubDatasetChangedListener(Qit.businesslogic.ireport.gui.event.ReportSubDatasetChangedListener;) | remove report sub dataset changed listener
+void report() | report
+void reportActivity(QResourceDownloader;QString;) | report activity
+void reportActivity(QString;) | report activity
+void reportAmountComplete(QResourceDownloader;J) | report amount complete
+void reportBytesRead(I) | report bytes read
+void reportCallsOnTerminal(String terminal, boolean flag) | report calls on terminal
+void reportComplete() | report complete
+void reportCompleteness(I) | report completeness
+void reportComplete(QMap;) | report complete
+void reportComplete(QNetworkAdminSpeedTesterResult;) | report complete
+void report_conflicts(Qterminal_set;) | report conflicts
+void reportContents() | report contents
+void reportContributor(QInetSocketAddress;) | report contributor
+void reportConversionError(QObject;QClass;) | report conversion error
+void reportCurrentTaskByKey(QString;) | report current task by key
+void reportCurrentTask(QAzureusCoreOperation;QString;) | report current task
+void reportCurrentTask(QString;) | report current task
+void reportDone() | report done
+void reportErrorMessage(QString;QString;IQString;IZ) | report error message
+void reportError(QRecognitionException;) | report error
+void reportError(QString;) | report error
+void reportError(QString;QException;) | report error
+void reportError(QString;QException;Z) | report error
+void report_error(QString;QObject;) | report error
+void reportError(QString;QString;) | report error
+void reportError(QString;QString;IQString;I) | report error
+void reportError(QString;Z) | report error
+void reportError(QThrowable;) | report error
+void reportError(QValidationEvent;) | report error
+void reportEvent(QValidatableObject;QException;) | report event
+void reportEvent(QValidatableObject;QString;) | report event
+void reportEvent(QValidatableObject;QValidationEvent;) | report event
+void reportException(QErrorReporter;QRhinoException;) | report exception
+void reportException(QRhinoException;) | report exception
+void reportFailedSupport(QBuddyPluginBuddyMessage;QBuddyPluginException;) | report failed support
+void report_fatal_error(QString;QObject;) | report fatal error
+void reportLastCommands() | report last commands
+void reportLastCommands(Z) | report last commands
+void reportMissingObjectError() | report missing object error
+void reportPercentageDone(I) | report percentage done
+void reportPercentComplete(QResourceDownloader;I) | report percent complete
+void reportPercent(I) | report percent
+void reportPercent(QAzureusCoreOperation;I) | report percent
+void reportProgress(I) | report progress
+void reportProgress(QExternalIPCheckerService;QString;) | report progress
+void reportProgress(QString;) | report progress
+void reportProgress(QString;QString;) | report progress
+void report(QString;) | report
+void report(QString;J) | report
+void report(QString;QString;) | report
+void reportReceiveException(QException;) | report receive exception
+void reportReceiveException(QException;QStringBuffer;) | report receive exception
+void report_reduce_reduce(Qlalr_item;Qlalr_item;) | report reduce reduce
+void reportRelease(QRrdEntry;) | report release
+void reportSendException(QException;QSendPacket;) | report send exception
+void report_shift_reduce(Qlalr_item;I) | report shift reduce
+void reportSize(J) | report size
+void reportSizes(QString;) | report sizes
+void reportStage(QString;) | report stage
+void reportUsage(QRrdEntry;) | report usage
+void reportValue(String varName, Object value) | report value
+void reportWarning(QString;) | report warning
+void reportWarning(QString;QString;IQString;I) | report warning
+void requestBugReport(QError;) | request bug report
+void sendReport() | send report
+void sendReport(Z) | send report
+void setActiveReportForm(QJReportFrame;) | set active report form
+void setAllReports(QVector;) | set all reports
+void setErrorReporter(QErrorReporter;) | set error reporter
+void setIReportConnection(QIReportConnection;) | set i report connection
+void setIReportConnection(Qit.businesslogic.ireport.IReportConnection;) | set i report connection
+void setIReportFont(QIReportFont;) | set i report font
+void setIReportFont(Qit.businesslogic.ireport.IReportFont;) | set i report font
+void setIReportFont(Qit.businesslogic.ireport.IReportFont;Z) | set i report font
+void setIReportMainFrame(Qit.businesslogic.ireport.gui.MainFrame;) | set i report main frame
+void setiReportPaths(QString;QString;QString;) | seti report paths
+void setIsReportingWarnings(Z) | set is reporting warnings
+void setJPanelReport(Qit.businesslogic.ireport.gui.JReportPanel;) | set j panel report
+void setJReportFrame(Qit.businesslogic.ireport.gui.JReportFrame;) | set j report frame
+void setJReportFrame(QJReportFrame;) | set j report frame
+void setMiniReportPosX(I) | set mini report pos x
+void setMiniReportPosY(I) | set mini report pos y
+void setMiniReportSizeHeight(I) | set mini report size height
+void setMiniReportSizeWidth(I) | set mini report size width
+void setReportClassLoader(Qit.businesslogic.ireport.ReportClassLoader;) | set report class loader
+void setReportDirectory(QFile;) | set report directory
+void setReportElement(QReportElement;) | set report element
+void setReporter(QToolErrorReporter;) | set reporter
+void setReporterType(QString;) | set reporter type
+void setReportFontMode(I) | set report font mode
+void setReportFontMode(Z) | set report font mode
+void setReportFont(Qjava.lang.String;) | set report font
+void setReportFormat(Qjava.lang.String;) | set report format
+void setReportFrame(Qit.businesslogic.ireport.gui.JReportFrame;) | set report frame
+void setReportFrame(QJReportFrame;) | set report frame
+void setReportFrequency(I) | set report frequency
+void setReportHeight(I) | set report height
+void setReportName(Qjava.lang.String;) | set report name
+void setReport(Qit.businesslogic.ireport.Report;) | set report
+void setReportQueryDialog(Qit.businesslogic.ireport.gui.ReportQueryDialog;) | set report query dialog
+void setReportTab(IQString;QString;) | set report tab
+void setReportValues(String id, String name, String description, String periodicityTypeID, String forwardingTypeID, Date date) | set report values
+void setReportViewer(I) | set report viewer
+void setReportWidth(I) | set report width
+void showReportPanel(QString;) | show report panel
+void showRoundReport() | show round report
+void testBugReport1362749() | test bug report 1362749
+void TextReportElementLayout(QTextLayout;FF) | text report element layout
+void updateJMenuItemReportLocaleText() | update j menu item report locale text
+void updateJMenuItemReportMaxRecords() | update j menu item report max records
+void updateReportFonts() | update report fonts
+void updateReportObjects() | update report objects
+void writeInitiativeReport(Z) | write initiative report
+void writeXMLReportElementElement(QReportElement;QPrintWriter;) | write xml report element element
+void writeXMLReportElement(QReportElement;QPrintWriter;) | write xml report element

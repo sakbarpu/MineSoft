@@ -1,0 +1,20 @@
+Binary readBinary(I) | read binary
+boolean getConvertNominalToBinary() | get convert nominal to binary
+boolean getMakeBinary() | get make binary
+boolean useStreamsForBinary() | use streams for binary
+byte getBinary() | get binary
+byte[] getBinary(I) | get binary
+byte[] loadBinary(QFile;) | load binary
+Instances nominalToBinary(QInstances;) | nominal to binary
+Node createBinary(IQNode;QNode;) | create binary
+Object readBinary(QString;) | read binary
+Query setBinary(I[B) | set binary
+Query setBinary(QString;[B) | set binary
+String dumpWithBinary([BJQString;) | dump with binary
+void komlToBinary(QString;QString;) | koml to binary
+void loadBinary(QString;) | load binary
+void saveBinary(QFile;QObject;QInstances;) | save binary
+void setConvertNominalToBinary(Z) | set convert nominal to binary
+void setMakeBinary(Z) | set make binary
+void writeBinary(QBinary;I) | write binary
+void writeBinary(QString;QObject;) | write binary

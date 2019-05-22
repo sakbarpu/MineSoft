@@ -1,0 +1,2 @@
+Object assembleCacheEntry(QCacheEntry;QSerializable;QEntityPersister;QLoadEvent;) | assemble cache entry
+Serializable assembleId(QSerializable;QSessionImplementor;) | assemble id

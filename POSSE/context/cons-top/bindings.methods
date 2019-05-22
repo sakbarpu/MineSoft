@@ -1,0 +1,1 @@
+CONS KeyBindingsDialog(QHashMap<QString;QString;>;QHashMap<QString;QString;>;) | key bindings dialog

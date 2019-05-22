@@ -1,0 +1,27 @@
+edu.rice.cs.drjava.config.BooleanOption WINDOW_STORE_POSITION | window store position
+edu.rice.cs.drjava.config.IntegerOption WINDOW_STATE | window state
+edu.rice.cs.drjava.config.IntegerOption WINDOW_X | window x
+edu.rice.cs.drjava.config.IntegerOption WINDOW_Y | window y
+edu.rice.cs.drjava.config.NonNegativeIntegerOption WINDOW_HEIGHT | window height
+edu.rice.cs.drjava.config.NonNegativeIntegerOption WINDOW_WIDTH | window width
+int WINDOW_CLIENT_AREA | window client area
+int WINDOW_CONTENT_DISPLAY_AREA | window content display area
+int WINDOW_ELEMENT_MENU | window element menu
+int WINDOW_ELEMENT_STATUSBAR | window element statusbar
+int WINDOW_ELEMENT_TABBAR | window element tab bar
+int WINDOW_ELEMENT_TOOLBAR | window element toolbar
+int WINDOW_ELEMENT_TOPBAR | window element top bar
+int windowID | window id
+java.awt.event.WindowAdapter _windowListener | window listener
+java.awt.event.WindowListener _windowCloseListener | window close listener
+java.awt.event.WindowListener windowHandler | window handler
+java.lang.String WINDOW_PANE_SHAPE_PREFIX | window pane shape prefix
+java.lang.String WINDOW_POS_X | window pos x
+java.lang.String WINDOW_POS_Y | window pos y
+java.lang.String WINDOW_PREFERENCE_STORAGE_PROPERTY | window preference storage property
+java.lang.String WINDOW_SIZE_HEIGHT | window size height
+java.lang.String WINDOW_SIZE_WIDTH | window size width
+java.lang.String windowState | window state
+java.lang.String WindowTitle | window title
+javax.media.j3d.TransparencyAttributes WINDOW_PANE_TRANSPARENCY_ATTRIBUTES | window pane transparency attributes
+javax.swing.JMenu windowMenu | window menu

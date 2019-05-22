@@ -1,0 +1,3 @@
+boolean isIndexCached() | is index cached
+boolean isIndexed() | is indexed
+int indexOfUnquoted(QString;C) | index of unquoted

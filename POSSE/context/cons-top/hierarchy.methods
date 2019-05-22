@@ -1,0 +1,5 @@
+CONS HierarchyPropertyParser() | hierarchy property parser
+CONS HierarchyPropertyParser(QString;QString;) | hierarchy property parser
+CONS TaskContainmentHierarchyFacadeImpl(QGanttTree2;) | task containment hierarchy facade impl
+CONS TaskHierarchyEvent(QObject;QTask;QTask;QTask;) | task hierarchy event
+CONS TaskHierarchyItem(QTask;QTaskHierarchyItem;) | task hierarchy item

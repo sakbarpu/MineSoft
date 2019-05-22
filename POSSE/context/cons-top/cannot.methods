@@ -1,0 +1,2 @@
+CONS CannotRenameException(QString;) | cannot rename exception
+CONS CannotRenameException(QString;QThrowable;) | cannot rename exception

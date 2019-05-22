@@ -1,0 +1,27 @@
+boolean _searchAll | search all
+boolean _searchAllDocuments | search all documents
+boolean search_done | search done
+int search_concurrency | search concurrency
+int SEARCH_CONCURRENCY_DEFAULT | search concurrency default
+java.lang.String searchQuery | search query
+java.lang.String _searchString | search string
+java.lang.String search_term | search term
+java.lang.String searchText | search text
+java.lang.String[] _search_types | search types
+java.lang.String[] search_types | search types
+java.lang.String searchURLFormat | search url format
+java.util.List search_managers | search managers
+java.util.List search_providers | search providers
+javax.swing.JCheckBox _searchAllDocuments | search all documents
+javax.swing.JComboBox searchTypeBox | search type box
+javax.swing.JLabel searchLabel | search label
+javax.swing.JTextField searchField | search field
+javax.swing.JTextField searchNameField | search name field
+javax.swing.JTextField searchString | search string
+javax.swing.JTextField searchTextField | search text field
+long search_id_next | search id next
+org.gudy.azureus2.core3.util.TimerEvent searchUpdateEvent | search update event
+thePackage.SearchFrame _searchFrame | search frame
+thePackage.SearchInfoDialog _searchDetail | search detail
+thePackage.SearchManager searchManager | search manager
+thePackage.TimerHandler searchTimer | search timer

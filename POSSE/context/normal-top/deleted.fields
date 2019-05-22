@@ -1,0 +1,10 @@
+boolean filesShouldBeDeletedAfterShutdown | files should be deleted after shutdown
+int[] deletedIconListAsIntArray | deleted icon list as int array
+int iNbDeletedFiles | i nb deleted files
+int[] myDeletedList | my deleted list
+java.lang.String deletedIconListAsString | deleted icon list as string
+java.lang.String myDeletedPositions | my deleted positions
+java.util.Map _deletedItems | deleted items
+javax.swing.DefaultListModel deletedButtonList | deleted button list
+javax.swing.DefaultListModel deletedIconList | deleted icon list
+javax.swing.JCheckBox ignoreDeletedBox | ignore deleted box

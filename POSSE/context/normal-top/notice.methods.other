@@ -1,0 +1,2 @@
+ASN1Sequence getNoticeNumbers() | get notice numbers
+NoticeReference getNoticeRef() | get notice ref

@@ -1,0 +1,48 @@
+boolean findCaseSensitive | find case sensitive
+char _findChar | find char
+edu.rice.cs.drjava.config.BooleanOption FIND_ALL_DOCUMENTS | find all documents
+edu.rice.cs.drjava.config.BooleanOption FIND_MATCH_CASE | find match case
+edu.rice.cs.drjava.config.BooleanOption FIND_NO_COMMENTS_STRINGS | find no comments strings
+edu.rice.cs.drjava.config.BooleanOption FIND_NO_TEST_CASES | find no test cases
+edu.rice.cs.drjava.config.BooleanOption FIND_REPLACE_FOCUS_IN_DEFPANE | find replace focus in def pane
+edu.rice.cs.drjava.config.BooleanOption FIND_SEARCH_BACKWARDS | find search backwards
+edu.rice.cs.drjava.config.BooleanOption FIND_WHOLE_WORD | find whole word
+edu.rice.cs.drjava.config.ColorOption FIND_RESULTS_COLOR1 | find results color 1
+edu.rice.cs.drjava.config.ColorOption FIND_RESULTS_COLOR2 | find results color 2
+edu.rice.cs.drjava.config.ColorOption FIND_RESULTS_COLOR3 | find results color 3
+edu.rice.cs.drjava.config.ColorOption FIND_RESULTS_COLOR4 | find results color 4
+edu.rice.cs.drjava.config.ColorOption FIND_RESULTS_COLOR5 | find results color 5
+edu.rice.cs.drjava.config.ColorOption FIND_RESULTS_COLOR6 | find results color 6
+edu.rice.cs.drjava.config.ColorOption FIND_RESULTS_COLOR7 | find results color 7
+edu.rice.cs.drjava.config.ColorOption FIND_RESULTS_COLOR8 | find results color 8
+edu.rice.cs.drjava.config.ColorOption[] FIND_RESULTS_COLORS | find results colors
+edu.rice.cs.drjava.ui.FindReplacePanel _findReplace | find replace
+edu.rice.cs.util.swing.AsyncTask<java.io.File,java.util.List<java.io.File>> _findFilesToCleanTask | find files to clean task
+freemind.modes.actions.FindAction.FindNextAction findNext | find next
+freemind.modes.MindMapNode findFromNode | find from node
+int[] FIND_RESULTS_PAINTERS_USAGE | find results painters usage
+it.businesslogic.ireport.plugin.massivecompiler.FindThread findThread | find thread
+java.lang.reflect.Method findFolder | find folder
+java.lang.String findAmountString | find amount string
+java.lang.String findIDString | find id string
+java.lang.String FIND_MULTI_LINE_SEARCH_STR | find multi line search str
+java.lang.String findWhat | find what
+java.lang.String FIND_WHOLE_WORD_TEST_1 | find whole word test  1
+java.lang.String _findWord | find word
+java.util.ArrayList findNodesUnfoldedByLastFind | find nodes unfolded by last find
+java.util.LinkedList<edu.rice.cs.drjava.model.RegionManager<edu.rice.cs.drjava.model.MovingDocumentRegion>> _findResultsManagers | find results managers
+java.util.LinkedList findNodeQueue | find node queue
+javax.swing.Action _findAllAction | find all action
+javax.swing.Action _findNextAction | find next action
+javax.swing.Action _findPreviousAction | find previous action
+javax.swing.JButton _findAgainButton | find again button
+javax.swing.JButton _findAllButton | find all button
+javax.swing.JButton findModelsButton | find models button
+javax.swing.JButton _findNextButton | find next button
+javax.swing.JButton _findPreviousButton | find previous button
+javax.swing.JLabel _findLabelBot | find label bot
+javax.swing.JTextPane _findField | find field
+javax.swing.text.LayeredHighlighter.LayerPainter[] FIND_RESULTS_PAINTERS | find results painters
+long[] find_nodes | find nodes
+long[] find_values | find values
+org.hsqldb.Expression[] findFirstExpressions | find first expressions

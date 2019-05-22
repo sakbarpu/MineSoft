@@ -1,0 +1,8 @@
+boolean itsIgnoreDynamicScope | its ignore dynamic scope
+boolean itsUseDynamicScope | its use dynamic scope
+boolean useDynamicScope | use dynamic scope
+int CATCH_SCOPE | catch scope
+int FEATURE_DYNAMIC_SCOPE | feature dynamic scope
+int JDBC_INVALID_BRI_SCOPE | jdbc invalid bri scope
+java.lang.String T_SCOPE | t scope
+org.mozilla.javascript.Scriptable topCallScope | top call scope

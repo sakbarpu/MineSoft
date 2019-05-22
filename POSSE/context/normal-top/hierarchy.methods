@@ -1,0 +1,8 @@
+TaskContainmentHierarchyFacade getTaskHierarchy() | get task hierarchy
+TaskHierarchyManagerImpl getHierarchyManager() | get hierarchy manager
+void addHierarchyListener() | add hierarchy listener
+void calculateTypeHierarchy() | calculate type hierarchy
+void createAnchorsHierarchy(QVector;III) | create anchors hierarchy
+void makeProperHierarchy() | make proper hierarchy
+void testCreateSimpleHierarchy() | test create simple hierarchy
+void updateHierarchyViewer(boolean doExpand) | update hierarchy viewer

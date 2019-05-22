@@ -1,0 +1,24 @@
+boolean dangerousSnipeWarning(QComponent;) | dangerous snipe warning
+boolean getOverwriteWarning() | get overwrite warning
+boolean isWarning() | is warning
+boolean showCleanWarning() | show clean warning
+int compareErrorWarning(QDJError;) | compare error warning
+SQLWarning sqlWarning(QHsqlException;) | sql warning
+void addExpertWarning(QStyledDocument;IQString;QUnitType;) | add expert warning
+void addProductionWarning(QStyledDocument;IQGoodsType;QGoodsType;) | add production warning
+void addWarning(QHsqlException;) | add warning
+void addWarning(QSQLWarning;) | add warning
+void addWarning(QString;) | add warning
+void addWarning(QString;QString;) | add warning
+void allocateColorWarning() | allocate color warning
+void checkWarning() | check warning
+void closeCurrentTabNoWarning() | close current tab no warning
+void createWarehouseCapacityWarning() | create warehouse capacity warning
+void emit_warning(QString;) | emit warning
+void emit_warning(QString;QSymbol;) | emit warning
+void logWarning(QString;) | log warning
+void reportWarning(QString;) | report warning
+void reportWarning(QString;QString;IQString;I) | report warning
+void setOverwriteWarning(Z) | set overwrite warning
+void setWarning(QSubscription;) | set warning
+void _showWarning(QThrowable;QString;QString;) | show warning

@@ -1,0 +1,601 @@
+boolean bContainsExtFiles | b contains ext files
+boolean bDeleteFileOnCancel | b delete file on cancel
+boolean bFiles | b files
+boolean bFirstFile | b first file
+boolean bLogToFile | b log to file
+boolean cached_has_dnd_files | cached has dnd files
+boolean CHECK_DUMMY_FILE_DATA | check dummy file data
+boolean _classFileInSync | class file in sync
+boolean deleteFileOnCancel | delete file on cancel
+boolean do_other_per_file_hash | do other per file hash
+boolean filedb | file db
+boolean filesInJar | files in jar
+boolean filesReadOnly | files read only
+boolean filesShouldBeDeletedAfterShutdown | files should be deleted after shutdown
+boolean file_valid | file valid
+boolean first_file | first file
+boolean firstPrimaryFileRead | first primary file read
+boolean inputAsFile | input as file
+boolean isCreatingFile | is creating file
+boolean isStoredFileAccess | is stored file access
+boolean LOG_DOS_TO_FILE | log dos to file
+boolean NIO_FILELOCK_AVAILABLE | nio file lock available
+boolean POSIX_MANDITORY_FILELOCK_DEFAULT | posix manditory file lock default
+boolean syncFile | sync file
+boolean USE_DUMMY_FILE_DATA | use dummy file data
+boolean useFile | use file
+boolean USE_NIO_FILELOCK_DEFAULT | use nio file lock default
+boolean _xmlProjectFile | xml project file
+byte AL_FILE | al file
+byte[] per_file_ed2k_digest | per file ed 2 k digest
+byte[] per_file_sha1_digest | per file sha 1  digest
+byte SS_FILE | ss file
+char FILE_EXTENSION_SEPARATOR | file extension separator
+com.aelitis.azureus.core.diskmanager.cache.CacheFile cache_file | cache file
+com.aelitis.azureus.core.diskmanager.cache.CacheFile file | file
+com.aelitis.azureus.core.diskmanager.cache.CacheFile read_cache_file | read cache file
+com.aelitis.azureus.core.diskmanager.cache.impl.CacheFileWithCache file | file
+com.aelitis.azureus.core.diskmanager.file.FMFile base_file | base file
+com.aelitis.azureus.core.diskmanager.file.FMFile file | file
+com.aelitis.azureus.core.diskmanager.file.FMFile[] files | files
+com.aelitis.azureus.core.diskmanager.file.FMFileManager file_manager | file manager
+com.aelitis.azureus.core.diskmanager.file.impl.FMFileAccessController file_access | file access
+com.aelitis.azureus.core.diskmanager.file.impl.FMFileAccess file_access | file access
+com.aelitis.azureus.core.download.EnhancedDownloadManagerFile[] enhanced_files | enhanced files
+com.aelitis.azureus.core.download.EnhancedDownloadManagerFile primary_file | primary file
+edu.rice.cs.drjava.config.BooleanOption BACKUP_FILES | backup files
+edu.rice.cs.drjava.config.BooleanOption DIALOG_COMPLETE_SCAN_CLASS_FILES | dialog complete scan class files
+edu.rice.cs.drjava.config.BooleanOption DIALOG_GOTOFILE_STORE_POSITION | dialog goto file store position
+edu.rice.cs.drjava.config.BooleanOption WARN_DEBUG_MODIFIED_FILE | warn debug modified file
+edu.rice.cs.drjava.config.FileOption BROWSER_FILE | browser file
+edu.rice.cs.drjava.config.ForcedChoiceOption DELETE_LL_CLASS_FILES | delete ll class files
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_CLOSE_ALL_FILES | key close all files
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_CLOSE_FILE | key close file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_COMPLETE_FILE | key complete file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_FOLLOW_FILE | key follow file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_GOTO_FILE | key goto file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_GOTO_FILE_UNDER_CURSOR | key goto file under cursor
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_NEW_FILE | key new file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_OPEN_FILE | key open file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_RENAME_FILE | key rename file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_REVERT_FILE | key revert file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_SAVE_ALL_FILES | key save all files
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_SAVE_FILE | key save file
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_SAVE_FILE_AS | key save file as
+edu.rice.cs.drjava.config.NonNegativeIntegerOption FOLLOW_FILE_DELAY | follow file delay
+edu.rice.cs.drjava.config.NonNegativeIntegerOption FOLLOW_FILE_LINES | follow file lines
+edu.rice.cs.drjava.config.NonNegativeIntegerOption RECENT_FILES_MAX_SIZE | recent files max size
+edu.rice.cs.drjava.config.StringOption DIALOG_GOTOFILE_STATE | dialog goto file state
+edu.rice.cs.drjava.config.VectorOption<java.io.File> RECENT_FILES | recent files
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> EXTERNAL_SAVED_ENCLOSING_DJAPP_FILES | external saved enclosing dj app files
+edu.rice.cs.drjava.ui.config.VectorFileOptionComponent _excludedFilesList | excluded files list
+edu.rice.cs.drjava.ui.RecentFileManager.RecentFileAction _recentFileAction | recent file action
+edu.rice.cs.util.swing.AsyncTask<java.io.File,java.util.List<java.io.File>> _findFilesToCleanTask | find files to clean task
+edu.rice.cs.util.swing.AsyncTask<java.util.List<java.io.File>,java.util.List<java.io.File>> _deleteFilesTask | delete files task
+edu.rice.cs.util.swing.FileChooser _fileChooser | file chooser
+edu.rice.cs.util.swing.FileSelectorComponent _jarFileSelector | jar file selector
+edu.rice.cs.util.swing.FileSelectorComponent _manifestFileSelector | manifest file selector
+int BINARY_FILEFAIL | binary file fail
+int cacheFileScale | cache file scale
+int classFileErrorCount | class file error count
+int current_file_size | current file size
+int DataFileCache_close | data file cache close
+int DataFileCache_makeRow | data file cache make row
+int DataFileCache_open | data file cache open
+int DATA_FILE_ERROR | data file error
+int DATA_FILE_IS_FULL | data file is full
+int DATA_FILE_JAR | data file jar
+int DATA_FILE_NIO | data file nio
+int DATA_FILE_RAF | data file raf
+int DSV_REJECTFILE_PURGEFAIL | dsv reject file purge fail
+int DSV_REJECTFILE_SETUPFAIL | dsv reject file setup fail
+int DSV_TARGETFILE_DEMAND | dsv target file demand
+int ERROR_IN_SCRIPT_FILE | error in script file
+int ET_FILE_OPEN | et file open
+int ET_FILE_SHOW | et file show
+int ET_OPEN_TORRENT_VIA_FILE | et open torrent via file
+int EXITCODE_FILE_NOT_FOUND | exitcode file not found
+int FILE_APPENDFAIL | file append fail
+int fileCount | file count
+int FILEERR_EXITVAL | file err exit val
+int file_index | file index
+int FILE_IO_ERROR | file io error
+int fileNotFoundCount | file not found count
+int filePathContainsPoundCount | file path contains pound count
+int filePos | file pos
+int FILE_PROPERTY | file property
+int FILE_READFAIL | file read fail
+int fileRevertedCount | file reverted count
+int FILES_NEW | files new
+int[] files_use_count | files use count
+int FILE_WRITEFAIL | file write fail
+int FILE_WROTECHARS | file wrote chars
+int iLogFileMaxMB | i log file max mb
+int iNbCorruptedFiles | i nb corrupted files
+int iNbCreatedFilesDest | i nb created files dest
+int iNbCreatedFilesSrc | i nb created files src
+int iNbDeletedFiles | i nb deleted files
+int iNbFilesBeforeRefresh | i nb files before refresh
+int iNbNewFiles | i nb new files
+int INVALID_FILE_ACCESS_CLASS | invalid file access class
+int isReadOnlyDatabaseFiles | is read only database files
+int LOAD_FILE | load file
+int LOCK_FILE_ACQUISITION_FAILURE | lock file acquisition failure
+int LockFile_checkHeartbeat | lock file check heartbeat
+int LockFile_checkHeartbeat2 | lock file check heartbeat 2
+int logFileSizes | log file sizes
+int max_file_size | max file size
+int MAX_FILE_SIZE | max file size
+int MAX_FILES_PER_DIR | max files per dir
+int maxRecentFilesCount | max recent files count
+int MAX_SQLFILE_LEN | max sql file len
+int MODE_FROM_FILE | mode from file
+int myFileSelectionMode | my file selection mode
+int numberOfFiles | number of files
+int OPEN_FILE | open file
+int OP_FILE_MOVE | op file move
+int PRIORITY_W_FILE | priority w file
+int PROCESS_FILES | process files
+int quitFileCount | quit file count
+int RESERVED_FILE_HANDLE_COUNT | reserved file handle count
+int RT_FILE_NOT_FOUND | rt file not found
+int shouldRevertFileCount | should revert file count
+int SQLFILE_BANNER | sql file banner
+int SQLFILE_EXECUTE_FAIL | sql file execute fail
+int SQLFILE_NAME_DEMAND | sql file name demand
+int SQLFILE_READFAIL | sql file read fail
+int ST_FILE | st file
+int TextCache_closing_file_error | text cache closing file error
+int TextCache_openning_file_error | text cache openning file error
+int TextCache_purging_file_error | text cache purging file error
+int TEXT_FILE | text file
+int TEXT_TABLE_SOURCE_FILENAME | text table source filename
+int WRONG_DATABASE_FILE_VERSION | wrong database file version
+it.businesslogic.ireport.gui.locale.LocaleResourceFilesDialog localeFilesDialog | locale files dialog
+java.awt.Checkbox stampFilenames | stamp filenames
+java.awt.datatransfer.DataFlavor fileListFlavor | file list flavor
+java.awt.Label lFileCount | l file count
+java.awt.Label lFileText | l file text
+java.awt.MenuItem fileBoardNew | file board new
+java.awt.MenuItem fileBoardOpen | file board open
+java.awt.MenuItem fileBoardSave | file board save
+java.awt.MenuItem fileBoardSaveAs | file board save as
+java.awt.MenuItem fileBoardSaveAsImage | file board save as image
+java.awt.MenuItem fileGameConnect | file game connect
+java.awt.MenuItem fileGameConnectBot | file game connect bot
+java.awt.MenuItem fileGameNew | file game new
+java.awt.MenuItem fileGameOpen | file game open
+java.awt.MenuItem fileGameSave | file game save
+java.awt.MenuItem fileGameScenario | file game scenario
+java.awt.MenuItem filePrint | file print
+java.awt.MenuItem fileUnitsClear | file units clear
+java.awt.MenuItem fileUnitsOpen | file units open
+java.awt.MenuItem fileUnitsSave | file units save
+java.awt.TextField gameLogFilename | game log filename
+java.io.BufferedOutputStream fileStreamOut | file stream out
+java.io.DataInputStream file | file
+java.io.File autoPropertiesFile | auto properties file
+java.io.File _auxFile | aux file
+java.io.File _classFile | class file
+java.io.File controlFileDir | control file dir
+java.io.File _createJarFile | create jar file
+java.io.File dataFile | data file
+java.io.File DEFAULT_PROPERTIES_FILE | default properties file
+java.io.File dos_log_file | dos log file
+java.io.File[] _excludedFiles | excluded files
+java.io.File _file | file
+java.io.File file | file
+java.io.File _file1 | file 1
+java.io.File _file2 | file 2
+java.io.File fileLast | file last
+java.io.File[] files | files
+java.io.File _fileValue | file value
+java.io.FileFilter JAVA_FILE_FILTER | java file filter
+java.io.File history_file | history file
+java.io.File linked_file | linked file
+java.io.File lockedSemaphoreFile | locked semaphore file
+java.io.File m_scenFile | m scen file
+java.io.File m_sSourceFile | m s source file
+java.io.File myFile | my file
+java.io.FilenameFilter filename_filter | filename filter
+java.io.File NULL_FILE | null file
+java.io.File outputFile | output file
+java.io.File patternsFile | patterns file
+java.io.File prefsFile | prefs file
+java.io.File _projectFile | project file
+java.io.File[] _projectFiles | project files
+java.io.File _projFile | proj file
+java.io.File _propertiesFile | properties file
+java.io.File _rootFile | root file
+java.io.File save_file | save file
+java.io.File scratch_file | scratch file
+java.io.File source_file | source file
+java.io.File startFile | start file
+java.io.File _storedFile | stored file
+java.io.File tempFile | temp file
+java.io.File[] welcome_files | welcome files
+java.io.File xmlFile | xml file
+java.io.OutputStream fileStreamOut | file stream out
+java.io.PrintStream TabFile | tab file
+java.io.PrintWriter logFilePrinter | log file printer
+java.io.RandomAccessFile file | file
+java.lang.Class mrjFileUtilsClass | mrj file utils class
+java.lang.Object VUZE_FILE_COMPONENT_ENGINE_KEY | vu ze file component engine key
+java.lang.reflect.Method getFileCreator | get file creator
+java.lang.reflect.Method getFileType | get file type
+java.lang.ref.WeakReference dataFile | data file
+java.lang.String AELITIS_FILES | aelitis files
+java.lang.String ALIASES_CONFIG_FILE | aliases config file
+java.lang.String ARTILLERY_ADJUSTED_IMAGE_FILE | artillery adjusted image file
+java.lang.String ARTILLERY_AUTOHIT_IMAGE_FILE | artillery autohit image file
+java.lang.String ARTILLERY_INCOMING_IMAGE_FILE | artillery incoming image file
+java.lang.String AT_FILE_LINKS | at file links
+java.lang.String AT_FILE_STORE_TYPES | at file store types
+java.lang.String AT_PRIMARY_FILE | at primary file
+java.lang.String backupFileName | backup file name
+java.lang.String BAK_FILE_NAME | bak file name
+java.lang.String camoFileName | camo file name
+java.lang.String CFG_AUTOLOAD_FILE | cfg autoload file
+java.lang.String CFG_ENABLELOGTOFILE | cfg enable log to file
+java.lang.String CFG_FILE_OPTION_NAME | cfg file option name
+java.lang.String CONF_CONFIRMATIONS_DELETE_FILE | conf confirmations delete file
+java.lang.String CONF_CONFIRMATIONS_REFACTOR_FILES | conf confirmations refactor files
+java.lang.String config_file | config file
+java.lang.String CONFIG_FILE | config file
+java.lang.String _configFileName | config file name
+java.lang.String CONFIG_FILENAME | config filename
+java.lang.String CONF_STARTUP_FILE | conf startup file
+java.lang.String controlFileName | control file name
+java.lang.String DATE_FILE | date file
+java.lang.String DEFAULT_APPLICATION_PLUGIN_PROPERTIES_FILE | default application plugin properties file
+java.lang.String DEFAULT_CFG_FILE_NAME | default cfg file name
+java.lang.String DEFAULT_IGNORE_FILES | default ignore files
+java.lang.String DEFAULT_LOG_FILE_NAME | default log file name
+java.lang.String DEFAULT_PLAYLIST_FILE | default playlist file
+java.lang.String DEFAULT_STATS_FILE_NAME | default stats file name
+java.lang.String destFileName | dest file name
+java.lang.String DETAIL_CURRENT_FILE | detail current file
+java.lang.String DETAIL_CURRENT_FILE_ID | detail current file id
+java.lang.String DEVICE_TYPE_FILE_CD | device type file cd
+java.lang.String dsvRejectFile | dsv reject file
+java.lang.String dsvTargetFile | dsv target file
+java.lang.String eBayFile | e bay file
+java.lang.String eBayV3File | e bay v 3 file
+java.lang.String eBayWS3File | e bay ws 3 file
+java.lang.String export_file | export file
+java.lang.String EXTPROCESS_FILE_EXTENSION | ext process file extension
+java.lang.String EXTPROCESS_FILE_NAME_INSIDE_JAR | ext process file name inside jar
+java.lang.String FILE_ABSOLUTE_DEFAULT_COVER | file absolute default cover
+java.lang.String fileBrowserName | file browser name
+java.lang.String FILE_CATALOG_PERSPECTIVE | file catalog perspective
+java.lang.String FILE_COLLECTION | file collection
+java.lang.String FILE_COLLECTION_EXIT | file collection exit
+java.lang.String FILE_COLLECTION_EXIT_PROOF | file collection exit proof
+java.lang.String FILE_CONFIGURATION | file configuration
+java.lang.String FILE_CONFIGURATION_PERSPECTIVE | file configuration perspective
+java.lang.String FILE_DEFAULT_BESTOF_PLAYLIST | file default best of playlist
+java.lang.String FILE_DEFAULT_BOOKMARKS_PLAYLIST | file default bookmarks playlist
+java.lang.String FILE_DEFAULT_COVER | file default cover
+java.lang.String FILE_DEFAULT_COVER_2 | file default cover  2
+java.lang.String FILE_DEFAULT_NOVELTIES_PLAYLIST | file default novelties playlist
+java.lang.String FILE_DEFAULT_QUEUE_PLAYLIST | file default queue playlist
+java.lang.String FILE_DJ_DIR | file dj dir
+java.lang.String fileExtension | file extension
+java.lang.String[] FILE_EXTENSION | file extension
+java.lang.String[] file_extensions | file extensions
+java.lang.String[] FILE_EXTENSIONS | file extensions
+java.lang.String[] FILE_FORMAT_ID | file format id
+java.lang.String FILE_HELP_PERSPECTIVE | file help perspective
+java.lang.String FILE_HISTORY | file history
+java.lang.String FILE_IMAGE_CACHE | file image cache
+java.lang.String FILE_INFO_PERSPECTIVE | file info perspective
+java.lang.String FILE_JAJUK_DIR | file jajuk dir
+java.lang.String FILE_LANGPACK_PART1 | file langpack part 1
+java.lang.String FILE_LANGPACK_PART2 | file langpack part 2
+java.lang.String FILE_LOCK | file lock
+java.lang.String FILE_LOG4j_CONF | file log 4 j conf
+java.lang.String FILE_LOGICAL_PERSPECTIVE | file logical perspective
+java.lang.String FILE_LOGS | file logs
+java.lang.String FILE_MENU | file menu
+java.lang.String filename | filename
+java.lang.String _fileName | file name
+java.lang.String fileName | file name
+java.lang.String _Filename | filename
+java.lang.String filenameWithPath | filename with path
+java.lang.String filepath | filepath
+java.lang.String FILE_PERSPECTIVES_CONF | file perspectives conf
+java.lang.String FILE_PHYSICAL_PERSPECTIVE | file physical perspective
+java.lang.String FILE_PLAYER_PERSPECTIVE | file player perspective
+java.lang.String _FilePrefix | file prefix
+java.lang.String FILE_PROTOCOL_INDICATOR | file protocol indicator
+java.lang.String file_root | file root
+java.lang.String FILE_SKIN_DEFS | file skin defs
+java.lang.String FILE_STAT_PERSPECTIVE | file stat perspective
+java.lang.String file_str | file str
+java.lang.String fileString | file string
+java.lang.String FILE_THUMB_NO_COVER | file thumb no cover
+java.lang.String FILE_THUMBS | file thumbs
+java.lang.String _fileTitle | file title
+java.lang.String fileurl | file url
+java.lang.String FILE_WILDCARD | file wildcard
+java.lang.String furnitureLibraryFileExtension | furniture library file extension
+java.lang.String gameFilename | game filename
+java.lang.String GAMELOG_FILENAME | game log filename
+java.lang.String GAME_OPTIONS_FILE_NAME | game options file name
+java.lang.String helpFileName | help file name
+java.lang.String HIDDEN_FILE | hidden file
+java.lang.String hsqldb_cache_file_scale | hsqldb cache file scale
+java.lang.String hsqldb_files_readonly | hsqldb files readonly
+java.lang.String hsqldb_lock_file | hsqldb lock file
+java.lang.String hsqldb_nio_data_file | hsqldb nio data file
+java.lang.String ICON_FILE | icon file
+java.lang.String ICON_OPEN_FILE | icon open file
+java.lang.String ICON_PLAYLIST_FILE | icon playlist file
+java.lang.String imageFile | image file
+java.lang.String IMAGE_FILE | image file
+java.lang.String import_file | import file
+java.lang.String IN_PROCESS_FILE_URL | in process file url
+java.lang.String IREPORT_CONFIG_FILE | ireport config file
+java.lang.String IREPORT_FAVORITE_FILES_FILE | ireport favorite files file
+java.lang.String IREPORT_RECENT_FILES_FILE | ireport recent files file
+java.lang.String IREPORT_RECENT_PROJECTS_FILE | ireport recent projects file
+java.lang.String itsSourceFile | its source file
+java.lang.String javaFile | java file
+java.lang.String _LocalFileName | local file name
+java.lang.String LOG_FILE | log file
+java.lang.String logFilename | log filename
+java.lang.String logFileName | log file name
+java.lang.String LOG_FILE_NAME | log file name
+java.lang.String mapFileName | map file name
+java.lang.String MENU_ID_FILE | menu id file
+java.lang.String MENU_ID_OPEN_VUZE_FILE | menu id open vu ze file
+java.lang.String MENU_ID_SHARE_FILE | menu id share file
+java.lang.String mtlFileName | mtl file name
+java.lang.String MULTI_CLASSES_IN_FILE_TEXT | multi classes in file text
+java.lang.String myFilename | my filename
+java.lang.String NIGHT_IMAGE_FILE | night image file
+java.lang.String OLD_PROJECT_FILE_EXTENSION | old project file extension
+java.lang.String OP_CHOOSE_FILE | op choose file
+java.lang.String OP_LOAD_VUZE_FILE | op load vu ze file
+java.lang.String orgFileName | org file name
+java.lang.String outFile | out file
+java.lang.String plistFile | plist file
+java.lang.String pluginFileExtension | plugin file extension
+java.lang.String POSIX_MANDITORY_FILELOCK_PROPERTY | posix manditory file lock property
+java.lang.String PROJECT_FILE_EXTENSION | project file extension
+java.lang.String _projFileText | proj file text
+java.lang.String PROPERTIES_FILE | properties file
+java.lang.String requestedFile | requested file
+java.lang.String SAVE_FILENAME | save filename
+java.lang.String scriptFileName | script file name
+java.lang.String SECTION_FILES | section files
+java.lang.String S_FILE | s file
+java.lang.String sFileId | s file id
+java.lang.String sFileName | s file name
+java.lang.String SOUND_BING_FILENAME | sound bing filename
+java.lang.String source_file | source file
+java.lang.String _srcFileBase | src file base
+java.lang.String STAMP_FILENAMES | stamp filenames
+java.lang.String STARTUP_MODE_FILE | startup mode file
+java.lang.String sweetHome3DFileExtension | sweet home 3 d file extension
+java.lang.String TABLE_TORRENT_FILES | table torrent files
+java.lang.String TK_FILES | tk files
+java.lang.String TOR_AZ_PROP_FILE_METADATA | tor az prop file metadata
+java.lang.String TOR_AZ_PROP_PRIMARY_FILE | tor az prop primary file
+java.lang.String torrent_file | torrent file
+java.lang.String torrentFileName | torrent file name
+java.lang.String USE_NIO_FILELOCK_PROPERTY | use nio file lock property
+java.lang.String USER_DB_CONFIG_FILE | user db config file
+java.lang.String VERIFIER_CONFIG_FILENAME | verifier config filename
+java.lang.String VIEW_TORRENT_FILES | view torrent files
+java.lang.String xmlFile | xml file
+java.lang.String XML_FILE | xml file
+java.lang.String XML_FILE_DATE | xml file date
+java.lang.String XML_FILE_NAME | xml file name
+java.lang.String XML_FILES | xml files
+java.lang.String XML_PLAYLIST_FILE | xml playlist file
+java.lang.String XML_PLAYLIST_FILES | xml playlist files
+java.nio.channels.FileLock fileLock | file lock
+java.util.ArrayList alBestofFiles | al best of files
+java.util.ArrayList alFiles | al files
+java.util.ArrayList btFileList | bt file list
+java.util.ArrayList dataFiles | data files
+java.util.ArrayList<java.io.File> _auxFiles | aux files
+java.util.ArrayList<java.io.File> _exclFiles | excl files
+java.util.ArrayList<java.lang.String> DELETE_LL_CLASS_FILES_CHOICES | delete ll class files choices
+java.util.ArrayList<java.lang.String> _filesToOpen | files to open
+java.util.ArrayList<org.jajuk.base.File> alFiles | al files
+java.util.ArrayList<org.jajuk.base.PlaylistFile> alPlaylistFiles | al playlist files
+java.util.ArrayList<org.jajuk.ui.PlaylistFileItem> alPlaylistFileItems | al playlist file items
+java.util.HashMap<java.io.File,edu.rice.cs.drjava.model.compiler.CompilerErrorModel.StartAndEndIndex> _filesToIndexes | files to indexes
+java.util.HashMap<java.lang.String,java.lang.String> hmWrongRightFileID | hm wrong right file id
+java.util.HashMap<java.lang.String,java.lang.String> hmWrongRightPlaylistFileID | hm wrong right playlist file id
+java.util.HashMap<javax.swing.filechooser.FileFilter,org.jhotdraw.draw.OutputFormat> fileFilterOutputFormatMap | file filter output format map
+java.util.HashSet<java.lang.String> _projFilePaths | proj file paths
+java.util.Hashtable fileWindows | file windows
+java.util.Hashtable hFailedFiles | h failed files
+java.util.LinkedList<java.io.File> _externalFilesCP | external files cp
+java.util.LinkedList<java.io.File> _projectFilesCP | project files cp
+java.util.LinkedList<java.io.File> recentFiles | recent files
+java.util.List collectedFiles | collected files
+java.util.List<edu.rice.cs.drjava.project.DocFile> _auxiliaryFiles | auxiliary files
+java.util.List<edu.rice.cs.drjava.project.DocFile> _excludedFiles | excluded files
+java.util.List<edu.rice.cs.drjava.project.DocFile> _sourceFiles | source files
+java.util.List fileList | file list
+java.util.List files | files
+java.util.List<java.io.File> _classPathFiles | class path files
+java.util.List<java.io.File> _testFiles | test files
+java.util.List reserved_file_handles | reserved file handles
+java.util.Map<com.eteks.sweethome3d.viewcontroller.ContentManager.ContentType,java.lang.String> defaultFileExtensions | default file extensions
+java.util.Map<com.eteks.sweethome3d.viewcontroller.ContentManager.ContentType,javax.swing.filechooser.FileFilter[]> fileFilters | file filters
+java.util.Map customization_file_map | customization file map
+java.util.Map file_map | file map
+java.util.Map fileStatCache | file stat cache
+java.util.Map file_types | file types
+java.util.Map filetypes | filetypes
+java.util.Map<javax.media.j3d.Texture,java.io.File> textureImageFilesCache | texture image files cache
+java.util.Map torrent_to_cache_file_map | torrent to cache file map
+java.util.Set<java.io.File> filesNotNeedingBackup | files not needing backup
+java.util.TreeSet<org.jajuk.base.File> files | files
+java.util.TreeSet<org.jajuk.base.PlaylistFile> playlistFiles | playlist files
+java.util.Vector favoriteFilesList | favorite files list
+java.util.Vector fileList | file list
+java.util.Vector filenames | filenames
+java.util.Vector<java.io.File> _recentFiles | recent files
+java.util.Vector recentFilesList | recent files list
+java.util.Vector tempFileStack | temp file stack
+java.util.WeakHashMap cache_files | cache files
+java.util.WeakHashMap updated_cache_files | updated cache files
+java.util.zip.ZipFile zipFile | zip file
+javax.swing.Action setImageByFileChooser | set image by file chooser
+javax.swing.Action setLinkByFileChooser | set link by file chooser
+javax.swing.event.DocumentListener _enclosingFileDocumentListener | enclosing file document listener
+javax.swing.filechooser.FileFilter filefilter | filefilter
+javax.swing.filechooser.FileFilter _fileFilter | file filter
+javax.swing.filechooser.FileFilter myFileFilter | my file filter
+javax.swing.JButton _commandEnclosingFileBtn | command enclosing file btn
+javax.swing.JButton jbFileSelection | jb file selection
+javax.swing.JButton jButtonCSVFilename | j button csv filename
+javax.swing.JButton jButtonDeleteFile | j button delete file
+javax.swing.JButton jButtonModifyFile | j button modify file
+javax.swing.JCheckBox jcbBeforeRefactorFiles | jcb before refactor files
+javax.swing.JCheckBox jCheckBoxChangeFileExt | j check box change file ext
+javax.swing.JCheckBox jCheckBoxKeepJavaFile | j check box keep java file
+javax.swing.JCheckBox jCheckBoxUseCurrentFilesDirectoryForCompiles | j check box use current files directory for compiles
+javax.swing.JCheckBox stampFilenames | stamp filenames
+javax.swing.JFileChooser fileChooser | file chooser
+javax.swing.JFileChooser _fileOptionChooser | file option chooser
+javax.swing.JLabel _fileLabel | file label
+javax.swing.JLabel jLabelFileName | j label file name
+javax.swing.JLabel jLabelFileName1 | j label file name 1
+javax.swing.JLabel jLabelFileName2 | j label file name 2
+javax.swing.JLabel jlFileSelection | jl file selection
+javax.swing.JLabel lFileCount | l file count
+javax.swing.JLabel lFileText | l file text
+javax.swing.JMenu file | file
+javax.swing.JMenu filemenu | filemenu
+javax.swing.JMenu _fileMenu | file menu
+javax.swing.JMenuItem fileBoardNew | file board new
+javax.swing.JMenuItem fileBoardOpen | file board open
+javax.swing.JMenuItem fileBoardSave | file board save
+javax.swing.JMenuItem fileBoardSaveAs | file board save as
+javax.swing.JMenuItem fileBoardSaveAsImage | file board save as image
+javax.swing.JMenuItem fileGameConnect | file game connect
+javax.swing.JMenuItem fileGameConnectBot | file game connect bot
+javax.swing.JMenuItem fileGameNew | file game new
+javax.swing.JMenuItem fileGameOpen | file game open
+javax.swing.JMenuItem fileGameSave | file game save
+javax.swing.JMenuItem fileGameScenario | file game scenario
+javax.swing.JMenuItem filePrint | file print
+javax.swing.JMenuItem fileUnitsClear | file units clear
+javax.swing.JMenuItem fileUnitsOpen | file units open
+javax.swing.JMenuItem fileUnitsSave | file units save
+javax.swing.JMenuItem jMenuLocaleFiles | j menu locale files
+javax.swing.JMenuItem jmiFileAddFavorites | jmi file add favorites
+javax.swing.JMenuItem jmiFileCopy | jmi file copy
+javax.swing.JMenuItem jmiFileCut | jmi file cut
+javax.swing.JMenuItem jmiFileDelete | jmi file delete
+javax.swing.JMenuItem jmiFileExit | jmi file exit
+javax.swing.JMenuItem jmiFileOpen | jmi file open
+javax.swing.JMenuItem jmiFilePaste | jmi file paste
+javax.swing.JMenuItem jmiFilePlay | jmi file play
+javax.swing.JMenuItem jmiFilePlayDirectory | jmi file play directory
+javax.swing.JMenuItem jmiFilePlayRepeat | jmi file play repeat
+javax.swing.JMenuItem jmiFilePlayShuffle | jmi file play shuffle
+javax.swing.JMenuItem jmiFileProperties | jmi file properties
+javax.swing.JMenuItem jmiFilePush | jmi file push
+javax.swing.JMenuItem jmiPlaylistFileCopy | jmi playlist file copy
+javax.swing.JMenuItem jmiPlaylistFileCut | jmi playlist file cut
+javax.swing.JMenuItem jmiPlaylistFileDelete | jmi playlist file delete
+javax.swing.JMenuItem jmiPlaylistFilePaste | jmi playlist file paste
+javax.swing.JMenuItem jmiPlaylistFilePlay | jmi playlist file play
+javax.swing.JMenuItem jmiPlaylistFilePlayRepeat | jmi playlist file play repeat
+javax.swing.JMenuItem jmiPlaylistFilePlayShuffle | jmi playlist file play shuffle
+javax.swing.JMenuItem jmiPlaylistFileProperties | jmi playlist file properties
+javax.swing.JMenuItem jmiPlaylistFilePush | jmi playlist file push
+javax.swing.JMenu jMenuFile | j menu file
+javax.swing.JMenu jMenuRecentFiles | j menu recent files
+javax.swing.JPanel jPanelFiles | j panel files
+javax.swing.JPopupMenu jmenuFile | jmenu file
+javax.swing.JPopupMenu jmenuPlaylistFile | jmenu playlist file
+javax.swing.JPopupMenu jPopupMenuFiles | j popup menu files
+javax.swing.JRadioButton jrbFile | jrb file
+javax.swing.JScrollPane jScrollPaneFiles | j scroll pane files
+javax.swing.JTable jTableFiles | j table files
+javax.swing.JTextField _fileField | file field
+javax.swing.JTextField filePath | file path
+javax.swing.JTextField gameLogFilename | game log filename
+javax.swing.JTextField jTextFieldCSVFilename | j text field csv filename
+javax.swing.JTextField jTextFieldFile | j text field file
+javax.swing.JTextField jTextFieldXMLFile | j text field xml file
+javax.swing.JTextPane _commandEnclosingFileLine | command enclosing file line
+javax.swing.JTextPane _commandEnclosingFileLinePreview | command enclosing file line preview
+javax.swing.JTree jTreeFiles | j tree files
+javax.swing.text.StyledDocument _commandEnclosingFileLineDoc | command enclosing file line doc
+long cache_file_id_next | cache file id next
+long cache_files_not_smaller_than | cache files not smaller than
+long file_bytes_read | file bytes read
+long file_bytes_written | file bytes written
+long file_end | file end
+long fileFreePosition | file free position
+long FileHeaderConstant | file header constant
+long file_length | file length
+long fileLength | file length
+long fileOffset | file offset
+long file_offset_in_torrent | file offset in torrent
+long filePriorityChange | file priority change
+long file_read_count | file read count
+long file_size | file size
+long file_start | file start
+long file_write_count | file write count
+long FLAG_DISABLE_AUTO_FILE_MOVE | flag disable auto file move
+long last_file_read | last file read
+long last_file_write | last file write
+long maxDataFileSize | max data file size
+long priorityFileChange | priority file change
+long skipped_file_set_size | skipped file set size
+long total_file_count | total file count
+long total_file_length | total file length
+long total_file_size | total file size
+megamek.common.util.BuildingBlock dataFile | data file
+net.sourceforge.ganttproject.export.ExporterToImage.FileTypeOption myFileTypeOption | my file type option
+org.gudy.azureus2.core3.disk.DiskManagerFileInfo core_file | core file
+org.gudy.azureus2.core3.disk.DiskManagerFileInfo file | file
+org.gudy.azureus2.core3.disk.DiskManagerFileInfoSet fileset | fileset
+org.gudy.azureus2.core3.disk.impl.DiskManagerFileInfoImpl _file | file
+org.gudy.azureus2.core3.disk.impl.DiskManagerFileInfoImpl file | file
+org.gudy.azureus2.core3.disk.impl.DiskManagerFileInfoImpl[] files | files
+org.gudy.azureus2.core3.download.impl.DownloadManagerController.fileInfoFacade[] facadeFiles | facade files
+org.gudy.azureus2.core3.download.impl.DownloadManagerController.FileInfoFacadeSet fileFacadeSet | file facade set
+org.gudy.azureus2.core3.logging.impl.FileLogging fileLogging | file logging
+org.gudy.azureus2.core3.torrent.impl.TOTorrentFileHasher file_hasher | file hasher
+org.gudy.azureus2.core3.torrent.impl.TOTorrentFileImpl[] files | files
+org.gudy.azureus2.core3.torrent.TOTorrentFile torrent_file | torrent file
+org.gudy.azureus2.core3.util.AEMonitor file_map_mon | file map mon
+org.gudy.azureus2.core3.util.AEMonitor file_mon | file mon
+org.gudy.azureus2.core3.util.AEMonitor file_piece_mon | file piece mon
+org.gudy.azureus2.core3.util.AEMonitor files_mon | files mon
+org.gudy.azureus2.core3.util.AsyncDispatcher add_file_install_dispatcher | add file install dispatcher
+org.gudy.azureus2.core3.util.Average file_read_average | file read average
+org.gudy.azureus2.core3.util.Average file_write_average | file write average
+org.gudy.azureus2.platform.PlatformManagerCapabilities CopyFilePermissions | copy file permissions
+org.gudy.azureus2.platform.PlatformManagerCapabilities RecoverableFileDelete | recoverable file delete
+org.gudy.azureus2.platform.PlatformManagerCapabilities RegisterFileAssociations | register file associations
+org.gudy.azureus2.platform.PlatformManagerCapabilities ShowFileInBrowser | show file in browser
+org.gudy.azureus2.pluginsimpl.local.disk.DiskManagerFileInfoImpl plugin_file | plugin file
+org.gudy.azureus2.ui.swt.components.BufferedLabel fileName | file name
+org.gudy.azureus2.ui.swt.components.BufferedLabel fileSize | file size
+org.gudy.azureus2.ui.swt.OpenTorrentWindow.TorrentFileInfo[] files | files
+org.hsqldb.lib.FileAccess fileaccess | file access
+org.hsqldb.lib.FileUtil fileUtil | file util
+org.hsqldb.lib.HashMap fileDatabaseMap | file database map
+org.hsqldb.lib.Storage dataFile | data file
+org.hsqldb.persist.DataFileCache dataFileCache | data file cache
+org.hsqldb.persist.LockFile lockFile | lock file
+org.jajuk.base.File file | file
+org.jajuk.util.JajukFileFilter fileFilter | file filter
+org.mozilla.javascript.tools.debugger.FileHeader fileHeader | file header
+org.mozilla.javascript.tools.debugger.FileWindow fileWindow | file window
+org.pf.file.FileHandler fileHandler | file handler
+short itsSourceFileAttributeIndex | its source file attribute index
+short itsSourceFileNameIndex | its source file name index

@@ -1,0 +1,1 @@
+CONS AbstractSaveBeforeAction(QApplication;) | abstract save before action

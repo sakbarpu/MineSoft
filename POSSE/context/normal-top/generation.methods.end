@@ -1,0 +1,8 @@
+boolean getAutoKeyGeneration() | get auto key generation
+boolean hasPartialInsertComponentGeneration(QComponent;) | has partial insert component generation
+boolean hasPartialUpdateComponentGeneration(QComponent;) | has partial update component generation
+PropertyGeneration getGeneration() | get generation
+void initBodyGeneration() | init body generation
+void nextGeneration() | next generation
+void setAutoKeyGeneration(Z) | set auto key generation
+void setGeneration(QPropertyGeneration;) | set generation

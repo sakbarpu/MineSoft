@@ -1,0 +1,93 @@
+boolean _hasOneEmptyDocument() | has one empty document
+boolean showDocument(QURL;) | show document
+ConcreteOpenDefDoc _createOpenDefinitionsDocument(QFile;) | create open definitions document
+ConcreteOpenDefDoc _createOpenDefinitionsDocument(QNullFile;) | create open definitions document
+Configuration addDocument(QDocument;) | add document
+ConsoleDocument getConsoleDocument() | get console document
+DefinitionsDocument _createDefaultTypedDocument() | create default typed document
+DefinitionsDocument createNewDocument() | create new document
+DefinitionsDocument getDocument() | get document
+DefinitionsDocument makeDocument() | make document
+DJDocument getDJDocument() | get dj document
+Document createDocument(QString;) | create document
+Document createDocument(QString;QString;QString;) | create document
+Document createNewDocument() | create new document
+Document getDefaultDocument() | get default document
+Document getDocument() | get document
+Document getDocument(IQString;) | get document
+Document getDocument(QFile;) | get document
+Document getDocument(QString;) | get document
+Document getDocument(QString;QString;QString;) | get document
+Document newDocument() | new document
+Document newDocument(QString;QString;) | new document
+File _getFileFromDocument(QOpenDefinitionsDocument;QFileSaveSelector;) | get file from document
+IDocumentImpl buildDocument(URL aUrl) | build document
+InteractionsDJDocument createDefaultDocument() | create default document
+InteractionsDJDocument getSwingConsoleDocument() | get swing console document
+InteractionsDJDocument getSwingInteractionsDocument() | get swing interactions document
+InteractionsDocument getDocument() | get document
+InteractionsDocument getInteractionsDocument() | get interactions document
+ItemT removeDocument(QItemT;) | remove document
+OpenDefinitionsDocument getActiveDocument() | get active document
+OpenDefinitionsDocument getDocument() | get document
+OpenDefinitionsDocument getNextDocument(QOpenDefinitionsDocument;) | get next document
+OpenDefinitionsDocument getODDForDocument(QAbstractDocumentInterface;) | get odd for document
+OpenDefinitionsDocument getOpenDefDocument() | get open def document
+OpenDefinitionsDocument getOpenDocument() | get open document
+OpenDefinitionsDocument _getOpenDocument(QFile;) | get open document
+OpenDefinitionsDocument getPrevDocument(QOpenDefinitionsDocument;) | get prev document
+OpenDefinitionsDocument preloadDocument(QLocation;) | preload document
+OpenDefinitionsDocument setupDocument(QString;) | setup document
+Pageable setUpDocument(QSingleDisplayModel;Z) | set up document
+String getPackageNameFromDocument() | get package name from document
+SwingDocument getJUnitDocument() | get j unit document
+SwingDocument getSwingDocument() | get swing document
+SyntaxDocument getDocument() | get document
+void addDocument(IndexWriter writer, String id, String text) | add document
+void addDocument(QDocument;) | add document
+void addDocument(QItemT;) | add document
+void addDocument(QItemT;QString;) | add document
+void addReferencedDocument(QString;) | add referenced document
+void addStylesToDocument(QStyledDocument;) | add styles to document
+void assertActiveDocument(QOpenDefinitionsDocument;) | assert active document
+void closeDocument(QOpenDefinitionsDocument;) | close document
+void endDocument() | end document
+void handleAlreadyOpenDocument(QOpenDefinitionsDocument;) | handle already open document
+void HelpDocument(QURL;[QString;) | help document
+void importRtfDocument(Reader documentSource) | import rtf document
+void installActiveDocument() | install active document
+void javadocDocument(QOpenDefinitionsDocument;QFileSaveSelector;) | javadoc document
+void loadDocument() | load document
+void loadDocument(QPluginManager;QFile;) | load document
+void normalizeDocument() | normalize document
+void openDocument(QDocument;) | open document
+void openDocument(QGanttProject;QUIFacade;QDocument;Z) | open document
+void openDocument(QURL;) | open document
+void openStartupDocument(QDocument;) | open startup document
+void openStartupDocument(QString;) | open startup document
+void pokeDocument(QOpenDefinitionsDocument;) | poke document
+void putPreparedDocument(int id, VariantKey documentKey, SaxBuffer content) | put prepared document
+void refreshActiveDocument() | refresh active document
+void refreshDocument(QItemT;QString;) | refresh document
+void restoreDocument(QDocument;) | restore document
+void selectDocument(QItemT;) | select document
+void setActiveDocument(QOpenDefinitionsDocument;) | set active document
+void setActiveFirstDocument() | set active first document
+void setActiveNextDocument() | set active next document
+void setActivePreviousDocument() | set active previous document
+void setDefaultDocument(QDocument;) | set default document
+void setDocument(Document theDocument) | set document
+void setDocument(IDocument doc) | set document
+void setDocument(InputStream input, String baseURL) | set document
+void setDocument(QDocument;) | set document
+void setDocument(QOpenDefinitionsDocument;) | set document
+void setDocument(QSyntaxDocument;) | set document
+void showDocument(QString;) | show document
+void showDocument(QURL;) | show document
+void startDocument() | start document
+void testCorrectInteractionsDocument() | test correct interactions document
+void testNotInDocument() | test not in document
+void testRenameDocument() | test rename document
+void testStartOfDocument() | test start of document
+void _updateDocument(QString;Z) | update document
+XMLDocument getXMLDocument() | get xml document

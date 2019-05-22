@@ -1,0 +1,4 @@
+int WINDOW | window
+javax.swing.JFrame _window | window
+org.gudy.azureus2.ui.swt.mainwindow.MainWindow window | window
+org.gudy.azureus2.ui.swt.PasswordWindow window | window

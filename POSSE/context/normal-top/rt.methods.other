@@ -1,0 +1,22 @@
+AmmoType createCLSRT1Ammo() | create cls rt 1 ammo
+AmmoType createCLSRT2Ammo() | create cls rt 2 ammo
+AmmoType createCLSRT3Ammo() | create cls rt 3 ammo
+AmmoType createCLSRT4Ammo() | create cls rt 4 ammo
+AmmoType createCLSRT5Ammo() | create cls rt 5 ammo
+AmmoType createCLSRT6Ammo() | create cls rt 6 ammo
+ECPoint.F2m multiplyRTnaf(QECPoint.F2m;QBigInteger;) | multiply rt naf
+long[] updateRTAs(QPiecePicker;) | update rt as
+String getRtarget() | get rt ar get
+void setRtarget(QString;) | set rt ar get
+WeaponType createCLPROSRT1() | create cl pr os rt 1
+WeaponType createCLPROSRT2() | create cl pr os rt 2
+WeaponType createCLPROSRT3() | create cl pr os rt 3
+WeaponType createCLPROSRT4() | create cl pr os rt 4
+WeaponType createCLPROSRT5() | create cl pr os rt 5
+WeaponType createCLPROSRT6() | create cl pr os rt 6
+WeaponType createCLSRT2() | create cls rt 2
+WeaponType createCLSRT2OS() | create cls rt 2 os
+WeaponType createCLSRT4() | create cls rt 4
+WeaponType createCLSRT4OS() | create cls rt 4 os
+WeaponType createCLSRT6() | create cls rt 6
+WeaponType createCLSRT6OS() | create cls rt 6 os

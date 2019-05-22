@@ -1,0 +1,7 @@
+ICompilationUnit getCompilationUnit() | get compilation unit
+String getDefaultCompilationDirectory() | get default compilation directory
+void handleCompilationDone(QContext;QDebuggableScript;QString;) | handle compilation done
+void setCompilationInProgress() | set compilation in progress
+void setDefaultCompilationDirectory(QString;) | set default compilation directory
+void transformCompilationUnit(QScriptOrFnNode;) | transform compilation unit
+void transformCompilationUnit_r(QScriptOrFnNode;QNode;) | transform compilation unit r

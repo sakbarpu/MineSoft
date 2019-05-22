@@ -1,0 +1,22 @@
+int binaryEmptySlotSearch() | binary empty slot search
+int binaryFirstSearch() | binary first search
+int binaryGreaterSearch() | binary greater search
+int binarySearchFirst(int fromIndex, int toIndex, int e) | binary search first
+int binarySearch(I) | binary search
+int binarySearch([I[DD) | binary search
+int binarySearch([II) | binary search
+int binarySearch([III) | binary search
+int binarySearch([IIII) | binary search
+int binarySearch([QObject;QObject;) | binary search
+int binarySearch([QObject;QObject;I) | binary search
+int binarySearch([QObject;QObject;II) | binary search
+int binarySearch([QObject;QObject;QComparator;) | binary search
+int binarySearch([QObject;QObject;QComparator;I) | binary search
+int binarySearch([QObject;QObject;QComparator;II) | binary search
+int binarySlotSearch() | binary slot search
+String binaryAttributesNominalTipText() | binary attributes nominal tip text
+String binarySplitsTipText() | binary splits tip text
+String binaryWordTipText() | binary word tip text
+void BinaryEntityMap() | binary entity map
+void BinaryEntityMap(I) | binary entity map
+void binaryToKOML(QString;QString;) | binary to koml

@@ -1,0 +1,9 @@
+boolean C3MasterIs(QEntity;) | c 3 master is
+String closeIS(QInputStream;) | close is
+Vector getDatabaseURIs() | get database ur is
+void childAsURIs(QJAXBObject;) | child as ur is
+void removeUIs() | remove u is
+void serializeURIs(Qfreemind.controller.actions.generated.instance.impl.runtime.XMLSerializer;) | serialize ur is
+void serializeURIs(QXMLSerializer;) | serialize ur is
+void serializeURIs(XMLSerializer context) | serialize ur is
+void updateAllUIs() | update all u is

@@ -1,0 +1,21 @@
+boolean debug_thread_pool | debug thread pool
+boolean was_returned_to_pool | was returned to pool
+byte itsPool | its pool
+int mainPool | main pool
+int MAX_POOL | max pool
+int MIN_POOL | min pool
+org.gudy.azureus2.core3.util.ThreadPool connect_pool | connect pool
+org.gudy.azureus2.core3.util.ThreadPool external_lookup_pool | external lookup pool
+org.gudy.azureus2.core3.util.ThreadPool external_put_pool | external put pool
+org.gudy.azureus2.core3.util.ThreadPool internal_lookup_pool | internal lookup pool
+org.gudy.azureus2.core3.util.ThreadPool internal_put_pool | internal put pool
+org.gudy.azureus2.core3.util.ThreadPool keep_alive_pool | keep alive pool
+org.gudy.azureus2.core3.util.ThreadPool start_pool | start pool
+org.gudy.azureus2.core3.util.ThreadPool thread_pool | thread pool
+org.hsqldb.store.ValuePoolHashMap bigdecimalPool | bigdecimal pool
+org.hsqldb.store.ValuePoolHashMap datePool | date pool
+org.hsqldb.store.ValuePoolHashMap doublePool | double pool
+org.hsqldb.store.ValuePoolHashMap intPool | int pool
+org.hsqldb.store.ValuePoolHashMap longPool | long pool
+org.hsqldb.store.ValuePoolHashMap stringPool | string pool
+org.mozilla.classfile.ConstantPool itsConstantPool | its constant pool

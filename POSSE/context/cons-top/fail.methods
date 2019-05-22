@@ -1,0 +1,13 @@
+CONS AssertionFailedError() | assertion failed error
+CONS AssertionFailedError(QString;) | assertion failed error
+CONS AssertionFailure(QString;) | assertion failure
+CONS AssertionFailure(QString;QThrowable;) | assertion failure
+CONS BatchFailedException(QString;) | batch failed exception
+CONS BatchFailedException(QString;QThrowable;) | batch failed exception
+CONS FailedPlugin() | failed plugin
+CONS FailedPlugin(QString;QString;) | failed plugin
+CONS UnitFailureDialog(QFrame;QHashtable;) | unit failure dialog
+CONS UnitFailureDialog(QJFrame;QHashtable;) | unit failure dialog
+CONS ValidationFailure(QException;) | validation failure
+CONS ValidationFailure(QString;) | validation failure
+CONS ValidationFailure(QString;QException;) | validation failure

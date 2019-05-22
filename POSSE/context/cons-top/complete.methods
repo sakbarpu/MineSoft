@@ -1,0 +1,13 @@
+CONS AutoCompleteListener(QAbstractAutoCompleter;) | auto complete listener
+CONS ColumnComplete(QString;) | column complete
+CONS CompletedCountItem() | completed count item
+CONS CompletedItem() | completed item
+CONS CompletedItem(QString;) | completed item
+CONS CrossrefAutoCompleter(QString;) | crossref auto completer
+CONS DateCompletedItem(QString;) | date completed item
+CONS DateCompletedItem(QString;Z) | date completed item
+CONS DefaultAutoCompleter(QString;) | default auto completer
+CONS EntireFieldAutoCompleter(QString;) | entire field auto completer
+CONS LayoutCompleteEvent(QObject;) | layout complete event
+CONS NameFieldAutoCompleter(QString;) | name field auto completer
+CONS TimeUntilCompleteItem(QString;) | time until complete item

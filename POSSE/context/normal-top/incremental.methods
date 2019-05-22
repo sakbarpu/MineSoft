@@ -1,0 +1,17 @@
+boolean getReadIncrementally() | get read incrementally
+boolean getUpdateIncrementalClassifier() | get update incremental classifier
+boolean[] incrementalEstimator() | incremental estimator
+boolean isIncremental() | is incremental
+int getIncrementalBuild() | get incremental build
+int getIncrementalBuild(QString;) | get incremental build
+void addIncrementalClassifierListener(QIncrementalClassifierListener;) | add incremental classifier listener
+void goIncremental() | go incremental
+void handleIncrementalEvent() | handle incremental event
+void incremental(DI) | incremental
+void notifyIncrementalClassifierListeners(QIncrementalClassifierEvent;) | notify incremental classifier listeners
+void removeIncrementalClassifierListener(QIncrementalClassifierListener;) | remove incremental classifier listener
+void repeatIncremental() | repeat incremental
+void setReadIncrementally(Z) | set read incrementally
+void setUpdateIncrementalClassifier(Z) | set update incremental classifier
+void startIncrementalSearch() | start incremental search
+void writeIncremental(QInstance;) | write incremental

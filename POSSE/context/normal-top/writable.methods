@@ -1,0 +1,7 @@
+boolean isDefinitelyWritable(I) | is definitely writable
+boolean isWritable() | is writable
+boolean isWritable(I) | is writable
+boolean makeWritable(QFile;) | make writable
+boolean setWritableComboBoxText(ZQString;Qjavax.swing.JComboBox;) | set writable combo box text
+WritableRaster makeRasterWritable(QRaster;) | make raster writable
+WritableRaster makeRasterWritable(QRaster;II) | make raster writable

@@ -1,0 +1,56 @@
+edu.rice.cs.drjava.config.BooleanOption DIALOG_COMPLETE_SCAN_CLASS_FILES | dialog complete scan class files
+edu.rice.cs.drjava.config.ForcedChoiceOption DELETE_LL_CLASS_FILES | delete ll class files
+edu.rice.cs.drjava.ui.config.VectorFileOptionComponent _extraClassPathList | extra class path list
+edu.rice.cs.util.swing.FileSelectorStringComponent _mainClassField | main class field
+int generatedClassSerial | generated class serial
+int globalSerialClassCounter | global serial class counter
+int TRIGGER_FUNCTION_CLASS_NOT_FOUND | trigger function class not found
+int WEIGHT_CLASS_ASSAULT | weight class assault
+int WEIGHT_CLASS_HEAVY | weight class heavy
+int WEIGHT_CLASS_LIGHT | weight class light
+int WEIGHT_CLASS_MEDIUM | weight class medium
+int WEIGHT_CLASS_PAL | weight class pal
+it.businesslogic.ireport.ReportClassLoader reportClassLoader | report class loader
+java.lang.Class[] iviewClassArgs | iview class args
+java.lang.ClassLoader applicationClassLoader | application class loader
+java.lang.ClassLoader pluginClassLoader | plugin class loader
+java.lang.ClassLoader root_class_loader | root class loader
+java.lang.Iterable<java.io.File> _projExtraClassPath | proj extra class path
+java.lang.Iterable<java.io.File> _startupClassPath | startup class path
+java.lang.Object[] iviewClassVals | iview class vals
+java.lang.String ABC_CLASS_ONE | abc class one
+java.lang.String ABC_CLASS_TWO | abc class two
+java.lang.String columnClassName | column class name
+java.lang.String DateClassName | date class name
+java.lang.String DEBUG_CLASS_WITH_PACKAGE | debug class with package
+java.lang.String DecimalClassName | decimal class name
+java.lang.String _exactClassName | exact class name
+java.lang.String FOO2_REFERENCES_NON_PUBLIC_CLASS_TEXT | foo 2  references non public class text
+java.lang.String FOO_NON_PUBLIC_CLASS_TEXT | foo non public class text
+java.lang.String generatedClassName | generated class name
+java.lang.String GUI_CLASS_NOT_FOUND_MESSAGE | gui class not found message
+java.lang.String hsqldb_method_class_names | hsqldb method class names
+java.lang.String INNER_CLASS_WITH_LOCAL_VARS | inner class with local vars
+java.lang.String mainClassName | main class name
+java.lang.String mainClassSignature | main class signature
+java.lang.String mainMethodClassName | main method class name
+java.lang.String projectClassName | project class name
+java.lang.String returnClassName | return class name
+java.lang.String SUPER_CLASS_NAME | super class name
+java.lang.String TimeClassName | time class name
+java.lang.String TimestampClassName | timestamp class name
+java.lang.String triggerClassName | trigger class name
+java.lang.String uiClassID | ui class id
+java.lang.String valueClassName | value class name
+java.util.ArrayList<java.lang.String> DELETE_LL_CLASS_FILES_CHOICES | delete ll class files choices
+java.util.HashMap<edu.rice.cs.drjava.model.OpenDefinitionsDocument,java.lang.String> _enclosingClassNames | enclosing class names
+java.util.HashMap<java.lang.Class,java.lang.String> enumClassToNameMap | enum class to name map
+java.util.HashMap<java.lang.String,java.lang.Class> nameToEnumClassMap | name to enum class map
+java.util.List<? extends java.io.File>	_defaultBootClassPath | extends java.io.file>	 default boot class path
+java.util.List<java.lang.String> _testClassNames | test class names
+javax.swing.JComboBox jComboBoxClassType | j combo box class type
+javax.swing.JLabel _mainClassLabel | main class label
+javax.swing.JTextField jTextFieldBeanClass1 | j text field bean class 1
+org.mozilla.javascript.ObjToIntMap itsClassHash | its class hash
+short itsSuperClassIndex | its super class index
+short itsThisClassIndex | its this class index

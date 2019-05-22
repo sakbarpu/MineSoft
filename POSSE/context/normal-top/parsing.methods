@@ -1,0 +1,4 @@
+void addParsingListener(QParsingListener;) | add parsing listener
+void done_parsing() | done parsing
+void ParsingState(QSuccessState;QFailureState;) | parsing state
+void testBasicSearchParsing() | test basic search parsing

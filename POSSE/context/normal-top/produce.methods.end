@@ -1,0 +1,2 @@
+boolean canAutoProduce() | can auto produce
+GoodsType getBestGoodsToProduce(QTile;) | get best goods to produce

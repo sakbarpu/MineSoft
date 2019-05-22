@@ -1,0 +1,2 @@
+int getDatabaseMajorVersion | get database major version
+int NANOXML_MAJOR_VERSION | nanoxml major version

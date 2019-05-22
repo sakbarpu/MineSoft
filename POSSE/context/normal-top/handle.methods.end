@@ -1,0 +1,18 @@
+Handle findHandle(QPoint;) | find handle
+Handle getHandle() | get handle
+int getBundleHandle(QString;QClassLoader;) | get bundle handle
+int getCopyHandle() | get copy handle
+int getObjectHandle() | get object handle
+int pickHandle(I) | pick handle
+String fileMonitorHandle() | file monitor handle
+String getFileMonitorHandle() | get file monitor handle
+void EastHandle(QFigure;) | east handle
+void NorthEastHandle(QFigure;) | north east handle
+void NorthHandle(QFigure;) | north handle
+void NorthWestHandle(QFigure;) | north west handle
+void ResizeHandle(QFigure;QLocator;) | resize handle
+void setFileMonitorHandle(QString;) | set file monitor handle
+void SouthEastHandle(QFigure;) | south east handle
+void SouthHandle(QFigure;) | south handle
+void SouthWestHandle(QFigure;) | south west handle
+void WestHandle(QFigure;) | west handle

@@ -1,0 +1,26 @@
+boolean getSingletonPublishAttempted() | get singleton publish attempted
+boolean hasINarcPodsAttached() | has i narc pods attached
+boolean isAtomFeed() | is atom feed
+boolean isAttributeEnabled(QAttributeKey;) | is attribute enabled
+boolean isAttributeRequired(String elementName, String attrName) | is attribute required
+double measureAttributesUsed() | measure attributes used
+double measureNumAttributesSelected() | measure num attributes selected
+double percentAttributesUsed() | percent attributes used
+Enumeration getINarcPodsAttached() | get i narc pods attached
+int numberAttributesSelected() | number attributes selected
+void attributeAdded(QString;QString;QString;I) | attribute added
+void attributeEventOccurred(QDownloadManager;QString;I) | attribute event occurred
+void attributeEventOccurred(QDownload;QTorrentAttribute;I) | attribute event occurred
+void attributeEventOccurred(Qorg.gudy.azureus2.core3.download.DownloadManager;QString;I) | attribute event occurred
+void connectAttemptStarted() | connect attempt started
+void elementAttributesProcessed(QString;QProperties;QString;I) | element attributes processed
+void elementAttributesProcessed(QString;QString;QString;) | element attributes processed
+void figureAttributeChanged(QFigureEvent;) | figure attribute changed
+void fireAttributeChanged(QAttributeKey;QObject;QObject;) | fire attribute changed
+void jButtonReadBeanAttributes3ActionPerformed(Qjava.awt.event.ActionEvent;) | j button read bean attributes 3 action performed
+void jButtonReadBeanAttributesActionPerformed(Qjava.awt.event.ActionEvent;) | j button read bean attributes action performed
+void sendAttemptCompleted(QClientMessage;) | send attempt completed
+void sendAttemptFailed(QClientMessage;QThrowable;) | send attempt failed
+void setAttributeEnabled(QAttributeKey;Z) | set attribute enabled
+void setSingletonPublishAttempted() | set singleton publish attempted
+void UIAttached(QUIInstance;) | ui attached

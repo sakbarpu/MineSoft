@@ -1,0 +1,6 @@
+boolean isDefinitelyWritable(I) | is definitely writable
+boolean isWritable() | is writable
+boolean isWritable(I) | is writable
+boolean makeWritable(QFile;) | make writable
+WritableRaster makeRasterWritable(QRaster;) | make raster writable
+WritableRaster makeRasterWritable(QRaster;II) | make raster writable

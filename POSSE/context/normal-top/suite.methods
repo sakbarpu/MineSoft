@@ -1,0 +1,8 @@
+boolean runTestSuite() | run test suite
+Class<+QTestCase;> loadSuiteClass(QString;) | load suite class
+junit.framework.Test suite() | suite
+TestResult runSuite(QTestSuite;) | run suite
+Test suite() | suite
+void assertJUnitSuiteStartedCount(I) | assert j unit suite started count
+void setName(String suiteName) | set name
+void testGetSuiteClass() | test get suite class

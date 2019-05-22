@@ -1,0 +1,13 @@
+boolean isFurniturePrinted() | is furniture printed
+boolean isPlanPrinted() | is plan printed
+boolean isView3DPrinted() | is view 3 d printed
+void jButtonPrintWhenExpressionActionPerformed(Qjava.awt.event.ActionEvent;) | j button print when expression action performed
+void jCheckBoxPrintInFirstWholeBandActionPerformed(Qjava.awt.event.ActionEvent;) | j check box print in first whole band action performed
+void jCheckBoxPrintRepeatedValuesActionPerformed(Qjava.awt.event.ActionEvent;) | j check box print repeated values action performed
+void jCheckBoxPrintWhenDetailOverflowsActionPerformed(Qjava.awt.event.ActionEvent;) | j check box print when detail overflows action performed
+void jComboBoxPrintOrderActionPerformed(Qjava.awt.event.ActionEvent;) | j combo box print order action performed
+void jMenuItemPrintActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item print action performed
+void jRTextExpressionAreaPrintWhenExpressionInputMethodTextChanged(Qjava.awt.event.InputMethodEvent;) | j r text expression area print when expression input method text changed
+void jRTextExpressionAreaPrintWhenExpressionTextChanged() | j r text expression area print when expression text changed
+void menuFilePrintActionPerformed(Qjava.awt.event.ActionEvent;) | menu file print action performed
+void printListCommandsCalled(QVector;) | print list commands called

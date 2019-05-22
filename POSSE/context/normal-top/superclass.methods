@@ -1,0 +1,12 @@
+boolean checkSubclassOrSuperclassPropertyReference(QFromReferenceNode;QString;) | check subclass or superclass property reference
+boolean isClassOrSuperclassJoin(QJoin;) | is class or superclass join
+boolean isClassOrSuperclassTable(I) | is class or superclass table
+boolean isClassOrSuperclassTable(QTable;) | is class or superclass table
+boolean isDereferencedBySuperclassOrSubclassProperty() | is dereferenced by superclass or subclass property
+boolean isDereferencedBySuperclassProperty() | is dereferenced by superclass property
+boolean isSuperclassProperty(QString;) | is superclass property
+PersistentClass getSuperclass() | get superclass
+PersistentClass getSuperclass(QMappings;QElement;) | get superclass
+String getMappedSuperclass() | get mapped superclass
+String getSuperclass() | get superclass
+void setSuperclass(QPersistentClass;) | set superclass

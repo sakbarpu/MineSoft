@@ -1,0 +1,4 @@
+String enclosingBraceType() | enclosing brace type
+void EnclosingBrace(I) | enclosing brace
+void _enclosingBraceTestHelper(IQString;IQString;) | enclosing brace test helper
+void EnclosingClassName(IZ) | enclosing class name

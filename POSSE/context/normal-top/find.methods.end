@@ -1,0 +1,8 @@
+boolean _combineCurrentAndNextIfFind(QString;QString;QTokenList.Iterator;) | combine current and next if find
+double newtonRaphsonRootFind([QPoint2D.Double;QPoint2D.Double;D) | newton raphson root find
+int getDontFlushFromFind() | get dont flush from find
+String contentFind(QString;Z) | content find
+void _doFind() | do find
+void finishedFind() | finished find
+void groupFind(QNode;I) | group find
+void startFind() | start find

@@ -1,0 +1,4 @@
+int generatedClassSerial | generated class serial
+int GENERATED_TAG | generated tag
+java.lang.String generatedClassName | generated class name
+java.lang.String GENERATED_TAG_STR | generated tag str

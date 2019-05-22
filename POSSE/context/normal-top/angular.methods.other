@@ -1,0 +1,3 @@
+double calcAngularWidth(QNodeItem;I) | calc angular width
+void calcAngularBounds(QNodeItem;) | calc angular bounds
+void setAngularBounds(DD) | set angular bounds

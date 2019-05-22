@@ -1,0 +1,7 @@
+boolean isAlphaUpper(C) | is alpha upper
+boolean isAlphaUpper(QString;) | is alpha upper
+int getRunUpper() | get run upper
+int getUpper() | get upper
+int rangeUpper(QString;) | range upper
+void setRunUpper(I) | set run upper
+void setUpper(I) | set upper

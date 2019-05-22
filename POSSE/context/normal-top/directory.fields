@@ -1,0 +1,43 @@
+edu.rice.cs.drjava.config.BooleanOption STICKY_INTERACTIONS_DIRECTORY | sticky interactions directory
+edu.rice.cs.drjava.config.FileOption LAST_DIRECTORY | last directory
+edu.rice.cs.drjava.config.FileOption LAST_INTERACTIONS_DIRECTORY | last interactions directory
+int directoryName | directory name
+int FIELD_DIRECTORY | field directory
+java.io.File _activeDirectory | active directory
+java.io.File currentDirectory | current directory
+java.io.File myStartDirectory | my start directory
+java.io.File reportDirectory | report directory
+java.io.File _workingDirectory | working directory
+java.lang.String DATA_DIRECTORY | data directory
+java.lang.String defaultSaveDirectory | default save directory
+java.lang.String defDirectory | def directory
+java.lang.String DEVICE_TYPE_DIRECTORY | device type directory
+java.lang.String directoryname | directory name
+java.lang.String DIRECTORYNAME_OPTION_ID | directory name option id
+java.lang.String directoryPath | directory path
+java.lang.String FTPDirectory | ftp directory
+java.lang.String homeDirectory | home directory
+java.lang.String ICON_DEVICE_DIRECTORY_MOUNTED_SMALL | icon device directory mounted small
+java.lang.String ICON_DEVICE_DIRECTORY_UNMOUNTED_SMALL | icon device directory unmounted small
+java.lang.String ICON_DIRECTORY_DESYNCHRO | icon directory desynchro
+java.lang.String ICON_DIRECTORY_SYNCHRO | icon directory synchro
+java.lang.String LOG_DIRECTORY | log directory
+java.lang.String MECH_DIRECTORY | mech directory
+java.lang.String OUTPUT_DIRECTORY | output directory
+java.lang.String SCRIPTLET_OUTPUT_DIRECTORY | scriptlet output directory
+java.lang.String XML_DIRECTORY | xml directory
+java.lang.String XML_DIRECTORY_DEFAULT_COVER | xml directory default cover
+java.lang.String XML_DIRECTORY_PARENT | xml directory parent
+java.util.HashMap hmDirectoryDirectoryNode | hm directory directory node
+java.util.HashMap<java.lang.String,java.lang.String> hmWrongRightDirectoryID | hm wrong right directory id
+javax.swing.JButton jButtonBackupDirectory | j button backup directory
+javax.swing.JCheckBox jCheckBoxUseCurrentFilesDirectoryForCompiles | j check box use current files directory for compiles
+javax.swing.JLabel jLabelReportVirtualizerDirectory | j label report virtualizer directory
+javax.swing.JMenuItem jmiFilePlayDirectory | jmi file play directory
+javax.swing.JTextField jTextFieldBackupDirectory | j text field backup directory
+net.sourceforge.ganttproject.gui.options.model.StringOption myFtpDirectoryNameOption | my ftp directory name option
+net.sourceforge.ganttproject.gui.options.model.StringOption myWorkingDirectory | my working directory
+org.bouncycastle.asn1.DERObjectIdentifier SubjectDirectoryAttributes | subject directory attributes
+org.gudy.azureus2.platform.PlatformManagerCapabilities GetUserDataDirectory | get user data directory
+org.jajuk.base.Directory directory | directory
+org.jajuk.base.Directory dParentDirectory | d parent directory

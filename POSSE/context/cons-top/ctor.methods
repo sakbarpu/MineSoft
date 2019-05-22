@@ -1,0 +1,2 @@
+CONS LazilyLoadedCtor(QScriptableObject;QString;QString;Z) | lazily loaded ctor
+CONS NativeRegExpCtor() | native reg exp ctor

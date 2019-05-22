@@ -1,0 +1,11 @@
+Block[] getSuccessors() | get successors
+Entry successor(QEntry;) | successor
+GanttTaskRelationship[] getSuccessors() | get successors
+int getSuccessorTaskID() | get successor task id
+IState successorState(IState s, IAction a) | successor state
+List<QTaskFigure;> getSuccessors() | get successors
+Task getSuccessorTask() | get successor task
+void addSuccessor(QFatBlock;) | add successor
+void makeSuccessors(QFastVector;QInstances;[[[I[[[D[[[DQAttribute;ZZ) | make successors
+void setSuccessorTask(I) | set successor task
+void setSuccessorTask(QTask;) | set successor task

@@ -1,0 +1,2 @@
+void loadedGoods(QGoods;) | loaded goods
+void loadedUnit(QUnit;) | loaded unit

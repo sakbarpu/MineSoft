@@ -1,0 +1,8 @@
+boolean dontChange | dont change
+boolean dontHandleEvent | dont handle event
+boolean m_dontprompt | m dont prompt
+int DONT_BREAK_LINES | dont break lines
+int DONTENUM | dontenum
+int DONT_HAVE_ROLE | dont have role
+int dont_wait | dont wait
+long _dontUpdate | dont update

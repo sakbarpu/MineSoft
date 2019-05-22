@@ -1,0 +1,30 @@
+boolean getLogged() | get logged
+boolean getLogged(QUPnPMapping;) | get logged
+boolean loginSucceeded() | login succeeded
+void alertLogged(IQString;Z) | alert logged
+void alertLogged(QString;QThrowable;Z) | alert logged
+void chatLogoffReceived(Qymsg.network.event.SessionChatEvent;) | chat logoff received
+void chatLogonReceived(Qymsg.network.event.SessionChatEvent;) | chat logon received
+void conferenceLogoffReceived(Qymsg.network.event.SessionConferenceEvent;) | conference logoff received
+void conferenceLogonReceived(Qymsg.network.event.SessionConferenceEvent;) | conference logon received
+void fireOnLoginAccepted() | fire on login accepted
+void fireOnLoginFailed() | fire on login failed
+void jMenuItemClearLogActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item clear log action performed
+void jMenuItemCloseLogActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close log action performed
+void jMenuItemKeepLogActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item keep log action performed
+void jTabbedPaneLogsMouseClicked(Qjava.awt.event.MouseEvent;) | j tabbed pane logs mouse clicked
+void loginAccepted() | login accepted
+void loginCanceled() | login canceled
+void loginUpdateTriggered(QLoginInfo;Z) | login update triggered
+void logoffReceived(Qymsg.network.event.SessionEvent;) | logoff received
+void logQueued() | log queued
+void logRemoved(QClass;) | log removed
+void messageLogged(IQString;) | message logged
+void messageLogged(IQString;QThrowable;) | message logged
+void messageLogged(QString;QThrowable;) | message logged
+void messageLogged(QString;Z) | message logged
+void onLoginAccepted(J) | on login accepted
+void setLogged() | set logged
+void setLogged(QUPnPMapping;) | set logged
+void setLoggingEnabled(Z) | set logging enabled
+void sidebarLogIdChanged(QSideBarEntrySWT;QString;QString;) | sidebar log id changed

@@ -1,0 +1,8 @@
+boolean _testsHaveRun | tests have run
+boolean _testsSuccessful | tests successful
+int MAX_ACTIVE_TESTS | max active tests
+int selected_tests | selected tests
+int[] TESTS | tests
+java.lang.String HAS_MULTIPLE_TESTS_PASS_TEXT | has multiple tests pass text
+java.lang.String NO_TESTS_MSG | no tests msg
+java.util.List active_tests | active tests

@@ -1,0 +1,18 @@
+boolean completionPriority | completion priority
+com.aelitis.azureus.core.util.CopyOnWriteList completion_listeners | completion listeners
+int completionHeight | completion height
+int myCompletionPercentage | my completion percentage
+int PRIORITY_W_COMPLETION | priority w completion
+int taskCompletionPercentage | task completion percentage
+java.lang.Runnable _defaultInputCompletionCommand | default input completion command
+java.lang.Runnable _inputCompletionCommand | input completion command
+java.lang.String strColCompletion | str col completion
+java.util.ArrayList completionListeners | completion listeners
+long FLAG_MOVE_ON_COMPLETION_DONE | flag move on completion done
+net.sourceforge.ganttproject.task.algorithm.RecalculateTaskCompletionPercentageAlgorithm myCompletionPercentageAlgorithm | my completion percentage algorithm
+net.sourceforge.ganttproject.task.TaskImpl.FieldChange myCompletionPercentageChange | my completion percentage change
+org.gudy.azureus2.core3.download.impl.DownloadManagerDefaultPaths.MovementInformation COMPLETION_DETAILS | completion details
+org.gudy.azureus2.core3.util.AESemaphore completion_sem | completion sem
+org.gudy.azureus2.pluginsimpl.local.download.DownloadEventNotifierImpl.DownloadCompletionNotifier download_completion_notifier | download completion notifier
+org.gudy.azureus2.ui.swt.components.BufferedLabel ave_completion | ave completion
+org.gudy.azureus2.ui.swt.update.UpdateAutoDownloader.cbCompletion completionCallback | completion callback

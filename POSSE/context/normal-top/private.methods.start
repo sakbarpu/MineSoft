@@ -1,0 +1,4 @@
+void PrivateException() | private exception
+void PrivateException(QString;) | private exception
+void PrivateParseException(QString;) | private parse exception
+void PrivateProjectException(QString;) | private project exception

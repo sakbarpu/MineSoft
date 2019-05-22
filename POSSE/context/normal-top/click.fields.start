@@ -1,0 +1,10 @@
+com.aelitis.azureus.ui.swt.columns.utils.ColumnImageClickArea clickAreaDetails | click area details
+com.aelitis.azureus.ui.swt.columns.utils.ColumnImageClickArea clickAreaDL | click area dl
+com.aelitis.azureus.ui.swt.columns.utils.ColumnImageClickArea clickAreaPlay | click area play
+com.aelitis.azureus.ui.swt.columns.utils.ColumnImageClickArea clickAreaRun | click area run
+com.aelitis.azureus.ui.swt.columns.utils.ColumnImageClickArea clickAreaShare | click area share
+com.aelitis.azureus.ui.UIStatusTextClickListener clickListener | click listener
+java.awt.Checkbox clickEdgeScroll | click edge scroll
+java.awt.Point clickPoint | click point
+java.lang.String CLICK_EDGE_SCROLL | click edge scroll
+javax.swing.JCheckBox clickEdgeScroll | click edge scroll

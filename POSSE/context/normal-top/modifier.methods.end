@@ -1,0 +1,42 @@
+boolean addModifier(QModifier;) | add modifier
+double getAimModifier(II) | get aim modifier
+float applyModifier(FQString;) | apply modifier
+float applyModifier(FQString;QFreeColGameObjectType;) | apply modifier
+float applyModifier(FQString;QFreeColGameObjectType;QTurn;) | apply modifier
+int getExtremeRangeModifier() | get extreme range modifier
+int getHeatFiringModifier() | get heat firing modifier
+int getLongRangeModifier() | get long range modifier
+int getMediumRangeModifier() | get medium range modifier
+int getModifier() | get modifier
+int getModifier(QMounted;QCoords;) | get modifier
+int getMovementBeforeSkidPSRModifier(I) | get movement before skid psr modifier
+int getShortRangeModifier() | get short range modifier
+int getToHitModifier() | get to hit modifier
+int pilotingModifier() | piloting modifier
+int terrainPilotingModifier() | terrain piloting modifier
+KeyStroke addShiftModifier(QKeyStroke;) | add shift modifier
+Modifier createTeaPartyModifier(QTurn;) | create tea party modifier
+Modifier getModifier(QString;) | get modifier
+Modifier getProductionModifier() | get production modifier
+Modifier getProductionModifier(QGoodsType;) | get production modifier
+Modifier removeModifier(QModifier;) | remove modifier
+Set<QModifier;> getProductionModifier(QGoodsType;QUnitType;) | get production modifier
+String getModifier() | get modifier
+TargetRoll getStealthModifier(I) | get stealth modifier
+ToHitData getAttackerMovementModifier(QIGame;I) | get attacker movement modifier
+ToHitData getAttackerMovementModifier(QIGame;II) | get attacker movement modifier
+ToHitData getAttackerTerrainModifier(QIGame;I) | get attacker terrain modifier
+ToHitData getLimbModifier(IQEntity;) | get limb modifier
+ToHitData getSpotterMovementModifier(QIGame;I) | get spotter movement modifier
+ToHitData getSpotterMovementModifier(QIGame;II) | get spotter movement modifier
+ToHitData getTargetMovementModifier(IZZZ) | get target movement modifier
+ToHitData getTargetMovementModifier(QIGame;I) | get target movement modifier
+ToHitData getTargetTerrainModifier(QIGame;QTargetable;) | get target terrain modifier
+ToHitData getTargetTerrainModifier(QIGame;QTargetable;I) | get target terrain modifier
+void addModifier(IQString;) | add modifier
+void addModifier(Modifier modifier) | add modifier
+void addModifier(QModifier;) | add modifier
+void ArtilleryModifier() | artillery modifier
+void ArtilleryModifier(QCoords;I) | artillery modifier
+void setModifier(I) | set modifier
+void setModifier(QMounted;IQCoords;) | set modifier

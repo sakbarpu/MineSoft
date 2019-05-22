@@ -1,0 +1,9 @@
+boolean matchesCIDR(QInetAddress;) | matches cidr
+boolean matchesCriteria(QObject;QObject;) | matches criteria
+boolean matchesDN(QX500Principal;QGeneralNames;) | matches dn
+boolean matchesDN(QX509Principal;QGeneralNames;) | matches dn
+boolean matchesDownload(QDownloadManager;QContextDescriptor;) | matches download
+boolean matchesRegion(QHighlightInfo;) | matches region
+boolean matchesTable(DatabaseIdentifierImpl other) | matches table
+boolean matchesTemplate(QInstance;) | matches template
+boolean matchesTemplate([QObject;[QObject;) | matches template

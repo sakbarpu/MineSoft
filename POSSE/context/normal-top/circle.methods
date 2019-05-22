@@ -1,0 +1,12 @@
+Circle addNewCircle() | add new circle
+CircleIterator getCircleIterator(QPosition;ZI) | get circle iterator
+Figure createCircle(DDDQMap<QAttributeKey;QObject;>;) | create circle
+Figure readCircleElement(QIXMLElement;) | read circle element
+int[] circle(III) | circle
+IXMLElement createCircle(QIXMLElement;DDDQMap<QAttributeKey;QObject;>;) | create circle
+void CircleIterator(QPosition;ZI) | circle iterator
+void drawCircle(QGraphics2D;QColor;QColor;) | draw circle
+void setCircleArray(int i, Circle circle) | set circle array
+void setGradientCircle(DDD) | set gradient circle
+void testPrototypeCircleLeadsToException() | test prototype circle leads to exception
+void writeCircleElement(QIXMLElement;QSVGEllipseFigure;) | write circle element

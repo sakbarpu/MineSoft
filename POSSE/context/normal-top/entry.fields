@@ -1,0 +1,24 @@
+boolean is_bucket_entry | is bucket entry
+com.aelitis.azureus.activities.VuzeActivitiesEntry entry | entry
+com.aelitis.azureus.ui.swt.views.skin.sidebar.SideBarEntrySWT currentSideBarEntry | current side bar entry
+com.aelitis.azureus.ui.swt.views.skin.sidebar.SideBarEntrySWT sb_entry | sb entry
+com.aelitis.azureus.ui.swt.views.skin.sidebar.SideBarEntrySWT sideBarEntry | side bar entry
+int BYTES_PER_ENTRY | bytes per entry
+int entry_count | entry count
+int entryIndex | entry index
+int entry_type | entry type
+int entryType | entry type
+int MIN_CACHE_ENTRY_SIZE | min cache entry size
+java.lang.String APPLICATION_ENTRY_POINT | application entry point
+java.lang.String m_sEntryName | m s entry name
+java.lang.String resultsEntryPath | results entry path
+java.lang.String URL_FAQ_BY_TOPIC_ENTRY | url faq by topic entry
+java.lang.String VMT_ACTIVITYENTRY | vmt activity entry
+java.util.Map mapTitleInfoToEntry | map title info to entry
+long entry_count | entry count
+long last_entry_count | last entry count
+org.bouncycastle.asn1.x509.X509Extensions crlEntryExtensions | crl entry extensions
+org.mozilla.javascript.optimizer.DataFlowBitSet itsLiveOnEntrySet | its live on entry set
+short[] SLICE_ENTRY_ALLOC_SIZES | slice entry alloc sizes
+short[] SLICE_ENTRY_SIZES | slice entry sizes
+thePackage.EventLogger entryEvents | entry events

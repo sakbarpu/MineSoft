@@ -1,0 +1,28 @@
+boolean endsWithJavadoc(QStringBuffer;) | ends with javadoc
+boolean _javadocMainHasExecuteMethod(QClass;) | javadoc main has execute method
+CompilerErrorModel getJavadocErrorModel() | get javadoc error model
+DJError _parseJavadocErrorLine(QString;) | parse javadoc error line
+File suggestJavadocDestination(QOpenDefinitionsDocument;) | suggest javadoc destination
+JavadocModel getJavadocModel() | get javadoc model
+JavadocModel javadoc() | javadoc
+String generateJavadoc() | generate javadoc
+String generateJavadoc(I) | generate javadoc
+String updateJavadoc() | update javadoc
+String updateJavadoc(QString;) | update javadoc
+String updateJavadoc(QString;I) | update javadoc
+void assertSaveBeforeJavadocCount(I) | assert save before javadoc count
+void generateJavadoc(QFileSaveSelector;) | generate javadoc
+void initOpenJavadocDialog() | init open javadoc dialog
+void javadocAll(QDirectorySelector;QFileSaveSelector;) | javadoc all
+void _javadocAllWorker(QFile;QFileSaveSelector;) | javadoc all worker
+void JavadocCustomParamsListener(QJFrame;) | javadoc custom params listener
+void javadocDocument(QOpenDefinitionsDocument;QFileSaveSelector;) | javadoc document
+void _openJavadocUnderCursor() | open javadoc under cursor
+void resetJavadocErrors() | reset javadoc errors
+void resetOpenJavadocDialogPosition() | reset open javadoc dialog position
+void _runJavadoc(QIterable<QString;>;QFile;QIterable<QString;>;Z) | run javadoc
+void runJavadoc(QJavadoc;[QString;) | run javadoc
+void sanitizeJavadocCustomParams(QJFrame;QString;) | sanitize javadoc custom params
+void saveBeforeJavadoc() | save before javadoc
+void setJavadocInProgress() | set javadoc in progress
+void _setupJavadocPanel(QConfigPanel;) | setup javadoc panel

@@ -1,0 +1,7 @@
+Object semiResolve(QObject;QSessionImplementor;QObject;) | semi resolve
+String _deleteSemiColon(QString;) | delete semi colon
+String getHistoryAsStringWithSemicolons() | get history as string with semicolons
+String[] semicolonSplit(QString;) | semicolon split
+Type getSemiResolvedType(QSessionFactoryImplementor;) | get semi resolved type
+void testAfterArrayAssignMultiSemi() | test after array assign multi semi
+void testLoadHistoryWithAndWithoutSemicolons() | test load history with and without semicolons

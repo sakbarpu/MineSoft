@@ -1,0 +1,6 @@
+com.aelitis.azureus.core.networkmanager.impl.TransportHelperFilter current_writer | current writer
+java.io.PrintWriter errWriter | err writer
+java.io.PrintWriter logWriter | log writer
+org.gudy.azureus2.core3.global.impl.GlobalManagerStatsWriter stats_writer | stats writer
+org.gudy.azureus2.core3.stats.StatsWriterPeriodic stats_writer | stats writer
+org.hsqldb.scriptio.ScriptWriterBase dbLogWriter | db log writer

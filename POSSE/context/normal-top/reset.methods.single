@@ -1,0 +1,22 @@
+boolean reset() | reset
+ListIterator reset(QListIterator;) | reset
+void _reset() | reset
+void reset() | reset
+void reset(ActionMapping mapping, HttpServletRequest request) | reset
+void reset(float x, float y, float z) | reset
+void reset(I) | reset
+void reset(II) | reset
+void reset(int initialValue) | reset
+void reset(IQString;) | reset
+void reset(J) | reset
+void reset(JJ) | reset
+void reset(QDataInputStream;) | reset
+void reset([QFile;) | reset
+void reset(QFile;) | reset
+void reset(QJComponent;) | reset
+void reset(QQueryTranslatorImpl;) | reset
+void reset(QStateSet;) | reset
+void reset(QString;) | reset
+void reset(QTransferMode;) | reset
+void reset(QVisualItem;) | reset
+void reset(RuleController regelwerk) | reset

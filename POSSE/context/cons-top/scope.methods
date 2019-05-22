@@ -1,0 +1,2 @@
+CONS Scope() | scope
+CONS Scope(QXMLStreamReader;) | scope

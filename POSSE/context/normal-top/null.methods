@@ -1,0 +1,158 @@
+AST createIsNullParent(QAST;Z) | create is null parent
+BasicGetter getGetterOrNull(QClass;QString;) | get getter or null
+BasicSetter getSetterOrNull(QClass;QString;) | get setter or null
+boolean checkNull() | check null
+boolean check_nullable() | check nullable
+boolean checkNull(QObject;) | check null
+boolean determinIfNullAd(QDownloadManager;) | determin if null ad
+boolean disallowNullsInExpressions() | disallow nulls in expressions
+boolean[] getPropertyNullability() | get property nullability
+boolean getUseNullList() | get use null list
+boolean isAllNull([QObject;I) | is all null
+boolean isAllowNulls() | is allow nulls
+boolean isBlankWhenNull() | is blank when null
+boolean isDiscriminatorValueNotNull() | is discriminator value not null
+boolean isDiscriminatorValueNull() | is discriminator value null
+boolean isEquivalentToNotNullPredicate() | is equivalent to not null predicate
+boolean isMatchesNull() | is matches null
+boolean isNull() | is null
+boolean isNullable() | is nullable
+boolean isNullableSubclassTable(I) | is nullable subclass table
+boolean isNullableTable(I) | is nullable table
+boolean isNullAt(II) | is null at
+boolean isNullifiable(QString;QObject;) | is nullifiable
+boolean isNullifiable(ZQSessionImplementor;) | is nullifiable
+boolean isNull(Object newValue) | is null
+boolean isNull([QObject;) | is null
+boolean isNull([QObject;[I) | is null
+boolean isNull(QObject;QSessionImplementor;) | is null
+boolean isPropertyNull(QEntityKey;QString;) | is property null
+boolean isSubclassPropertyNullable(I) | is subclass property nullable
+boolean looks_nullable() | looks nullable
+boolean nullable() | nullable
+boolean nullable_known() | nullable known
+boolean nullPlusNonNullIsNull() | null plus non null is null
+boolean nullsAreSortedAtEnd() | nulls are sorted at end
+boolean nullsAreSortedAtStart() | nulls are sorted at start
+boolean nullsAreSortedHigh() | nulls are sorted high
+boolean nullsAreSortedLow() | nulls are sorted low
+boolean set_nullable(Z) | set nullable
+boolean supportsNonNullableColumns() | supports non nullable columns
+boolean supportsNotNullUnique() | supports not null unique
+boolean supportsNullsInCandidateKeys() | supports nulls in candidate keys
+boolean[] toColumnNullness(QObject;QMapping;) | to column nullness
+boolean wantsIsNull(QString;) | wants is null
+boolean wasNull() | was null
+CaseFragment addWhenColumnNotNull(QString;QString;QString;) | add when column not null
+Class classOrNull(QClassLoader;QString;) | class or null
+Class classOrNull(QString;) | class or null
+CollectionEntry getCollectionEntryOrNull(QObject;) | get collection entry or null
+Color pickColorIfNull(QColor;QColor;QColor;) | pick color if null
+Criterion isNotNull() | is not null
+Criterion isNotNull(QString;) | is not null
+Criterion isNull() | is null
+Criterion isNull(QString;) | is null
+EntityTuplizer getTuplizerOrNull(QEntityMode;) | get tuplizer or null
+Expression readNullIfExpression() | read null if expression
+HashSet getNullifiableEntityKeys() | get nullifiable entity keys
+Integer getColNullability(I) | get col nullability
+Integer getNullability() | get nullability
+Integer getPropertyIndexOrNull(QString;) | get property index or null
+int getArgNullability(I) | get arg nullability
+int indexOfPreceedingNotNullElement([QString;I) | index of preceeding not null element
+int isNullable(I) | is nullable
+int remove_nulls([QString;) | remove nulls
+limitEstimate getNullLimit() | get null limit
+LoadType setAllowNulls(Z) | set allow nulls
+LoggerChannel getNullChannel(QString;) | get null channel
+MiscType createNullSignatureSystem() | create null signature system
+Node findNotNull(QSession;[QObject;[IZ) | find not null
+Object deepCopyNotNull(QObject;) | deep copy not null
+Object getAffectedOwnerOrNull() | get affected owner or null
+Object getLoadedCollectionOwnerOrNull(QPersistentCollection;) | get loaded collection owner or null
+Object getLoadedOwnerOrNull(QPersistentCollection;QEventSource;) | get loaded owner or null
+Object[] getNotNull([QObject;) | get not null
+Object newInstanceOrNull(QClass;) | new instance or null
+Object nullifyTransientReferences(QObject;QType;) | nullify transient references
+Object nullSafeGet(QResultSet;[QString;) | null safe get
+Object nullSafeGet(QResultSet;QString;) | null safe get
+Object nullSafeGet(QResultSet;[QString;QObject;) | null safe get
+Object nullSafeGet(QResultSet;[QString;QSessionImplementor;QObject;) | null safe get
+Object nullSafeGet(QResultSet;QString;QSessionImplementor;QObject;) | null safe get
+Object[] nullSafeGetValues(QObject;QEntityMode;) | null safe get values
+Object nullValueOf(QClass;) | null value of
+RowIterator findFirstRowNotNull(QSession;) | find first row not null
+ScriptableObject getLibraryScopeOrNull(QScriptable;) | get library scope or null
+Scriptable toObjectOrNull(QContext;QObject;) | to object or null
+Serializable getAffectedOwnerIdOrNull() | get affected owner id or null
+Serializable getIdOfOwnerOrNull(QSerializable;QSessionImplementor;) | get id of owner or null
+Serializable getLoadedCollectionOwnerIdOrNull(QCollectionEntry;) | get loaded collection owner id or null
+Serializable getLoadedCollectionOwnerIdOrNull(QPersistentCollection;) | get loaded collection owner id or null
+Serializable getLoadedOwnerIdOrNull(QPersistentCollection;QEventSource;) | get loaded owner id or null
+Serializable getOwnerIdOrNull(QObject;QEventSource;) | get owner id or null
+SQLException nullArgument() | null argument
+SQLException nullArgument(QString;) | null argument
+String checkComponentNullability(QObject;QAbstractComponentType;) | check component nullability
+String checkSubElementsNullability(QType;QObject;) | check sub elements nullability
+String getBasicSelectClauseNullString(I) | get basic select clause null string
+String getColIsNullable(I) | get col is nullable
+String getNullable() | get nullable
+String getNullColumnString() | get null column string
+String getNullValue() | get null value
+String getSelectClauseNullString(I) | get select clause null string
+String nullSafeToString(QObject;) | null safe to string
+String[] removeNull([QString;) | remove null
+Tile getNeighbourOrNull(QDirection;II) | get neighbour or null
+Tile getNeighbourOrNull(QDirection;QTile;) | get neighbour or null
+Tuplizer getTuplizerOrNull(QEntityMode;) | get tuplizer or null
+void addNullProperty(QEntityKey;QString;) | add null property
+void checkNullability([QObject;QEntityPersister;Z) | check nullability
+void clearNullProperties() | clear null properties
+void compute_nullability() | compute nullability
+void enforceNullConstraints([QObject;) | enforce null constraints
+void helpTestCannotAddNullStyleToList() | help test cannot add null style to list
+void not_null(QObject;) | not null
+void NullableSpinnerLengthModel(QUserPreferences;FF) | nullable spinner length model
+void NullableSpinnerNumberModel(FFFF) | nullable spinner number model
+void NullableSpinnerNumberModel(IIII) | nullable spinner number model
+void NullFile() | null file
+void Nullifier(QObject;ZZQSessionImplementor;) | nullifier
+void nullifyTransientReferences([QObject;[QType;) | nullify transient references
+void nullSafeSet(PreparedStatement st, Object value, int index) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;I) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;IQSessionImplementor;) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;I[ZQSessionImplementor;) | null safe set
+void nullState(QDownloadManager;) | null state
+void pushNull() | push null
+void setAmountCrBalanced2Null() | set amount cr balanced 2 null
+void setBlankWhenNull(Z) | set blank when null
+void setColNullability(QColumn;Z) | set col nullability
+void setMatchesNull(Z) | set matches null
+void setMinuteNullable(boolean minuteNullable) | set minute nullable
+void setNull() | set null
+void setNullable(Z) | set nullable
+void setNullBoards(QString;) | set null boards
+void setNull(II) | set null
+void setNull(IIQString;) | set null
+void setNull(QString;I) | set null
+void setNull(QString;IQString;) | set null
+void setNullString(String nullString) | set null string
+void setNullUrl() | set null url
+void setNullValue(QString;) | set null value
+void setUnlessNull(QProperties;QString;QString;) | set unless null
+void setUseNullList(Z) | set use null list
+void testIsDuplicateCDLTypeWithAttributeNull() | test is duplicate cdl type with attribute null
+void testNull() | test null
+void testNullData() | test null data
+void testNullParamsinConstructor() | test null param sin constructor
+void testNullSafeHashCodeWithObjectBeingObjectArray() | test null safe hash code with object being object array
+void testPutNull() | test put null
+void testSaveNullClassPropertyFilterHandler() | test save null class property filter handler
+void testSetNullLPSTR() | test set null lpstr
+void testUnsubscribeNullEBusId() | test unsubscribe null e bus id
+void throwIfNull(QObject;QSerializable;QString;) | throw if null
+void updateNull(I) | update null
+void updateNull(QString;) | update null
+void writeNull() | write null
+void writeNull(I) | write null
+XMLLib extractFromScopeOrNull(QScriptable;) | extract from scope or null

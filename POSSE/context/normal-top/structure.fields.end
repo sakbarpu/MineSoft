@@ -1,0 +1,8 @@
+float ceilStructure | ceil structure
+freemind.controller.actions.generated.instance.MenuStructure mMenuStructure | m menu structure
+freemind.modes.actions.ImportFolderStructureAction importFolderStructure | import folder structure
+int CLAN_STRUCTURE | clan structure
+int roundedInternalStructure | rounded internal structure
+java.util.List listStructure | list structure
+java.util.List openedNodesDocumentStructure | opened nodes document structure
+javax.swing.JPopupMenu jPopupMenuDocumentStructure | j popup menu document structure

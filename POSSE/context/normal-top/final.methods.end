@@ -1,0 +1,12 @@
+boolean containsFinal(QStateSet;) | contains final
+boolean isFinal() | is final
+byte[] doFinal() | do final
+byte[] engineDoFinal([BII) | engine do final
+byte[] internalEngineDoFinal([BII) | internal engine do final
+int doFinal([BI) | do final
+int engineDoFinal([BII[BI) | engine do final
+Object getFinal(IQType;) | get final
+Object getNonFinal(IQType;) | get non final
+void appearanceFinal() | appearance final
+void setFinal(IZ) | set final
+void setUpFinal() | set up final

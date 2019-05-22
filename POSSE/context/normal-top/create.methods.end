@@ -1,0 +1,11 @@
+Composite configSectionCreate(QComposite;) | config section create
+Integer ejbCreate(Integer id, String title, NodeLocal parent, UserLocal owner) | ejb create
+String ejbCreate(VendorView vendor, AddressView shipToView, AddressView remitToView, AddressView mailToView, PhoneView phoneView, PhoneView faxView, WebSiteView websiteView) | ejb create
+void afterCreate() | after create
+void ejbCreate() | ejb create
+void ejbPostCreate(PepsynAnalogTypeInfo param) | ejb post create
+void finishCreate() | finish create
+void fireOnCreate(QJPluginProperties;) | fire on create
+void onCreate() | on create
+void processCreate() | process create
+void setCreate(Z) | set create

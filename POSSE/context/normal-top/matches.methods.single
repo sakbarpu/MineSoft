@@ -1,0 +1,13 @@
+boolean matches(Event event) | matches
+boolean matches(IQMatcher<QBibtexEntry;>;) | matches
+boolean matches(QBibtexEntry;) | matches
+boolean matches(QComponent;) | matches
+boolean matches(QElement;) | matches
+boolean matches(QIXMLElement;) | matches
+boolean matches(QNtlmPasswordAuthentication;) | matches
+boolean matches(QString;) | matches
+boolean matches(QString;QString;) | matches
+boolean matches(QUniAddress;IQInetAddress;I) | matches
+boolean matches(QURI;) | matches
+Iterator<QBibtexEntry;> matches() | matches
+Object matches(QTransportHelper;QByteBuffer;I) | matches

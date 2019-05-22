@@ -1,0 +1,4 @@
+boolean DIRECT_SETCHECKED | direct setc heck ed
+java.lang.String ICON_DEVICE_DIRECTORY_MOUNTED | icon device directory mounted
+java.lang.String ICON_DEVICE_DIRECTORY_UNMOUNTED | icon device directory unmounted
+java.lang.String XML_DIRECTORY_SYNCHRONIZED | xml directory synchronized

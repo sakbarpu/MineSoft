@@ -1,0 +1,7 @@
+int actual_x | actual x
+int actualX | actual x
+int actual_y | actual y
+int actualY | actual y
+it.businesslogic.ireport.connection.FieldNode actualPath | actual path
+long actual_bytes_to_download | actual bytes to download
+org.gudy.azureus2.core3.torrent.TOTorrent actual_torrent | actual torrent

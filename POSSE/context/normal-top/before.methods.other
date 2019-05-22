@@ -1,0 +1,51 @@
+boolean findCharInStmtBeforePos(CI) | find char in stmt before pos
+boolean hasSelectBeforeUpdate() | has select before update
+boolean isBeforeFirst() | is before first
+boolean isLabelBeforeTextField() | is label before text field
+boolean isSelectBeforeUpdate() | is select before update
+boolean onlyWhiteSpaceBeforeCurrent() | only white space before current
+boolean requiresPluginInitCompleteBeforeStartedEvent() | requires plugin init complete before started event
+boolean supportsIfExistsBeforeTableName() | supports if exists before table name
+boolean visitCollectionsBeforeSave(QObject;QSerializable;[QObject;[QType;QEventSource;) | visit collections before save
+DERGeneralizedTime getNotBeforeTime() | get not before time
+File appendSuffixBeforeExtension(QFile;QString;) | append suffix before extension
+int getIncomeBeforeTaxes() | get income before taxes
+int getIncomeBeforeTaxes(QGoodsType;) | get income before taxes
+int getMovementBeforeSkidPSRModifier(I) | get movement before skid psr modifier
+int _getPositionBeforePrompt() | get position before prompt
+Node addBeforeCurrent(QNode;QNode;QNode;QNode;) | add before current
+non_terminal dot_before_nt() | dot before nt
+String getContentBeforeContent(QString;) | get content before content
+void addBeforeString(QAmmoType;QString;QString;) | add before string
+void assertCompileBeforeJUnitCount(I) | assert compile before j unit count
+void assertSaveBeforeCompileCount(I) | assert save before compile count
+void assertSaveBeforeJavadocCount(I) | assert save before javadoc count
+void autoGenerateKeysBeforeSaving() | auto generate keys before saving
+void cascadeBeforeDelete(QEventSource;QEntityPersister;QObject;QEntityEntry;QSet;) | cascade before delete
+void cascadeBeforeSave(QEventSource;QEntityPersister;QObject;QObject;) | cascade before save
+void compileBeforeJUnit(QCompilerListener;) | compile before j unit
+void _ensureStartBeforeEnd(IIII) | ensure start before end
+void fireBeforeProcessingTimeFrames() | fire before processing time frames
+void insertBeforeLastPrompt(QString;QString;) | insert before last prompt
+void modifyIncomeBeforeTaxes(QGoodsType;I) | modify income before taxes
+void _notifyCompileBeforeJUnit(QCompilerListener;) | notify compile before j unit
+void notifyLocalSynchsBeforeTransactionCompletion() | notify local synchs before transaction completion
+void preventDragBeforeIndex(QJTable;II) | prevent drag before index
+void _saveAllBeforeProceeding(QString;QBooleanOption;QString;) | save all before proceeding
+void saveBeforeCompile() | save before compile
+void saveBeforeJavadoc() | save before javadoc
+void setIncomeBeforeTaxes(I) | set income before taxes
+void setSelectBeforeUpdate(Z) | set select before update
+void skinBeforeComponents(QComposite;QObject;[QObject;) | skin before components
+void testBackSlashBeforeDoubleEscape() | test back slash before double escape
+void testCannotEditBeforePrompt() | test cannot edit before prompt
+void testDeleteFileBeforeCloseAll() | test delete file before close all
+void testEscapeAtFrontBeforeKeyword() | test escape at front before keyword
+void testEscapeAtFrontBeforeNormal() | test escape at front before normal
+void testEscapeAtFrontBeforeQuote() | test escape at front before quote
+void testEscapeAtFrontBeforeWS() | test escape at front before ws
+void testInsertGapBeforeGap() | test insert gap before gap
+void testLeftBeforePromptMovesToPrompt() | test left before prompt moves to prompt
+void testPrevStmtSeveralLinesBeforeCurrLocation() | test prev stmt several lines before curr location
+void testRightBeforePromptMovesToEnd() | test right before prompt moves to end
+void textTopLevelInterfaceNameBeforeClassName() | text top level interface name before class name

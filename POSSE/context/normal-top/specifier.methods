@@ -1,0 +1,4 @@
+Instance specifier(I) | specifier
+int numSpecifiers() | num specifiers
+void caseAProductionSpecifier(AProductionSpecifier node) | case a production specifier
+void removeAllSpecifiers() | remove all specifiers

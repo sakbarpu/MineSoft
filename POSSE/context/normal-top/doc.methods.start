@@ -1,0 +1,5 @@
+DocFile docFileFromGetter(QDocumentInfoGetter;) | doc file from getter
+void _docAppend(QConsoleDocument;QString;QString;) | doc append
+void DocFileListVisitor(QString;) | doc file list visitor
+void DocFilePropertyVisitor(QString;) | doc file property visitor
+void DocManager(QDDReconstructor;Z) | doc manager

@@ -1,0 +1,62 @@
+BibtexEntry containsDuplicate(QBibtexDatabase;QBibtexEntry;) | contains duplicate
+BibtexEntry internalDuplicate(QCollection<QBibtexEntry;>;QBibtexEntry;) | internal duplicate
+boolean checkForDuplicateKeyAndAdd(QString;QString;Z) | check for duplicate key and add
+boolean isAllowDuplicates() | is allow duplicates
+boolean isDuplicateAssociation(QString;[QString;) | is duplicate association
+boolean isDuplicateAssociation(QString;[QString;QAssociationType;) | is duplicate association
+boolean isDuplicate(QBibtexEntry;QBibtexEntry;) | is duplicate
+boolean wasDuplicationActivatedLastMousePress() | was duplication activated last mouse press
+ByteArrayHashMap duplicate() | duplicate
+byte[] duplicate([B) | duplicate
+CharBuffer duplicate(boolean readOnly) | duplicate
+Column duplicate(Z) | duplicate
+IHex duplicate() | duplicate
+int resolveDuplicateInImport(QJabRefFrame;QBibtexEntry;QBibtexEntry;) | resolve duplicate in import
+int resolveDuplicate(QJDialog;QBibtexEntry;QBibtexEntry;) | resolve duplicate
+int resolveDuplicate(QJFrame;QBibtexEntry;QBibtexEntry;) | resolve duplicate
+Iterator getNonDuplicatedPropertyIterator() | get non duplicated property iterator
+List<QSelectable;> duplicate(QList<+QSelectable;>;) | duplicate
+Module duplicate() | duplicate
+Object duplicateArray(QObject;) | duplicate array
+ParameterValue duplicate() | duplicate
+ReferenceCountedDirectByteBuffer duplicate(II) | duplicate
+SnmpSyntax duplicate() | duplicate
+String correctDupeName(QString;) | correct dupe name
+String sortWordsAndRemoveDuplicates(QString;) | sort words and remove duplicates
+Table duplicate() | duplicate
+TypeContext duplicate(QTypeContext;) | duplicate
+valuePart duplicate() | duplicate
+void addDuplicateAlias(QString;QFromElement;) | add duplicate alias
+void checkColumnDuplication() | check column duplication
+void checkColumnDuplication(Qjava.util.Set;QIterator;) | check column duplication
+void checkColumnDuplication(QSet;QIterator;) | check column duplication
+void checkDuplicateNamesDuringAdd(QEntity;) | check duplicate names during add
+void checkDuplicateNamesDuringDelete(I) | check duplicate names during delete
+void checkForDuplicateClassAlias(QString;) | check for duplicate class alias
+void checkForDuplicateKeys([QObject;) | check for duplicate keys
+void checkPropertyColumnDuplication(QSet;QIterator;) | check property column duplication
+void checkPropertyDuplication() | check property duplication
+void dup2_x1() | dup 2  x 1
+void duplicate() | duplicate
+void DuplicateCallBack(QJabRefFrame;QBibtexEntry;QBibtexEntry;I) | duplicate call back
+void duplicateFields(QVector;) | duplicate fields
+void duplicateFields(QVector;QSubDataset;) | duplicate fields
+void duplicateParameters(QVector;) | duplicate parameters
+void duplicateParameters(QVector;QSubDataset;) | duplicate parameters
+void duplicateVariables(QVector;) | duplicate variables
+void duplicateVariables(QVector;QSubDataset;) | duplicate variables
+void editDuplicate() | edit duplicate
+void postItemsDuplication(QList<QSelectable;>;QList<QSelectable;>;) | post items duplication
+void ReferenceCountedDirectByteBufferDuplicate(QByteBuffer;) | reference counted direct byte buffer duplicate
+void removeDuplicateAttacks(I) | remove duplicate attacks
+void removeDuplicates(QSession;) | remove duplicates
+void removeDuplicates(QSession;I) | remove duplicates
+void renameDuplicates() | rename duplicates
+void SetDuplicationActivatedAction(Z) | set duplication activated action
+void testCreateDuplicate() | test create duplicate
+void testDuplicateDetection() | test duplicate detection
+void testDuplicateEmptyPopSwapIf() | test duplicate empty pop swap if
+void testDups() | test dups
+void testIsDuplicateCDLTypeWithAttributeNull() | test is duplicate cdl type with attribute null
+void visitDUP2(DUP2 o) | visit dup 2
+void warnDuplicateBibtexkey() | warn duplicate bibtexkey

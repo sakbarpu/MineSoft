@@ -1,0 +1,22 @@
+boolean consumesCollectionAlias() | consumes collection alias
+boolean consumesEntityAlias() | consumes entity alias
+boolean consumeUncritically(C) | consume uncritically
+boolean isConsumer(ImageConsumer ic) | is consumer
+GoodsType getConsumedGoodsType() | get consumed goods type
+int consumeToMatchingBrace(QStringBuffer;[CI) | consume to matching brace
+long getConsumerId() | get consumer id
+String sendDelta(String path, InputStream source, long sourceOffset, InputStream target, ISVNDeltaConsumer consumer, boolean computeChecksum) | send delta
+Token jj_consume_token(I) | jj consume token
+void consumeAttribute(I) | consume attribute
+void consume(C) | consume
+void consume(CC) | consume
+void consumeGoods(QGoodsType;I) | consume goods
+void consume(J) | consume
+void consumeText(QString;Z) | consume text
+void consumeToken() | consume token
+void disconnect_pull_consumer() | disconnect pull consumer
+void registerConsumer(QTickConsumer;) | register consumer
+void registerMonotonousConsumer(QTickConsumer;) | register monotonous consumer
+void testConsumeToMatchingBrace() | test consume to matching brace
+void unregisterConsumer(QTickConsumer;) | unregister consumer
+void unregisterMonotonousConsumer(QTickConsumer;) | unregister monotonous consumer

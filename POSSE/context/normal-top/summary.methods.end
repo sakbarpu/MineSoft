@@ -1,0 +1,23 @@
+boolean isSummary() | is summary
+InstancesSummaryPanel getSummary() | get summary
+MechSummary getSummary(QEntity;QFile;QString;) | get summary
+String getTorrentSummary(QDownloadManager;) | get torrent summary
+String lsaSummary() | lsa summary
+String multiResultsetSummary(I) | multi resultset summary
+String principalComponentsSummary() | principal components summary
+String toStringSummary() | to string summary
+Summary getSourceSummary() | get source summary
+UnitData getSummary() | get summary
+void addLocationSummary(QLabourData.LocationData;I) | add location summary
+void applyDamageSummary(GameElementDamageSummary geds) | apply damage summary
+void clearSummary() | clear summary
+void emit_summary(Z) | emit summary
+void logSummary() | log summary
+void printAttributeSummary(II) | print attribute summary
+void printAttributeSummary(QAttrTypes;I) | print attribute summary
+void printAttributeSummary(ZZZZZZ) | print attribute summary
+void printAttributeSummary(ZZZZZZI) | print attribute summary
+void printSummary() | print summary
+void setIsSummary(boolean IsSummary) | set is summary
+void setSummary([[I[[I) | set summary
+void updateSummary() | update summary

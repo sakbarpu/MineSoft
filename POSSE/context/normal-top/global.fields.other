@@ -1,0 +1,5 @@
+boolean bGlobalRefreshing | b global refreshing
+java.lang.String JS_GLOBAL_UPDATE_MSG_OP | js global update msg op
+java.lang.String TOR_AZ_PROP_GLOBAL_RATING | tor az prop global rating
+javax.swing.JButton jbGlobalRandom | jb global random
+long lDateLastGlobalRefresh | l date last global refresh

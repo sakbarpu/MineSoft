@@ -1,0 +1,2 @@
+CONS MaxRecordsDialog(Qjava.awt.Dialog;Z) | max records dialog
+CONS MaxRecordsDialog(Qjava.awt.Frame;Z) | max records dialog

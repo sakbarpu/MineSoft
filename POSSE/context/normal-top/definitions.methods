@@ -1,0 +1,23 @@
+boolean supportsCatalogsInIndexDefinitions() | supports catalogs in index definitions
+boolean supportsCatalogsInPrivilegeDefinitions() | supports catalogs in privilege definitions
+boolean supportsCatalogsInTableDefinitions() | supports catalogs in table definitions
+boolean supportsSchemasInIndexDefinitions() | supports schemas in index definitions
+boolean supportsSchemasInPrivilegeDefinitions() | supports schemas in privilege definitions
+boolean supportsSchemasInTableDefinitions() | supports schemas in table definitions
+ClusterDefinition[] getClusterDefinitions() | get cluster definitions
+ConcreteOpenDefDoc _createOpenDefinitionsDocument(QFile;) | create open definitions document
+ConcreteOpenDefDoc _createOpenDefinitionsDocument(QNullFile;) | create open definitions document
+List getDefinitions() | get definitions
+List<QOpenDefinitionsDocument;> getOpenDefinitionsDocuments() | get open definitions documents
+List<QOpenDefinitionsDocument;> getSortedOpenDefinitionsDocuments() | get sorted open definitions documents
+Map getFilterDefinitions() | get filter definitions
+String clusterDefinitionsTipText() | cluster definitions tip text
+void addStatsDefinitions([[QString;) | add stats definitions
+void flushDefinitions(QMovie;QSWFTagTypes;QSWFTagTypes;) | flush definitions
+void focusOnDefinitionsPane() | focus on definitions pane
+void look_for_id_definitions([CIIZ) | look for id definitions
+void _putTextIntoDefinitions(QString;) | put text into definitions
+void saveCustomColumnDefinitions(QIGanttProject;QTransformerHandler;) | save custom column definitions
+void setClusterDefinitions([QClusterDefinition;) | set cluster definitions
+void setDefinitionsIndent(I) | set definitions indent
+void testGetDefinitionsDocuments() | test get definitions documents

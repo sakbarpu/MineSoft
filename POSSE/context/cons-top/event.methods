@@ -1,0 +1,203 @@
+CONS AbstractCollectionEvent(QCollectionPersister;QPersistentCollection;QEventSource;QObject;QSerializable;) | abstract collection event
+CONS AbstractEvent(QEventSource;) | abstract event
+CONS AbstractPreDatabaseOperationEvent(QEventSource;QObject;QSerializable;QEntityPersister;) | abstract pre database operation event
+CONS AbstractUnmarshallingEventHandlerImpl(QUnmarshallingContext;QString;) | abstract unmarshalling event handler impl
+CONS AttributePanelEvent(ZZI) | attribute panel event
+CONS AutoFlushEvent(QSet;QEventSource;) | auto flush event
+CONS BatchClassifierEvent(QObject;QClassifier;QDataSetEvent;QDataSetEvent;II) | batch classifier event
+CONS BatchClassifierEvent(QObject;QClassifier;QDataSetEvent;QDataSetEvent;IIII) | batch classifier event
+CONS BatchClustererEvent(QObject;QClusterer;QDataSetEvent;III) | batch clusterer event
+CONS BoardEvent(QObject;QCoords;I) | board event
+CONS BoardViewEvent(QObject;I) | board view event
+CONS BoardViewEvent(QObject;II) | board view event
+CONS BoardViewEvent(QObject;QCoords;QEntity;II) | board view event
+CONS ChangeValueEvent(QObject;QObject;QObject;) | change value event
+CONS ChartEvent(QObject;) | chart event
+CONS ChartEvent(QObject;QVector;DD[DZ) | chart event
+CONS CollectionEvent(QObject;QT;IQType;) | collection event
+CONS CollectionEvent(QObject;QT;QType;) | collection event
+CONS ConnectedEvent(QObject;) | connected event
+CONS ConnectionEvent(QObject;I) | connection event
+CONS ConnectionEvent(QObject;IQDbUtils;) | connection event
+CONS ConnectionEvent(QObject;IQDbUtils;QException;) | connection event
+CONS CustomColumEvent(IQString;) | custom colum event
+CONS DatabaseChangeEvent(QBibtexDatabase;QChangeType;QBibtexEntry;) | database change event
+CONS DataSetEvent(QObject;QInstances;) | data set event
+CONS DelayedEvent(QString;JQAERunnable;) | delayed event
+CONS DeleteEvent(QObject;QEventSource;) | delete event
+CONS DeleteEvent(QString;QObject;QEventSource;) | delete event
+CONS DeleteEvent(QString;QObject;ZQEventSource;) | delete event
+CONS DirtyCheckEvent(QEventSource;) | dirty check event
+CONS DisconnectedEvent(QObject;) | disconnected event
+CONS DownloadEventNotifierImpl(QDownloadManager;) | download event notifier impl
+CONS DrawingEvent(QDrawing;QFigure;QRectangle2D.Double;) | drawing event
+CONS EventCollector() | event collector
+CONS EventHandlerThread(QJPDADebugger;QVirtualMachine;) | event handler thread
+CONS EventLogger(QString;QString;) | event logger
+CONS EventPanel(QCanvas;QFreeColClient;) | event panel
+CONS EventProcessor(QVector;) | event processor
+CONS Event(QString;) | event
+CONS Event(QString;QProperties;) | event
+CONS EventsForm() | events form
+CONS EventWaiter() | event waiter
+CONS EvictEvent(QObject;QEventSource;) | evict event
+CONS FigureEvent(QFigure;QAttributeKey;QObject;QObject;) | figure event
+CONS FigureEvent(QFigure;QRectangle2D.Double;) | figure event
+CONS FigureSelectionEvent(QDrawingView;) | figure selection event
+CONS FileSelectionEvent(QObject;[QFile;[ZQFile;QFile;) | file selection event
+CONS FileSelectionEvent(QObject;QFile;ZQFile;QFile;) | file selection event
+CONS FinalizationEvent(QT;) | finalization event
+CONS FlushEntityEvent(QEventSource;QObject;QEntityEntry;) | flush entity event
+CONS FlushEvent(QEventSource;) | flush event
+CONS FtpEventHandler() | ftp event handler
+CONS FtpEvent(I) | ftp event
+CONS FtpEvent(IQString;) | ftp event
+CONS GameBoardChangeEvent(QObject;) | game board change event
+CONS GameBoardNewEvent(QObject;QIBoard;QIBoard;) | game board new event
+CONS GameEndEvent(QObject;) | game end event
+CONS GameEntityChangeEvent(QObject;QEntity;) | game entity change event
+CONS GameEntityChangeEvent(QObject;QEntity;QVector;) | game entity change event
+CONS GameEntityEvent(QObject;QEntity;I) | game entity event
+CONS GameEntityNewEvent(QObject;QEntity;) | game entity new event
+CONS GameEntityNewEvent(QObject;QVector;) | game entity new event
+CONS GameEntityNewOffboardEvent(QObject;) | game entity new offboard event
+CONS GameEntityRemoveEvent(QObject;QEntity;) | game entity remove event
+CONS GameEvent(QObject;I) | game event
+CONS GameMapQueryEvent(QObject;QMapSettings;) | game map query event
+CONS GameNewActionEvent(QObject;QEntityAction;) | game new action event
+CONS GamePhaseChangeEvent(QObject;II) | game phase change event
+CONS GamePlayerChangeEvent(QObject;QPlayer;) | game player change event
+CONS GamePlayerChatEvent(QObject;QPlayer;QString;) | game player chat event
+CONS GamePlayerConnectedEvent(QObject;QPlayer;) | game player connected event
+CONS GamePlayerDisconnectedEvent(QObject;QPlayer;) | game player disconnected event
+CONS GamePlayerEvent(QObject;QPlayer;I) | game player event
+CONS GameReportEvent(QObject;QString;) | game report event
+CONS GameSettingsChangeEvent(QObject;) | game settings change event
+CONS GameTurnChangeEvent(QObject;QPlayer;) | game turn change event
+CONS GraphEvent(QObject;QString;QString;I) | graph event
+CONS HandleEvent(QHandle;QRectangle;) | handle event
+CONS HistoryChangedEvent(QObject;QString;QDefaultListModel;) | history changed event
+CONS HistoryEvent() | history event
+CONS HistoryEvent(IQType;[QString;) | history event
+CONS IncrementalClassifierEvent(QObject;) | incremental classifier event
+CONS IncrementalClassifierEvent(QObject;QClassifier;QInstance;I) | incremental classifier event
+CONS IncrementalClassifierEvent(QObject;QClassifier;QInstances;) | incremental classifier event
+CONS InitializeCollectionEvent(QPersistentCollection;QEventSource;) | initialize collection event
+CONS InstanceEvent(QObject;) | instance event
+CONS InstanceEvent(QObject;I) | instance event
+CONS InstanceEvent(QObject;QInstance;I) | instance event
+CONS InstanceEvent(QObject;QInstances;) | instance event
+CONS InternalFrameActivatedEvent(Qit.businesslogic.ireport.gui.JMDIFrame;) | internal frame activated event
+CONS InternalFrameActivatedEvent(Qit.businesslogic.ireport.gui.JMDIFrame;I) | internal frame activated event
+CONS JComVcSocketEvents() | j com vc socket events
+CONS JComVcUDPEvents(QHashtable;) | j com vc udp events
+CONS JContactListEvents() | j contact list events
+CONS LanguageChangedEvent(Qjava.util.Locale;) | language changed event
+CONS LayoutCompleteEvent(QObject;) | layout complete event
+CONS LoadEvent(QSerializable;QObject;QEventSource;) | load event
+CONS LoadEvent(QSerializable;QString;QLockMode;QEventSource;) | load event
+CONS LoadEvent(QSerializable;QString;QObject;QLockMode;ZQEventSource;) | load event
+CONS LoadEvent(QSerializable;QString;ZQEventSource;) | load event
+CONS LockEvent(QObject;QLockMode;QEventSource;) | lock event
+CONS LockEvent(QString;QObject;QLockMode;QEventSource;) | lock event
+CONS LogEvent(QLogIDs;IQString;) | log event
+CONS LogEvent(QLogIDs;IQString;QThrowable;) | log event
+CONS LogEvent(QLogIDs;QString;) | log event
+CONS LogEvent(QLogIDs;QString;QThrowable;) | log event
+CONS LogEvent([QObject;QLogIDs;IQString;) | log event
+CONS LogEvent(QObject;QLogIDs;IQString;) | log event
+CONS LogEvent([QObject;QLogIDs;IQString;QThrowable;) | log event
+CONS LogEvent([QObject;QLogIDs;QString;) | log event
+CONS LogEvent(QObject;QLogIDs;QString;) | log event
+CONS LogEvent([QObject;QLogIDs;QString;QThrowable;) | log event
+CONS LogEvent(QObject;QLogIDs;QString;QThrowable;) | log event
+CONS MechDisplayEvent(QObject;I) | mech display event
+CONS MechDisplayEvent(QObject;QEntity;QMounted;) | mech display event
+CONS MergeEvent(QObject;QEventSource;) | merge event
+CONS MergeEvent(QString;QObject;QEventSource;) | merge event
+CONS MergeEvent(QString;QObject;QSerializable;QEventSource;) | merge event
+CONS MidiEventPanelItem() | midi event panel item
+CONS MidiEventPanelItem(QMidiTrackEvent;IZQActionListener;) | midi event panel item
+CONS MidiEventPanel(Qjava.awt.event.ActionListener;) | midi event panel
+CONS MidiTrackEvent(IIQMidiEvent;) | midi track event
+CONS OptionEvent() | option event
+CONS OptionEvent(QOption;) | option event
+CONS OptionEvent(QOption<QT;>;QT;) | option event
+CONS OptionEvent(QString;) | option event
+CONS OptionEvent(QString;QString;) | option event
+CONS OptionEvent(QString;QString;QOption;) | option event
+CONS PacketReceivedEvent(QObject;QPacket;) | packet received event
+CONS PerformanceEventListenerProxy(QPerformanceEventListener;) | performance event listener proxy
+CONS PerformanceNoteEvent(IIIQString;) | performance note event
+CONS PerformanceTimerEvent(IIIII) | performance timer event
+CONS PersistEvent(QObject;QEventSource;) | persist event
+CONS PersistEvent(QString;QObject;QEventSource;) | persist event
+CONS PostCollectionRecreateEvent(QCollectionPersister;QPersistentCollection;QEventSource;) | post collection recreate event
+CONS PostCollectionRemoveEvent(QCollectionPersister;QPersistentCollection;QEventSource;QObject;) | post collection remove event
+CONS PostCollectionUpdateEvent(QCollectionPersister;QPersistentCollection;QEventSource;) | post collection update event
+CONS PostDeleteEvent(QObject;QSerializable;[QObject;QEntityPersister;QEventSource;) | post delete event
+CONS PostInsertEvent(QObject;QSerializable;[QObject;QEntityPersister;QEventSource;) | post insert event
+CONS PostLoadEvent(QEventSource;) | post load event
+CONS PostUpdateEvent(QObject;QSerializable;[QObject;[QObject;QEntityPersister;QEventSource;) | post update event
+CONS PreCollectionRecreateEvent(QCollectionPersister;QPersistentCollection;QEventSource;) | pre collection recreate event
+CONS PreCollectionRemoveEvent(QCollectionPersister;QPersistentCollection;QEventSource;QObject;) | pre collection remove event
+CONS PreCollectionUpdateEvent(QCollectionPersister;QPersistentCollection;QEventSource;) | pre collection update event
+CONS PreDeleteEvent(QObject;QSerializable;[QObject;QEntityPersister;QEventSource;) | pre delete event
+CONS PreferenceChangeEvent(QObject;QString;QObject;QObject;) | preference change event
+CONS PreInsertEvent(QObject;QSerializable;[QObject;QEntityPersister;QEventSource;) | pre insert event
+CONS PreLoadEvent(QEventSource;) | pre load event
+CONS PreUpdateEvent(QObject;QSerializable;[QObject;[QObject;QEntityPersister;QEventSource;) | pre update event
+CONS QueryExecuteEvent(QObject;QDbUtils;QString;IQResultSet;QException;) | query execute event
+CONS RefreshEvent(QObject;QEventSource;) | refresh event
+CONS RefreshEvent(QObject;QLockMode;QEventSource;) | refresh event
+CONS RemoteExperimentEvent(ZZZQString;) | remote experiment event
+CONS ReplicateEvent(QObject;QReplicationMode;QEventSource;) | replicate event
+CONS ReplicateEvent(QString;QObject;QReplicationMode;QEventSource;) | replicate event
+CONS ReportBandChangedEvent(QJReportFrame;QBand;I) | report band changed event
+CONS ReportElementChangedEvent(QJReportFrame;QReportElement;I) | report element changed event
+CONS ReportElementChangedEvent(QJReportFrame;QVector;I) | report element changed event
+CONS ReportElementsSelectionEvent(QJReportFrame;Qjava.util.Vector;) | report elements selection event
+CONS ReportSubDatasetChangedEvent(QJReportFrame;QVector;I) | report sub dataset changed event
+CONS ReportSubDatasetChangedEvent(QSubDataset;QObject;II) | report sub dataset changed event
+CONS ResourceEvent(QResourceManager;[QProjectResource;) | resource event
+CONS ResourceEvent(QResourceManager;QProjectResource;) | resource event
+CONS ResultChangedEvent(QObject;QString;QString;QString;QString;) | result changed event
+CONS SaveOrUpdateEvent(QObject;QEventSource;) | save or update event
+CONS SaveOrUpdateEvent(QString;QObject;QEventSource;) | save or update event
+CONS SaveOrUpdateEvent(QString;QObject;QSerializable;QEventSource;) | save or update event
+CONS SelectionEvent(QObject;QList<+QObject;>;) | selection event
+CONS SheetEvent(QJSheet;) | sheet event
+CONS SheetEvent(QJSheet;QJFileChooser;IQObject;) | sheet event
+CONS SheetEvent(QJSheet;QJOptionPane;IQObject;QObject;) | sheet event
+CONS SheetPropertyValueChangedEvent(QString;QObject;QObject;QObject;) | sheet property value changed event
+CONS SongEventImpl(IQSongMessage;) | song event impl
+CONS StyleChangedEvent(QObject;IQStyle;QStyle;) | style changed event
+CONS SubDatasetObjectChangedEvent(QSubDataset;IIQObject;QObject;) | sub dataset object changed event
+CONS TableStructureEventDispatcher() | table structure event dispatcher
+CONS TaskDependencyEvent(QTaskDependencyCollection;QTaskDependency;) | task dependency event
+CONS TaskHierarchyEvent(QObject;QTask;QTask;QTask;) | task hierarchy event
+CONS TaskPropertyEvent(QObject;) | task property event
+CONS TaskScheduleEvent(QTask;QGanttCalendar;QGanttCalendar;QGanttCalendar;QGanttCalendar;) | task schedule event
+CONS TestSetEvent(QObject;QInstances;) | test set event
+CONS TestSetEvent(QObject;QInstances;II) | test set event
+CONS TestSetEvent(QObject;QInstances;IIII) | test set event
+CONS TextEvent(QObject;QString;QString;) | text event
+CONS ThresholdDataEvent(QObject;QPlotData2D;) | threshold data event
+CONS TimerEventPeriodic(QTimer;JZQTimerEventPerformer;) | timer event periodic
+CONS TimerEvent(QTimer;JJJZQTimerEventPerformer;) | timer event
+CONS ToolEvent(QTool;QDrawingView;QRectangle;) | tool event
+CONS TrainingSetEvent(QObject;QInstances;) | training set event
+CONS TrainingSetEvent(QObject;QInstances;II) | training set event
+CONS TrainingSetEvent(QObject;QInstances;IIII) | training set event
+CONS TreeDisplayEvent(IQString;) | tree display event
+CONS UIManagerEventAdapter(IQObject;) | ui manager event adapter
+CONS UISWTViewEventCancelledException() | uiswt view event cancelled exception
+CONS UISWTViewEventCancelledException(QString;) | uiswt view event cancelled exception
+CONS UISWTViewEventCancelledException(QString;QThrowable;) | uiswt view event cancelled exception
+CONS UISWTViewEventCancelledException(QThrowable;) | uiswt view event cancelled exception
+CONS UISWTViewEventImpl(QUISWTView;IQObject;) | uiswt view event impl
+CONS UnmarshallingEventHandlerAdaptor(QUnmarshallingContext;QContentHandler;) | unmarshalling event handler adaptor
+CONS ValueChangedEvent(QJComponent;DD) | value changed event
+CONS VisualizableErrorEvent(QObject;QPlotData2D;) | visualizable error event
+CONS VisualizePanelEvent(QFastVector;QInstances;QInstances;II) | visualize panel event
+CONS ZoomEvent(QZoomManager;QZoomState;) | zoom event

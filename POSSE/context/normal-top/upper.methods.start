@@ -1,0 +1,3 @@
+boolean upperNumericBoundIsOpen() | upper numeric bound is open
+String upperBoundMinSupportTipText() | upper bound min support tip text
+String upperSizeTipText() | upper size tip text

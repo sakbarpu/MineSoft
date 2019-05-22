@@ -1,0 +1,4 @@
+boolean isShadowed() | is shadowed
+boolean isShadowed(I) | is shadowed
+boolean isWeaklyShadowed() | is weakly shadowed
+void testIsShadowed() | test is shadowed

@@ -1,0 +1,12 @@
+boolean furnitureLibraryExists(QString;) | furniture library exists
+JLabel createLibraryArea() | create library area
+LibraryPanel getLibraryPanel() | get library panel
+ScriptableObject getLibraryScopeOrNull(QScriptable;) | get library scope or null
+String getLibraryName() | get library name
+String getLibraryPath() | get library path
+String getTagLibraryDescriptor(String inNamespace, HashMap inNameAndClass) | get tag library descriptor
+String showImportFurnitureLibraryDialog() | show import furniture library dialog
+void addLibraryObject(QString;QAbstractLibraryObject;) | add library object
+void imageLoaderLibraryInit() | image loader library init
+void setLibraryPanel(QLibraryPanel;) | set library panel
+void setLibraryStyle(boolean libraryStyle) | set library style

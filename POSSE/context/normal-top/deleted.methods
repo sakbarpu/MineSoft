@@ -1,0 +1,18 @@
+BitSet getDeletedList() | get deleted list
+DefaultListModel getDeletedButtonList() | get deleted button list
+DefaultListModel initDeletedIconList() | init deleted icon list
+int[] getDefaultDeletedIconListIntArray() | get default deleted icon list int array
+int[] getDeletedIconList() | get deleted icon list
+int[] getDeletedList() | get deleted list
+int getMaxNonDeletedResults() | get max non deleted results
+Map toDeletedMap() | to deleted map
+Object[] createDeletedState(QEntityPersister;[QObject;QEventSource;) | create deleted state
+Object[] getDeletedState() | get deleted state
+String getDefaultDeletedIconListAsString() | get default deleted icon list as string
+String getDeletedBlocks() | get deleted blocks
+String getDeletedPositions() | get deleted positions
+void loadDeletedIcon(QAttributes;) | load deleted icon
+void setDeletedIconList(QString;) | set deleted icon list
+void setDeletedState([QObject;) | set deleted state
+void setMaxNonDeletedResults(I) | set max non deleted results
+void testDeletedDependencyDisappearsFromCollections() | test deleted dependency disappears from collections

@@ -1,0 +1,2 @@
+String getEventSubtypesImpl() | get event subtypes impl
+Type[] getSubtypes() | get subtypes

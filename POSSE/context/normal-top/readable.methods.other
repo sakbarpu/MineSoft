@@ -1,0 +1,2 @@
+String extractReadableVersionSubstringFromPeerID(QString;) | extract readable version substring from peer id
+String makePeerIDReadableAndUsable([B) | make peer id readable and usable

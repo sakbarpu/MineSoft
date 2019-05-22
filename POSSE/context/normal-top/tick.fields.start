@@ -1,0 +1,3 @@
+int tick_count | tick count
+int TICK_PERIOD | tick period
+int TICK_PERIOD_SECS | tick period secs

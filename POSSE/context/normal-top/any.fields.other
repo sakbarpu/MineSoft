@@ -1,0 +1,2 @@
+java.lang.Integer kAnyTransactionID | k any transaction id
+org.bouncycastle.asn1.DERObjectIdentifier InhibitAnyPolicy | inhibit any policy

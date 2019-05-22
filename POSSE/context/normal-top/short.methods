@@ -1,0 +1,91 @@
+boolean hasNextShort() | has next short
+boolean isShortCut(QString;) | is short cut
+byte[] deriveShortID([BQMap;) | derive short id
+byte[] deriveSingletonShortID(QMap;) | derive singleton short id
+byte[] exportShortIDs(QList;) | export short ids
+byte[] getShortID() | get short id
+byte[] shortToByteArray(S) | short to byte array
+char getShortOption() | get short option
+Element writeShortToXML(QElement;SQString;) | write short to xml
+FloatBuffer putShort(int index, short value) | put short
+float get_pixel(int x, int y, short pixels) | get pixel
+int getShort([BI) | get short
+int getShortcutMask() | get shortcut mask
+int getShortLen2(int pos) | get short len 2
+int getShortRange() | get short range
+int getShortRangeModifier() | get short range modifier
+int getWShortRange() | get w short range
+int readUnsignedShort() | read unsigned short
+int readUnsignedShort(QDataInputStream;) | read unsigned short
+int readUShort([BI) | read u short
+int shortestMale() | shortest male
+List importShortIDs([B) | import short ids
+Query setShort(IS) | set short
+Query setShort(QString;S) | set short
+ShortCuts getShortCuts() | get short cuts
+short getShort(B) | get short
+short getShort(I) | get short
+Short getShort(I) | get short
+short getShort(QString;) | get short
+short getShortValue() | get short value
+short getSinShort(double f, int n) | get sin short
+short readLEShort(byte byteArray) | read le short
+short readShort() | read short
+short readShortData() | read short data
+short readShortFromXML(QElement;) | read short from xml
+short readShort(QObject;QString;S) | read short
+short unsignedByteArrayToShort([B) | unsigned byte array to short
+short writeShort(QObject;QString;SS) | write short
+String authshort(QString;) | auth short
+StringBuffer shortenName(QString;) | shorten name
+String formatDateShort(J) | format date short
+String formatShortDate(QGanttCalendar;) | format short date
+String getGyroTypeShortString(I) | get gyro type short string
+String getLinkShortText(QMindMapNode;) | get link short text
+String getShortCommandName() | get short command name
+String getShortcut() | get shortcut
+String getShortcutKey() | get shortcut key
+String getShortDayName(I) | get short day name
+String getShortDescription() | get short description
+String getShortDisplay() | get short display
+String getShortEngineName() | get short engine name
+String getShortFileName(QString;) | get short file name
+String getShortJavascript(QString;) | get short javascript
+String getShortName() | get short name
+String getShortName(QString;) | get short name
+String getShortNameRaw() | get short name raw
+String getShortStateString(I) | get short state string
+String getShortString() | get short string
+String getShortString(QSpeedManagerLimitEstimate;) | get short string
+String getShortTextForLink(QMindMapNode;) | get short text for link
+String getShortText(QModeController;) | get short text
+String getShortTitle() | get short title
+String getShortURL(QString;) | get short url
+String num2ShortID(I[CI) | num 2 short id
+String printShortMovement() | print short movement
+String shortTitle() | short title
+String toShortString() | to short string
+void createShortcuts(File installDir, String runnable, String folder, String name) | create shortcuts
+void deleteShortcut(MenuShortcut shortcut) | delete shortcut
+void generateShortName() | generate short name
+void getSample(int index, short pixel) | get sample
+void leShort(IQOutputStream;) | le short
+void putShort(BS) | put short
+void send_code(int c, short tree) | send code
+void _setMenuShortcut(QJMenuItem;QAction;QOption<QKeyStroke;>;) | set menu shortcut
+void setNameAndShortDescription(QActionType;QString;) | set name and short description
+void setShortDescription(QString;) | set short description
+void setShort(IS) | set short
+void setShortName(String sName) | set short name
+void setShort(Object node, Property field, short value) | set short
+void setShortOption(C) | set short option
+void setShort(QString;S) | set short
+void setShort(String p0, short p1) | set short
+void testIIOPSendShort() | test iiop send short
+void testTaskOverlappingWeekendIsTwoDaysShorter() | test task overlapping weekend is two days shorter
+void testToStringShort() | test to string short
+void updateShort(IS) | update short
+void updateShort(QString;S) | update short
+void writeShortData(S) | write short data
+void writeShort(I) | write short
+void writeUShort([BII) | write u short

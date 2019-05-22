@@ -1,0 +1,4 @@
+ColorUIResource getComponentGradientColorShadow() | get component gradient color shadow
+ColorUIResource getTextComponentGradientColorShadow() | get text component gradient color shadow
+int getBackgroundGradientShadow() | get background gradient shadow
+int getBorderShadow() | get border shadow

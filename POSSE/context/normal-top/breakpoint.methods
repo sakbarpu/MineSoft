@@ -1,0 +1,36 @@
+boolean breakpoint(I) | breakpoint
+boolean toggleBreakpoint(QOpenDefinitionsDocument;IIZ) | toggle breakpoint
+Breakpoint getBreakpoint(IQString;) | get breakpoint
+DebugBreakpointData[] getBreakpoints() | get breakpoints
+DebugBreakpointData parseBreakpoint(QSExp;QString;) | parse breakpoint
+List<QDebugBreakpointData;> readBreakpoints() | read breakpoints
+RegionManager<QBreakpoint;> getBreakpointManager() | get breakpoint manager
+String encodeBreakpointRelative(QDebugBreakpointData;QString;) | encode breakpoint relative
+void addBreakpointHighlight(QBreakpoint;) | add breakpoint highlight
+void addBreakpointRequest(String qName, int line) | add breakpoint request
+void assertBreakpointReachedCount(I) | assert breakpoint reached count
+void BreakpointPropertyVisitor(QString;) | breakpoint property visitor
+void BreakpointRegionTreeUserObj(QBreakpoint;) | breakpoint region tree user obj
+void BreakpointTestListener() | breakpoint test listener
+void clearAllBreakpoints() | clear all breakpoints
+void copyBreakpointsFrom(QSourceInfo;) | copy breakpoints from
+void createBreakpoints() | create breakpoints
+void debuggerClearAllBreakpoints() | debugger clear all breakpoints
+void debuggerToggleBreakpoint() | debugger toggle breakpoint
+void enableDisableBreakpoint() | enable disable breakpoint
+void _handleBreakpointEvent(QBreakpointEvent;) | handle breakpoint event
+void handleBreakpointHit(QStackFrame;QContext;) | handle breakpoint hit
+void notifyBreakpointChange(QBreakpoint;) | notify breakpoint change
+void reachedBreakpoint(QBreakpointRequest;) | reached breakpoint
+void refreshBreakpointHighlightPainter() | refresh breakpoint highlight painter
+void removeAllBreakpoints() | remove all breakpoints
+void removeBreakpointHighlight(QBreakpoint;) | remove breakpoint highlight
+void removeBreakpointListener(BreakpointListener listener) | remove breakpoint listener
+void removeBreakpoint(QBreakpoint;) | remove breakpoint
+void setBreakpoint(QBreakpoint;) | set breakpoint
+void setBreakpoints(QList<+QDebugBreakpointData;>;) | set breakpoints
+void XXXtestBreakpoints() | xxx test breakpoints
+void XXXtestBreakpointsAndStepsInNonPublicClasses() | xxx test breakpoints and steps in non public classes
+void XXXtestBreakpointsWithSameNamePrefix() | xxx test breakpoints with same name prefix
+void XXXtestMultiThreadedBreakpointsAndStep() | xxx test multi threaded breakpoints and step
+void XXXtestStepIntoOverBreakpoint() | xxx test step into over breakpoint

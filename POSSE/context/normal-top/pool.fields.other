@@ -1,0 +1,9 @@
+boolean busy_pool_timer_set | busy pool timer set
+boolean debug_thread_pool_log_on | debug thread pool log on
+boolean PRINT_DBB_POOL_USAGE | print dbb pool usage
+boolean TRACE_DBB_POOL_USAGE | trace dbb pool usage
+int ConstantPoolSize | constant pool size
+int[] defaultPoolLookupSize | default pool lookup size
+int DEFAULT_VALUE_POOL_SIZE | default value pool size
+int R_POOL36 | r pool 36
+int THREAD_POOL_SIZE | thread pool size

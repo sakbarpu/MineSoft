@@ -1,0 +1,8 @@
+CONS SubjectDirectoryAttributes(QASN1Sequence;) | subject directory attributes
+CONS SubjectDirectoryAttributes(QVector;) | subject directory attributes
+CONS SubjectKeyIdentifier([B) | subject key identifier
+CONS SubjectKeyIdentifier(QASN1OctetString;) | subject key identifier
+CONS SubjectKeyIdentifier(QSubjectPublicKeyInfo;) | subject key identifier
+CONS SubjectPublicKeyInfo(QAlgorithmIdentifier;[B) | subject public key info
+CONS SubjectPublicKeyInfo(QAlgorithmIdentifier;QDEREncodable;) | subject public key info
+CONS SubjectPublicKeyInfo(QASN1Sequence;) | subject public key info

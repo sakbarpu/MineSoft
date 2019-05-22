@@ -1,0 +1,17 @@
+Element getAllChildrenWithAttribute(Element root, String elementname, String attribname, String attribval) | get all children with attribute
+int countChildrenWithTerms() | count children with terms
+int getAccessibleChildrenCount() | get accessible children count
+int getChildrenCount() | get children count
+Iterator getCascadableChildrenIterator(QEventSource;QCollectionType;QObject;) | get cascadable children iterator
+java.util.List<QFigure;> getChildrenFrontToBack() | get children front to back
+LinkedList getChildrenViews() | get children views
+String maxKMeansForChildrenTipText() | max k means for children tip text
+StylePattern getChildrenStylePattern() | get children style pattern
+void addChildrenFromTextFiles(File inFiles) | add children from text files
+void addChildrenToBack(QNode;) | add children to back
+void addChildrenToFront(QNode;) | add children to front
+void addChildrenToTree(QGOETreeNode;QHierarchyPropertyParser;) | add children to tree
+void onUpdateChildrenHook(QMindMapNode;) | on update children hook
+void setChildrenFG(QControl;QColor;) | set children fg
+void setChildrenStylePattern(QStylePattern;) | set children style pattern
+void updateChildrenItems(TreeItem parent) | update children items

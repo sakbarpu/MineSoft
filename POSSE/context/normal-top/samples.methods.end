@@ -1,0 +1,2 @@
+ArrayList findAllOutputSamples(Map conditions) | find all output samples
+void getSamples() | get samples

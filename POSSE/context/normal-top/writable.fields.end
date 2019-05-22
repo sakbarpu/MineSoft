@@ -1,0 +1,3 @@
+boolean isDefinitelyWritable | is definitely writable
+boolean isWritable | is writable
+boolean[] isWritable | is writable

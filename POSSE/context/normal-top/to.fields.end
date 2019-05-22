@@ -1,0 +1,18 @@
+int HISTORY_BACKTO | history back to
+int setAmmoTo | set ammo to
+int setArmorTo | set armor to
+java.lang.Object delegateTo | delegate to
+java.lang.Object[] relatedTo | related to
+java.lang.String CONF_NETWORK_CONNECTION_TO | conf network connection to
+java.lang.String CONF_NETWORK_TRANSFERT_TO | conf network transfert to
+java.lang.String go_to | go to
+java.lang.String T_TO | t to
+java.lang.String XML_DJ_TO | xml dj to
+java.net.URL delegate_to | delegate to
+java.util.Vector ammoSetTo | ammo set to
+java.util.Vector m_vSetAmmoTo | m v set ammo to
+javax.swing.JLabel assignedTo | assigned to
+javax.swing.JLabel jlConnectionTO | jl connection to
+javax.swing.JLabel jlTransfertTO | jl transfert to
+javax.swing.JSlider connectionTO | connection to
+javax.swing.JSlider transfertTO | transfert to

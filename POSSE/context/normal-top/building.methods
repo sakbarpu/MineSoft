@@ -1,0 +1,73 @@
+boolean acceptsBuildings() | accepts buildings
+boolean checkBuildingCollapseWhileMoving(QBuilding;QEntity;QCoords;) | check building collapse while moving
+boolean definedOnlyByBuildingType(QString;) | defined only by building type
+boolean hasBuildings() | has buildings
+boolean hasBuildingType(QBuildingType;) | has building type
+boolean hasBuildingType(QColony;QBuildingType;) | has building type
+boolean isBuildingMaterial() | is building material
+boolean isInBuilding(QIGame;IQCoords;) | is in building
+boolean isInBuilding(QIGame;QEntity;) | is in building
+boolean isInBuilding(QIGame;QEntity;QCoords;) | is in building
+boolean isInSameBuilding(QIGame;QEntity;QTargetable;) | is in same building
+boolean isRawBuildingMaterial() | is raw building material
+boolean passBuildingWall(QEntity;QBuilding;QCoords;QCoords;IQString;) | pass building wall
+BuildableType getCurrentlyBuilding() | get currently building
+Building createBuilding(QBuildingType;) | create building
+Building createBuilding(QString;QColony;QBuildingType;) | create building
+Building createBuilding(QString;QColony;QBuildingType;ZQConnection;) | create building
+Building createFreeBuilding(QBuildingType;) | create free building
+Building getBuilding() | get building
+Building getBuildingAt(QCoords;) | get building at
+Building getBuildingForConsuming(QGoodsType;) | get building for consuming
+Building getBuildingForProducing(QGoodsType;) | get building for producing
+Building getBuilding(QBuildingType;) | get building
+Building getBuildingWithAbility(QString;) | get building with ability
+Building getLocalBuilding(QBuilding;) | get local building
+BuildingType getBuildingType(I) | get building type
+BuildingType getBuildingType(QString;) | get building type
+Comparator<QBuilding;> getBuildingComparator() | get building comparator
+Element createBuilding(QConnection;QElement;) | create building
+Element payForBuilding(QConnection;QElement;) | pay for building
+Element setCurrentlyBuilding(QConnection;QElement;) | set currently building
+Enumeration getBuildings() | get buildings
+int checkMovementInBuilding(QMoveStep;QMoveStep;QCoords;QCoords;) | check movement in building
+int getBuildingTypeByCF(I) | get building type by cf
+int getPriceForBuilding() | get price for building
+int numberOfBuildingTypes() | number of building types
+JPanel createBuildingPanel(QColony;) | create building panel
+List<QBuilding;> getBuildings() | get buildings
+List<QBuildingType;> getBuildingTypeList() | get building type list
+Packet createCollapseBuildingPacket(QBuilding;) | create collapse building packet
+Packet createCollapseBuildingPacket(QVector;) | create collapse building packet
+Packet createUpdateBuildingCFPacket(QVector;) | create update building cf packet
+PilotingRollData rollMovementInBuilding(QBuilding;IQString;) | roll movement in building
+Report damageBuilding(QBuilding;I) | damage building
+Report damageBuilding(QBuilding;IQString;) | damage building
+Vector getBoardBuildings() | get board buildings
+Vector placeBuildings(I) | place buildings
+void addBuilding(QBuilding;) | add building
+void applyBuildingDamage() | apply building damage
+void ASingleBuildingPanel(QBuilding;) | a single building panel
+void buildBuildingDetail(QBuildingType;) | build building detail
+void buildBuildingSubtree(QDefaultMutableTreeNode;) | build building subtree
+void BuildingsPanel(QColonyPanel;) | buildings panel
+void collapseBuilding(QBuilding;) | collapse building
+void collapseBuilding(QBuilding;QHashtable;) | collapse building
+void collapseBuilding(QVector;) | collapse building
+void payForBuilding() | pay for building
+void payForBuilding(QColony;) | pay for building
+void placeBuilding(QIBoard;QBuildingTemplate;) | place building
+void receiveBuildingCollapse(QPacket;) | receive building collapse
+void receiveBuildingUpdateCF(QPacket;) | receive building update cf
+void sendChangedCFBuildings(QVector<QBuilding;>;) | send changed cf buildings
+void setBoardBuildings(QVector;) | set board buildings
+void setBuildingMaterial(Z) | set building material
+void setCurrentlyBuilding(QBuildableType;) | set currently building
+void setCurrentlyBuilding(QColony;QBuildableType;) | set currently building
+void sortBuildings(QList<QBuilding;>;) | sort buildings
+void startBuilding(QString;I) | start building
+void stopBuilding() | stop building
+void updateBuildingBox() | update building box
+void updateBuildingCF(QVector;) | update building cf
+void updateBuildingsPanel() | update buildings panel
+void updateBuildingsPanel(QGoodsType;) | update buildings panel

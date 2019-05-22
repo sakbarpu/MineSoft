@@ -1,0 +1,6 @@
+boolean isOperationQueueEnabled() | is operation queue enabled
+boolean operationCreated(QAzureusCoreOperation;) | operation created
+void dragOperationChanged(QDropTargetEvent;) | drag operation changed
+void operationCompleted(QBasePanel;) | operation completed
+void operationsButtonActionPerformed(Qjava.awt.event.ActionEvent;) | operations button action performed
+void registerOperationTxnRequired(QString;) | register operation txn required

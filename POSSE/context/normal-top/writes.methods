@@ -1,0 +1,7 @@
+List getPieceWrites() | get piece writes
+List getPieceWrites(I) | get piece writes
+List getPieceWrites(QPEPeer;) | get piece writes
+List getPieceWrites(QString;) | get piece writes
+void generateWritesGroup() | generate writes group
+void refreshWrites() | refresh writes
+void testConcurrentWrites() | test concurrent writes

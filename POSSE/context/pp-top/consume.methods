@@ -1,0 +1,2 @@
+boolean isConsumed() | is consumed
+void resetConsumed() | reset consumed

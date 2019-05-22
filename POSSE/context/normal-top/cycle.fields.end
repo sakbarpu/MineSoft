@@ -1,0 +1,3 @@
+java.lang.String T_CYCLE | t cycle
+java.util.List listenersLifeCycle | listeners life cycle
+org.apache.batik.ext.awt.MultipleGradientPaint.CycleMethodEnum NO_CYCLE | no cycle

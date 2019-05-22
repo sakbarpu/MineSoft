@@ -1,0 +1,4 @@
+boolean allow_fallback | allow fallback
+int iRankTypeSeedFallback | i rank type seed fallback
+int MATCH_CRYPTO_AUTO_FALLBACK | match crypto auto fallback
+int MATCH_CRYPTO_NO_AUTO_FALLBACK | match crypto no auto fallback

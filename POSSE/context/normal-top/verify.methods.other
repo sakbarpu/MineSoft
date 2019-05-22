@@ -1,0 +1,3 @@
+boolean isVerifyConstructable() | is verify constructable
+void setVerifyResult(String result) | set verify result
+void testVerifyErrorHandledCorrectly() | test verify error handled correctly

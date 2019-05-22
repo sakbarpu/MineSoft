@@ -1,0 +1,31 @@
+AST checkSyntax(QString;ZZ) | check syntax
+boolean isSyntaxException() | is syntax exception
+boolean supportsRowValueConstructorSyntax() | supports row value constructor syntax
+boolean supportsRowValueConstructorSyntaxInInList() | supports row value constructor syntax in in list
+Expression syntaxError(String message) | syntax error
+File convertFromURLSyntax(QFile;) | convert from url syntax
+int paintSyntaxLine(QSegment;QToken;[QSyntaxStyle;QTabExpander;QGraphics;II) | paint syntax line
+MultipleSEGs createMultipleSEGs(Node sfref, String path, char predelim0, char predelim1, StringBuffer res, int fullResLen, Document syntax, Hashtable predefs, Hashtable valids) | create multiple segs
+SyntaxStyle[] getDefaultSyntaxStyles() | get default syntax styles
+void alterSyntax() | alter syntax
+void appendSyntaxErrorResult(QString;QString;IIIIQString;) | append syntax error result
+void assertReplThrewSyntaxException(QString;) | assert repl threw syntax exception
+void BadSyntaxInteractionsModel(QInteractionsDJDocument;) | bad syntax interactions model
+void disableSyntaxError() | disable syntax error
+void mutateRowValueConstructorSyntaxesIfNecessary(QType;QType;) | mutate row value constructor syntaxes if necessary
+void mutateRowValueConstructorSyntax(I) | mutate row value constructor syntax
+void paintSyntaxLine(QGraphics;QTokenMarker;IQFont;QColor;II) | paint syntax line
+void replReturnedSyntaxError(QString;QString;IIII) | repl returned syntax error
+void setSyntax() | set syntax
+void setSyntaxErrorStrings(QString;QString;) | set syntax error strings
+void setSyntax(QStreamTokenizer;) | set syntax
+void syntaxError(QErrorMessages;) | syntax error
+void syntaxError(QErrorMessages;I) | syntax error
+void syntaxError(QErrorMessages;II) | syntax error
+void syntax_error(QSymbol;) | syntax error
+void syntaxFailure() | syntax failure
+void testCommandSyntax() | test command syntax
+void testConfigure_RealmSyntax() | test configure realm syntax
+void unrecovered_syntax_error(QSymbol;) | unrecovered syntax error
+XMLParseException syntaxError(QString;) | syntax error
+XMLParseException syntaxError(QString;I) | syntax error

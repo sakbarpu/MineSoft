@@ -1,0 +1,6 @@
+boolean GET_PI_METHODS_OPERATIONAL_FLAG_DEFAULT | get pi methods operational flag default
+java.beans.MethodDescriptor[] methods | methods
+java.util.Hashtable fieldAndMethods | field and methods
+java.util.Hashtable staticFieldAndMethods | static field and methods
+org.mozilla.javascript.MemberBox[] methods | methods
+org.mozilla.javascript.ObjArray itsMethods | its methods

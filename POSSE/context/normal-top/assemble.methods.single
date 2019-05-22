@@ -1,0 +1,6 @@
+Object[] assemble(QObject;QSerializable;QEntityPersister;QInterceptor;QEventSource;) | assemble
+Object assemble(QSerializable;QObject;) | assemble
+Object[] assemble([QSerializable;QObject;QSerializable;QEntityPersister;QInterceptor;QEventSource;) | assemble
+Object assemble(QSerializable;QSessionImplementor;QObject;) | assemble
+Object[] assemble([QSerializable;[QType;QSessionImplementor;QObject;) | assemble
+void assemble(QPersistentCollection;QCollectionPersister;QObject;) | assemble

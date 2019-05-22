@@ -1,0 +1,2 @@
+void JComponentWriterFileFilter(QString;QString;QJComponentWriter;) | j component writer file filter
+void PrinterWriterThread(QString;QStringBuilder;) | printer writer thread

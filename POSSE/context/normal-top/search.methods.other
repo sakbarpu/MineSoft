@@ -1,0 +1,82 @@
+boolean[] correctSearchInitialisation(ZZZZZZI) | correct search initialisation
+boolean getSearchAllDocuments() | get search all documents
+boolean getSearchBackwards() | get search backwards
+boolean isExtendedAdvancedSearchMode() | is extended advanced search mode
+boolean isSearchAll() | is search all
+boolean isSearchBackwards() | is search backwards
+boolean isSearchHit() | is search hit
+boolean isSearchSubDirectory() | is search sub directory
+boolean tSearchExpression(QAST;) | t search expression
+Composite createCreateSearchComposite(QComposite;) | create create search composite
+double getSearchPercent() | get search percent
+int binarySearchFirst(int fromIndex, int toIndex, int e) | binary search first
+Integer getSearchability() | get search ability
+int getSearchCount() | get search count
+int getSearchRadius() | get search radius
+int getSearchTermination() | get search termination
+int getSearchType() | get search type
+int tSearchType(QAST;) | t search type
+java.lang.String formatSearchUserString(J) | format search user string
+JFrame createSearchFrame() | create search frame
+JScrollPane buildSearchTable(QJSearchContext;) | build search table
+JSearchPanel createSearchPanel() | create search panel
+JSearchPanel createSearchPanel(Z) | create search panel
+NearestNeighbourSearch getNearestNeighbourSearchAlgorithm() | get nearest neighbour search algorithm
+SearchAlgorithm getSearchAlgorithm() | get search algorithm
+Searcher getSearchById(J) | get search by id
+Searcher getSearchByIndex(I) | get search by index
+Searcher getSearchByName(QString;) | get search by name
+SearchQueryBinding getSearchQuery() | get search query
+SearchRule getSearchRule() | get search rule
+SearchRule getSearchRule(I) | get search rule
+SearchTupleSet getSearchSet() | get search set
+SelectedTag getSearchPath() | get search path
+String getSearchBase() | get search base
+String getSearchExpression() | get search expression
+String getSearchField() | get search field
+String getSearchQuery() | get search query
+String getSearchResultsPageId() | get search results page id
+String getSearchSpec() | get search spec
+String getSearchString() | get search string
+String getSearchStringEscape() | get search string escape
+String getSearchUrl() | get search url
+String nearestNeighbourSearchAlgorithmTipText() | nearest neighbour search algorithm tip text
+String toSearchTerm(QString;) | to search term
+void addMetaSearchListener() | add meta search listener
+void addSearchManager(QsearchManager;) | add search manager
+void attachSearchBox(QSWTSkinObject;) | attach search box
+void closeSearchResults(QMap;) | close search results
+void forwardSearchInteractionsInHistory() | forward search interactions in history
+void insertToSearchList(Search search, int position) | insert to search list
+void instantiateSearchDialog() | instantiate search dialog
+void loadSearchString(QObject;QString;Z) | load search string
+void notifySearchConstraintHit(String constraintId) | notify search constraint hit
+void openSearchResults(QMap;) | open search results
+void registerSearchProvider(QSearchProvider;) | register search provider
+void reverseSearchInteractionsInHistory() | reverse search interactions in history
+void saveSearchDisplay() | save search display
+void setKeysSearchTarget() | set keys search target
+void setNearestNeighbourSearchAlgorithm(QNearestNeighbourSearch;) | set nearest neighbour search algorithm
+void setSearchAlgorithm(QSearchAlgorithm;) | set search algorithm
+void setSearchAllDocuments(Z) | set search all documents
+void setSearchBackwards(Z) | set search backwards
+void setSearchButtonSizes() | set search button sizes
+void setSearchHit(Z) | set search hit
+void setSearchIn(int searchIn) | set search in
+void setSearchMatcher(QSearchMatcher;) | set search matcher
+void setSearchPath(QSelectedTag;) | set search path
+void setSearchPercent(D) | set search percent
+void setSearchRadius(I) | set search radius
+void setSearchString(QString;) | set search string
+void setSearchTermination(I) | set search termination
+void setValuesSearchTarget() | set values search target
+void stopShowingSearchResults() | stop showing search results
+void testAnyOccurrenceSearchIgnore() | test any occurrence search ignore
+void testBasicSearchParsing() | test basic search parsing
+void testCommentedPrefixDontSearchComment() | test commented prefix dont search comment
+void testCommentedPrefixSearchComment() | test commented prefix search comment
+void testReverseSearchTwice() | test reverse search twice
+void testSearchHistory() | test search history
+void testWholeWordSearchIgnore() | test whole word search ignore
+void testWholeWordSearchOnTestString1() | test whole word search on test string 1
+void updateSearchButtonText() | update search button text

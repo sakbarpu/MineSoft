@@ -1,0 +1,5 @@
+JPanel _manifestFileSelector() | manifest file selector
+Manifest getManifest() | get manifest
+Manifest getManifestFromFile(QString;) | get manifest from file
+void removeComponent(String manifestId, String uri) | remove component
+void testCreateManifest() | test create manifest

@@ -1,0 +1,7 @@
+ArrayList findAllOutputSamples(Map conditions) | find all output samples
+double getGeneratorSamplesBase() | get generator samples base
+int getNumSamplesPerRegion() | get num samples per region
+int getSamplesPerFrame() | get samples per frame
+void getSamples() | get samples
+void setGeneratorSamplesBase(D) | set generator samples base
+void setNumSamplesPerRegion(I) | set num samples per region

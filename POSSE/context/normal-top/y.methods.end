@@ -1,0 +1,106 @@
+ArrayList getSelectedNodesSortedByY() | get selected nodes sorted by y
+ArrayList getSelectedsSortedByY() | get selecteds sorted by y
+BigInteger getY() | get y
+boolean hasY() | has y
+boolean showGridY() | show grid y
+boolean showMajorGridY() | show major grid y
+boolean showMinorGridY() | show minor grid y
+double convertFromPanelY(D) | convert from panel y
+double convertToAttribY(D) | convert to attrib y
+double convertToPanelY(D) | convert to panel y
+double distortY(DQPoint2D;QRectangle2D;) | distort y
+double getControlY() | get control y
+double getDisplayY() | get display y
+double getEndY() | get end y
+double getEndY(I) | get end y
+double getImageableY() | get imageable y
+double getInverseY(I) | get inverse y
+double getMaxY() | get max y
+double getMinY() | get min y
+Double getPosY() | get pos y
+double getPropertyY() | get property y
+double getRandomY(I) | get random y
+double getScaleY() | get scale y
+double getStartY() | get start y
+double getStartY(I) | get start y
+double getStepY() | get step y
+double getTranslateY() | get translate y
+double getY() | get y
+double getY(I) | get y
+ECFieldElement getY() | get y
+float getLayoutAlignmentY(QContainer;) | get layout alignment y
+float getMaxY(QHomePieceOfFurniture;) | get max y
+float getMinY(QHomePieceOfFurniture;) | get min y
+float getScaleY() | get scale y
+float getXOrY() | get x or y
+float getY() | get y
+Float getY() | get y
+int calcShiftY() | calc shift y
+int calculateY(I) | calculate y
+int convertToPanelY(D) | convert to panel y
+int dluY(int pixels) | dlu y
+int getBottomY() | get bottom y
+int getCanvasY() | get canvas y
+int getDeltaY() | get delta y
+int getDisplayPosY() | get display pos y
+int getExtendedY() | get extended y
+int getMaxTileY() | get max tile y
+int getMaxY() | get max y
+int getMiddleY() | get middle y
+int getMinimapPosY() | get minimap pos y
+int getMiniReportPosY() | get mini report pos y
+int getMinTileY() | get min tile y
+int getMinY() | get min y
+int getNodeShiftY(QPoint;QMindMapNode;QPoint;) | get node shift y
+int getPopupY() | get popup y
+int getPositionY() | get position y
+int getPositionY(I) | get position y
+int getPosY() | get pos y
+int getRootY() | get root y
+int getRulerPosY() | get ruler pos y
+int getShiftY() | get shift y
+int getWindowPosY() | get window pos y
+int getY() | get y
+int getY(D) | get y
+int getY(FF) | get y
+int lineToY(I) | line to y
+int pturbY(DD) | pt urb y
+int tileYToY(I) | tile y to y
+int tileYToY(III) | tile y to y
+Matrix getY(QInstance;) | get y
+Matrix getY(QInstances;) | get y
+String getLabelY() | get label y
+void adjustImageOffsetY(int anInt) | adjust image offset y
+void nodeY(QNode;) | node y
+void rotY(float angle) | rot y
+void setControlY(D) | set control y
+void setDisplayPosY(I) | set display pos y
+void setEndY(D) | set end y
+void setEndY(ID) | set end y
+void setEndY(String endY) | set end y
+void setGridY(Z) | set grid y
+void setMajorGridY(Z) | set major grid y
+void setMaxY(D) | set max y
+void setMaxY(I) | set max y
+void setMinimapPosY(I) | set minimap pos y
+void setMiniReportPosY(I) | set mini report pos y
+void setMinMaxY(DD) | set min max y
+void setMinorGridY(Z) | set minor grid y
+void setMinY(D) | set min y
+void setMinY(I) | set min y
+void setPropertyY(QString;) | set property y
+void setRulerPosY(I) | set ruler pos y
+void setScaleY(D) | set scale y
+void setShiftY(I) | set shift y
+void setStartY(D) | set start y
+void setStartY(ID) | set start y
+void setTranslateY(D) | set translate y
+void setWindowPosY(I) | set window pos y
+void setY(D) | set y
+void setY(F) | set y
+void setY(float y) | set y
+void setY(I) | set y
+void setY(ID) | set y
+void setY(QFloat;) | set y
+void setY(QVisualItem;QVisualItem;D) | set y
+void updateSideBarHitAreasY([QSideBarEntrySWT;) | update side bar hit areas y

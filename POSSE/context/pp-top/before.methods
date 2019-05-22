@@ -1,0 +1,3 @@
+boolean isFlushBeforeCompletionEnabled() | is flush before completion enabled
+boolean isSelectBeforeUpdateRequired() | is select before update required
+void setFlushBeforeCompletionEnabled(Z) | set flush before completion enabled

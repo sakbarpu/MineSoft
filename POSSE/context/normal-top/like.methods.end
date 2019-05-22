@@ -1,0 +1,5 @@
+boolean isEquivalentToBetweenPredicateAugmentedWithLike() | is equivalent to between predicate augmented with like
+Example enableLike() | enable like
+Example enableLike(QMatchMode;) | enable like
+void resolveTypeForLike(QSession;) | resolve type for like
+void setUnlessAntLike(String version) | set unless ant like

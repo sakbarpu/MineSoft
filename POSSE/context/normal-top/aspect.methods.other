@@ -1,0 +1,6 @@
+AspectRatio getAspectRatio() | get aspect ratio
+AspectRatio getPhotoAspectRatio() | get photo aspect ratio
+float get3DViewAspectRatio() | get 3 d view aspect ratio
+void set3DViewAspectRatio(F) | set 3 d view aspect ratio
+void setAspectRatio(QAspectRatio;) | set aspect ratio
+void setPhotoAspectRatio(QAspectRatio;) | set photo aspect ratio

@@ -1,0 +1,4 @@
+boolean hasClasspathProblems() | has classpath problems
+freemind.controller.actions.generated.instance.PluginClasspathType createPluginClasspathType() | create plugin classpath type
+String createPluginClasspathString(QList;) | create plugin classpath string
+void setClasspathRef(Reference r) | set classpath ref

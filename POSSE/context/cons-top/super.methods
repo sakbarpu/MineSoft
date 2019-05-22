@@ -1,0 +1,6 @@
+CONS MyTorrentsSuperView() | my torrents super view
+CONS MyTorrentsSuperView(QAzureusCore;) | my torrents super view
+CONS PeerSuperView() | peer super view
+CONS PeerSuperView(QGlobalManager;) | peer super view
+CONS SuperSeedPeer(QPEPeer;) | super seed peer
+CONS SuperSeedPiece(QPEPeerControl;I) | super seed piece

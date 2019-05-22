@@ -1,0 +1,11 @@
+edu.rice.cs.drjava.config.DefaultOptionMap DEFAULTS | defaults
+java.awt.Button butDefaults | but defaults
+java.lang.Object[][] ATTRIBUTE_DEFAULTS | attribute defaults
+java.lang.String EVENT_VIEW_RESTORE_DEFAULTS | event view restore defaults
+java.lang.String ICON_DEFAULTS | icon defaults
+java.lang.String ICON_DEFAULTS_BIG | icon defaults big
+javax.swing.JButton butDefaults | but defaults
+javax.swing.JButton jbDefaults | jb defaults
+org.gudy.azureus2.core3.config.impl.ConfigurationDefaults configdefaults | config defaults
+org.hsqldb.Expression[] colDefaults | col defaults
+org.syntax.jedit.TextAreaDefaults DEFAULTS | defaults

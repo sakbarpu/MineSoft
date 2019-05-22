@@ -1,0 +1,7 @@
+ContentInfo getAuthSafe() | get auth safe
+Object getAttributeSafe(QString;ZQjava.util.Collection;) | get attribute safe
+QName getQNameSafe(String stringRep) | get q name safe
+String makeCSVSafe(QString;) | make csv safe
+void dsvSafe(QString;) | dsv safe
+void renameTorrentSafe(QString;) | rename torrent safe
+void setSafe(boolean safe) | set safe

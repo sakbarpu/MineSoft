@@ -1,0 +1,16 @@
+double yVector(I) | y vector
+int yInDir(III) | y in dir
+int yInDir(IIII) | y in dir
+int yScale(I) | y scale
+int yToLine(I) | y to line
+int YToTileY(I) | y to tile y
+int YToTileY(III) | y to tile y
+int yTransform(I) | y transform
+String YBaseTipText() | y base tip text
+String YExpressionTipText() | y expression tip text
+String YMaxTipText() | y max tip text
+String YMinTipText() | y min tip text
+String yName() | y name
+String YPropertyTipText() | y property tip text
+String YStepTipText() | y step tip text
+void yPlacer() | y placer

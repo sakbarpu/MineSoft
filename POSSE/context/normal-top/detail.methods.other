@@ -1,0 +1,16 @@
+boolean hasDetailViews() | has detail views
+boolean isIsPrintWhenDetailOverflows() | is is print when detail overflows
+int getHandleDetailLevel() | get handle detail level
+List getDetailMessages() | get detail messages
+Object getDetailLastOccurence(QString;QString;) | get detail last occurence
+String getDetailMessage() | get detail message
+void afterDetailEval() | after detail eval
+void appendDetailMessage(QString;) | append detail message
+void beforeDetailEval() | before detail eval
+void createDetailSection(QIProgressReport;) | create detail section
+void resizeDetailSection() | resize detail section
+void setDefaultInCollectionDetailView() | set default in collection detail view
+void setDetailMessages(QList;) | set detail messages
+void setHandleDetailLevel(I) | set handle detail level
+void setIsPrintWhenDetailOverflows(Z) | set is print when detail overflows
+void setWorkflowDetailInfo(WorkflowDetailInfo info) | set workflow detail info

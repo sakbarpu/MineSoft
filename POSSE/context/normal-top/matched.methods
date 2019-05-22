@@ -1,0 +1,2 @@
+int addAnnotation(AnnotationSet annotationSet, Set lookupSet, Region matchedRegion) | add annotation
+int skip_matched_prefix(QString;[CII) | skip matched prefix

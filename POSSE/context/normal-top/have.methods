@@ -1,0 +1,21 @@
+boolean anyShellHaveStyle(I) | any shell have style
+boolean canHaveFoundingFathers() | can have founding fathers
+boolean canHaveResourceType(QResourceType;) | can have resource type
+boolean canHaveRiver() | can have river
+boolean haveCommonElement([I[II) | have common element
+boolean haveEqualArrays([I[II) | have equal arrays
+boolean haveEqualArrays([QObject;[QObject;I) | have equal arrays
+boolean haveEqualSets([I[II) | have equal sets
+boolean haveTestsRun() | have tests run
+void addHavePiece(QPEPeer;I) | add have piece
+void decodeAZHave(QAZHave;) | decode az have
+void decodeHave(QBTHave;) | decode have
+void ensureAllRowsHaveIndex() | ensure all rows have index
+void haveNewPiece(I) | have new piece
+void havePiece(IIQPEPeer;) | have piece
+void mustHaveXML() | must have xml
+void queueHaveMessage(IZ) | queue have message
+void sendHave(I) | send have
+void sendPendingHaves() | send pending haves
+void setHaveRow(boolean haveRow) | set have row
+void setHaveVersion(BB) | set have version

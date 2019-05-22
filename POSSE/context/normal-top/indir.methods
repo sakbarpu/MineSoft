@@ -1,0 +1,9 @@
+boolean isIndirectCRL() | is indirect crl
+DHTDBValueImpl removeIndirectValue(QHashWrapper;) | remove indirect value
+int getIndirectSize() | get indirect size
+Iterator getIndirectValues() | get indirect values
+PrimaryKey getSecureIndirectPreviewIconPrimaryKey() | get secure indirect preview icon primary key
+String getIndirect(QString;) | get indirect
+void addIndirectValue(QHashWrapper;QDHTDBValueImpl;) | add indirect value
+void enqueueIndirectArtilleryAttacks() | enqueue indirect artillery attacks
+void resolveIndirectArtilleryAttacks() | resolve indirect artillery attacks

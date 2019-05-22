@@ -1,0 +1,16 @@
+boolean[] numberVarFlags | number var flags
+char[] numberChars | number chars
+double numberFactor | number factor
+int number_of_blocked_ips | number of blocked ips
+int numberOfFiles | number of files
+int NUMBER_OF_ITERATIONS_PER_RUN | number of iterations per run
+int number_of_pieces | number of pieces
+int number_of_ranges | number of ranges
+int numberOfResult | number of result
+int NUMBER_OF_TEST_RUNS | number of test runs
+int NumberType | number type
+java.awt.Color NUMBER_COLOR | number color
+java.lang.Class NumberClass | number class
+java.lang.Object NUMBER_TAG | number tag
+java.lang.String NUMBER_RETURN_STYLE | number return style
+java.text.NumberFormat numberFormat | number format

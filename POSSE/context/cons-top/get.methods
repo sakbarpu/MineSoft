@@ -1,0 +1,7 @@
+CONS ExternalSeedReaderFactoryGetRight() | external seed reader factory get right
+CONS ExternalSeedReaderGetRight(QExternalSeedPlugin;QTorrent;QURL;QMap;) | external seed reader get right
+CONS SWTVersionGetter(QUpdateChecker;) | swt version getter
+CONS TestDocGetter() | test doc getter
+CONS TestDocGetter([QFile;[QString;) | test doc getter
+CONS Trans2GetDfsReferral(QString;) | trans 2 get dfs referral
+CONS Trans2GetDfsReferralResponse() | trans 2 get dfs referral response

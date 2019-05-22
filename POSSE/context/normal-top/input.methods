@@ -1,0 +1,211 @@
+boolean accepts(Object input) | accepts
+boolean connectInput(QNeuralConnection;I) | connect input
+boolean delInput(QString;) | del input
+boolean disconnectInput(QNeuralConnection;I) | disconnect input
+boolean getDoInput() | get do input
+boolean hasInput(QString;) | has input
+boolean hasSubmittedInput() | has submitted input
+boolean inputFormat(QInstances;) | input format
+boolean input(QInstance;) | input
+boolean readInputStream(QInputStream;) | read input stream
+boolean setInputFormat(QInstances;) | set input format
+boolean showTradeRouteInputDialog(QTradeRoute;) | show trade route input dialog
+boolean useInputStreamToInsertBlob() | use input stream to insert blob
+ByteArray readInput(InputStream i) | read input
+byte[] getBytesFromInputStream(Qjava.io.InputStream;I) | get bytes from input stream
+byte[] readInputStreamAsByteArray(QInputStream;) | read input stream as byte array
+Configuration addInputStream(QInputStream;) | add input stream
+DataInputStream getInetInputStream() | get inet input stream
+ElementSource runNonDet(Object input, RBContext context) | run non det
+File getInputCenterFile() | get input center file
+FreeColDialog createInputDialog(QString;QString;QString;QString;) | create input dialog
+GoodsType getGoodsInputType() | get goods input type
+GoodsType inputType() | input type
+InGameInputHandler getInGameInputHandler() | get in game input handler
+InputHandler getInputHandler() | get input handler
+InputListener getInputListener() | get input listener
+Inputs getInputs() | get inputs
+Input sIB_ProcessInput() | s ib process input
+InputSource getInputSource() | get input source
+InputStream getAsInputStream() | get as input stream
+InputStream getConfigurationInputStream(QString;) | get configuration input stream
+InputStream getDownloadInputStream(QString;) | get download input stream
+InputStream getInputStream() | get input stream
+InputStream getInputStreamFromJar(QString;QString;) | get input stream from jar
+InputStream getInputStream(int index) | get input stream
+InputStream getInputStream(QString;) | get input stream
+InputStream getInputStream(QString;QString;) | get input stream
+InputStream getInputStream(String fileName) | get input stream
+InputStream getNamedPipeInputStream() | get named pipe input stream
+InputStream getSavegameInputStream() | get savegame input stream
+InputStream getSpecificationInputStream() | get specification input stream
+InputStream getTestInputStream() | get test input stream
+InputStream openInputStreamElement(Qjava.lang.String;) | open input stream element
+InputStream toInputStream(QObject;) | to input stream
+Instance historyInput(QInstance;) | history input
+Instances getInputFormat() | get input format
+Instances inputFormatPeek() | input format peek
+int calculateGoodsInput(II) | calculate goods input
+Integer getInputParmCount() | get input parm count
+int getGoodsInput() | get goods input
+int getGoodsInputAuto(I) | get goods input auto
+int getGoodsInputNextTurn() | get goods input next turn
+int getInputBlockSize() | get input block size
+int[] getInputNums() | get input nums
+int getMaximumGoodsInput() | get maximum goods input
+int getNumInputs() | get num inputs
+int getStoredInput() | get stored input
+int scanAttributes(byte input, int offset, int end, int lineNr) | scan attributes
+int scanOneAttribute(char input, int offset, int end, int lineNr) | scan one attribute
+java.io.InputStream openInputStreamElement(Qjava.lang.String;) | open input stream element
+java.util.List<QInputFormat;> getInputFormats() | get input formats
+JComponent getInputFormatAccessory() | get input format accessory
+JHTML.Form getFormWithInput(QString;) | get form with input
+List<QInputFormat;> getInputFormats() | get input formats
+Map getUserInputs() | get user inputs
+NeuralConnection[] getInputs() | get inputs
+Object decodeInputStream(QBDecoderInputStream;I) | decode input stream
+Object execute(InteractionSpec spec, Record inputRecord, RecordExtractor outputExtractor) | execute
+Object getInputValue() | get input value
+Object getLeftContent(Object input) | get left content
+Object showCustomInputDialog(QComponent;QString;QObject;ZQString;) | show custom input dialog
+Object unmarshall(InputStream input) | unmarshall
+PreGameInputHandler getPreGameInputHandler() | get pre game input handler
+Properties getInputProperties() | get input properties
+REMatch getMatchImpl(CharIndexed input, int anchor, int eflags, StringBuffer buffer) | get match impl
+SelectedTag defaultInputOrder() | default input order
+SelectedTag getInputOrder() | get input order
+SortedSet<QImportFormat;> getBuiltInInputFormats() | get built in input formats
+StringBuffer getInputStreamData(QTransferable;QDataFlavor;QInputStream;) | get input stream data
+String checkInput() | check input
+String copyInputStreamToTmpFile(QInputStream;QString;) | copy input stream to tmp file
+String getConsoleInput() | get console input
+String getCurrentInput() | get current input
+String _getInput() | get input
+String getInputEncoding() | get input encoding
+String getInputFilename() | get input filename
+String getSubmittedInput() | get submitted input
+String inputCenterFileTipText() | input center file tip text
+String inputOrderTipText() | input order tip text
+String inputPassword(QString;QString;) | input password
+String inputStreamToString(QInputStream;I) | input stream to string
+String inputString(QString;IQString;) | input string
+String readInputStreamAsString(QInputStream;I) | read input stream as string
+String readInputStreamAsString(QInputStream;IQString;) | read input stream as string
+String showInputBox(QComponent;QString;QString;QObject;) | show input box
+String showInputDialog(QComponent;QString;) | show input dialog
+String showInputDialog(QComponent;QString;QString;) | show input dialog
+String showInputDialog(QComponent;QString;QString;I) | show input dialog
+String showInputDialog(QComponent;QString;QString;IQIcon;[QString;QString;) | show input dialog
+String showInputDialog(QString;) | show input dialog
+String showInputDialog(QString;QString;) | show input dialog
+String showInputDialog(QString;QString;QString;QString;[QString;) | show input dialog
+String showInternalInputDialog(QComponent;QString;) | show internal input dialog
+String showInternalInputDialog(QComponent;QString;QString;I) | show internal input dialog
+String showInternalInputDialog(QComponent;QString;QString;IQIcon;[QString;QString;) | show internal input dialog
+String substituteImpl(CharIndexed input, String replace, int index, int eflags) | substitute impl
+Torrent createFromBEncodedInputStream(QInputStream;) | create from b encoded input stream
+Torrent createFromBEncodedInputStream(QInputStream;I) | create from b encoded input stream
+TOTorrent deserialiseFromBEncodedInputStream(QInputStream;) | deserialise from b encoded input stream
+TOTorrent readFromBEncodedInputStream(QInputStream;) | read from b encoded input stream
+UIInputReceiver getInputReceiver() | get input receiver
+Vector getBeanInfoInputs() | get bean info inputs
+Vector getBeansInInputs() | get beans in inputs
+Vector getInputs() | get inputs
+Vector inputs(QVector;) | inputs
+void addInputFileRow(String name, boolean editable) | add input file row
+void addInput(QString;) | add input
+void addInputs() | add inputs
+void addTransition(int start, int input, int dest) | add transition
+void allocateInputs() | allocate inputs
+void allowEmptyInput(Z) | allow empty input
+void BDecoderInputStreamArray([B) | b decoder input stream array
+void BDecoderInputStreamArray([BII) | b decoder input stream array
+void BDecoderInputStreamStream(QBufferedInputStream;) | b decoder input stream stream
+void bufferInput(QInstance;) | buffer input
+void changeInputListener(QInputListener;QInputListener;) | change input listener
+void changeInputNum(II) | change input num
+void clearCurrentInput() | clear current input
+void _clearCurrentInputText() | clear current input text
+void createNewConsoleInput(QString;QInputStream;QPrintStream;QUserProfile;) | create new console input
+void CREatingInputStream(QInputStream;) | cr eating input stream
+void CustomObjectInputStream(QInputStream;) | custom object input stream
+void disableInputs() | disable inputs
+void drawInputLines(QGraphics;II) | draw input lines
+void emitNextInput() | emit next input
+void emitObjectInput(String indent, String fname, TypeInterface ftype, CompoundType ctype) | emit object input
+void enableMidiInputDevice(int deviceId, boolean enable) | enable midi input device
+void errorExpectedInput(QString;IQString;) | error expected input
+void errorInvalidInput(QString;IQString;) | error invalid input
+void flushInput() | flush input
+void FramedInputStream(QInputStream;I) | framed input stream
+void FreeColNetworkInputStream(QInputStream;) | free col network input stream
+void HomeObjectInputStream(QInputStream;) | home object input stream
+void importThesaurus(InputStream inputstream, int format, Vector metadata) | import thesaurus
+void IncompleteInputInteractionsModel(QInteractionsDJDocument;) | incomplete input interactions model
+void initDebugVectorsInput() | init debug vectors input
+void initInputLocators(QInstances;[I) | init input locators
+void inputAvailable(String id, Object input) | input available
+void InputBox(Z) | input box
+void inputExceptionThrown(Qymsg.network.event.SessionExceptionEvent;) | input exception thrown
+void inputFormat(QInstances;) | input format
+void input(QInstance;) | input
+void InputStream(Qjava.io.InputStream;) | input stream
+void InputStream(Qjava.io.InputStream;I) | input stream
+void InputStream(Qjava.io.InputStream;Z) | input stream
+void InputStream(Qjava.io.InputStream;ZZ) | input stream
+void interruptConsoleInput() | interrupt console input
+void loadInputProperties() | load input properties
+void NeuralInput(QElement;QMiningSchema;) | neural input
+void NoInputListener() | no input listener
+void prepareFromClauseInputTree(QAST;) | prepare from clause input tree
+void processRestOfInput() | process rest of input
+void promptForInput() | prompt for input
+void promptForInput0() | prompt for input 0
+void _readInputIntoBuffer() | read input into buffer
+void recordUserInput(QString;) | record user input
+void removeAllInputs() | remove all inputs
+void renderInput(FacesContext facesContext, UIComponent component) | render input
+void replaceInput(String text) | replace input
+void rescore(BufferedReader input, PrintStream output) | rescore
+void _setConsoleInputCommands(QRunnable;QLambda<QString;QString;>;) | set console input commands
+void setDocument(InputStream input, String baseURL) | set document
+void setDoInput(Z) | set do input
+void setInputASName(String newInputASName) | set input as name
+void setInputBytes([B) | set input bytes
+void setInputCenterFile(QFile;) | set input center file
+void setInputCompletionCommand(QRunnable;) | set input completion command
+void setInputFilename(QString;) | set input filename
+void setInputFormats(Qjava.util.List<QInputFormat;>;) | set input formats
+void setInputFormats(QList<QInputFormat;>;) | set input formats
+void setInputHandler(QInputHandler;) | set input handler
+void setInput(int index, String input) | set input
+void setInputListener(QInputListener;) | set input listener
+void setInputOrder(QSelectedTag;) | set input order
+void setInput(QFile;) | set input
+void setInputs(QVector;) | set inputs
+void setInputStream(QInputStream;) | set input stream
+void setInputString(String s) | set input string
+void setInputType(I) | set input type
+void setInputValidator(QUIInputValidator;) | set input validator
+void setupInputs() | setup inputs
+void showInputSheet(QComponent;QObject;IQIcon;[QObject;QObject;QSheetListener;) | show input sheet
+void showInputSheet(QComponent;QObject;IQSheetListener;) | show input sheet
+void showInputSheet(QComponent;QObject;QObject;QSheetListener;) | show input sheet
+void showInputSheet(QComponent;QObject;QSheetListener;) | show input sheet
+void StringInputStream(QString;) | string input stream
+void testBasicConsoleInput() | test basic console input
+void testConsoleInput() | test console input
+void testDifferentInputs() | test different inputs
+void testDynamicInput() | test dynamic input
+void testEmptyInput() | test empty input
+void testInputFormat(QInstances;) | test input format
+void testInterpretCurrentInteractionWithIncompleteInput() | test interpret current interaction with incomplete input
+void testMultiLineInput() | test multi line input
+void testReadTableInputStream() | test read table input stream
+void testSetChangeInputListener() | test set change input listener
+void testStaticInput() | test static input
+void update(byte input, int offset, int len) | update
+void writeJarOptions(String inputEntryOptionName, String outputEntryOptionName, ClassPath classPath) | write jar options
+XMLParseException expectedInput(QString;) | expected input
+XMLParseException expectedInput(QString;I) | expected input

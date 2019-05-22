@@ -1,0 +1,5 @@
+java.lang.String ctorName | ctor name
+java.util.Map txnCtors | txn ctors
+org.mozilla.javascript.MemberBox ctor | ctor
+org.mozilla.javascript.MemberBox[] ctors | ctors
+short VARARGS_CTOR | varargs ctor

@@ -1,0 +1,84 @@
+boolean checkForAllFailedHosts() | check for all failed hosts
+boolean checkForMASCFailure(QMovePath;QVector;QVector;) | check for masc failure
+boolean continueWhenTempFileCreationFails() | continue when temp file creation fails
+boolean hasFailedEquipment(QStringBuffer;) | has failed equipment
+boolean ignoreFailedEquip(QString;) | ignore failed equip
+boolean isAuthFail() | is auth fail
+boolean isFailing() | is failing
+boolean isPermanentFailure() | is permanent failure
+boolean showFailedEquip() | show failed equip
+boolean triggerFailure() | trigger failure
+Enumeration getFailedEquipment() | get failed equipment
+EvaluatorException on_same_pair_fail(QIdValuePair;QIdValuePair;) | on same pair fail
+Exception getFailReason() | get fail reason
+Hashtable getFailedFiles() | get failed files
+int failureCount() | failure count
+int getConsecFails() | get consec fails
+int getFailCount() | get fail count
+int getFailIndex() | get fail index
+int getFailureCount() | get failure count
+int getFailureType() | get failure type
+int getMaxFailForLiveCount() | get max fail for live count
+int getMaxFailForUnknownCount() | get max fail for unknown count
+int getRemainingBLFails(int jobID, GumID gumID) | get remaining bl fails
+long getFailedHashCheck() | get failed hash check
+long getFirstFailOrLastAliveTime() | get first fail or last alive time
+long getFirstFailTime() | get first fail time
+long getHashFailBytes() | get hash fail bytes
+long getHashFailCount() | get hash fail count
+long getHashFails() | get hash fails
+long getLastFailTime() | get last fail time
+long getOptimisticFailureCount() | get optimistic failure count
+long getTotalHashFailBytes() | get total hash fail bytes
+SimpleAttributeSet _getTestFailAttributes() | get test fail attributes
+StringBuffer printFailedEquipment(QStringBuffer;) | print failed equipment
+String _failMe(QString;) | fail me
+String failMessage(JMLAssertionError e) | fail message
+String failMessage(JMLAssertionError e$) | fail message
+String formatHashFails(QDownloadManager;) | format hash fails
+String getFailure() | get failure
+String getFailureForward() | get failure forward
+String printIgnoredFailedEquip() | print ignored failed equip
+Throwable getFailure() | get failure
+void addFailedEquipment(QString;) | add failed equipment
+void addFailedEquipment(QTank;) | add failed equipment
+void assertInterpreterResetFailedCount(I) | assert interpreter reset failed count
+void callbackFailure(QThrowable;) | callback failure
+void checkForFailedInstalls(QUpdateManager;) | check for failed installs
+void connectFailure(QThrowable;) | connect failure
+void fail() | fail
+void failedSupport(QThrowable;) | failed support
+void fail(QString;) | fail
+void handshakeFailure(QThrowable;) | handshake failure
+void incrementFailedTransactionCount() | increment failed transaction count
+void informFailure(QString;) | inform failure
+void informFailure(QString;QString;) | inform failure
+void listenerFail(QString;) | listener fail
+void logFailure(QString;) | log failure
+void notifyNowFailing(QDHTRouterContact;) | notify now failing
+void nowFailing(QDHTRouterContact;) | now failing
+void optimisticFailure(QString;) | optimistic failure
+void recoverAfterListenerSetupFailure() | recover after listener setup failure
+void reportFailedSupport(QBuddyPluginBuddyMessage;QBuddyPluginException;) | report failed support
+void resetFailureCount() | reset failure count
+void selectFailure(QTransportHelper;QObject;QThrowable;) | select failure
+void selectFailure(QVirtualAbstractSelectorListener;QAbstractSelectableChannel;QObject;QThrowable;) | select failure
+void selectFailure(QVirtualChannelSelector;QServerSocketChannel;QObject;QThrowable;) | select failure
+void selectFailure(QVirtualChannelSelector;QSocketChannel;QObject;QThrowable;) | select failure
+void setAuthFailedUrl(String authFailedUrl) | set auth failed url
+void setFailPercentage(I) | set fail percentage
+void setFailurReason(QString;) | set fail ur reason
+void setNeverFailOnHashes(Z) | set never fail on hashes
+void setPermanentFailure(Z) | set permanent failure
+void syntaxFailure() | syntax failure
+void testCompileAllFailsDifferentSourceRoots() | test compile all fails different source roots
+void testCompileFailsCorrectLineNumbers() | test compile fails correct line numbers
+void testFindNextAndFailIsOnMatch() | test find next and fail is on match
+void _testFindNextFails(QFindReplaceMachine;II) | test find next fails
+void testGrowFail() | test grow fail
+void testMakeBraceFailure() | test make brace failure
+void testShrinkFail() | test shrink fail
+void testWithFail(QAttribute;) | test with fail
+void testWithFail(QAttribute;Z) | test with fail
+void testWithFail(QInstances;) | test with fail
+void testWithFail(QInstances;II) | test with fail

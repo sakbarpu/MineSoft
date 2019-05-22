@@ -1,0 +1,37 @@
+double numberInInterval(QInstance;QInstance;) | number in interval
+double numberOfGreaterVectors(QInstance;) | number of greater vectors
+double numberOfSmallerVectors(QInstance;) | number of smaller vectors
+InterpretResult numberValue(QNumber;) | number value
+int numberOfAttributes(ID) | number of attributes
+int numberOfBuildingTypes() | number of building types
+int numberOfChars(QString;I) | number of chars
+int numberOfClusters() | number of clusters
+int numberOfCollectionCreations() | number of collection creations
+int numberOfCollectionRemovals() | number of collection removals
+int numberOfCollectionUpdates() | number of collection updates
+int numberOfDeletions() | number of deletions
+int numberOfFarmedGoodsTypes() | number of far med goods types
+int numberOfFoundingFathers() | number of founding fathers
+int numberOfGoodsTypes() | number of goods types
+int numberOfInsertions() | number of insertions
+int numberOfLinearModels() | number of linear models
+int numberOfNationTypes() | number of nation types
+int numberOfPublicFields() | number of public fields
+int numberOfResourceTypes() | number of resource types
+int numberOfStoredGoodsTypes() | number of stored goods types
+int numberOfTileTypes() | number of tile types
+int numberOfUnitTypes() | number of unit types
+int numberOfUpdates() | number of updates
+Number numberValueOf(QString;) | number value of
+String numberLiteralsTipText() | number literals tip text
+String numberOfAttributesTipText() | number of attributes tip text
+String numberOfGroupsTipText() | number of groups tip text
+String numberOfPartsForInterpolationParameterTipText() | number of parts for interpolation parameter tip text
+String numberToString(DI) | number to string
+void numberItems() | number items
+void NumberListener(QText;) | number listener
+void NumberNode(D) | number node
+void NumberProperty(QString;QString;III) | number property
+void NumberToken(D) | number token
+void NumberValueResult(QNumber;) | number value result
+void NumberVisitor() | number visitor

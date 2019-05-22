@@ -1,0 +1,6 @@
+int requests_completed | requests completed
+int requests_discarded | requests discarded
+int requests_recovered | requests recovered
+long requests_queued | requests queued
+long total_requests_processed | total requests processed
+long total_requests_received | total requests received

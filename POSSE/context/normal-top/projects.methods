@@ -1,0 +1,5 @@
+boolean isSharingToolsAmongProjects() | is sharing tools among projects
+Collection<QProject;> projects() | projects
+java.util.Vector getRecentProjectsList() | get recent projects list
+Vector getProjects() | get projects
+void setRecentProjectsList(Qjava.util.Vector;) | set recent projects list

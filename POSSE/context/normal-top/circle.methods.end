@@ -1,0 +1,5 @@
+Circle addNewCircle() | add new circle
+Figure createCircle(DDDQMap<QAttributeKey;QObject;>;) | create circle
+IXMLElement createCircle(QIXMLElement;DDDQMap<QAttributeKey;QObject;>;) | create circle
+void drawCircle(QGraphics2D;QColor;QColor;) | draw circle
+void setGradientCircle(DDD) | set gradient circle

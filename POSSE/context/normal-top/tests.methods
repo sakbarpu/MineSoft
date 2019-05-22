@@ -1,0 +1,12 @@
+AttrTypes testsPerClassType(IQEstTypes;) | tests per class type
+boolean haveTestsRun() | have tests run
+TestResult performTestsFromZipFile(File zfile) | perform tests from zip file
+void doTests() | do tests
+void runTests() | run tests
+void runTests(I) | run tests
+void runTestsInList(QString;) | run tests in list
+void runTests(ZZZ) | run tests
+void safeJUnitAllWithNoValidTests() | safe j unit all with no valid tests
+void testsPerClassType(IZZ) | tests per class type
+void testsPerClassType(IZZZ) | tests per class type
+void testsWithoutClass(ZZ) | tests without class

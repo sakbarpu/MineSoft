@@ -1,0 +1,23 @@
+boolean DEBUG_CHECK_DUPLICATES | debug check duplicates
+boolean duplicationActivatedLastMousePress | duplication activated last mouse press
+byte[] duplicate_peer_checker | duplicate peer checker
+byte duplicate_peer_checker_index | duplicate peer checker index
+int DUP | dup
+int DUP2 | dup 2
+int DUP2_X1 | dup 2  x 1
+int DUP2_X2 | dup 2  x 2
+int duplicateMarker | duplicate marker
+int DUP_X1 | dup x 1
+int DUP_X2 | dup x 2
+int Icode_DUP | icode dup
+int Icode_DUP2 | icode dup 2
+int STATE_DUPLICATE | state duplicate
+int stats_packets_duplicates | stats packets duplicates
+int total_packets_duplicates | total packets duplicates
+java.awt.Cursor duplicationCursor | duplication cursor
+java.lang.String DUPLICATE_SPACES | duplicate spaces
+java.util.Hashtable duplicateNameHash | duplicate name hash
+java.util.List<com.eteks.sweethome3d.model.Selectable> duplicatedItems | duplicated items
+javax.swing.JMenuItem jMenuItemDuplicate | j menu item duplicate
+javax.swing.JMenuItem jMenuItemDuplicate1 | j menu item duplicate 1
+javax.swing.JMenuItem jMenuItemDuplicate2 | j menu item duplicate 2

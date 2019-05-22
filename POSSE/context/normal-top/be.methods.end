@@ -1,0 +1,12 @@
+double dec_doublebe([BI) | dec double be
+float dec_floatbe([BI) | dec float be
+int dec_uint32be([BI) | dec uint 32 be
+int enc_doublebe(D[BI) | enc double be
+int enc_floatbe(F[BI) | enc float be
+int enc_uint16be(S[BI) | enc uint 16 be
+int enc_uint32be(I[BI) | enc uint 32 be
+int enc_uint64be(J[BI) | enc uint 64 be
+long dec_uint64be([BI) | dec uint 64 be
+short dec_uint16be([BI) | dec uint 16 be
+String accessModifiersAsShouldBe(IMethodInfo oldmth, IMethodInfo newmth) | access modifiers as should be
+void testLeaveBe() | test leave be

@@ -1,0 +1,12 @@
+boolean isSyntaxException() | is syntax exception
+boolean supportsRowValueConstructorSyntaxInInList() | supports row value constructor syntax in in list
+int paintSyntaxLine(QSegment;QToken;[QSyntaxStyle;QTabExpander;QGraphics;II) | paint syntax line
+SyntaxStyle[] getDefaultSyntaxStyles() | get default syntax styles
+void appendSyntaxErrorResult(QString;QString;IIIIQString;) | append syntax error result
+void assertReplThrewSyntaxException(QString;) | assert repl threw syntax exception
+void BadSyntaxInteractionsModel(QInteractionsDJDocument;) | bad syntax interactions model
+void disableSyntaxError() | disable syntax error
+void paintSyntaxLine(QGraphics;QTokenMarker;IQFont;QColor;II) | paint syntax line
+void replReturnedSyntaxError(QString;QString;IIII) | repl returned syntax error
+void setSyntaxErrorStrings(QString;QString;) | set syntax error strings
+void unrecovered_syntax_error(QSymbol;) | unrecovered syntax error

@@ -1,0 +1,30 @@
+CONS AIPlayer(QAIMain;QString;) | ai player
+CONS AudioPlayer() | audio player
+CONS GamePlayerChangeEvent(QObject;QPlayer;) | game player change event
+CONS GamePlayerChatEvent(QObject;QPlayer;QString;) | game player chat event
+CONS GamePlayerConnectedEvent(QObject;QPlayer;) | game player connected event
+CONS GamePlayerDisconnectedEvent(QObject;QPlayer;) | game player disconnected event
+CONS GamePlayerEvent(QObject;QPlayer;I) | game player event
+CONS NewAIPlayer() | new ai player
+CONS NewAIPlayer(QAIMain;QElement;) | new ai player
+CONS NewAIPlayer(QAIMain;QServerPlayer;) | new ai player
+CONS NewAIPlayer(QAIMain;QXMLStreamReader;) | new ai player
+CONS Player() | player
+CONS Player(IQString;) | player
+CONS PlayerListDialog(QFrame;QClient;) | player list dialog
+CONS PlayerListDialog(QJFrame;QClient;) | player list dialog
+CONS Player(QGame;QElement;) | player
+CONS Player(QGame;QString;) | player
+CONS Player(QGame;QString;Z) | player
+CONS Player(QGame;QString;ZQNation;) | player
+CONS Player(QGame;QString;ZZQNation;) | player
+CONS Player(QGame;QXMLStreamReader;) | player
+CONS PlayersTableModel(QFreeColClient;QPreGameController;) | players table model
+CONS ServerPlayer(QGame;QString;ZQSocket;QConnection;) | server player
+CONS ServerPlayer(QGame;QString;ZZQSocket;QConnection;QNation;) | server player
+CONS ServerPlayer(QXMLStreamReader;) | server player
+CONS SoundPlayer(QAudioMixerOption;QPercentageOption;ZZ) | sound player
+CONS SoundPlayer(QAudioMixerOption;QPercentageOption;ZZII) | sound player
+CONS StandardAIPlayer(QAIMain;QElement;) | standard ai player
+CONS StandardAIPlayer(QAIMain;QServerPlayer;) | standard ai player
+CONS StandardAIPlayer(QAIMain;QXMLStreamReader;) | standard ai player

@@ -1,0 +1,14 @@
+boolean ALLOWSCHILDREN | allows children
+boolean appliesToChildren | applies to children
+com.aelitis.azureus.core.util.CopyOnWriteList children | children
+freemind.modes.StylePattern ChildrenStylePattern | children style pattern
+java.util.ArrayList children | children
+java.util.ArrayList<org.jhotdraw.draw.Figure> children | children
+java.util.LinkedList<org.jhotdraw.draw.Figure> children | children
+java.util.List _children | children
+java.util.List children | children
+java.util.Map children | children
+java.util.Vector children | children
+org.gudy.azureus2.plugins.sharing.ShareResource[] children | children
+org.gudy.azureus2.plugins.sharing.ShareResource[] node_children | node children
+org.mozilla.javascript.tools.debugger.VariableModel.VariableNode[] children | children

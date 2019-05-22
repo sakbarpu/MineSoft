@@ -1,0 +1,4 @@
+int COVER_UPPER | cover upper
+java.awt.Panel m_pUpper | m p upper
+javax.swing.JPanel m_pUpper | m p upper
+long TO_DEFAULT_VARIABLE_PIECE_NUM_UPPER | to default variable piece num upper

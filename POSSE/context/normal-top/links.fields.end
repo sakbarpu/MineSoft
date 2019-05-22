@@ -1,0 +1,7 @@
+boolean browser_follow_links | browser follow links
+boolean is_changing_links | is changing links
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> JAVADOC_ADDITIONAL_LINKS | javadoc additional links
+java.lang.String AT_FILE_LINKS | at file links
+java.util.HashMap IDToCuttedLinks | id to cutted links
+java.util.HashMap IDToLinks | id to links
+java.util.Map registered_links | registered links

@@ -1,0 +1,17 @@
+byte[][] getExistingDiversification([BZZI) | get existing diversification
+DHTRouterContactImpl updateExistingNode([BQDHTRouterContactAttachment;Z) | update existing node
+Function getExistingCtor(QContext;QScriptable;QString;) | get existing ctor
+int checkForExistingFile(QDirEntry;) | check for existing file
+int getExistingInt(I) | get existing int
+int getExistingIntProp(I) | get existing int prop
+int getExistingRow(QTable;QResultSet;QString;) | get existing row
+List getExistingAds() | get existing ads
+Node findExistingNode(Element original, Element update) | find existing node
+void addExistingDatasources() | add existing datasources
+void closeExistingSelector() | close existing selector
+void createExistingFriendsList(QComposite;) | create existing friends list
+void fireOnRegisterExistingUser(Qjava.lang.String;Qjava.lang.String;Qjava.lang.String;) | fire on register existing user
+void loadExistingTorrentsNow(Z) | load existing torrents now
+void onRegisterExistingUser(Qjava.lang.String;Qjava.lang.String;Qjava.lang.String;) | on register existing user
+void readExistingData(QSession;) | read existing data
+void writeExistingData() | write existing data

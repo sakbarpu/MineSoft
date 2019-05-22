@@ -1,0 +1,4 @@
+boolean isDoubleSupported() | is double supported
+void doubleClicked(QMouseEvent;) | double clicked
+void iconLeftDoubleClicked(Qsnoozesoft.systray4j.SysTrayMenuEvent;) | icon left double clicked
+void testDoubleIntSpeed() | test double int speed

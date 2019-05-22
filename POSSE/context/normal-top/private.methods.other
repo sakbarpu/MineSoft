@@ -1,0 +1,22 @@
+AsymmetricKeyParameter generatePrivateKeyParameter(QPrivateKey;) | generate private key parameter
+BigInteger getPrivateExponent() | get private exponent
+boolean hasBeenAttackedByPrivateers() | has been attacked by private ers
+boolean setPrivateAccessible(Z) | set private accessible
+byte[] getEncryptedPrivateKey(QString;) | get encrypted private key
+byte[] getPrivateKey() | get private key
+DERObject getPrivateKey() | get private key
+HBCIKey getMyPrivateDigKey() | get my private dig key
+KeyPair readECPrivateKey(QString;) | read ec private key
+Map getAzureusPrivateProperties(QTOTorrent;) | get azureus private properties
+Menu getPrivateMenu() | get private menu
+PrivateKey createPrivateKeyFromDERStream(QInputStream;) | create private key from der stream
+PrivateKey createPrivateKeyFromPrivateKeyInfo(QPrivateKeyInfo;) | create private key from private key info
+PrivateKey getMyPrivateKey(QString;) | get my private key
+RSAKeyParameters generatePrivateKeyParameter(QRSAPrivateKey;) | generate private key parameter
+void clearPrivateList() | clear private list
+void setAttackedByPrivateers() | set attacked by private ers
+void setInterpreterPrivateAccessible(boolean accessible) | set interpreter private accessible
+void setInterpreterPrivateAccessible(Z) | set interpreter private accessible
+void setPrivateAccessible(Z) | set private accessible
+void setPrivateFromHTML(QString;) | set private from html
+void testGetPrivateField_1() | test get private field  1

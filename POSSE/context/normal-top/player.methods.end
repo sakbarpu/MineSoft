@@ -1,0 +1,38 @@
+AIPlayer getAIPlayer() | get ai player
+boolean canAddNewPlayer() | can add new player
+boolean isCurrentPlayer(QPlayer;) | is current player
+boolean isSingleplayer() | is single player
+boolean runInMediaPlayer(QString;) | run in media player
+Element addPlayer(QElement;) | add player
+Element removePlayer(QElement;) | remove player
+Element setCurrentPlayer(QDummyConnection;QElement;) | set current player
+Element setCurrentPlayer(QElement;) | set current player
+File getPlayer(String type) | get player
+HumanPlayer getHumanPlayer() | get human player
+Player getCurrentPlayer() | get current player
+Player getFirstPlayer() | get first player
+Player getLocalPlayer() | get local player
+Player getMyPlayer() | get my player
+Player getNextPlayer() | get next player
+Player getPlayer() | get player
+Player getPlayer(I) | get player
+Player getPlayer(QString;) | get player
+Player getREFPlayer() | get ref player
+Player nextPlayer() | next player
+ServerPlayer addAIPlayer(QNation;) | add ai player
+ServerPlayer createREFPlayer(QServerPlayer;) | create ref player
+ServerPlayer getPlayer(QConnection;) | get player
+Team getTeamForPlayer(QPlayer;) | get team for player
+void addPlayer(IQPlayer;) | add player
+void addPlayer(QPlayer;) | add player
+void changeRelationWithPlayer(QPlayer;QStance;) | change relation with player
+void removePlayer(I) | remove player
+void removePlayer(QPlayer;) | remove player
+void setCurrentPlayer(QPlayer;) | set current player
+void setLocalPlayer(QPlayer;) | set local player
+void setMyPlayer(QPlayer;) | set my player
+void setPlayer(IQPlayer;) | set player
+void setPlayer(QServerPlayer;) | set player
+void setSingleplayer(Z) | set single player
+void setSoundPlayer(QSoundPlayer;) | set sound player
+void updatePlayer(QPlayer;) | update player

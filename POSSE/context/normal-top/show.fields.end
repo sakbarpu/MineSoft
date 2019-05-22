@@ -1,0 +1,6 @@
+int buttonsshow | buttons show
+int ET_FILE_SHOW | et file show
+int EVENT_SHOW | event show
+int SW_SHOW | sw show
+javax.swing.JCheckBox cbShow | cb show
+javax.swing.JCheckBox jcbShow | jcb show

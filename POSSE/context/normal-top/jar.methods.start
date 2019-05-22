@@ -1,0 +1,3 @@
+boolean jarBuildDirectory(QFile;QJarBuilder;) | jar build directory
+boolean jarSources(QGlobalModel;QJarBuilder;) | jar sources
+JPanel _jarFileSelector() | jar file selector

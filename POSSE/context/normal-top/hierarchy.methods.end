@@ -1,0 +1,5 @@
+TaskContainmentHierarchyFacade getTaskHierarchy() | get task hierarchy
+void calculateTypeHierarchy() | calculate type hierarchy
+void createAnchorsHierarchy(QVector;III) | create anchors hierarchy
+void makeProperHierarchy() | make proper hierarchy
+void testCreateSimpleHierarchy() | test create simple hierarchy

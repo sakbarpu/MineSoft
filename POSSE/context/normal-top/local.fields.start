@@ -1,0 +1,40 @@
+boolean LOCAL_BLOOM_TRACE | local bloom trace
+boolean local_is_complete | local is complete
+com.aelitis.azureus.core.dht.router.impl.DHTRouterContactImpl local_contact | local contact
+com.aelitis.azureus.core.dht.transport.DHTTransportContact local_contact | local contact
+com.aelitis.azureus.core.dht.transport.udp.impl.DHTTransportUDPContactImpl local_contact | local contact
+com.aelitis.azureus.util.LocalResourceHTTPServer local_publisher | local publisher
+double LocalTZA | local tza
+int LOCAL_BLOCK | local block
+int LOCAL_BLOCK_PROP | local block prop
+int LOCAL_COVER | local cover
+int LOCAL_DIVERSIFICATION_ENTRIES_LIMIT | local diversification entries limit
+int LOCAL_DIVERSIFICATION_READS_PER_MIN | local diversification reads per min
+int LOCAL_DIVERSIFICATION_READS_PER_MIN_SAMPLES | local diversification reads per min samples
+int LOCAL_DIVERSIFICATION_SIZE_LIMIT | local diversification size limit
+int LOCAL_ESTIMATE_HISTORY | local estimate history
+int LOCAL_LOAD | local load
+int local_pn | local pn
+int local_port | local port
+int LOCAL_PROP | local prop
+int localShift | local shift
+int local_size | local size
+java.lang.String local_control_url | local control url
+java.lang.String local_cookies | local cookies
+java.lang.String local_desc_url | local desc url
+java.lang.String _LocalFileName | local file name
+java.lang.String _localId | local id
+java.lang.String localName | local name
+java.lang.String localPackageName | local package name
+java.lang.String _localTitle | local title
+java.net.InetAddress local_address | local address
+java.text.SimpleDateFormat localClockFormat | local clock format
+java.util.ArrayList localActionList | local action list
+java.util.HashMap<java.lang.String,java.lang.Object> _localProperties | local properties
+java.util.Map local_connections | local connections
+java.util.Map local_estimate_values | local estimate values
+java.util.Map local_storage_keys | local storage keys
+javax.swing.JCheckBox localServerBrowseBox | local server browse box
+javax.swing.JPopupMenu localPopup | local popup
+long local_dht_estimate | local dht estimate
+megamek.common.Player localPlayer | local player

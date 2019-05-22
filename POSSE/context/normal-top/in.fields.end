@@ -1,0 +1,43 @@
+boolean isDiggingIn | is digging in
+boolean mouseIn | mouse in
+boolean slideIn | slide in
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_CLOSE_SYSTEM_IN | key close system in
+int BID_ERROR_CANT_SIGN_IN | bid error cant sign in
+int dugIn | dug in
+int FIELD_BYTES_IN | field bytes in
+int FIELD_MSG_IN | field msg in
+int MODE_OPT_IN | mode opt in
+int PARAM_IN | param in
+int procedureColumnIn | procedure column in
+int RAW_LEADIN | raw lead in
+int STEP_DIG_IN | step dig in
+java.awt.Button butDigIn | but dig in
+java.awt.MenuItem viewZoomIn | view zoom in
+java.io.BufferedReader dataStreamIn | data stream in
+java.io.DataInputStream dataStreamIn | data stream in
+java.lang.String MOVE_DIG_IN | move dig in
+java.lang.String PeerManager_status_finishedin | peer manager status finished in
+java.lang.String T_IN | t in
+java.lang.String TITLE_OPT_IN | title opt in
+java.lang.String VIEW_ZOOM_IN | view zoom in
+java.net.Socket socket_in | socket in
+java.nio.ByteBuffer initial_data_in | initial data in
+javax.swing.Action zoomIn | zoom in
+javax.swing.JButton butDigIn | but dig in
+javax.swing.JMenuItem viewZoomIn | view zoom in
+long average_bytes_in | average bytes in
+long bytes_in | bytes in
+long bytesIn | bytes in
+long last_bytes_in | last bytes in
+long sos_bytes_in | sos bytes in
+long total_bytes_in | total bytes in
+net.sourceforge.ganttproject.gui.TestGanttRolloverButton bZoomIn | b zoom in
+org.bouncycastle.asn1.ASN1StreamParser _aIn | a in
+org.bouncycastle.crypto.engines.RC4Engine header_cipher_in | header cipher in
+org.gudy.azureus2.core3.util.Average average_bytes_in | average bytes in
+org.gudy.azureus2.ui.swt.components.BufferedLabel saveIn | save in
+org.gudy.azureus2.ui.swt.components.BufferedLabel trackerUpdateIn | tracker update in
+org.hsqldb.Result resultIn | result in
+org.hsqldb.rowio.RowInputBinary rowIn | row in
+org.hsqldb.rowio.RowInputInterface rowIn | row in
+org.hsqldb.rowio.RowInputTextLog rowIn | row in

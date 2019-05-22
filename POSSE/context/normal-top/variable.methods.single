@@ -1,0 +1,2 @@
+void Variable(QString;) | variable
+void Variable(QString;QString;) | variable

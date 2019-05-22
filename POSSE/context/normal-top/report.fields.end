@@ -1,0 +1,21 @@
+int CAUSEREPORT | cause report
+int GAME_REPORT | game report
+int PHASE_END_REPORT | phase end report
+int PHASE_FIRING_REPORT | phase firing report
+int PHASE_INITIATIVE_REPORT | phase initiative report
+int PHASE_MOVEMENT_REPORT | phase movement report
+int PHASE_OFFBOARD_REPORT | phase offboard report
+int PHASE_PHYSICAL_REPORT | phase physical report
+it.businesslogic.ireport.gui.JReportPanel jPanelReport | j panel report
+it.businesslogic.ireport.Report currentReport | current report
+java.awt.MenuItem viewRoundReport | view round report
+java.lang.StringBuffer loadReport | load report
+java.lang.String dsvRejectReport | dsv reject report
+java.lang.String phaseReport | phase report
+java.lang.String roundReport | round report
+java.util.Vector<megamek.common.Report> vPhaseReport | v phase report
+java.util.Vector vPhaseReport | v phase report
+javax.swing.JMenuItem viewRoundReport | view round report
+long last_error_report | last error report
+org.gudy.azureus2.ui.swt.progress.IProgressReport latestProgressReport | latest progress report
+org.gudy.azureus2.ui.swt.progress.IProgressReport latestReport | latest report

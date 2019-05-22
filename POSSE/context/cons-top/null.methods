@@ -1,0 +1,12 @@
+CONS ASN1Null() | asn 1 null
+CONS BERNull() | ber null
+CONS DERNull() | der null
+CONS NotNullExpression(QString;) | not null expression
+CONS Nullability(QSessionImplementor;) | nullability
+CONS NullableCheckBox(QString;) | nullable check box
+CONS NullableSpinner() | nullable spinner
+CONS NullableSpinner(QNullableSpinnerNumberModel;) | nullable spinner
+CONS NullExpression(QString;) | null expression
+CONS NullFile() | null file
+CONS NullFile(QString;) | null file
+CONS NullHandle(QFigure;QLocator;) | null handle

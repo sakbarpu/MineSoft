@@ -1,0 +1,3 @@
+CONS ClickableImageCreator(QMindMapNode;QModeController;QString;) | clickable image creator
+CONS ColumnImageClickArea(QString;QString;QString;) | column image click area
+CONS RightClickMenu(QBasePanel;QMetaData;) | right click menu

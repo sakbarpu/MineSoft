@@ -1,0 +1,16 @@
+boolean showMajorGridX() | show major grid x
+boolean showMajorGridY() | show major grid y
+Color getMajorGridColor() | get major grid color
+int getDatabaseMajorVersion() | get database major version
+int getDatabaseMajorVersion(QDatabaseMetaData;) | get database major version
+int getDriverMajorVersion() | get driver major version
+int getJabrefMajorVersion() | get jabref major version
+int getJDBCMajorVersion() | get jdbc major version
+int getMajorVersion() | get major version
+long getMajorGridWidth() | get major grid width
+String getMajorVersion() | get major version
+void setJabrefMajorVersion(I) | set jabref major version
+void setMajorGridColor(QColor;) | set major grid color
+void setMajorGridX(Z) | set major grid x
+void setMajorGridY(Z) | set major grid y
+void setMajorMinorVersions() | set major minor versions

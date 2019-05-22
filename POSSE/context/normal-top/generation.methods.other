@@ -1,0 +1,5 @@
+String autoKeyGenerationTipText() | auto key generation tip text
+ValueInclusion determineInsertValueGenerationType(QProperty;QStandardProperty;) | determine insert value generation type
+ValueInclusion determineUpdateValueGenerationType(QProperty;QStandardProperty;) | determine update value generation type
+ValueInclusion[] getPropertyInsertGenerationInclusions() | get property insert generation inclusions
+ValueInclusion[] getPropertyUpdateGenerationInclusions() | get property update generation inclusions

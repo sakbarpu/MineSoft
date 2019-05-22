@@ -1,0 +1,18 @@
+boolean isSafeForReconnect() | is safe for reconnect
+boolean isSafeMultiSnipe(QAuctionEntry;QAuctionEntry;) | is safe multi snipe
+boolean isSafeToAdd(QAuctionEntry;) | is safe to add
+Object ensureSafeValue(QObject;QObject;QObject;) | ensure safe value
+Object nullSafeGet(QResultSet;[QString;) | null safe get
+Object nullSafeGet(QResultSet;QString;) | null safe get
+Object nullSafeGet(QResultSet;[QString;QObject;) | null safe get
+Object nullSafeGet(QResultSet;[QString;QSessionImplementor;QObject;) | null safe get
+Object nullSafeGet(QResultSet;QString;QSessionImplementor;QObject;) | null safe get
+Object[] nullSafeGetValues(QObject;QEntityMode;) | null safe get values
+String nullSafeToString(QObject;) | null safe to string
+void enableSafeSelectionMode() | enable safe selection mode
+void initSafeMode() | init safe mode
+void nullSafeSet(PreparedStatement st, Object value, int index) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;I) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;IQSessionImplementor;) | null safe set
+void nullSafeSet(QPreparedStatement;QObject;I[ZQSessionImplementor;) | null safe set
+void testNullSafeHashCodeWithObjectBeingObjectArray() | test null safe hash code with object being object array

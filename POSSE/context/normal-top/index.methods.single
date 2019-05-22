@@ -1,0 +1,9 @@
+Index index(QString;) | index
+int index() | index
+int index(I) | index
+int index(QGP4BendType;) | index
+int index(QGP4EffectsOnNote;) | index
+String index(Node node) | index
+void index() | index
+void index(QIterator;QString;) | index
+void index(QTuple;QString;) | index

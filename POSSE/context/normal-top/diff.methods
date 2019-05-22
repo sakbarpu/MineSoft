@@ -1,0 +1,44 @@
+boolean isDifferentDownloadLocation(QFile;) | is different download location
+boolean isDifferentTorrentLocation(QFile;) | is different torrent location
+boolean isMethodDifferent(Method_info oldMethod, Method_info newMethod) | is method different
+boolean recruitablesDiffer() | recruit ables differ
+boolean setOfficialTimeDifference() | set official time difference
+boolean supportsDifferentTableCorrelationNames() | supports different table correlation names
+DifficultyLevel getDifficulty() | get difficulty
+DifficultyLevel getDifficultyLevel(I) | get difficulty level
+DifficultyLevel getDifficultyLevel(QString;) | get difficulty level
+double difference(IDD) | difference
+double difference(IQString;QString;) | difference
+double diffFstDervLnGamma(D) | diff fst derv ln gamma
+double diffLnGamma(D) | diff ln gamma
+double diffSndDervLnGamma(D) | diff snd derv ln gamma
+double sqDifference(IDD) | sq difference
+float getLengthDiff(QMouseEvent;) | get length diff
+int count_different_chars(III) | count different chars
+int count_different_lengths(II) | count different lengths
+int difference(QString;QString;) | difference
+int diff(QGanttCalendar;) | diff
+int find_max_different_column(III) | find max different column
+int getDifference() | get difference
+int getFacingDiff(QMovePath;) | get facing diff
+int getPriceDifference() | get price difference
+int getTemperatureDifference() | get temperature difference
+List<QDifficultyLevel;> getDifficultyLevels() | get difficulty levels
+long diff() | diff
+Object resizeArrayIfDifferent(QObject;I) | resize array if different
+RealGrayImage diff(RealGrayImage im) | diff
+String getDifficulty() | get difficulty
+void applyDifficultyLevel(I) | apply difficulty level
+void check_all_is_different(II) | check all is different
+void checkForMultipleDifferences() | check for multiple differences
+void refreshDifference() | refresh difference
+void removeDifferent(QSession;QResult;I) | remove different
+void setDifference(I) | set difference
+void setDifferenceMode(boolean value) | set difference mode
+void setDifficulty(QString;) | set difficulty
+void setMovingToDifferentEntry() | set moving to different entry
+void testCompileAllDifferentSourceRoots() | test compile all different source roots
+void testCompileAllFailsDifferentSourceRoots() | test compile all fails different source roots
+void testCompileClassPathOKDifferentPackages() | test compile class path ok different packages
+void testDiff5() | test diff 5
+void testDifferentInputs() | test different inputs

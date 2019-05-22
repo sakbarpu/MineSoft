@@ -1,0 +1,27 @@
+int getDirHandling() | get dir handling
+long getCachedDirFreeSpace(QFile;) | get cached dir free space
+long getTorrentDataSizeFromFileOrDirSupport(QFile;) | get torrent data size from file or dir support
+ShareResourceDirContents addDirContents(QFile;Z) | add dir contents
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;JJJJ) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;Z) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithComputedPieceLength(QFile;QURL;ZJJJJ) | create from file or dir with computed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;) | create from file or dir with fixed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;J) | create from file or dir with fixed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;Z) | create from file or dir with fixed piece length
+TOTorrentCreator createFromFileOrDirWithFixedPieceLength(QFile;QURL;ZJ) | create from file or dir with fixed piece length
+URL getDirAsUrl() | get dir as url
+URL getDirAsUrl(QString;) | get dir as url
+void addBinDirPropertyDescriptor(Object object) | add bin dir property descriptor
+void changeDirSelectedTorrents([QDownloadManager;QShell;) | change dir selected torrents
+void recursiveEmptyDirDelete(QFile;) | recursive empty dir delete
+void recursiveEmptyDirDelete(QFile;QSet;Z) | recursive empty dir delete
+void recursiveEmptyDirDelete(QFile;Z) | recursive empty dir delete
+void setDirAndPrefix(QString;QString;) | set dir and prefix
+void setDirHandling(I) | set dir handling
+void setDirList(Z) | set dir list
+void shareDirContents(QAzureusCore;QShell;Z) | share dir contents
+void shareDirContents(QAzureusCore;QString;Z) | share dir contents
+void shareDirSupport(QAzureusCore;QShell;ZZ) | share dir support
+void updateDataDirCombo() | update data dir combo
+void updateRemoteDirGUI() | update remote dir gui

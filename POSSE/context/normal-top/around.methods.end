@@ -1,0 +1,4 @@
+Coords getCoordsAround(QEntity;[QCoords;) | get coords around
+void initializeAround(II) | initialize around
+void initializeAround(int x, int y) | initialize around
+void redrawAround(QCoords;) | redraw around

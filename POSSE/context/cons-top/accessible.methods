@@ -1,0 +1,2 @@
+CONS NoneAccessibleFileException(QString;) | none accessible file exception
+CONS NoneAccessibleFileException(QString;QThrowable;) | none accessible file exception

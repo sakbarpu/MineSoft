@@ -1,0 +1,8 @@
+edu.rice.cs.drjava.config.BooleanOption DIALOG_OPENJAVADOC_STORE_POSITION | dialog open javadoc store position
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_JAVADOC_ALL | key javadoc all
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_JAVADOC_CURRENT | key javadoc current
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_OPEN_JAVADOC_UNDER_CURSOR | key open javadoc under cursor
+edu.rice.cs.drjava.config.StringOption DIALOG_OPENJAVADOC_STATE | dialog open javadoc state
+int saveBeforeJavadocCount | save before javadoc count
+java.lang.String[] apiJavadocChoices | api javadoc choices
+java.util.ArrayList<java.lang.String> apiJavadocVersionChoices | api javadoc version choices

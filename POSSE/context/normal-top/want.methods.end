@@ -1,0 +1,3 @@
+int calculateNumWant() | calculate num want
+int getCountWeWant() | get count we want
+int getNumWant() | get num want

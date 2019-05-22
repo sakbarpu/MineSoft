@@ -1,0 +1,16 @@
+boolean execSWTThreadLater(IQRunnable;) | exec swt thread later
+Color getLaterPreviousTaskColor() | get later previous task color
+Date getLatestEnd() | get latest end
+int getLatestVersion() | get latest version
+int lateralShiftForTurn(II) | lateral shift for turn
+int turnForLateralShift(I) | turn for lateral shift
+void downloadLatestVersion() | download latest version
+void editLater(QNodeView;QNodeView;QKeyEvent;ZZZ) | edit later
+void invokeLater() | invoke later
+void invokeLater(QRunnable;) | invoke later
+void lateInitialisation(QAzureusCore;) | late initialisation
+void reInitListLater() | re init list later
+void setLatency(I) | set latency
+void setLaterPreviousTaskColor(QColor;) | set later previous task color
+void testMultiLineStarInsertLaterLine() | test multi line star insert later line
+void transformLateralShift() | transform lateral shift

@@ -1,0 +1,65 @@
+boolean isPrintWhenDetailOverflows | is print when detail overflows
+boolean showIndexDetails | show index details
+com.aelitis.azureus.plugins.tracker.dht.DHTTrackerPlugin.putDetails put_details | put details
+com.aelitis.azureus.ui.swt.browser.OpenCloseSearchDetailsListener openCloseSearchDetailsListener | open close search details listener
+com.aelitis.azureus.ui.swt.columns.utils.ColumnImageClickArea clickAreaDetails | click area details
+com.aelitis.azureus.ui.swt.skin.SWTSkinObjectText skinDetailInfo | skin detail info
+int detailLevel | detail level
+int DETAILS_HEIGHT | details height
+int DETAILS_WIDTH | details width
+int EVENT_AFTER_DETAIL_EVAL | event after detail eval
+int EVENT_BEFORE_DETAIL_EVAL | event before detail eval
+int maxPreferredDetailPanelHeight | max preferred detail panel height
+int maxPreferredDetailPanelHeight_Standalone | max preferred detail panel height standalone
+int PR_DETAILS_LINK | pr details link
+int RD_GET_DETAILS_RETRIES | rd get details retries
+int[] value_details_snapshot | value details snapshot
+int VIEW_DETAILED_LISTVIEW | view detailed list view
+int VIEW_DM_DETAILS | view dm details
+java.lang.String BTN_DETAILS | btn details
+java.lang.String[][] default_version_details | default version details
+java.lang.String DETAIL_CONTENT | detail content
+java.lang.String DETAIL_CURRENT_DATE | detail current date
+java.lang.String DETAIL_CURRENT_FILE | detail current file
+java.lang.String DETAIL_CURRENT_FILE_ID | detail current file id
+java.lang.String DETAIL_CURRENT_POSITION | detail current position
+java.lang.String DETAIL_ENABLE | detail enable
+java.lang.String DETAIL_HISTORY_ITEM | detail history item
+java.lang.String detailMessage | detail message
+java.lang.String DETAIL_NEW | detail new
+java.lang.String DETAIL_OLD | detail old
+java.lang.String DETAIL_OPTION | detail option
+java.lang.String DETAIL_ORIGIN | detail origin
+java.lang.String DETAIL_REASON | detail reason
+java.lang.String details | details
+java.lang.String DETAIL_SELECTION | detail selection
+java.lang.String DETAIL_SPECIAL_MODE | detail special mode
+java.lang.String DETAIL_SPECIAL_MODE_BESTOF | detail special mode best of
+java.lang.String DETAIL_SPECIAL_MODE_NORMAL | detail special mode normal
+java.lang.String DETAIL_SPECIAL_MODE_NOVELTIES | detail special mode novelties
+java.lang.String DETAIL_SPECIAL_MODE_SHUFFLE | detail special mode shuffle
+java.lang.String DETAIL_TOTAL | detail total
+java.lang.String errorDetail | error detail
+java.lang.String MENU_ID_CLOSE_ALL_DETAIL | menu id close all detail
+java.lang.String MENU_ID_DETAILED_LIST | menu id detailed list
+java.lang.String received_frag_details | received frag details
+java.lang.String sDetails | s details
+java.lang.String URL_DETAILS | url details
+java.util.List detailMessages | detail messages
+java.util.Map details | details
+java.util.Map singleton_details | singleton details
+java.util.Map verify_cache_details | verify cache details
+java.util.Properties pDetails | p details
+javax.swing.JCheckBox jCheckBoxPrintWhenDetailOverflows | j check box print when detail overflows
+javax.swing.JLabel jlDetail | jl detail
+javax.swing.JMenuItem jMenuItemDetails | j menu item details
+javax.swing.JPanel jPanelDetails | j panel details
+javax.swing.JTextArea jtaDetail | jta detail
+net.sourceforge.ganttproject.gui.options.model.GPOption[] myDetailsOptions | my details options
+org.gudy.azureus2.core3.download.impl.DownloadManagerDefaultPaths.MovementInformation COMPLETION_DETAILS | completion details
+org.gudy.azureus2.core3.download.impl.DownloadManagerDefaultPaths.MovementInformation REMOVAL_DETAILS | removal details
+org.gudy.azureus2.core3.download.impl.DownloadManagerDefaultPaths.MovementInformation[] UPDATE_FOR_MOVE_DETAILS | update for move details
+org.gudy.azureus2.pluginsimpl.update.sf.SFPluginDetails details | details
+org.gudy.azureus2.ui.swt.TwistieSection detailSection | detail section
+org.gudy.azureus2.ui.swt.TwistieSection detailTwistie | detail twistie
+thePackage.SearchInfoDialog _searchDetail | search detail

@@ -1,0 +1,7 @@
+boolean handle(QEvent;) | handle
+Element handle(QConnection;QElement;) | handle
+Element handle(QFreeColServer;QPlayer;QConnection;) | handle
+Element handle(QPlayer;QConnection;QElement;) | handle
+void handle(IQPacket;) | handle
+void handle(QConnection;QXMLStreamReader;QXMLStreamWriter;) | handle
+void handle(QDocumentEvent;) | handle

@@ -1,0 +1,7 @@
+AST createUsingCtor(QToken;QString;) | create using ctor
+boolean isCtor() | is ctor
+Function getExistingCtor(QContext;QScriptable;QString;) | get existing ctor
+void generateCtor(QClassFileWriter;QString;QString;) | generate ctor
+void generateEmptyCtor(QClassFileWriter;QString;QString;QString;) | generate empty ctor
+void generateScriptCtor(QClassFileWriter;QScriptOrFnNode;) | generate script ctor
+void generateSerialCtor(QClassFileWriter;QString;QString;) | generate serial ctor

@@ -1,0 +1,2 @@
+DoubleVector nestedEstimate(QDoubleVector;) | nested estimate
+void nestedFromFragment(QAST;QAST;) | nested from fragment

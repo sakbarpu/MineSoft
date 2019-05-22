@@ -1,0 +1,8 @@
+boolean getUseLeastValues() | get use least values
+double leastSquaresNonMissing(QInstances;I) | least squares non missing
+double leastSquares(QInstances;) | least squares
+int leastExplainingColumn(QPaceMatrix;QIntVector;II) | least explaining column
+int leastRestrictiveLoc(II) | least restrictive loc
+PeerItem[] getExchangedPeersSortedByLeastPopularFirst() | get exchanged peers sorted by least popular first
+String useLeastValuesTipText() | use least values tip text
+void setUseLeastValues(Z) | set use least values

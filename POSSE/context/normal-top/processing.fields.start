@@ -1,0 +1,4 @@
+boolean processing_complete | processing complete
+edu.rice.cs.drjava.ui.JarOptionsDialog.ProcessingFrame _processingFrame | processing frame
+int PROCESSING_POST_MULTIPLIER | processing post multiplier
+long PROCESSING_GET_LIMIT | processing get limit

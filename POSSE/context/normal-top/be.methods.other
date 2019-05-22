@@ -1,0 +1,31 @@
+boolean canBeAggregatedWith(QDiskAccessRequestImpl;) | can be aggregated with
+boolean canBeBuilt() | can be built
+boolean canBeEquippedWith(QEquipmentType;) | can be equipped with
+boolean canBeInAggregate() | can be in aggregate
+boolean canBeInGroupBy() | can be in group by
+boolean canBeInOrderBy() | can be in order by
+boolean canBePrintable(QString;) | can be printable
+boolean canBeProjectTask(QTask;QTaskContainmentHierarchyFacade;) | can be project task
+boolean canBeStudent(QUnit;) | can be student
+boolean canBeStudent(QUnitType;QUnitType;) | can be student
+boolean canBeTaught() | can be taught
+boolean hexCouldBeCliff(QIBoard;QCoords;) | hex could be cliff
+boolean knownToBeBad(QPeer;) | known to be bad
+boolean knownToBeOK(QPeer;) | known to be ok
+boolean shouldBeHidden() | should be hidden
+boolean theBodyShouldBeEvaluatedAgain() | the body should be evaluated again
+Subset getBestgen(QSubset;QBitSet;) | get be stgen
+void addDownloadWillBeAddedListener(QDownloadWillBeAddedListener;) | add download will be added listener
+void addDownloadWillBeRemovedListener(QDownloadWillBeRemovedListener;) | add download will be removed listener
+void addDownloadWillBeRemovedListener(QGlobalManagerDownloadWillBeRemovedListener;) | add download will be removed listener
+void addMainFlagMustNotBePresent(String inFlagName, String inError) | add main flag must not be present
+void invokeMenuWillBeShownListeners(QObject;) | invoke menu will be shown listeners
+void menuWillBeShown(QMenuItem;QObject;) | menu will be shown
+void peerMightBeBad(QPeer;) | peer might be bad
+void performAboutToBeHidden() | perform about to be hidden
+void performAboutToBeShown() | perform about to be shown
+void removeDownloadWillBeAddedListener(QDownloadWillBeAddedListener;) | remove download will be added listener
+void removeDownloadWillBeRemovedListener(QDownloadWillBeRemovedListener;) | remove download will be removed listener
+void removeDownloadWillBeRemovedListener(QGlobalManagerDownloadWillBeRemovedListener;) | remove download will be removed listener
+void testLeaveBeMidLine() | test leave be mid line
+void testShouldBeAbleToReturnLastSuccessfulBuild() | test should be able to return last successful build

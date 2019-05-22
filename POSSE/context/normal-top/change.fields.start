@@ -1,0 +1,19 @@
+boolean changeCellFG | change cell fg
+boolean changeFG | change fg
+boolean changeRowFG | change row fg
+edu.rice.cs.drjava.ui.config.OptionComponent.ChangeListener _changeListener | change listener
+edu.rice.cs.drjava.ui.RegionsTreePanel.IChangeState _changeState | change state
+freemind.modes.actions.ChangeArrowLinkEndPoints changeArrowLinkEndPoints | change arrow link end points
+freemind.modes.actions.ChangeArrowsInArrowLinkAction changeArrowsInArrowLinkAction | change arrows in arrow link action
+int _changeCount | change count
+int CHANGE_GRANTEE | change grantee
+int changeState | change state
+java.awt.Cursor CHANGE_PROGRESS_CURSOR | change progress cursor
+java.util.List change_listeners | change listeners
+java.util.List changeValueDispatchers | change value dispatchers
+java.util.List<javax.swing.event.ChangeListener> changeListeners | change listeners
+java.util.Vector changeListeners | change listeners
+java.util.Vector<edu.rice.cs.drjava.ui.config.OptionComponent.ChangeListener> _changeListeners | change listeners
+long changeCheckCount | change check count
+long changeCheckMaxMS | change check max ms
+long changeCheckTotalMS | change check total ms

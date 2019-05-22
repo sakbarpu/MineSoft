@@ -1,0 +1,15 @@
+boolean sameAs(Environmental E) | same as
+boolean sameAs(QCachePeer;) | same as
+boolean sameAs(QExternalSeedPeer;) | same as
+boolean sameAs(QExternalSeedReader;) | same as
+boolean sameAs(QNetworkAdminASN;) | same as
+boolean sameAs(QputDetails;) | same as
+boolean sameAs(QQueuedPeer;) | same as
+boolean sameAs(QTRTrackerServerPeerImpl;) | same as
+boolean sameClauseAs(QRule;) | same clause as
+boolean sameDefinition(AntTypeDefinition other, Project project) | same definition
+boolean sameFamily(QInetAddress;QInetAddress;) | same family
+boolean sameFilePath(QString;QString;) | same file path
+boolean sameKey(QString;) | same key
+boolean sameLogicAs(QEngine;) | same logic as
+String sameClauseTipText() | same clause tip text

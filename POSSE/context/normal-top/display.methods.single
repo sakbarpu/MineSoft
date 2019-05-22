@@ -1,0 +1,7 @@
+ActionForward display(ActionMapping mapping, ActionForm form, HttpServletRequest request, HttpServletResponse response) | display
+void display() | display
+void display(boolean autoLayout) | display
+void display(Date time) | display
+void display(PlayerID id, Collection<Territory> battles, Collection<Territory> bombing) | display
+void display(QGraphics2D;) | display
+void display(QString;) | display

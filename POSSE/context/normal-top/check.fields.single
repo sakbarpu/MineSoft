@@ -1,0 +1,5 @@
+boolean check | check
+int CHECK | check
+java.lang.String check | check
+java.util.Map check | check
+org.hsqldb.Expression check | check

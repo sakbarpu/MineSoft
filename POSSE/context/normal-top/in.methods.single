@@ -1,0 +1,7 @@
+boolean in(QObject;QObject;QContext;) | in
+Criterion in(QCollection;) | in
+Criterion in(QDetachedCriteria;) | in
+Criterion in([QObject;) | in
+Criterion in(QObject;QDetachedCriteria;) | in
+Criterion in(QString;QCollection;) | in
+Criterion in(QString;[QObject;) | in

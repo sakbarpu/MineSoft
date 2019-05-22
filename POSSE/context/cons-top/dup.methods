@@ -1,0 +1,7 @@
+CONS DuplicateAction() | duplicate action
+CONS DuplicateMappingException(QString;QString;) | duplicate mapping exception
+CONS DuplicateMappingException(QString;QString;QString;) | duplicate mapping exception
+CONS DuplicateResolverDialog(QJDialog;QBibtexEntry;QBibtexEntry;I) | duplicate resolver dialog
+CONS DuplicateResolverDialog(QJFrame;QBibtexEntry;QBibtexEntry;I) | duplicate resolver dialog
+CONS DuplicateSearch(QBasePanel;) | duplicate search
+CONS StrictDuplicateSearch(QBasePanel;) | strict duplicate search

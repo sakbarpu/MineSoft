@@ -1,0 +1,64 @@
+boolean isHTTPListenerEnabled() | is http listener enabled
+boolean isTCPListenerEnabled() | is tcp listener enabled
+boolean isUDPListenerEnabled() | is udp listener enabled
+boolean isUDPNonDataListenerEnabled() | is udp non data listener enabled
+boolean notifyParameterListenersIfChanged(QString;[B[B) | notify parameter listeners if changed
+boolean notifyParameterListenersIfChanged(QString;QLong;QLong;) | notify parameter listeners if changed
+Client getPlayerListSelected(QJList;) | get player list selected
+Client getPlayerListSelected(QList;) | get player list selected
+void fireActionListenerActionPerformed(Qjava.awt.event.ActionEvent;) | fire action listener action performed
+void fireInternalFrameActivatedListenerInternalFrameActivated(Qit.businesslogic.ireport.gui.event.InternalFrameActivatedEvent;) | fire internal frame activated listener internal frame activated
+void fireReportListenerReportBandChanged(Qit.businesslogic.ireport.gui.event.ReportBandChangedEvent;) | fire report listener report band changed
+void fireReportListenerReportElementsChanged(Qit.businesslogic.ireport.gui.event.ReportElementChangedEvent;) | fire report listener report elements changed
+void fireReportListenerReportElementsSelectionChanged(Qit.businesslogic.ireport.gui.event.ReportElementsSelectionEvent;) | fire report listener report elements selection changed
+void fireReportSubDatasetChangedListenerReportSubDatasetChanged(Qit.businesslogic.ireport.gui.event.ReportSubDatasetChangedEvent;) | fire report sub dataset changed listener report sub dataset changed
+void fireSheetPropertyValueChangedListenerSheetPropertyValueChanged(Qit.businesslogic.ireport.gui.event.SheetPropertyValueChangedEvent;) | fire sheet property value changed listener sheet property value changed
+void fireStyleChangedListenerStyleChanged(Qit.businesslogic.ireport.gui.event.StyleChangedEvent;) | fire style changed listener style changed
+void fireSubDatasetObjectChangedListenerSubDatasetObjectChanged(Qit.businesslogic.ireport.gui.event.SubDatasetObjectChangedEvent;) | fire sub dataset object changed listener sub dataset object changed
+void fireValueChangedListenerValueChanged(Qit.businesslogic.ireport.gui.event.ValueChangedEvent;) | fire value changed listener value changed
+void IPBlockedListChanged(QIpFilter;) | ip blocked list changed
+void jList1dragGestureRecognized(QDragGestureEvent;) | j list 1 drag gesture recognized
+void jList1MouseClicked(Qjava.awt.event.MouseEvent;) | j list 1 mouse clicked
+void jList1MouseDragged(Qjava.awt.event.MouseEvent;) | j list 1 mouse dragged
+void jList1MousePressed(Qjava.awt.event.MouseEvent;) | j list 1 mouse pressed
+void jList1ValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j list 1 value changed
+void jList3ValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j list 3 value changed
+void jListBandsValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j list bands value changed
+void jListCategoryValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j list category value changed
+void jListConnectionsValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j list connections value changed
+void jListDateTypesValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j list date types value changed
+void jListNegativesValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j list negatives value changed
+void jListPluginsMouseClicked(Qjava.awt.event.MouseEvent;) | j list plugins mouse clicked
+void jListPluginsValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j list plugins value changed
+void jListThreadsMouseClicked(Qjava.awt.event.MouseEvent;) | j list threads mouse clicked
+void jListTimeTypesValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j list time types value changed
+void jMenuItemCloseAllExceptThisFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all except this from list action performed
+void jMenuItemCloseAllFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all from list action performed
+void jMenuItemCloseFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close from list action performed
+void jMenuItemRevertToSavedFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item revert to saved from list action performed
+void jMenuItemSaveAllFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item save all from list action performed
+void jMenuItemSaveAsFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item save as from list action performed
+void jMenuItemSaveFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item save from list action performed
+void jMenuWindowListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu window list action performed
+void jTable1ListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table 1 list selection value changed
+void jTableBandsListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table bands list selection value changed
+void jTableDatasetParametersListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table dataset parameters list selection value changed
+void jTableFieldsListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table fields list selection value changed
+void jTableFilesListSelectionValueChanged(QListSelectionEvent;) | j table files list selection value changed
+void jTableGroupsListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table groups list selection value changed
+void jTableParametersListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table parameters list selection value changed
+void jTablePropertiesListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table properties list selection value changed
+void jTableSubreportParametersListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table subreport parameters list selection value changed
+void jTableSubreportReturnValuesListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table subreport return values list selection value changed
+void jTableVariablesListSelectionValueChanged(Qjavax.swing.event.ListSelectionEvent;) | j table variables list selection value changed
+void listChanged(QListEvent<QBibtexEntry;>;) | list changed
+void listReceived(Qymsg.network.event.SessionEvent;) | list received
+void printListCommandsCalled(QVector;) | print list commands called
+void reverseListChanged(QString;) | reverse list changed
+void setSelectionListenerEnabled(Z) | set selection listener enabled
+void torrentListenerRegistered() | torrent listener registered
+void triggerListenerRowAdded(QListRow;) | trigger listener row added
+void triggerListenerRowAdded(QTableRowCore;) | trigger listener row added
+void triggerListenerRowRemoved(QListRow;) | trigger listener row removed
+void triggerListenerRowRemoved(QTableRowCore;) | trigger listener row removed
+void windowListChanged() | window list changed

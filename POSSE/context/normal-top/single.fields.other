@@ -1,0 +1,11 @@
+boolean bDelayedSingleSelect | b delayed single select
+boolean bSingleHashScrapes | b single hash scrapes
+boolean revertsToSingleShot | reverts to single shot
+byte FLAG_SINGLE_VALUE | flag single value
+edu.rice.cs.drjava.config.ColorOption DEFINITIONS_SINGLE_QUOTED_COLOR | definitions single quoted color
+edu.rice.cs.drjava.model.definitions.reducedmodel.InsideSingleQuote INSIDE_SINGLE_QUOTE | inside single quote
+int ESCAPED_SINGLE_QUOTE_TYPE | escaped single quote type
+int HTML_SINGLETAG | html single tag
+long F_SINGLE_TARGET | f single target
+long total_single_bytes | total single bytes
+long total_single_requests_made | total single requests made

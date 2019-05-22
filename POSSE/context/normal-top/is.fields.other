@@ -1,0 +1,70 @@
+boolean active_subs_download_is_auto | active subs download is auto
+boolean bgIsOpaque | bg is opaque
+boolean bIsCachingDescriptions | b is caching descriptions
+boolean bIsFirstPriority | b is first priority
+boolean bIsTextDefault | b is text default
+boolean bLastIsShown | b last is shown
+boolean bMouseClickIsDefaultSelection | b mouse click is default selection
+boolean bTitleIsMinWidth | b title is min width
+boolean check_is_full_check | check is full check
+boolean closeIsActive | close is active
+boolean delegate_is_https | delegate is https
+boolean fsIsIgnoreCase | fs is ignore case
+boolean has_IsLeft | has is left
+boolean has_IsPluginBase | has is plugin base
+boolean local_is_complete | local is complete
+boolean nonJoinIsNull | non join is null
+boolean preentered_text_is_old_value | preentered text is old value
+boolean remote_is_complete | remote is complete
+boolean spotlightIsActive | spotlight is active
+boolean TABLE_GRIDLINE_IS_ALTERNATING_COLOR | table gridline is alternating color
+boolean taskIsMilestone | task is milestone
+boolean taskIsProjectTask | task is project task
+boolean timer_is_adjusting | timer is adjusting
+boolean xmlIsAttribute | xml is attribute
+boolean xmlIsTagContent | xml is tag content
+int COLUMN_IS_IN_CONSTRAINT | column is in constraint
+int COLUMN_IS_IN_INDEX | column is in index
+int CONNECTION_IS_BROKEN | connection is broken
+int DATABASE_IS_MEMORY_ONLY | database is memory only
+int DATABASE_IS_READONLY | database is readonly
+int DATABASE_IS_SHUTDOWN | database is shutdown
+int DATA_FILE_IS_FULL | data file is full
+int DATA_IS_READONLY | data is readonly
+int Id_isFinite | id is finite
+int Id_isNaN | id is na n
+int Id_isPrototypeOf | id is prototype of
+int Id_isXMLName | id is xml name
+int Id_propertyIsEnumerable | id property is enumerable
+int indexIsRange | index is range
+int IPROXY_STRING_IS_COMPILABLE | iproxy string is compilable
+int LOC_IS_1 | loc is  1
+int LOC_IS_2 | loc is  2
+int LOC_IS_3 | loc is  3
+int LOC_IS_4 | loc is  4
+int LOC_IS_5 | loc is  5
+int LOC_IS_6 | loc is  6
+int NO_DATA_IS_AVAILABLE | no data is available
+int T_IS_LEVEL_1 | t is level  1
+int T_IS_LEVEL_2 | t is level  2
+int T_IS_LEVEL_2_ALL | t is level  2  all
+int T_IS_LEVEL_3 | t is level  3
+java.awt.Polygon leftIS1 | left is 1
+java.awt.Polygon leftIS2 | left is 2
+java.awt.Polygon rightIS1 | right is 1
+java.awt.Polygon rightIS2 | right is 2
+java.lang.reflect.Method methodIsExternallyPlayable | method is externally playable
+java.lang.String ATTRIBUTE_isBlankWhenNull | attribute is blank when null
+java.lang.String ATTRIBUTE_isBold | attribute is bold
+java.lang.String ATTRIBUTE_isDefault | attribute is default
+java.lang.String ATTRIBUTE_isItalic | attribute is italic
+java.lang.String ATTRIBUTE_isStrikeThrough | attribute is strike through
+java.lang.String ATTRIBUTE_isStyledText | attribute is styled text
+java.lang.String ATTRIBUTE_isUnderline | attribute is underline
+java.lang.String FAQ_TOPIC_WHAT_IS_SECURE_SHARING | faq topic what is secure sharing
+java.lang.String PARAM_IS_OFFLINE | param is offline
+java.lang.String XML_TYPE_IS_MUSIC | xml type is music
+java.security.PermissionCollection _statisPermissions | stat is permissions
+javax.swing.JCheckBox jCheckBoxImageIsLazy | j check box image is lazy
+javax.swing.JCheckBox jCheckBoxIsForPrompting | j check box is for prompting
+net.sourceforge.ganttproject.calendar.GPCalendar myJanuaryFirstIsHolidayCalendar | my january first is holiday calendar

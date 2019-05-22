@@ -1,0 +1,68 @@
+BasicGetter getGetterOrNull(QClass;QString;) | get getter or null
+BasicSetter getSetterOrNull(QClass;QString;) | get setter or null
+boolean checkNull() | check null
+boolean checkNull(QObject;) | check null
+boolean isAllNull([QObject;I) | is all null
+boolean isBlankWhenNull() | is blank when null
+boolean isDiscriminatorValueNotNull() | is discriminator value not null
+boolean isDiscriminatorValueNull() | is discriminator value null
+boolean isMatchesNull() | is matches null
+boolean isNull() | is null
+boolean isNull(Object newValue) | is null
+boolean isNull([QObject;) | is null
+boolean isNull([QObject;[I) | is null
+boolean isNull(QObject;QSessionImplementor;) | is null
+boolean isPropertyNull(QEntityKey;QString;) | is property null
+boolean wantsIsNull(QString;) | wants is null
+boolean wasNull() | was null
+CaseFragment addWhenColumnNotNull(QString;QString;QString;) | add when column not null
+Class classOrNull(QClassLoader;QString;) | class or null
+Class classOrNull(QString;) | class or null
+CollectionEntry getCollectionEntryOrNull(QObject;) | get collection entry or null
+Color pickColorIfNull(QColor;QColor;QColor;) | pick color if null
+Criterion isNotNull() | is not null
+Criterion isNotNull(QString;) | is not null
+Criterion isNull() | is null
+Criterion isNull(QString;) | is null
+EntityTuplizer getTuplizerOrNull(QEntityMode;) | get tuplizer or null
+Integer getPropertyIndexOrNull(QString;) | get property index or null
+Node findNotNull(QSession;[QObject;[IZ) | find not null
+Object deepCopyNotNull(QObject;) | deep copy not null
+Object getAffectedOwnerOrNull() | get affected owner or null
+Object getLoadedCollectionOwnerOrNull(QPersistentCollection;) | get loaded collection owner or null
+Object getLoadedOwnerOrNull(QPersistentCollection;QEventSource;) | get loaded owner or null
+Object[] getNotNull([QObject;) | get not null
+Object newInstanceOrNull(QClass;) | new instance or null
+RowIterator findFirstRowNotNull(QSession;) | find first row not null
+ScriptableObject getLibraryScopeOrNull(QScriptable;) | get library scope or null
+Scriptable toObjectOrNull(QContext;QObject;) | to object or null
+Serializable getAffectedOwnerIdOrNull() | get affected owner id or null
+Serializable getIdOfOwnerOrNull(QSerializable;QSessionImplementor;) | get id of owner or null
+Serializable getLoadedCollectionOwnerIdOrNull(QCollectionEntry;) | get loaded collection owner id or null
+Serializable getLoadedCollectionOwnerIdOrNull(QPersistentCollection;) | get loaded collection owner id or null
+Serializable getLoadedOwnerIdOrNull(QPersistentCollection;QEventSource;) | get loaded owner id or null
+Serializable getOwnerIdOrNull(QObject;QEventSource;) | get owner id or null
+String[] removeNull([QString;) | remove null
+Tile getNeighbourOrNull(QDirection;II) | get neighbour or null
+Tile getNeighbourOrNull(QDirection;QTile;) | get neighbour or null
+Tuplizer getTuplizerOrNull(QEntityMode;) | get tuplizer or null
+void not_null(QObject;) | not null
+void pushNull() | push null
+void setAmountCrBalanced2Null() | set amount cr balanced 2 null
+void setBlankWhenNull(Z) | set blank when null
+void setMatchesNull(Z) | set matches null
+void setNull() | set null
+void setNull(II) | set null
+void setNull(IIQString;) | set null
+void setNull(QString;I) | set null
+void setNull(QString;IQString;) | set null
+void setUnlessNull(QProperties;QString;QString;) | set unless null
+void testIsDuplicateCDLTypeWithAttributeNull() | test is duplicate cdl type with attribute null
+void testNull() | test null
+void testPutNull() | test put null
+void throwIfNull(QObject;QSerializable;QString;) | throw if null
+void updateNull(I) | update null
+void updateNull(QString;) | update null
+void writeNull() | write null
+void writeNull(I) | write null
+XMLLib extractFromScopeOrNull(QScriptable;) | extract from scope or null

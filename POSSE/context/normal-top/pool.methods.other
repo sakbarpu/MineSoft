@@ -1,0 +1,10 @@
+double getPoolEfficency() | get pool efficency
+int getPoolHitsCount() | get pool hits count
+int getPoolIndex(I) | get pool index
+int getPoolRequestsCount() | get pool requests count
+int getTrainPoolSize() | get train pool size
+void returnToPoolIfNotFree() | return to pool if not free
+void setPoolAttributeAndFlush(String attName, Object attValue) | set pool attribute and flush
+void setPoolEfficency(D) | set pool efficency
+void setTrainPoolSize(I) | set train pool size
+void threadPoolWorker() | thread pool worker

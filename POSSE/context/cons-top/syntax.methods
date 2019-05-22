@@ -1,0 +1,10 @@
+CONS IetfAttrSyntax(QASN1Sequence;) | ietf attr syntax
+CONS QuerySyntaxException(QString;) | query syntax exception
+CONS QuerySyntaxException(QString;QString;) | query syntax exception
+CONS RoleSyntax(QASN1Sequence;) | role syntax
+CONS RoleSyntax(QGeneralName;) | role syntax
+CONS RoleSyntax(QGeneralNames;QGeneralName;) | role syntax
+CONS RoleSyntax(QString;) | role syntax
+CONS SyntaxDocument() | syntax document
+CONS SyntaxStyle(QColor;ZZ) | syntax style
+CONS SyntaxUtilities() | syntax utilities

@@ -1,0 +1,11 @@
+edu.rice.cs.util.swing.DirectoryChooser _dirChooser | dir chooser
+int DIR_CHECK_NAME | dir check name
+int DIR_EXCLUDE | dir exclude
+int dirHandling | dir handling
+int DIR_INCLUDE | dir include
+java.lang.String dirName | dir name
+java.lang.String DIR_SEP | dir sep
+java.lang.String dir_str | dir str
+org.gudy.azureus2.core3.config.StringList dirList | dir list
+org.jajuk.base.Directory dirCurrent | dir current
+org.jajuk.util.JajukFileFilter dirFilter | dir filter

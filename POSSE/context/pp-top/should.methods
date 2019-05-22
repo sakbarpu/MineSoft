@@ -1,0 +1,6 @@
+boolean shouldBeEnabled() | should be enabled
+boolean shouldBeStored() | should be stored
+boolean shouldSaveAfterFileMoved(QOpenDefinitionsDocument;QFile;) | should save after file moved
+boolean shouldSetEnabled() | should set enabled
+boolean shouldSkipDeleted() | should skip deleted
+void shouldBeInitialised(Z) | should be initialised

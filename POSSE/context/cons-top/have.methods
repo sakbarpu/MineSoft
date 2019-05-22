@@ -1,0 +1,3 @@
+CONS AZHave([IB) | az have
+CONS BTHave(IB) | bt have
+CONS OutgoingBTHaveMessageAggregator(QOutgoingMessageQueue;BB) | outgoing bt have message aggregator

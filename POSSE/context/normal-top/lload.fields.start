@@ -1,0 +1,4 @@
+int LLOAD_0 | lload  0
+int LLOAD_1 | lload  1
+int LLOAD_2 | lload  2
+int LLOAD_3 | lload  3

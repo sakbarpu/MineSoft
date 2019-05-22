@@ -1,0 +1,43 @@
+boolean hasCompositeStructure() | has composite structure
+boolean hasReinforcedStructure() | has reinforced structure
+CacheEntryStructure getCacheEntryStructure() | get cache entry structure
+DatabaseStructure buildDatabaseStructure(QProperties;QDialect;ZQString;II) | build database structure
+DatabaseStructure getDatabaseStructure() | get database structure
+float getWeightCeilingStructure() | get weight ceiling structure
+float getWeightStructure() | get weight structure
+float getWeightStructure(FF) | get weight structure
+float getWeightStructure(IFF) | get weight structure
+freemind.controller.actions.generated.instance.MenuStructure createMenuStructure() | create menu structure
+Index createIndexStructure([IQHsqlName;ZZZ) | create index structure
+Instances getStructure() | get structure
+Instances getStructure(I) | get structure
+Instances stringFreeStructure() | string free structure
+int setStructure(QInstances;) | set structure
+java.util.List getOpenedNodesDocumentStructure() | get opened nodes document structure
+MiscType createCompositeStructure() | create composite structure
+MiscType createReinforcedStructure() | create reinforced structure
+String printWeightStructure() | print weight structure
+Structure getStructure(QMech;) | get structure
+Structure getStructure(QTank;) | get structure
+void buildStructure() | build structure
+void buildStructure(QBayesNet;QInstances;) | build structure
+void buildStructure(QDocument;) | build structure
+void checkStructure(QFastVector;) | check structure
+void CustomPropertiesStructure() | custom properties structure
+void extractTableStructure(QDataAccessPoint;QDataAccessPoint;) | extract table structure
+void GanttDependStructure() | gantt depend structure
+void GanttDependStructure(II) | gantt depend structure
+void GanttDependStructure(III) | gantt depend structure
+void GanttDependStructure(IIII) | gantt depend structure
+void generateRandomNetworkStructure(II) | generate random network structure
+void getTableStructure(QTransferTable;QDataAccessPoint;) | get table structure
+void handleDotStructure(QAST;) | handle dot structure
+void importFolderStructure(QFile;QMindMapNode;Z) | import folder structure
+void initStructure() | init structure
+void readStructure(QStreamTokenizer;) | read structure
+void resetStructure() | reset structure
+void setOpenedNodesDocumentStructure(Qjava.util.List;) | set opened nodes document structure
+void setStructure(QInstances;) | set structure
+void setStructure(Structure stru) | set structure
+void transferStructure() | transfer structure
+void writeStructure() | write structure

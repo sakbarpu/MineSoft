@@ -1,0 +1,52 @@
+boolean has13ToolsJar() | has 13 tools jar
+boolean has14ToolsJar() | has 14 tools jar
+boolean isFilesInJar() | is files in jar
+boolean isJAREntry() | is jar entry
+boolean isJarFile(QFile;) | is jar file
+boolean isJar(QString;) | is jar
+boolean jarBuildDirectory(QFile;QJarBuilder;) | jar build directory
+boolean jarSources(QGlobalModel;QJarBuilder;) | jar sources
+boolean runningFromJar() | running from jar
+byte[] loadJarData(QString;QString;) | load jar data
+Configuration addJar(QFile;) | add jar
+File getCreateJarFile() | get create jar file
+File[] getHighestJarVersions([QFile;[QString;[QString;Z) | get highest jar versions
+File getJarFileFromClass(QClass;) | get jar file from class
+File getJarFileFromURL(QString;) | get jar file from url
+ImageIcon loadIconFromJar(QString;QString;) | load icon from jar
+Image loadImageFromJar(QString;QString;) | load image from jar
+InputStream getInputStreamFromJar(QString;QString;) | get input stream from jar
+int getCreateJarFlags() | get create jar flags
+java.lang.Object loadObjectFromJar(QString;QString;I) | load object from jar
+java.lang.String getJar() | get jar
+JPanel _jarFileSelector() | jar file selector
+JPanel _makeJarFileSelector() | make jar file selector
+PluginLocation getLocationInsideJar(QString;QString;) | get location inside jar
+StringBuffer readJarFile(QString;) | read jar file
+String getAzureusJarPath() | get azureus jar path
+String getJar() | get jar
+String getJAREntryName() | get jar entry name
+String getJarPath() | get jar path
+String getVersionFromJAR(QFile;) | get version from jar
+TagLibraryInfo loadTldFromJar(TestContext testContext) | load tld from jar
+URL getJAREntryURL() | get jar entry url
+URL getJarLocation(QClass;) | get jar location
+URL[] getJars() | get jars
+void initJarOptionsDialog() | init jar options dialog
+void loadJarSigner() | load jar signer
+void openExtProcessJarFile(QFile;) | open ext process jar file
+void processJarFile(QFile;) | process jar file
+void resetJarOptionsDialogPosition() | reset jar options dialog position
+void setCreateJarFile(QFile;) | set create jar file
+void setCreateJarFlags(I) | set create jar flags
+void setEmbeddedJar(boolean b) | set embedded jar
+void setJar(Qjava.lang.String;) | set jar
+void setJar(QString;) | set jar
+void signJarFile(QFile;) | sign jar file
+void signJarFile(QFile;QOutputStream;) | sign jar file
+void signJarStream(QInputStream;QOutputStream;) | sign jar stream
+void testCreateJar() | test create jar
+void testCreateJarFromDirectoryRecursive() | test create jar from directory recursive
+void testJarArchive() | test jar archive
+void writeJarOptions(String inputEntryOptionName, String outputEntryOptionName, ClassPath classPath) | write jar options
+void write(JarPackageData jarPackage) | write

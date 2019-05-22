@@ -1,0 +1,12 @@
+int _gotoLine() | goto line
+int gotoLine(I) | goto line
+void gotoFileMatchingMask(QString;) | goto file matching mask
+void _gotoFileUnderCursor() | goto file under cursor
+void gotoFrame(I) | goto frame
+void gotoFrame(QString;) | goto frame
+void gotoFrame(Z) | goto frame
+void gotoLine(I) | goto line
+void gotoMarker(IMarker marker) | goto marker
+void gotoNodesAndClose(I[I) | goto nodes and close
+void gotoTab(I) | goto tab
+void gotoTab(QString;) | goto tab

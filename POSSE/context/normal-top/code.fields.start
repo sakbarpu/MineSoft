@@ -1,0 +1,3 @@
+int CodeBufferSize | code buffer size
+java.net.URL codeBase | code base
+java.util.HashMap code_portions | code portions

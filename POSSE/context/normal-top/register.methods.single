@@ -1,0 +1,33 @@
+DCacheAdapter register(QOpenDefinitionsDocument;QDDReconstructor;) | register
+DiskManagerRecheckInstance register(QDiskManagerHelper;Z) | register
+Element register(QConnection;QElement;) | register
+RegisteredTest register(Test test) | register
+void register() | register
+void register(Action action, String moduleId) | register
+void register(CQOption;) | register
+void register(MiniBar bar) | register
+void register(QAbstractSelectableChannel;QVirtualChannelSelector.VirtualAbstractSelectorListener;QObject;) | register
+void register(QAzureusCore;) | register
+void register(QAzureusCore;QDisplay;) | register
+void register(QDigitalDJ;) | register
+void register(QDiskManagerHelper;) | register
+void register(QDownload;) | register
+void register(QHashMap;[[QString;) | register
+void register(QMiniBar;) | register
+void register(QObject;QClass;QString;) | register
+void register(QOptionModule;) | register
+void register(QPeerControlInstance;) | register
+void register(QPeerNATInitiator;) | register
+void register(QServerSocketChannel;QAcceptListener;) | register
+void register(QServerSocketChannel;QVirtualAcceptSelectorListener;QObject;) | register
+void register(QSocketChannel;QVirtualSelectorListener;QObject;) | register
+void register(QString;CQOption;) | register
+void register(QString;CQString;QOption;) | register
+void register(QString;CQString;QOption;Z) | register
+void register(QString;II) | register
+void register(QString;QNetworkRequestHandler;) | register
+void register(QString;QObject;) | register
+void register(QString;QOption;) | register
+void register(QString;QOptionModule;) | register
+void register(QString;QSidePaneComponent;) | register
+void register(QString;QString;) | register

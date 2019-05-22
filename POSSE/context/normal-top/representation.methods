@@ -1,0 +1,20 @@
+BibtexEntry getBibtexRepresentation() | get bibtex representation
+boolean hasDom4jRepresentation() | has dom 4 j representation
+boolean hasPojoRepresentation() | has pojo representation
+Document getDOMrepresentation() | get dom representation
+Element getDOMrepresentation(QDocument;) | get dom representation
+Icon getVisualRepresentation(QTransferable;) | get visual representation
+int getRepresentation() | get representation
+Node getDOMrepresentation() | get dom representation
+String determineDecimalRepresentation(QString;I) | determine decimal representation
+String determineIntegerRepresentation(QString;I) | determine integer representation
+String getRepresentation() | get representation
+String[] getStringArrayRepresentation() | get string array representation
+String getStringRepresentation() | get string representation
+String getToolTipHTMLRepresentation() | get tool tip html representation
+void BayesNetRepresentation(I) | bayes net representation
+void bindDom4jRepresentation(QElement;QPersistentClass;QMappings;Qjava.util.Map;) | bind dom 4 j representation
+void bindMapRepresentation(QElement;QPersistentClass;QMappings;Qjava.util.Map;) | bind map representation
+void bindPojoRepresentation(QElement;QPersistentClass;QMappings;Qjava.util.Map;) | bind pojo representation
+void DragGestureRecognizerWithVisualRepresentation() | drag gesture recognizer with visual representation
+void setRepresentation(Representation representation) | set representation

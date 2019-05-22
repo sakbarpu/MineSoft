@@ -1,0 +1,2 @@
+byte CONSTANT_InterfaceMethodref | constant interface methodref
+byte CONSTANT_Methodref | constant methodref

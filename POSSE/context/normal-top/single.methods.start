@@ -1,0 +1,6 @@
+BibtexEntry singleFromString(QString;) | single from string
+double singleVariance(DDD) | single variance
+FastVector singleConsequence(QInstances;) | single consequence
+FastVector singleConsequence(QInstances;IQFastVector;) | single consequence
+void singleAuthor(QStringBuffer;QString;) | single author
+void singleAuthor(QStringBuffer;QString;I) | single author

@@ -1,0 +1,3 @@
+TaskHierarchyManagerImpl getHierarchyManager() | get hierarchy manager
+void addHierarchyListener() | add hierarchy listener
+void updateHierarchyViewer(boolean doExpand) | update hierarchy viewer

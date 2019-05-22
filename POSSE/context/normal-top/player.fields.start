@@ -1,0 +1,17 @@
+int playerId | player id
+int PLAYER_NONE | player none
+int[] playerTypes | player types
+java.awt.List playerList | player list
+java.lang.String PLAYER_IMPL_JAVALAYER | player impl java layer
+java.lang.String playerName | player name
+java.util.Hashtable playerIds | player ids
+javax.swing.JList playerList | player list
+megamek.client.ui.AWT.PlayerListDialog playerListDialog | player list dialog
+megamek.client.ui.AWT.widget.PMSimpleLabel playerL | player l
+megamek.client.ui.AWT.widget.PMSimpleLabel playerR | player r
+megamek.client.ui.swing.PlayerListDialog playerListDialog | player list dialog
+megamek.client.ui.swing.widget.PMSimpleLabel playerL | player l
+megamek.client.ui.swing.widget.PMSimpleLabel playerR | player r
+org.jajuk.players.IPlayerImpl playerImpl | player impl
+org.jajuk.players.IPlayerImpl playerImpl1 | player impl 1
+org.jajuk.players.IPlayerImpl playerImpl2 | player impl 2

@@ -1,0 +1,3 @@
+String _failMe(QString;) | fail me
+String failMessage(JMLAssertionError e) | fail message
+String failMessage(JMLAssertionError e$) | fail message

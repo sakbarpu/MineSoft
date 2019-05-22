@@ -1,0 +1,153 @@
+boolean filedb | file db
+boolean file_valid | file valid
+char FILE_EXTENSION_SEPARATOR | file extension separator
+com.aelitis.azureus.core.diskmanager.file.FMFileManager file_manager | file manager
+com.aelitis.azureus.core.diskmanager.file.impl.FMFileAccessController file_access | file access
+com.aelitis.azureus.core.diskmanager.file.impl.FMFileAccess file_access | file access
+edu.rice.cs.util.swing.FileChooser _fileChooser | file chooser
+int FILE_APPENDFAIL | file append fail
+int fileCount | file count
+int FILEERR_EXITVAL | file err exit val
+int file_index | file index
+int FILE_IO_ERROR | file io error
+int fileNotFoundCount | file not found count
+int filePathContainsPoundCount | file path contains pound count
+int filePos | file pos
+int FILE_PROPERTY | file property
+int FILE_READFAIL | file read fail
+int fileRevertedCount | file reverted count
+int FILE_WRITEFAIL | file write fail
+int FILE_WROTECHARS | file wrote chars
+java.awt.datatransfer.DataFlavor fileListFlavor | file list flavor
+java.awt.MenuItem fileBoardNew | file board new
+java.awt.MenuItem fileBoardOpen | file board open
+java.awt.MenuItem fileBoardSave | file board save
+java.awt.MenuItem fileBoardSaveAs | file board save as
+java.awt.MenuItem fileBoardSaveAsImage | file board save as image
+java.awt.MenuItem fileGameConnect | file game connect
+java.awt.MenuItem fileGameConnectBot | file game connect bot
+java.awt.MenuItem fileGameNew | file game new
+java.awt.MenuItem fileGameOpen | file game open
+java.awt.MenuItem fileGameSave | file game save
+java.awt.MenuItem fileGameScenario | file game scenario
+java.awt.MenuItem filePrint | file print
+java.awt.MenuItem fileUnitsClear | file units clear
+java.awt.MenuItem fileUnitsOpen | file units open
+java.awt.MenuItem fileUnitsSave | file units save
+java.io.BufferedOutputStream fileStreamOut | file stream out
+java.io.File _file1 | file 1
+java.io.File _file2 | file 2
+java.io.File fileLast | file last
+java.io.File _fileValue | file value
+java.io.OutputStream fileStreamOut | file stream out
+java.lang.String FILE_ABSOLUTE_DEFAULT_COVER | file absolute default cover
+java.lang.String fileBrowserName | file browser name
+java.lang.String FILE_CATALOG_PERSPECTIVE | file catalog perspective
+java.lang.String FILE_COLLECTION | file collection
+java.lang.String FILE_COLLECTION_EXIT | file collection exit
+java.lang.String FILE_COLLECTION_EXIT_PROOF | file collection exit proof
+java.lang.String FILE_CONFIGURATION | file configuration
+java.lang.String FILE_CONFIGURATION_PERSPECTIVE | file configuration perspective
+java.lang.String FILE_DEFAULT_BESTOF_PLAYLIST | file default best of playlist
+java.lang.String FILE_DEFAULT_BOOKMARKS_PLAYLIST | file default bookmarks playlist
+java.lang.String FILE_DEFAULT_COVER | file default cover
+java.lang.String FILE_DEFAULT_COVER_2 | file default cover  2
+java.lang.String FILE_DEFAULT_NOVELTIES_PLAYLIST | file default novelties playlist
+java.lang.String FILE_DEFAULT_QUEUE_PLAYLIST | file default queue playlist
+java.lang.String FILE_DJ_DIR | file dj dir
+java.lang.String fileExtension | file extension
+java.lang.String[] FILE_EXTENSION | file extension
+java.lang.String[] file_extensions | file extensions
+java.lang.String[] FILE_EXTENSIONS | file extensions
+java.lang.String[] FILE_FORMAT_ID | file format id
+java.lang.String FILE_HELP_PERSPECTIVE | file help perspective
+java.lang.String FILE_HISTORY | file history
+java.lang.String FILE_IMAGE_CACHE | file image cache
+java.lang.String FILE_INFO_PERSPECTIVE | file info perspective
+java.lang.String FILE_JAJUK_DIR | file jajuk dir
+java.lang.String FILE_LANGPACK_PART1 | file langpack part 1
+java.lang.String FILE_LANGPACK_PART2 | file langpack part 2
+java.lang.String FILE_LOCK | file lock
+java.lang.String FILE_LOG4j_CONF | file log 4 j conf
+java.lang.String FILE_LOGICAL_PERSPECTIVE | file logical perspective
+java.lang.String FILE_LOGS | file logs
+java.lang.String FILE_MENU | file menu
+java.lang.String _fileName | file name
+java.lang.String fileName | file name
+java.lang.String FILE_PERSPECTIVES_CONF | file perspectives conf
+java.lang.String FILE_PHYSICAL_PERSPECTIVE | file physical perspective
+java.lang.String FILE_PLAYER_PERSPECTIVE | file player perspective
+java.lang.String _FilePrefix | file prefix
+java.lang.String FILE_PROTOCOL_INDICATOR | file protocol indicator
+java.lang.String file_root | file root
+java.lang.String FILE_SKIN_DEFS | file skin defs
+java.lang.String FILE_STAT_PERSPECTIVE | file stat perspective
+java.lang.String file_str | file str
+java.lang.String fileString | file string
+java.lang.String FILE_THUMB_NO_COVER | file thumb no cover
+java.lang.String FILE_THUMBS | file thumbs
+java.lang.String _fileTitle | file title
+java.lang.String fileurl | file url
+java.lang.String FILE_WILDCARD | file wildcard
+java.nio.channels.FileLock fileLock | file lock
+java.util.HashMap<javax.swing.filechooser.FileFilter,org.jhotdraw.draw.OutputFormat> fileFilterOutputFormatMap | file filter output format map
+java.util.Hashtable fileWindows | file windows
+java.util.List fileList | file list
+java.util.Map<com.eteks.sweethome3d.viewcontroller.ContentManager.ContentType,javax.swing.filechooser.FileFilter[]> fileFilters | file filters
+java.util.Map file_map | file map
+java.util.Map fileStatCache | file stat cache
+java.util.Map file_types | file types
+java.util.Vector fileList | file list
+javax.swing.filechooser.FileFilter _fileFilter | file filter
+javax.swing.JFileChooser fileChooser | file chooser
+javax.swing.JFileChooser _fileOptionChooser | file option chooser
+javax.swing.JLabel _fileLabel | file label
+javax.swing.JMenu _fileMenu | file menu
+javax.swing.JMenuItem fileBoardNew | file board new
+javax.swing.JMenuItem fileBoardOpen | file board open
+javax.swing.JMenuItem fileBoardSave | file board save
+javax.swing.JMenuItem fileBoardSaveAs | file board save as
+javax.swing.JMenuItem fileBoardSaveAsImage | file board save as image
+javax.swing.JMenuItem fileGameConnect | file game connect
+javax.swing.JMenuItem fileGameConnectBot | file game connect bot
+javax.swing.JMenuItem fileGameNew | file game new
+javax.swing.JMenuItem fileGameOpen | file game open
+javax.swing.JMenuItem fileGameSave | file game save
+javax.swing.JMenuItem fileGameScenario | file game scenario
+javax.swing.JMenuItem filePrint | file print
+javax.swing.JMenuItem fileUnitsClear | file units clear
+javax.swing.JMenuItem fileUnitsOpen | file units open
+javax.swing.JMenuItem fileUnitsSave | file units save
+javax.swing.JTextField _fileField | file field
+javax.swing.JTextField filePath | file path
+long file_bytes_read | file bytes read
+long file_bytes_written | file bytes written
+long file_end | file end
+long fileFreePosition | file free position
+long FileHeaderConstant | file header constant
+long file_length | file length
+long fileLength | file length
+long fileOffset | file offset
+long file_offset_in_torrent | file offset in torrent
+long filePriorityChange | file priority change
+long file_read_count | file read count
+long file_size | file size
+long file_start | file start
+long file_write_count | file write count
+org.gudy.azureus2.core3.download.impl.DownloadManagerController.FileInfoFacadeSet fileFacadeSet | file facade set
+org.gudy.azureus2.core3.logging.impl.FileLogging fileLogging | file logging
+org.gudy.azureus2.core3.torrent.impl.TOTorrentFileHasher file_hasher | file hasher
+org.gudy.azureus2.core3.util.AEMonitor file_map_mon | file map mon
+org.gudy.azureus2.core3.util.AEMonitor file_mon | file mon
+org.gudy.azureus2.core3.util.AEMonitor file_piece_mon | file piece mon
+org.gudy.azureus2.core3.util.Average file_read_average | file read average
+org.gudy.azureus2.core3.util.Average file_write_average | file write average
+org.gudy.azureus2.ui.swt.components.BufferedLabel fileName | file name
+org.gudy.azureus2.ui.swt.components.BufferedLabel fileSize | file size
+org.hsqldb.lib.FileAccess fileaccess | file access
+org.hsqldb.lib.FileUtil fileUtil | file util
+org.hsqldb.lib.HashMap fileDatabaseMap | file database map
+org.jajuk.util.JajukFileFilter fileFilter | file filter
+org.mozilla.javascript.tools.debugger.FileHeader fileHeader | file header
+org.mozilla.javascript.tools.debugger.FileWindow fileWindow | file window
+org.pf.file.FileHandler fileHandler | file handler

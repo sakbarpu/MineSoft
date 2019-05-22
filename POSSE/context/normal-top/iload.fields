@@ -1,0 +1,5 @@
+int ILOAD | iload
+int ILOAD_0 | iload  0
+int ILOAD_1 | iload  1
+int ILOAD_2 | iload  2
+int ILOAD_3 | iload  3

@@ -1,0 +1,18 @@
+boolean filesInJar | files in jar
+boolean is_jar | is jar
+edu.rice.cs.drjava.config.BooleanOption DIALOG_JAROPTIONS_STORE_POSITION | dialog jar options store position
+edu.rice.cs.drjava.config.StringOption DIALOG_JAROPTIONS_STATE | dialog jar options state
+edu.rice.cs.util.swing.FileSelectorComponent _jarFileSelector | jar file selector
+int _createJarFlags | create jar flags
+int DATA_FILE_JAR | data file jar
+int JAR_CLASSES | jar classes
+int JAR_SOURCES | jar sources
+java.io.File _createJarFile | create jar file
+java.lang.Class JarSigner_class | jar signer class
+java.lang.String EXTPROCESS_FILE_NAME_INSIDE_JAR | ext process file name inside jar
+java.lang.String _Jar | jar
+java.lang.String UPDATER_JAR | updater jar
+java.util.jar.JarFile[] extensionJars | extension jars
+javax.swing.JCheckBox _jarClasses | jar classes
+javax.swing.JCheckBox _jarSources | jar sources
+javax.swing.JLabel _cantJarClassesLabel | cant jar classes label

@@ -1,0 +1,17 @@
+boolean cached_complete_excluding_dnd | cached complete excluding dnd
+boolean showCompleteIncomplete | show complete incomplete
+com.aelitis.azureus.ui.common.table.TableColumnCore[] tableCompleteItems | table complete items
+edu.rice.cs.drjava.config.BooleanOption DIALOG_COMPLETE_JAVAAPI | dialog complete java api
+edu.rice.cs.drjava.config.BooleanOption DIALOG_COMPLETE_SCAN_CLASS_FILES | dialog complete scan class files
+edu.rice.cs.drjava.config.BooleanOption DIALOG_COMPLETE_WORD_STORE_POSITION | dialog complete word store position
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_COMPLETE_FILE | key complete file
+edu.rice.cs.drjava.config.StringOption DIALOG_COMPLETE_WORD_STATE | dialog complete word state
+int SR_COMPLETE_STARTS_AT | sr complete starts at
+java.lang.Character FL_COMPLETE_RUNNING | fl complete running
+java.lang.String errorCompleteTooltip | error complete tooltip
+java.lang.String errorInCompleteTooltip | error in complete tooltip
+java.lang.String TABLE_MYTORRENTS_COMPLETE_BIG | table mytorrents complete big
+java.util.List platformLoginCompleteListeners | platform login complete listeners
+javax.swing.JLabel percentCompleteLabel1 | percent complete label 1
+javax.swing.JSpinner percentCompleteSlider | percent complete slider
+long STATE_FLAG_COMPLETE_NO_DND | state flag complete no dnd

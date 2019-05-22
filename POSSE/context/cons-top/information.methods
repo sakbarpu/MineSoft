@@ -1,0 +1,30 @@
+CONS AuthorityInformationAccess(QASN1Sequence;) | authority information access
+CONS AuthorityInformationAccess(QDERObjectIdentifier;QGeneralName;) | authority information access
+CONS DatabaseInformationFull(QDatabase;) | database information full
+CONS DatabaseInformationMain(QDatabase;) | database information main
+CONS DatabaseInformation(QDatabase;) | database information
+CONS HistoryInformation() | history information
+CONS HistoryInformation(QDate;QDate;) | history information
+CONS InformationDialog([QString;[QImageIcon;) | information dialog
+CONS InformationDialog(QString;QImageIcon;) | information dialog
+CONS InformationJPanel() | information j panel
+CONS PolicyInformation(QASN1Sequence;) | policy information
+CONS PolicyInformation(QDERObjectIdentifier;) | policy information
+CONS PolicyInformation(QDERObjectIdentifier;QASN1Sequence;) | policy information
+CONS PropertyMetaInformation(QString;ZZZZZQClass;QFormat;QObject;) | property meta information
+CONS ScoreInformationDialog() | score information dialog
+CONS ScoreInformationDialog(QJFrame;Z) | score information dialog
+CONS SmbComQueryInformation(QString;) | smb com query information
+CONS SmbComQueryInformationResponse(J) | smb com query information response
+CONS TargetInformation(QASN1Sequence;) | target information
+CONS TargetInformation([QTarget;) | target information
+CONS TargetInformation(QTargets;) | target information
+CONS TechnicalInformationHandlerJavadoc() | technical information handler javadoc
+CONS TechnicalInformation(QType;) | technical information
+CONS TechnicalInformation(QType;QString;) | technical information
+CONS Trans2QueryFSInformation(I) | trans 2 query fs information
+CONS Trans2QueryFSInformationResponse(I) | trans 2 query fs information response
+CONS Trans2QueryPathInformation(QString;I) | trans 2 query path information
+CONS Trans2QueryPathInformationResponse(I) | trans 2 query path information response
+CONS Trans2SetFileInformation(IIJJ) | trans 2 set file information
+CONS Trans2SetFileInformationResponse() | trans 2 set file information response

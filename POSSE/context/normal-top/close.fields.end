@@ -1,0 +1,26 @@
+boolean autoClose | auto close
+boolean saveEventsOnClose | save events on close
+boolean stopped_for_close | stopped for close
+boolean switched_to_close | switched to close
+byte COMMAND_CLOSE | command close
+int AUTO_CLOSE | auto close
+int DataFileCache_close | data file cache close
+int data_send_speed_at_close | data send speed at close
+int OUTPUTFILE_NONETOCLOSE | outputfile none to close
+int RT_INTERNAL_REPLY_CLOSE | rt internal reply close
+int RT_INTERNAL_REQUEST_CLOSE | rt internal request close
+int TYPE_CLOSE | type close
+it.businesslogic.ireport.gui.JRTextExpressionArea jRTextExpressionClose | j r text expression close
+java.awt.Button butClose | but close
+java.awt.Button m_bPickClose | m b pick close
+java.lang.String MENU_ID_WINDOW_CLOSE | menu id window close
+java.lang.String OP_CLOSE | op close
+java.lang.String OP_CLOSE_PARAM_ON_CLOSE | op close param on close
+java.lang.String STATUS_TEXT_CLOSE | status text close
+java.lang.String T_CLOSE | t close
+java.util.List connections_to_close | connections to close
+javax.swing.JButton butClose | but close
+javax.swing.JButton jButtonClose | j button close
+javax.swing.JButton m_bPickClose | m b pick close
+javax.swing.JMenuItem jMenuItemClose | j menu item close
+long data_send_rate_at_close | data send rate at close

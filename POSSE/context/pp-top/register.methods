@@ -1,0 +1,10 @@
+boolean isAdditionalFileTypeRegistered(QString;QString;) | is additional file type registered
+boolean isApplicationRegistered() | is application registered
+boolean isDriverAllReadyRegistered(QDriver;) | is driver all ready registered
+boolean isRegistered(QNetworkConnectionBase;) | is registered
+boolean isRegistered(QTaskImpl;) | is registered
+void fireOnRegisterUserFailed() | fire on register user failed
+void onRegisterUserFailed() | on register user failed
+void registered(QOpenDefinitionsDocument;QDCacheAdapter;) | registered
+void registerOperationTxnRequired(QString;) | register operation txn required
+void torrentListenerRegistered() | torrent listener registered

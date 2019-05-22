@@ -1,0 +1,10 @@
+TRTrackerAnnouncerResponseImpl completeSupport() | complete support
+void complete_component_configuration(boolean _star_a0) | complete component configuration
+void completeDataCollectionConfig(DatacollectionConfig dataCollectionConfig) | complete data collection config
+void completeDH([B) | complete dh
+void completeElement() | complete element
+void completeFinalBuffer(QByteBuffer;) | complete final buffer
+void _completeOpenFile(QOpenDefinitionsDocument;) | complete open file
+void CompleteRenderer(QColor;) | complete renderer
+void completeTag() | complete tag
+void _completeWordUnderCursor() | complete word under cursor

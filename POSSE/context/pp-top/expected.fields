@@ -1,0 +1,5 @@
+boolean selfUpdateExpected | self update expected
+double expected | expected
+double primary_expected | primary expected
+int SINGLE_COLUMN_EXPECTED | single column expected
+java.io.File _expected | expected

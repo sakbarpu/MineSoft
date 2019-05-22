@@ -1,0 +1,38 @@
+CONS BloomFilterAddOnly(I) | bloom filter add only
+CONS CopyOnWriteArrayList() | copy on write array list
+CONS CopyOnWriteArrayList(QCollection;) | copy on write array list
+CONS CopyOnWriteArrayList([QObject;) | copy on write array list
+CONS CopyOnWriteList() | copy on write list
+CONS CopyOnWriteList(I) | copy on write list
+CONS CopyOnWriteMap() | copy on write map
+CONS DataReadOnlyException() | data read only exception
+CONS DataReadOnlyException(QString;) | data read only exception
+CONS DataReadOnlyException(QString;QThrowable;) | data read only exception
+CONS DataReadOnlyException(QThrowable;) | data read only exception
+CONS DeleteFileOnCloseInputStream(QFile;) | delete file on close input stream
+CONS GP4EffectsOnBeat() | gp 4 effects on beat
+CONS GP4EffectsOnNote() | gp 4 effects on note
+CONS ManyToOne(QTable;) | many to one
+CONS ManyToOneType(QString;) | many to one type
+CONS ManyToOneType(QString;QString;ZZZZ) | many to one type
+CONS ManyToOneType(QString;Z) | many to one type
+CONS OneRAttributeEval() | one r attribute eval
+CONS OneToManyJoinWalker(QQueryableCollection;IQString;QSessionFactoryImplementor;QMap;) | one to many join walker
+CONS OneToManyLoader(QQueryableCollection;IQSessionFactoryImplementor;QMap;) | one to many loader
+CONS OneToManyLoader(QQueryableCollection;IQString;QSessionFactoryImplementor;QMap;) | one to many loader
+CONS OneToManyLoader(QQueryableCollection;QSessionFactoryImplementor;QMap;) | one to many loader
+CONS OneToManyPersister(QCollection;QCollectionRegionAccessStrategy;QConfiguration;QSessionFactoryImplementor;) | one to many persister
+CONS OneToMany(QPersistentClass;) | one to many
+CONS OneToOne(QTable;QPersistentClass;) | one to one
+CONS OneToOneType(QString;QForeignKeyDirection;QString;ZZZQString;QString;) | one to one type
+CONS OnLockVisitor(QEventSource;QSerializable;QObject;) | on lock visitor
+CONS OnlyCDing4Item(QString;) | only c ding 4 item
+CONS OnReplicateVisitor(QEventSource;QSerializable;QObject;Z) | on replicate visitor
+CONS OnTopProblem() | on top problem
+CONS OnUpdateVisitor(QEventSource;QSerializable;QObject;) | on update visitor
+CONS OSXDropOnDockAction(QApplication;) | osx drop on dock action
+CONS ReadOnlyCache() | read only cache
+CONS SongNoteOnMessage(III) | song note on message
+CONS SpecialOneToOneType(QString;QForeignKeyDirection;QString;ZZQString;QString;) | special one to one type
+CONS SubselectOneToManyLoader(QQueryableCollection;QString;QCollection;QQueryParameters;QMap;QSessionFactoryImplementor;QMap;) | subselect one to many loader
+CONS ToOne(QTable;) | to one

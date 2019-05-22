@@ -1,0 +1,137 @@
+boolean activateRequest(I) | activate request
+boolean activateRequest(QInetSocketAddress;) | activate request
+boolean addNATCheckRequest(QString;IQTRTrackerServerNatCheckerListener;) | add nat check request
+boolean addRequest(QPeerReadRequest;) | add request
+boolean handleExternalRequest(QInetSocketAddress;QString;QString;QString;QInputStream;QOutputStream;QAsyncController;) | handle external request
+boolean handleExternalRequest(QInetSocketAddress;QString;QString;QURL;QString;QInputStream;QOutputStream;QAsyncController;) | handle external request
+boolean installRequest(QString;QInstallablePlugin;) | install request
+boolean processRequest(Client session, ESServletRequest req, DynHtml page, Object info) | process request
+boolean validateHintRequest(QPEPeerTransport;III) | validate hint request
+boolean validateReadRequest(QPEPeerTransport;III) | validate read request
+byte[] getBlockRequest() | get block request
+byte[] getKeyBlockRequest() | get key block request
+byte[] getRequest() | get request
+byte[] receiveRequest(QDHTTransportUDPContact;[B) | receive request
+byte[] sendRequest(QDHTTransportContact;[BI) | send request
+ConcurrentHasherRequest addRequest(QByteBuffer;) | add request
+ConcurrentHasherRequest addRequest(QByteBuffer;QConcurrentHasherRequestListener;Z) | add request
+DHTStorageBlock keyBlockRequest(QDHTTransportContact;[B[B) | key block request
+DHTTransportContact[] findNodeRequest(QDHTTransportContact;[B) | find node request
+DHTTransportFindValueReply findValueRequest(QDHTTransportContact;[BIB) | find value request
+DHTTransportFullStats statsRequest(QDHTTransportContact;) | stats request
+DHTTransportStoreReply storeRequest(QDHTTransportContact;[[B[[QDHTTransportValue;) | store request
+DiskAccessRequest queueReadRequest(QCacheFile;JQDirectByteBuffer;SQDiskAccessRequestListener;) | queue read request
+DiskAccessRequest queueWriteRequest(QCacheFile;JQDirectByteBuffer;ZQDiskAccessRequestListener;) | queue write request
+DiskManagerCheckRequest createCheckRequest(IQObject;) | create check request
+DiskManagerReadRequest createDiskManagerRequest(III) | create disk manager request
+DiskManagerReadRequest createReadRequest(III) | create read request
+DiskManagerReadRequest getRequest() | get request
+DiskManagerRequest createRequest() | create request
+DiskManagerRequest getRequest() | get request
+DiskManagerWriteRequest createWriteRequest(IIQDirectByteBuffer;QObject;) | create write request
+Element goodsForSaleRequest(QConnection;QElement;) | goods for sale request
+FetchRequest createFetchRequest(QString;JJ) | create fetch request
+FetchRequest createFetchRequest(QString;JJJ) | create fetch request
+FetchRequest getRequest() | get request
+FileViewerData getDataFromRequest(HttpServletRequest request, ApiFileSystem apiFileSystem) | get data from request
+httpRequest getHTTPRequest() | get http request
+HttpServletRequest getHttpServletRequest() | get http servlet request
+int getPercentDoneOfCurrentIncomingRequest() | get percent done of current incoming request
+int getPercentDoneOfCurrentOutgoingRequest() | get percent done of current outgoing request
+int handleTransferRequest(QDHTTransportUDPContactImpl;J[B[B[BIIZZ) | handle transfer request
+IPToHostNameResolverRequest addResolverRequest(QString;QIPToHostNameResolverListener;) | add resolver request
+Map getBEncodedMapFromRequest(QURL;) | get b encoded map from request
+Map getRequest() | get request
+Map processAZ2Request(QBuddyPluginBuddy;QMap;) | process az 2 request
+Map processInternalRequest(QBuddyPluginBuddy;QMap;) | process internal request
+Map readRequest(QBuddyPluginBuddyMessage;) | read request
+Map receiveRequest(QDHTTransportUDPContact;QMap;) | receive request
+Map receiveRequest(QInetSocketAddress;QMap;) | receive request
+Map sendRequest(I) | send request
+Map sendRequest(IQMap;) | send request
+Map sendRequest(QDHTTransportContact;QMap;I) | send request
+Map sendRequest(QDistributedDatabaseContact;QMap;) | send request
+Map sendRequest(QMap;) | send request
+MessageBodyWebRequest getRequest() | get request
+Message createCoreBTRequest(III) | create core bt request
+PKCS10CertificationRequest readCertificateRequest(QString;) | read certificate request
+PortletRequest getPortletRequest() | get portlet request
+PRUDPPacketRequest deserialiseRequest(QPRUDPPacketHandler;QDataInputStream;) | deserialise request
+Result newExecuteDirectRequest(QString;) | new execute direct request
+Result newFreeStmtRequest(I) | new free stmt request
+Result newReleaseSavepointRequest(QString;) | new release savepoint request
+Result newRollbackToSavepointRequest(QString;) | new rollback to savepoint request
+Result newSetSavepointRequest(QString;) | new set savepoint request
+RPReply processRequest(QRPRequest;) | process request
+RPReply processRequest(QRPRequest;QRPRequestAccessController;) | process request
+SimpleXMLParserDocument performSOAPRequest(QUPnPService;QString;QString;) | perform soap request
+SimpleXMLParserDocument performSOAPRequest(QUPnPService;QString;QString;Z) | perform soap request
+String getRequest() | get request
+TiVoRequest getRequest(QItemURL;) | get request
+TRTrackerServerTorrentImpl processTrackerRequest(QTRTrackerServerImpl;QString;[QMap;[QTRTrackerServerPeerImpl;I[[BQString;QString;QHashWrapper;ZBQString;QString;ZIIIQString;QString;JJJIBBIQDHTNetworkPosition;) | process tracker request
+URLConnection makeRequest(QURL;QString;) | make request
+Variant ExportRequest() | export request
+void addBreakpointRequest(String qName, int line) | add breakpoint request
+void addBTRequest(QBTRequest;QhttpRequest;) | add bt request
+void addInitiativeRerollRequest(QTeam;) | add initiative reroll request
+void addNewRequest(QConnectionRequest;) | add new request
+void addPendingRequest(QDocumentDebugAction<*>;) | add pending request
+void addPieceRequest(III) | add piece request
+void addRequest(QDiskManagerReadRequest;) | add request
+void addRequest(QhttpRequest;) | add request
+void addResolverRequest(QString;QHostNameToIPResolverListener;) | add resolver request
+void cancelRequest(QConnectListener;) | cancel request
+void cancelRequest(QPeerReadRequest;) | cancel request
+void clearCurrentStepRequest() | clear current step request
+void ConnectionRequest(JQInetSocketAddress;QConnectListener;JI) | connection request
+void dataRequest(LmpFrame frame) | data request
+void dataRequest(QDHTTransportUDPContactImpl;QDHTUDPPacketData;) | data request
+void deactivateRequest(QInetSocketAddress;) | deactivate request
+void decodeRequest(QBTRequest;) | decode request
+void deleteRequest(I) | delete request
+void deleteRequest(QBuddyPluginBuddyMessage;) | delete request
+void doRequest(QDiskAccessRequestListener;) | do request
+void enqueueCheckRequest(QDiskManagerCheckRequest;QDiskManagerCheckRequestListener;) | enqueue check request
+void enqueueCheckRequest(QDiskManagerCheckRequest;QDiskManagerCheckRequestListener;Z) | enqueue check request
+void enqueueCompleteRecheckRequest(QDiskManagerCheckRequest;QDiskManagerCheckRequestListener;) | enqueue complete recheck request
+void enqueueReadRequest(QDiskManagerReadRequest;QDiskManagerReadRequestListener;) | enqueue read request
+void enqueueReadRequest(QPEPeer;QDiskManagerReadRequest;QDiskManagerReadRequestListener;) | enqueue read request
+void enqueueWriteRequest(QDiskManagerWriteRequest;QDiskManagerWriteRequestListener;) | enqueue write request
+void getRequest(JDataSet dataset, ParameterList parameters) | get request
+void handleRequest(QHttpServletResponse;QString;) | handle request
+void httpRequest([J[JZZ) | http request
+void keyBlockRequest(QDHTTransportContact;[B[B) | key block request
+void makeRPCRequest(QString;QJSONObject;QPlatformMessengerListener;) | make rpc request
+void pendingRequest(QBTRequest;QhttpRequest;) | pending request
+void performRequest(QString;) | perform request
+void pingRequest(QDHTTransportContact;) | ping request
+void _prepareRequest(QT;) | prepare request
+void printRequest(IQResult;) | print request
+void processRequest(HttpServletRequest request, HttpServletResponse response) | process request
+void processRequest(QString;QString;QString;QInetSocketAddress;ZQInputStream;QOutputStream;QAsyncController;) | process request
+void proxyStateV4aRequest(I) | proxy state v 4 a request
+void proxyStateV4Request() | proxy state v 4 request
+void proxyStateV5Request() | proxy state v 5 request
+void queueRequest(QDiskAccessRequestImpl;) | queue request
+void RealTimePeerRequest(QPEPeerTransport;QDiskManagerReadRequest;) | real time peer request
+void receivedCloseRequest(QMap;) | received close request
+void receiveInitiativeRerollRequest(QPacket;I) | receive initiative reroll request
+void receiveStatsRequest(QByteBuffer;) | receive stats request
+void removePendingRequest(QDocumentDebugAction<*>;) | remove pending request
+void removePieceRequest(III) | remove piece request
+void removeRequest(QDiskManagerReadRequest;) | remove request
+void removeRequest(QPeerNATTraversal;I) | remove request
+void runRequest() | run request
+void sendCloseRequest(Z) | send close request
+void sendKeyBlockRequest(QDHTTransportUDPContactImpl;QDHTTransportReplyHandler;[B[B) | send key block request
+void sendMapSharingRequest(QString;QString;) | send map sharing request
+void sendMapSharingStopRequest() | send map sharing stop request
+void sendReadRequest(JQDHTTransportUDPContactImpl;[B[B) | send read request
+void sendReadRequest(JQDHTTransportUDPContactImpl;[B[BII) | send read request
+void sendRerollInitiativeRequest() | send reroll initiative request
+void sendStatsRequest() | send stats request
+void sendWriteRequest(JQDHTTransportUDPContactImpl;[B[B[BIII) | send write request
+void setRequest(HttpServletRequest request) | set request
+void stopRequest() | stop request
+void testCreateRequest() | test create request
+void writeRequest(QBuddyPluginBuddyMessage;QMap;) | write request

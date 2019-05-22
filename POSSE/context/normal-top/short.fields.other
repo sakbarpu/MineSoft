@@ -1,0 +1,13 @@
+com.aelitis.azureus.core.util.average.Average upload_short_average | upload short average
+com.aelitis.azureus.core.util.average.Average upload_short_prot_average | upload short prot average
+int Icode_SHORTNUMBER | icode short number
+int T_TARGSYS_SHORTRANGE | t targsys short range
+int waterShortRange | water short range
+java.lang.String[] COCKPIT_SHORT_STRING | cockpit short string
+java.lang.String[] GYRO_SHORT_STRING | gyro short string
+java.lang.String myShortText | my short text
+java.text.SimpleDateFormat myShortFormat | my short format
+javax.swing.JLabel wShortL | w short l
+javax.swing.JLabel wShortR | w short r
+megamek.client.ui.AWT.widget.TransparentLabel wShortL | w short l
+megamek.client.ui.AWT.widget.TransparentLabel wShortR | w short r

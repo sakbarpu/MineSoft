@@ -1,0 +1,11 @@
+boolean isShowTickLabels() | is show tick labels
+boolean isShowTickMarks() | is show tick marks
+float calculateDownTickMultiple(I) | calculate down tick multiple
+float calculateUpTickMultiple(I) | calculate up tick multiple
+long getSendTickCount() | get send tick count
+long rightTickForMove() | right tick for move
+String getFormattedTickText(QNumberFormat;F) | get formatted tick text
+void selectVerticalAutoTickUnit(Graphics2D g2, Rectangle2D dataArea, RectangleEdge edge) | select vertical auto tick unit
+void setDomainTickFormat(NumberFormat domainTickFormat) | set domain tick format
+void setShowTickLabels(Z) | set show tick labels
+void setShowTickMarks(Z) | set show tick marks

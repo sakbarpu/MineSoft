@@ -81,7 +81,12 @@ from nltk.tag.stanford import StanfordPOSTagger as stanfpos
 from itertools import groupby, count
 from itertools import islice
 
-nltk.internals.config_java("/usr/lib/jvm/java-1.8.0-openjdk-amd64/bin/java")
+#nltk.internals.config_java("/usr/lib/jvm/java-1.8.0-openjdk-amd64/bin/java")# works for laptop
+#nltk.internals.config_java("/usr/lib/jvm/java-1.7.0-openjdk-amd64/bin/java")
+#nltk.internals.config_java("/usr/lib/jvm/java-7-openjdk-amd64/bin/java")
+#os.environ['JAVAHOME'] = "/usr/lib/jvm/java-1.7.0-openjdk-amd64/bin/java"
+#os.environ['JAVAHOME'] = "/usr/lib/jvm/java-7-openjdk-amd64/bin/java"
+os.environ['JAVAHOME'] = "/usr/lib/jvm/java-1.8.0-openjdk-amd64/bin/java"
 
 class VerbNet:
 

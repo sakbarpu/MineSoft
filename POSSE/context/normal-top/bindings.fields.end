@@ -1,0 +1,3 @@
+java.util.Hashtable currentBindings | current bindings
+java.util.Map rendezvous_bindings | rendezvous bindings
+java.util.Vector allBindings | all bindings

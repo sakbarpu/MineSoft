@@ -1,0 +1,71 @@
+AST createBinarySubtree(QASTFactory;IQString;QAST;QAST;) | create binary subtree
+Binary readBinary(I) | read binary
+boolean getBinaryAttributesNominal() | get binary attributes nominal
+boolean getBinarySplits() | get binary splits
+boolean getBinaryWord() | get binary word
+boolean getConvertNominalToBinary() | get convert nominal to binary
+boolean getMakeBinary() | get make binary
+boolean getNominalToBinaryFilter() | get nominal to binary filter
+boolean useStreamsForBinary() | use streams for binary
+byte getBinary() | get binary
+byte[] getBinary(I) | get binary
+byte[] loadBinary(QFile;) | load binary
+InputStream getBinaryStream() | get binary stream
+InputStream getBinaryStream(I) | get binary stream
+InputStream getBinaryStream(QString;) | get binary stream
+InputStream getBinaryStream(String columnName) | get binary stream
+Instances nominalToBinary(QInstances;) | nominal to binary
+int binaryEmptySlotSearch() | binary empty slot search
+int binaryFirstSearch() | binary first search
+int binaryGreaterSearch() | binary greater search
+int binarySearchFirst(int fromIndex, int toIndex, int e) | binary search first
+int binarySearch(I) | binary search
+int binarySearch([I[DD) | binary search
+int binarySearch([II) | binary search
+int binarySearch([III) | binary search
+int binarySearch([IIII) | binary search
+int binarySearch([QObject;QObject;) | binary search
+int binarySearch([QObject;QObject;I) | binary search
+int binarySearch([QObject;QObject;II) | binary search
+int binarySearch([QObject;QObject;QComparator;) | binary search
+int binarySearch([QObject;QObject;QComparator;I) | binary search
+int binarySearch([QObject;QObject;QComparator;II) | binary search
+int binarySlotSearch() | binary slot search
+int getMaxBinaryLiteralLength() | get max binary literal length
+java.io.InputStream getBinaryStream(I) | get binary stream
+java.io.InputStream getBinaryStream(QString;) | get binary stream
+Node createBinary(IQNode;QNode;) | create binary
+Object readBinary(QString;) | read binary
+OutputStream setBinaryStream(J) | set binary stream
+Query setBinary(I[B) | set binary
+Query setBinary(QString;[B) | set binary
+String binaryAttributesNominalTipText() | binary attributes nominal tip text
+String binarySplitsTipText() | binary splits tip text
+String binaryWordTipText() | binary word tip text
+String convertNominalToBinaryTipText() | convert nominal to binary tip text
+String dumpWithBinary([BJQString;) | dump with binary
+String makeBinaryTipText() | make binary tip text
+String nominalToBinaryFilterTipText() | nominal to binary filter tip text
+void binary() | binary
+void BinaryEntityMap() | binary entity map
+void BinaryEntityMap(I) | binary entity map
+void binaryToKOML(QString;QString;) | binary to koml
+void komlToBinary(QString;QString;) | koml to binary
+void loadBinary(QString;) | load binary
+void saveBinary(QFile;QObject;QInstances;) | save binary
+void setBinaryAttributesNominal(Z) | set binary attributes nominal
+void setBinarySplits(Z) | set binary splits
+void setBinaryStream(IQjava.io.InputStream;I) | set binary stream
+void setBinaryStream(QString;Qjava.io.InputStream;I) | set binary stream
+void setBinaryWord(Z) | set binary word
+void setConvertNominalToBinary(Z) | set convert nominal to binary
+void setMakeBinary(Z) | set make binary
+void setNominalToBinaryFilter(Z) | set nominal to binary filter
+void testBinaryWidgets() | test binary widgets
+void updateBinaryStream(IQInputStream;I) | update binary stream
+void updateBinaryStream(IQjava.io.InputStream;I) | update binary stream
+void updateBinaryStream(QString;QInputStream;I) | update binary stream
+void updateBinaryStream(QString;Qjava.io.InputStream;I) | update binary stream
+void updateBinaryStream(String columnName, InputStream x, int length) | update binary stream
+void writeBinary(QBinary;I) | write binary
+void writeBinary(QString;QObject;) | write binary

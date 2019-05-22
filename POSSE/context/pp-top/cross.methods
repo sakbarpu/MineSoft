@@ -1,0 +1,3 @@
+int getCrossesRequired() | get crosses required
+void setCrossesRequired(I) | set crosses required
+void updateCrossesRequired() | update crosses required

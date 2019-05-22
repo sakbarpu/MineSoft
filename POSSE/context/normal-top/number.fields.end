@@ -1,0 +1,47 @@
+boolean isResetPageNumber | is reset page number
+boolean resetPageNumber | reset page number
+char unitNumber | unit number
+int blockNumber | block number
+int columnNumber | column number
+int CONTACT_NUMBER | contact number
+int DEFAULT_ROLES_NUMBER | default roles number
+int DEFAULT_TRANSITION_TRACK_NUMBER | default transition track number
+int first_piece_number | first piece number
+int Icode_INTNUMBER | icode int number
+int Icode_SHORTNUMBER | icode short number
+int itsLineNumber | its line number
+int JSTYPE_NUMBER | jstype number
+int lastPageNumber | last page number
+int last_piece_number | last piece number
+int line_number | line number
+int _lineNumber | line number
+int lineNumber | line number
+int MIN_TRACKS_NUMBER | min tracks number
+int myStateNumber | my state number
+int newHomeNumber | new home number
+int _pageNumber | page number
+int piece_number | piece number
+int pieceNumber | piece number
+int serialNumber | serial number
+int sessionNumber | session number
+int _socketNumber | socket number
+int start_piece_number | start piece number
+int sysNumber | sys number
+int _tagNumber | tag number
+int undoNumber | undo number
+int unnamedMapsNumber | unnamed maps number
+java.lang.Integer lineNumber | line number
+java.lang.String eBayItemNumber | e bay item number
+java.lang.String FORMAT_NUMBER | format number
+java.lang.String model_number | model number
+java.lang.String XML_DJ_NUMBER | xml dj number
+java.lang.String XML_TRACK_NUMBER | xml track number
+java.util.Map myActivity2ordinalNumber | my activity 2 ordinal number
+javax.swing.JCheckBox jCheckBoxResetPageNumber | j check box reset page number
+javax.swing.JPanel jPanelNumber | j panel number
+long iterationNumber | iteration number
+org.bouncycastle.asn1.DERInteger certSerialNumber | cert serial number
+org.bouncycastle.asn1.DERInteger serialNumber | serial number
+org.bouncycastle.asn1.DERObjectIdentifier CRLNumber | crl number
+org.bouncycastle.asn1.pkcs.IssuerAndSerialNumber issuerAndSerialNumber | issuer and serial number
+org.gudy.azureus2.ui.swt.components.BufferedLabel pieceNumber | piece number

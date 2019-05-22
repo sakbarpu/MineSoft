@@ -1,0 +1,12 @@
+Class getArgClass(I) | get arg class
+double[] findArgmin([D[[D) | find arg min
+Expression getArg2() | get arg 2
+HsqlProperties delimitedArgPairsToProps(QString;QString;QString;QString;) | delimited arg pairs to props
+int getArgCount() | get arg count
+int getArgNullability(I) | get arg nullability
+int getArgType(I) | get arg type
+String getArgDescription() | get arg description
+String getArgValue() | get arg value
+void generateCallArgArray(QNode;QNode;Z) | generate call arg array
+void setTitleArg1(String titleArg1) | set title arg 1
+void testMessageTag1ArgNamePropertyNoScopeAlternateBundle() | test message tag 1 arg name property no scope alternate bundle

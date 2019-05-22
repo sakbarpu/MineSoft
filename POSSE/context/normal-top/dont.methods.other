@@ -1,0 +1,13 @@
+boolean getDontNormalize() | get dont normalize
+boolean getDontReplaceMissingValues() | get dont replace missing values
+boolean isDontHandleEvent() | is dont handle event
+boolean isSetDontBalanceTextColumns() | is set dont balance text columns
+int getDontFlushFromFind() | get dont flush from find
+List getDontPlaceFour() | get dont place four
+void moveButDontAttack(QConnection;QDirection;) | move but dont attack
+void setContentDontGuessTypes(QString;) | set content dont guess types
+void setDontHandleEvent(Z) | set dont handle event
+void setDontNormalize(Z) | set dont normalize
+void setDontReplaceMissingValues(Z) | set dont replace missing values
+void setDontRetry() | set dont retry
+void testCommentedPrefixDontSearchComment() | test commented prefix dont search comment

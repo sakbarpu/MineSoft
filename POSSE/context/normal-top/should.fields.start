@@ -1,0 +1,3 @@
+boolean _shouldBeTestAll | should be test all
+boolean _shouldCheckConflict | should check conflict
+int shouldRevertFileCount | should revert file count

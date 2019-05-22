@@ -1,0 +1,9 @@
+com.sun.msv.verifier.DocumentDeclaration createRawValidator() | create raw validator
+DocumentDeclaration createRawValidator() | create raw validator
+IXMLValidator getValidator() | get validator
+SchemaValidator getSchemaValidator(QConfiguration;) | get schema validator
+TypeValidator getValidator() | get validator
+Validator createValidator() | create validator
+void addValidator(String arg0, String arg1) | add validator
+void setInputValidator(QUIInputValidator;) | set input validator
+void setValidator(QIXMLValidator;) | set validator

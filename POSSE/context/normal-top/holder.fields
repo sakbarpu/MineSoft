@@ -1,0 +1,6 @@
+freemind.controller.StructuredMenuHolder menuHolder | menu holder
+freemind.main.Tools.BooleanHolder booleanHolderForConfirmState | boolean holder for confirm state
+java.util.Vector menuItemHolder | menu item holder
+javax.swing.JPanel _splitPaneHolder | split pane holder
+org.bouncycastle.asn1.x509.Holder holder | holder
+org.gudy.azureus2.core3.torrent.TOTorrent[] torrent_holder | torrent holder

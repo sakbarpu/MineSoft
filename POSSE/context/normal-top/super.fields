@@ -1,0 +1,23 @@
+boolean superSeedMode | super seed mode
+edu.rice.cs.drjava.ui.predictive.PredictiveInputFrame.InfoSupplier<? super T>	_info | super t>	 info
+edu.rice.cs.util.docnavigation.INavigatorItemFilter<? super ItemT>	_filter | super item t>	 filter
+edu.rice.cs.util.swing.DisplayManager<? super ItemT>	_displayManager | super item t>	 display manager
+int FIELD_SUPERSEEDS | field superseeds
+int nbSuperSeeds | nb super seeds
+int PR_SUPER_SEED_COUNT | pr super seed count
+int S_SUPERCHARGER | s supercharger
+int superSeedModeCurrentPiece | super seed mode current piece
+int superSeedModeNumberOfAnnounces | super seed mode number of announces
+int SYSTEM_SUPERTABLES | system supertables
+int SYSTEM_SUPERTYPES | system supertypes
+java.lang.Class superClass | super class
+java.lang.String ManagerItem_superseeding | manager item super seeding
+java.lang.String SUPER_CLASS_NAME | super class name
+java.util.ArrayList<edu.rice.cs.util.docnavigation.INavigationListener<? super ItemT>>	navListeners | super item t>>	nav listeners
+java.util.ArrayList supers | supers
+javax.swing.JPanel jPanelSuperContainer | j panel super container
+net.sourceforge.ganttproject.chart.StyledPainterImpl.RectanglePainter mySupertaskEndPainter | my super task end painter
+net.sourceforge.ganttproject.chart.StyledPainterImpl.RectanglePainter mySupertaskStartPainter | my super task start painter
+net.sourceforge.ganttproject.chart.StyledPainterImpl.RectanglePainter myTaskSupertaskRectanglePainter | my task super task rectangle painter
+org.gudy.azureus2.core3.peer.impl.control.SuperSeedPiece[] superSeedPieces | super seed pieces
+short itsSuperClassIndex | its super class index

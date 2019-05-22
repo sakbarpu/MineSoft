@@ -1,0 +1,5 @@
+PersistentClass getSuperclass() | get superclass
+PersistentClass getSuperclass(QMappings;QElement;) | get superclass
+String getMappedSuperclass() | get mapped superclass
+String getSuperclass() | get superclass
+void setSuperclass(QPersistentClass;) | set superclass

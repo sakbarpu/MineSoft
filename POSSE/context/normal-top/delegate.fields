@@ -1,0 +1,48 @@
+boolean delegate_is_https | delegate is https
+com.aelitis.azureus.core.clientmessageservice.ClientMessageService delegate | delegate
+com.aelitis.azureus.core.dht.DHTOperationListener delegate | delegate
+com.aelitis.azureus.core.dht.DHTStorageAdapter delegate | delegate
+com.aelitis.azureus.core.dht.transport.DHTTransportContact delegate | delegate
+com.aelitis.azureus.core.dht.transport.DHTTransportRequestHandler delegate | delegate
+com.aelitis.azureus.core.dht.transport.DHTTransportValue delegate | delegate
+com.aelitis.azureus.core.diskmanager.file.impl.FMFileAccess delegate | delegate
+com.aelitis.net.udp.uc.impl.PRUDPPacketHandlerImpl altProtocolDelegate | alt protocol delegate
+int delegate_to_port | delegate to port
+java.lang.Object __delegate |  delegate
+java.lang.Object delegateTo | delegate to
+java.lang.String delegate_to_host | delegate to host
+java.lang.String[] KEYS_TO_DELEGATE | keys to delegate
+java.net.URL delegate_to | delegate to
+java.util.Map torrent_delegates | torrent delegates
+javax.swing.Action _delegatee | delegatee
+net.n3.nanoxml.IXMLValidator delegate | delegate
+net.sourceforge.ganttproject.gui.UIFacade myFallbackDelegate | my fallback delegate
+org.gudy.azureus2.core3.disk.DiskManagerFileInfo delegate | delegate
+org.gudy.azureus2.core3.disk.DiskManagerFileInfoSet delegate | delegate
+org.gudy.azureus2.core3.peer.PEPeer delegate | delegate
+org.gudy.azureus2.core3.torrent.TOTorrentAnnounceURLSet delegateSet | delegate set
+org.gudy.azureus2.core3.torrent.TOTorrent delegate | delegate
+org.gudy.azureus2.core3.util.TorrentUtils.ExtendedTorrent delegate | delegate
+org.gudy.azureus2.plugins.disk.DiskManagerFileInfo delegate | delegate
+org.gudy.azureus2.plugins.download.DownloadAnnounceResult delegate | delegate
+org.gudy.azureus2.plugins.download.Download delegate | delegate
+org.gudy.azureus2.plugins.download.DownloadManager delegate | delegate
+org.gudy.azureus2.plugins.download.DownloadScrapeResult delegate | delegate
+org.gudy.azureus2.plugins.download.DownloadStats delegate | delegate
+org.gudy.azureus2.pluginsimpl.local.messaging.GenericMessageConnectionAdapter delegate | delegate
+org.gudy.azureus2.pluginsimpl.local.utils.resourcedownloader.ResourceDownloaderBaseImpl current_delegate | current delegate
+org.gudy.azureus2.pluginsimpl.local.utils.resourcedownloader.ResourceDownloaderBaseImpl delegate | delegate
+org.gudy.azureus2.plugins.ipfilter.IPFilter delegate | delegate
+org.gudy.azureus2.plugins.ipfilter.IPRange delegate | delegate
+org.gudy.azureus2.plugins.PluginConfig delegate | delegate
+org.gudy.azureus2.plugins.PluginInterface delegate | delegate
+org.gudy.azureus2.plugins.torrent.Torrent delegate | delegate
+org.gudy.azureus2.plugins.torrent.TorrentDownloader delegate | delegate
+org.gudy.azureus2.plugins.torrent.TorrentManager delegate | delegate
+org.gudy.azureus2.plugins.tracker.Tracker delegate | delegate
+org.gudy.azureus2.plugins.tracker.TrackerTorrent delegate | delegate
+org.gudy.azureus2.plugins.utils.resourcedownloader.ResourceDownloader[] delegates | delegates
+org.gudy.azureus2.plugins.utils.ShortCuts delegate | delegate
+org.gudy.azureus2.ui.swt.config.generic.GenericBooleanParameter delegate | delegate
+org.gudy.azureus2.ui.swt.config.generic.GenericIntParameter delegate | delegate
+org.gudy.azureus2.ui.swt.pluginsimpl.UISWTInstanceImpl delegate | delegate

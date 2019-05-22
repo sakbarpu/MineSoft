@@ -1,0 +1,5 @@
+boolean indirectCRL | indirect crl
+int indirect_data_size | indirect data size
+int TT_INDIRECT | tt indirect
+int VD_INDIRECT_SIZE | vd indirect size
+java.util.Map indirect_originator_value_map | indirect originator value map

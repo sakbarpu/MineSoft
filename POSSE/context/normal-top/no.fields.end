@@ -1,0 +1,17 @@
+boolean ROUND_NO | round no
+boolean TRUNCZEROS_NO | trunc zeros no
+byte LAN_LOCAL_NO | lan local no
+int ANSWER_NO | answer no
+int BUDDY_NO | buddy no
+int DRAGGED_OVER_NO | dragged over no
+int INPUT_YES_NO | input yes no
+int MT_NO | mt no
+int RESTART_REQUIRED_NO | restart required no
+int _tagNo | tag no
+int tagNo | tag no
+java.awt.Button butNo | but no
+java.lang.String MODIFIED_NO | modified no
+java.lang.String T_NO | t no
+javax.swing.JButton butNo | but no
+long cycleNo | cycle no
+long lSequenceNo | l sequence no

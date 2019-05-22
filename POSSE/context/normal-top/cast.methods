@@ -1,0 +1,6 @@
+Casts getCasts() | get casts
+double applyMinMaxRescaleCast(D) | apply min max rescale cast
+Expression readCastExpression() | read cast expression
+String getBroadCastAddress() | get broad cast address
+String getCastTypeName(I) | get cast type name
+void setBCast() | set b cast

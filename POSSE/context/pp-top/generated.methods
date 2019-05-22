@@ -1,0 +1,8 @@
+boolean isGenerated(QDialect;) | is generated
+boolean isGetGeneratedKeysEnabled() | is get generated keys enabled
+boolean isInsertGenerated() | is insert generated
+boolean isUpdateGenerated() | is update generated
+boolean isVersionPropertyGenerated() | is version property generated
+String getGetGeneratedKeysEnabled() | get get generated keys enabled
+void setGetGeneratedKeysEnabled(QString;) | set get generated keys enabled
+void setGetGeneratedKeysEnabled(Z) | set get generated keys enabled

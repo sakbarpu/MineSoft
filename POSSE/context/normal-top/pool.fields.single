@@ -1,0 +1,3 @@
+megamek.common.MMShuffle[] pool | pool
+org.gudy.azureus2.core3.util.DirectByteBufferPool pool | pool
+org.gudy.azureus2.core3.util.DirectByteBufferPoolReal pool | pool

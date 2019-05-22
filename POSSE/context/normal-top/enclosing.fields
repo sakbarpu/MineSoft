@@ -1,0 +1,13 @@
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> EXTERNAL_SAVED_ENCLOSING_DJAPP_FILES | external saved enclosing dj app files
+int _distToEnclosingBrace | dist to enclosing brace
+int _distToEnclosingBraceStart | dist to enclosing brace start
+int _distToLineEnclosingBrace | dist to line enclosing brace
+int _distToLineEnclosingBraceStart | dist to line enclosing brace start
+java.lang.String _enclosingBraceType | enclosing brace type
+java.lang.String _lineEnclosingBraceType | line enclosing brace type
+java.util.HashMap<edu.rice.cs.drjava.model.OpenDefinitionsDocument,java.lang.String> _enclosingClassNames | enclosing class names
+javax.swing.event.DocumentListener _enclosingFileDocumentListener | enclosing file document listener
+javax.swing.JButton _commandEnclosingFileBtn | command enclosing file btn
+javax.swing.JTextPane _commandEnclosingFileLine | command enclosing file line
+javax.swing.JTextPane _commandEnclosingFileLinePreview | command enclosing file line preview
+javax.swing.text.StyledDocument _commandEnclosingFileLineDoc | command enclosing file line doc

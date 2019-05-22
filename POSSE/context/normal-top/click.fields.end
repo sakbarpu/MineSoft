@@ -1,0 +1,5 @@
+int BOARD_HEX_CLICK | board hex click
+java.awt.event.MouseEvent _lastMouseClick | last mouse click
+java.lang.String CONF_OPTIONS_DEFAULT_ACTION_CLICK | conf options default action click
+java.lang.String MOUSE_DOUBLE_CLICK | mouse double click
+javax.swing.JCheckBox jcbDefaultActionClick | jcb default action click

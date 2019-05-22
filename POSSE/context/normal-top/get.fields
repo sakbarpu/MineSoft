@@ -1,0 +1,101 @@
+boolean bFirstGetCompositeCall | b first get composite call
+boolean GET_PI_METHODS_OPERATIONAL_FLAG_DEFAULT | get pi methods operational flag default
+byte[] BYTES_GET | bytes get
+byte OP_GET | op get
+byte OP_GETBUFFER | op get buffer
+byte OP_GET_BYTEARRAY | op get bytearray
+byte OP_GET_INT | op get int
+byte OP_GETINT | op get int
+byte OP_GETINT_INT | op get int int
+byte OP_GETSHORT | op get short
+edu.rice.cs.drjava.model.TestDocGetter getter | getter
+edu.rice.cs.drjava.ui.config.KeyStrokeOptionComponent.GetKeyDialog _getKeyDialog | get key dialog
+freemind.extensions.HookInstanciationMethod.DestinationNodesGetter getter | getter
+int AT_EXTERNAL_GET | at external get
+int AT_INTERNAL_GET | at internal get
+int DatabaseManager_getDatabase | database manager get database
+int DIV_FRAG_GET_SIZE | div frag get size
+int FEATURE_NON_ECMA_GET_YEAR | feature non ecma get year
+int GET | get
+int getAutoCommit | get auto commit
+int getDatabaseFullProductVersion | get database full product version
+int getDatabaseMajorVersion | get database major version
+int getDatabaseMinorVersion | get database minor version
+int getDatabaseProductName | get database product name
+int getDatabaseProductVersion | get database product version
+int GETELEM | get elem
+int GETFIELD | getfield
+int GETPROP | get prop
+int GET_REF | get ref
+int GETSESSIONATTR | get session attr
+int GETSTATIC | getstatic
+int GETVAR | get var
+int Icode_GETVAR1 | icode get var 1
+int Id_getClass | id get class
+int Id_getDate | id get date
+int Id_getDay | id get day
+int Id_getFullYear | id get full year
+int Id_getHours | id get hours
+int Id_getMilliseconds | id get milliseconds
+int Id_getMinutes | id get minutes
+int Id_getMonth | id get month
+int Id_getSeconds | id get seconds
+int Id_getTime | id get time
+int Id_getTimezoneOffset | id get timezone offset
+int Id_getUTCDate | id get utc date
+int Id_getUTCDay | id get utc day
+int Id_getUTCFullYear | id get utc full year
+int Id_getUTCHours | id get utc hours
+int Id_getUTCMilliseconds | id get utc milliseconds
+int Id_getUTCMinutes | id get utc minutes
+int Id_getUTCMonth | id get utc month
+int Id_getUTCSeconds | id get utc seconds
+int Id_getYear | id get year
+int QuotedTextDatabaseRowInput_getField | quoted text database row input get field
+int QuotedTextDatabaseRowInput_getField2 | quoted text database row input get field 2
+int RD_GET_DETAILS_RETRIES | rd get details retries
+int RD_GET_MIRRORS_RETRIES | rd get mirrors retries
+int REQUEST_TYPE_GET | request type get
+int STEP_GET_UP | step get up
+int TextDatabaseRowInput_getField | text database row input get field
+int TextDatabaseRowInput_getField2 | text database row input get field 2
+int TextDatabaseRowInput_getField3 | text database row input get field 3
+java.awt.Checkbox getFocus | get focus
+java.awt.MenuItem moveGetUp | move get up
+java.lang.reflect.Method getFileCreator | get file creator
+java.lang.reflect.Method getFileType | get file type
+java.lang.reflect.Method getter | getter
+java.lang.reflect.Method newGetBundleMethod | new get bundle method
+java.lang.String getColumnName | get column name
+java.lang.String getCookiesCode | get cookies code
+java.lang.String GET_SERVER_TIME | get server time
+java.lang.String getterName | getter name
+java.lang.String GET_VARIABLE_SIG | get variable sig
+java.lang.String MOVE_GET_UP | move get up
+java.lang.String OP_GET | op get
+java.lang.String OP_GETADVERT | op geta dve rt
+java.lang.String OP_GET_ALL_ENGINES | op get all engines
+java.lang.String OP_GET_AUTO_MODE | op get auto mode
+java.lang.String OP_GET_ENGINES | op get engines
+java.lang.String OP_GETINVITES | op geti nvi tes
+java.lang.String OP_GET_LOGIN_COOKIES | op get login cookies
+java.lang.String OP_GET_MAGNET_PORT | op get magnet port
+java.lang.String OP_GETMETADATA | op get metadata
+java.lang.String OP_GETPASSWORD | op get password
+java.lang.String OP_GET_POP_BY_SID | op get pop by sid
+java.lang.String OP_GET_SUBS_BY_SID | op get subs by sid
+java.lang.String OP_GET_TEMPLATE | op get template
+java.lang.String OP_GET_TEMPLATES | op get templates
+java.lang.String OP_GET_VERSION | op get version
+java.lang.String ST_NET_HTTP_IN_REQUEST_GETRIGHT_COUNT | st net http in request get right count
+java.lang.String T_GET | t get
+java.util.regex.Pattern getTimeComponent | get time component
+javax.swing.JButton jButtonGetKeys | j button get keys
+javax.swing.JCheckBox getFocus | get focus
+javax.swing.JMenuItem jmiGetCovers | jmi get covers
+javax.swing.JMenuItem moveGetUp | move get up
+long PROCESSING_GET_LIMIT | processing get limit
+long total_getright_requests | total get right requests
+org.gudy.azureus2.platform.PlatformManagerCapabilities GetUserDataDirectory | get user data directory
+org.gudy.azureus2.platform.PlatformManagerCapabilities GetVersion | get version
+org.mozilla.javascript.MemberBox getter | getter

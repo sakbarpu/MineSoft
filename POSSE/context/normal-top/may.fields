@@ -1,0 +1,4 @@
+byte LAN_LOCAL_MAYBE | lan local maybe
+int BUDDY_MAYBE | buddy maybe
+int RESTART_REQUIRED_MAYBE | restart required maybe
+java.util.Map direct_originator_map_may_be_null | direct originator map may be null

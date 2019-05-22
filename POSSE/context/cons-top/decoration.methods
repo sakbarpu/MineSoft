@@ -1,0 +1,2 @@
+CONS AbstractLineDecoration(ZZZ) | abstract line decoration
+CONS LineDecorationIcon(QLineDecoration;Z) | line decoration icon

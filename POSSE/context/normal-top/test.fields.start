@@ -1,0 +1,52 @@
+boolean TEST_ERRORACK | test error ack
+boolean TEST_EXTERNAL_IP | test external ip
+boolean test_initiator | test initiator
+boolean _testInProgress | test in progress
+boolean TEST_MODE | test mode
+boolean test_network_alive | test network alive
+boolean test_running | test running
+boolean TEST_SAFE_MODE | test safe mode
+boolean TEST_SWT_PAINTING | test swt painting
+boolean TEST_TUNNEL | test tunnel
+boolean testVariable | test variable
+byte[] TEST_HEADER | test header
+edu.rice.cs.drjava.model.junit.JUnitTestRunner _testRunner | test runner
+edu.rice.cs.drjava.model.repl.newjvm.InterpretResult.Visitor<java.lang.Void> _testHandler | test handler
+edu.rice.cs.util.newjvm.IntegratedMasterSlaveTest.TestMasterJVM _testMaster | test master
+int TEST_BT_CONNECT | test bt connect
+int test_count | test count
+int _testCount | test count
+int TEST_INBOUND | test inbound
+int TEST_INDENT_LEVEL | test indent level
+int testMode | test mode
+int TEST_NAT_PROXIES | test nat proxies
+int TEST_OUTBOUND | test outbound
+int TEST_PING_ROUTE | test ping route
+int TEST_ROUNDS | test rounds
+int TEST_SPEED_FACTOR | test speed factor
+int TEST_TYPE_BT | test type bt
+int TEST_TYPE_DOWNLOAD_ONLY | test type download only
+int test_types | test types
+int[] TEST_TYPES | test types
+int TEST_TYPE_UPLOAD_ONLY | test type upload only
+java.lang.String TEST_BANNER | test banner
+java.lang.String[] testDataSql | test data sql
+java.lang.String TEST_DEBUGGER_CLASS | test debugger class
+java.lang.String[] testHelp | test help
+java.lang.String TEST_ONE | test one
+java.lang.String TEST_OUT_OF_SYNC | test out of sync
+java.lang.String TESTSTRING | test string
+java.lang.String TEST_TABLE_NAME | test table name
+java.lang.String TEST_TWO | test two
+java.sql.Timestamp testTS | test ts
+java.util.List<java.io.File> _testFiles | test files
+java.util.List<java.lang.String> _testClassNames | test class names
+javax.swing.JLabel _testLabel | test label
+javax.swing.text.SimpleAttributeSet TEST_FAIL_ATTRIBUTES | test fail attributes
+javax.swing.text.SimpleAttributeSet TEST_PASS_ATTRIBUTES | test pass attributes
+long TEST_RESULT | test result
+org.gudy.azureus2.core3.torrent.TOTorrent test_torrent | test torrent
+org.gudy.azureus2.platform.PlatformManagerCapabilities TestNativeAvailability | test native availability
+org.gudy.azureus2.plugins.download.Download testDownload | test download
+org.gudy.azureus2.plugins.ui.config.ActionParameter test_button | test button
+org.gudy.azureus2.plugins.ui.config.StringParameter test_address | test address

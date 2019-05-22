@@ -1,0 +1,12 @@
+com.aelitis.azureus.core.util.bloom.BloomFilter kb_verify_fail_bloom | kb verify fail bloom
+int bundle_fail_count | bundle fail count
+int listenFailCounts | listen fail counts
+int METADATA_FETCH_FAILFOR | metadata fetch fail for
+int rendevzous_fail_count | rendevzous fail count
+int RENDEZVOUS_PING_FAIL_LIMIT | rendezvous ping fail limit
+java.lang.Object MS_UPDATE_CONSEC_FAIL_KEY | ms update consec fail key
+java.lang.String MONKEYTEST_FAIL_TEXT | monkeytest fail text
+javax.swing.text.SimpleAttributeSet TEST_FAIL_ATTRIBUTES | test fail attributes
+long first_fail_or_last_alive_time | first fail or last alive time
+long hash_fail_bytes | hash fail bytes
+long kb_verify_fail_bloom_create_time | kb verify fail bloom create time

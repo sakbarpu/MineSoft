@@ -1,0 +1,33 @@
+edu.rice.cs.drjava.config.BooleanOption ALWAYS_SAVE_BEFORE_JAVADOC | always save before javadoc
+edu.rice.cs.drjava.config.BooleanOption DIALOG_OPENJAVADOC_STORE_POSITION | dialog open javadoc store position
+edu.rice.cs.drjava.config.BooleanOption JAVADOC_FROM_ROOTS | javadoc from roots
+edu.rice.cs.drjava.config.BooleanOption JAVADOC_PROMPT_FOR_DESTINATION | javadoc prompt for destination
+edu.rice.cs.drjava.config.FileOption JAVADOC_DESTINATION | javadoc destination
+edu.rice.cs.drjava.config.ForcedChoiceOption JAVADOC_ACCESS_LEVEL | javadoc access level
+edu.rice.cs.drjava.config.ForcedChoiceOption JAVADOC_API_REF_VERSION | javadoc api ref version
+edu.rice.cs.drjava.config.ForcedChoiceOption JAVADOC_LINK_VERSION | javadoc link version
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_JAVADOC_ALL | key javadoc all
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_JAVADOC_CURRENT | key javadoc current
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_OPEN_JAVADOC | key open javadoc
+edu.rice.cs.drjava.config.KeyStrokeOption KEY_OPEN_JAVADOC_UNDER_CURSOR | key open javadoc under cursor
+edu.rice.cs.drjava.config.StringOption DIALOG_OPENJAVADOC_STATE | dialog open javadoc state
+edu.rice.cs.drjava.config.StringOption JAVADOC_1_3_LINK | javadoc  1   3  link
+edu.rice.cs.drjava.config.StringOption JAVADOC_1_4_LINK | javadoc  1   4  link
+edu.rice.cs.drjava.config.StringOption JAVADOC_1_5_LINK | javadoc  1   5  link
+edu.rice.cs.drjava.config.StringOption JAVADOC_1_6_LINK | javadoc  1   6  link
+edu.rice.cs.drjava.config.StringOption JAVADOC_CUSTOM_PARAMS | javadoc custom params
+edu.rice.cs.drjava.config.VectorOption<java.lang.String> JAVADOC_ADDITIONAL_LINKS | javadoc additional links
+edu.rice.cs.drjava.model.compiler.CompilerErrorModel _javadocErrorModel | javadoc error model
+edu.rice.cs.drjava.model.javadoc.JavadocModel _javadoc | javadoc
+edu.rice.cs.drjava.model.javadoc.JavadocModel _javadocModel | javadoc model
+edu.rice.cs.drjava.ui.config.StringOptionComponent javadocCustomParams | javadoc custom params
+edu.rice.cs.drjava.ui.JavadocErrorPanel _javadocErrorPanel | javadoc error panel
+int saveBeforeJavadocCount | save before javadoc count
+java.lang.String[] apiJavadocChoices | api javadoc choices
+java.lang.String JAVADOC_1_3_TEXT | javadoc  1   3  text
+java.lang.String JAVADOC_1_4_TEXT | javadoc  1   4  text
+java.lang.String JAVADOC_1_5_TEXT | javadoc  1   5  text
+java.lang.String JAVADOC_1_6_TEXT | javadoc  1   6  text
+java.lang.String JAVADOC_AUTO_TEXT | javadoc auto text
+java.lang.String JAVADOC_NONE_TEXT | javadoc none text
+java.util.ArrayList<java.lang.String> apiJavadocVersionChoices | api javadoc version choices

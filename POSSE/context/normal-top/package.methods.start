@@ -1,0 +1,2 @@
+LinkedList<QString;> packageExplore(QString;QFile;) | package explore
+String packageNameToPath(QString;) | package name to path

@@ -1,0 +1,17 @@
+boolean getOperationMode() | get operation mode
+int getOperationType() | get operation type
+MockOperation getMockOperationByName(String name) | get mock operation by name
+String getOperationId() | get operation id
+String getOperationID() | get operation id
+String getOperationSpec(I) | get operation spec
+String getOperationSystemName() | get operation system name
+String getOperationTxnState(QString;) | get operation txn state
+void addOperationListener(QAzureusCoreOperationListener;) | add operation listener
+void DHTOperationListenerDemuxer(QDHTOperationListener;) | dht operation listener demuxer
+void initialiseOperationDetailsGroup() | initialise operation details group
+void refreshOperationDetails() | refresh operation details
+void registerOperationTxnMandatory(QString;) | register operation txn mandatory
+void registerOperationTxnNone(QString;) | register operation txn none
+void registerOperationTxnRequiresNew(QString;) | register operation txn requires new
+void removeOperationListener(QAzureusCoreOperationListener;) | remove operation listener
+void test_basic_operation_lower() | test basic operation lower

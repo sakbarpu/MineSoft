@@ -1,0 +1,52 @@
+boolean closed(QItem;) | closed
+boolean closed(QItem;Z) | closed
+boolean isAutoClosed() | is auto closed
+boolean isAutoCloseEnabled() | is auto close enabled
+boolean isAutoCloseSessionEnabled() | is auto close session enabled
+boolean isClosed() | is closed
+void butClose_actionPerformed() | but close action performed
+void butClose_actionPerformed(QActionEvent;) | but close action performed
+void chatConnectionClosed(Qymsg.network.event.SessionEvent;) | chat connection closed
+void checkClosed() | check closed
+void clientClosed() | client closed
+void Close_actionPerformed(QActionEvent;) | close action performed
+void closeButtonActionPerformed(Qjava.awt.event.ActionEvent;) | close button action performed
+void closed() | closed
+void closedownInitiated() | close down initiated
+void closeIfRequired() | close if required
+void connectionClosed(QAEProxyConnection;) | connection closed
+void connectionClosed(Qymsg.network.event.SessionEvent;) | connection closed
+void errorIfClosed() | error if closed
+void _fileClosed(QOpenDefinitionsDocument;) | file closed
+void fileClosed(QOpenDefinitionsDocument;) | file closed
+void fireProjectClosed() | fire project closed
+void formInternalFrameClosed(Qjavax.swing.event.InternalFrameEvent;) | form internal frame closed
+void formWindowClosed(Qjava.awt.event.WindowEvent;) | form window closed
+void internalFrameClosed(QInternalFrameEvent;) | internal frame closed
+void internalFrameClosed(Qjavax.swing.event.InternalFrameEvent;) | internal frame closed
+void internalFrameClosed(QJMDIFrame;) | internal frame closed
+void itemClosed(QCTabFolderEvent;) | item closed
+void jButtonCloseActionPerformed(Qjava.awt.event.ActionEvent;) | j button close action performed
+void jMenuItemCloseActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close action performed
+void jMenuItemCloseAllActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all action performed
+void jMenuItemCloseAllExceptThisActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all except this action performed
+void jMenuItemCloseAllExceptThisFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all except this from list action performed
+void jMenuItemCloseAllFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close all from list action performed
+void jMenuItemCloseFromListActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close from list action performed
+void jMenuItemCloseLogActionPerformed(Qjava.awt.event.ActionEvent;) | j menu item close log action performed
+void jRTextExpressionCloseTextChanged() | j r text expression close text changed
+void mapClosed(QMapModule;) | map closed
+void menuFileCloseActionPerformed(Qjava.awt.event.ActionEvent;) | menu file close action performed
+void peerConnectionClosed(QPEPeerTransport;ZZ) | peer connection closed
+void projectClosed() | project closed
+void sessionFactoryClosed(QSessionFactory;) | session factory closed
+void setAutoCloseSessionEnabled(Z) | set auto close session enabled
+void setClosed() | set closed
+void setClosed(Z) | set closed
+void shellClosed(QShellEvent;) | shell closed
+void sidebarClosed(QSideBarEntrySWT;) | sidebar closed
+void testDancingUIFileClosed() | test dancing ui file closed
+void testOpenClosed() | test open closed
+void waitUntilClosed() | wait until closed
+void windowClosed(Qjava.awt.event.WindowEvent;) | window closed
+void windowClosed(QWindowEvent;) | window closed

@@ -1,0 +1,4 @@
+edu.rice.cs.drjava.config.VectorOption<java.io.File> RECENT_PROJECTS | recent projects
+java.lang.String IREPORT_RECENT_PROJECTS_FILE | ireport recent projects file
+java.util.LinkedList projects | projects
+java.util.Vector recentProjectsList | recent projects list

@@ -1,0 +1,5 @@
+CONS InvalidPackageException(IQString;) | invalid package exception
+CONS NativeJavaPackage(QString;) | native java package
+CONS NativeJavaPackage(QString;QClassLoader;) | native java package
+CONS NativeJavaPackage(ZQString;QClassLoader;) | native java package
+CONS NativeJavaTopPackage(QClassLoader;) | native java top package

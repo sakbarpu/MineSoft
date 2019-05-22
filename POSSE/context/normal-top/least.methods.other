@@ -1,0 +1,4 @@
+boolean getUseLeastValues() | get use least values
+PeerItem[] getExchangedPeersSortedByLeastPopularFirst() | get exchanged peers sorted by least popular first
+String useLeastValuesTipText() | use least values tip text
+void setUseLeastValues(Z) | set use least values

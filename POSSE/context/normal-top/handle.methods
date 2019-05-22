@@ -1,0 +1,399 @@
+AST handleIdentifierError(QToken;QRecognitionException;) | handle identifier error
+boolean canHandleBuddy(QBuddyPluginBuddy;) | can handle buddy
+boolean[] canHandleClassAsNthAttribute(QAttrTypes;IIII) | can handle class as nth attribute
+boolean[] canHandleClassAsNthAttribute(ZZZZZZII) | can handle class as nth attribute
+boolean[] canHandleMissing(QAttrTypes;IZZI) | can handle missing
+boolean[] canHandleMissing(ZZZZZZIZZI) | can handle missing
+boolean[] canHandleMissing(ZZZZZZZI) | can handle missing
+boolean[] canHandleNClasses(QAttrTypes;I) | can handle n classes
+boolean[] canHandleNClasses(ZZZZZZI) | can handle n classes
+boolean[] canHandleOnlyClass(ZZZZZI) | can handle only class
+boolean[] canHandleZeroTraining(QAttrTypes;I) | can handle zero training
+boolean[] canHandleZeroTraining(ZZZZZZ) | can handle zero training
+boolean[] canHandleZeroTraining(ZZZZZZI) | can handle zero training
+boolean doHandleThisSite(QURL;) | do handle this site
+boolean handleAuthorization(QString;) | handle authorization
+boolean handleCommandLineArgs([QString;) | handle command line args
+boolean handleCookies(QString;Z) | handle cookies
+boolean handleDialogResult(QJOptionPane;QString;) | handle dialog result
+boolean handleDraggedFilenames(QString;I) | handle dragged filenames
+boolean handleDraggedFiles(QList<QFile;>;I) | handle dragged files
+boolean handleDrop(QPoint2D.Double;QCollection<QFigure;>;QDrawingView;) | handle drop
+boolean handleDropTransfer(QString;I) | handle drop transfer
+boolean handleDropTransfer(QURL;I) | handle drop transfer
+boolean handleEvent(QEvent;) | handle event
+boolean handleEvent(QValidationEvent;) | handle event
+boolean handleException(QException;QFile;) | handle exception
+boolean handleExternalRequest(QInetSocketAddress;QString;QString;QString;QInputStream;QOutputStream;QAsyncController;) | handle external request
+boolean handleExternalRequest(QInetSocketAddress;QString;QString;QURL;QString;QInputStream;QOutputStream;QAsyncController;) | handle external request
+boolean handleFile(QFile;) | handle file
+boolean handleInterception(QFlushEntityEvent;) | handle interception
+boolean handleMouseClick(QPoint2D.Double;QMouseEvent;QDrawingView;) | handle mouse click
+boolean handleMouseWheelEvent(QMouseWheelEvent;) | handle mouse wheel event
+boolean handle(QEvent;) | handle
+boolean handleReadAccess(QString;QString;) | handle read access
+boolean handleRead(QString;QString;) | handle read
+boolean handlesElement(StructureElement element) | handles element
+boolean handles(QCapability;) | handles
+boolean handleStopRestart(Z) | handle stop restart
+boolean handleSubscriptionAuth(QSubscription;QMap;) | handle subscription auth
+boolean handleWriteAccess(QString;QString;) | handle write access
+boolean handleWrite(QString;QString;) | handle write
+boolean hasBattleArmorHandles() | has battle armor handles
+boolean isDirtyCheckHandledByInterceptor() | is dirty check handled by interceptor
+boolean isDontHandleEvent() | is dont handle event
+boolean isHandledType(Class type) | is handled type
+boolean isHandler(int type) | is handler
+boolean[] multiInstanceHandler() | multi instance handler
+boolean removeHandler(QString;) | remove handler
+boolean[] weightedInstancesHandler() | weighted instances handler
+BuddyPluginAZ2 getAZ2Handler() | get az 2 handler
+BuddyPluginBuddyMessageHandler getMessageHandler() | get message handler
+byte[] handleRead(QDHTPluginContact;[B) | handle read
+byte[] handleRead(QDHTTransportContact;[B) | handle read
+byte[] handleWrite(QDHTTransportContact;[B[B) | handle write
+CapabilitiesHandler getHandler() | get handler
+CharacterEscapeHandler createEscapeHandler(QString;) | create escape handler
+char getHandleMementoDelimiter() | get handle memento delimiter
+ClientMessageHandler getHandler() | get handler
+Collection<QHandle;> createHandles(I) | create handles
+Collection<QHandle;> createHandles(QBezierPath;) | create handles
+Collection<QHandle;> createSecondaryHandles() | create secondary handles
+Collection<QHandle;> getCompatibleHandles(QHandle;) | get compatible handles
+ConnectionHandler getConnectionHandler() | get connection handler
+CostMatrix handleCostOption(QString;I) | handle cost option
+CryptoHandler getECCHandler() | get ecc handler
+DataFlavorHandler[] getFlavorHandlers() | get flavor handlers
+DHTTransportRequestHandler getRequestHandler() | get request handler
+DHTUDPPacketHandler getHandler(QDHTTransportUDPImpl;QDHTUDPRequestHandler;) | get handler
+DHTUDPPacketHandler getHandlerSupport(QDHTTransportUDPImpl;QDHTUDPRequestHandler;) | get handler support
+DHTUDPRequestHandler getRequestHandler() | get request handler
+DTDHandler getDTDHandler() | get dtd handler
+Element handle(QConnection;QElement;) | handle
+Element handle(QFreeColServer;QPlayer;QConnection;) | handle
+Element handle(QPlayer;QConnection;QElement;) | handle
+EventHandler getHandler() | get handler
+ExecuteStreamHandler createStreamHandler() | create stream handler
+FieldHandler getFieldHandler() | get field handler
+FileHandler getFileHandler() | get file handler
+GenericMessageHandler getHandler(QString;) | get handler
+Handle findHandle(QPoint;) | find handle
+Handle getHandle() | get handle
+InGameInputHandler getInGameInputHandler() | get in game input handler
+InputHandler getInputHandler() | get input handler
+InterpretResult.Visitor<QVoid;> resultHandler() | result handler
+int getBundleHandle(QString;QClassLoader;) | get bundle handle
+int getCopyHandle() | get copy handle
+int getDefaultPasswordHandlerType() | get default password handler type
+int getExceptionHandler(QCallFrame;Z) | get exception handler
+int getHandleDetailLevel() | get handle detail level
+int getHandlerType() | get handler type
+int getHandlesize() | get handle size
+int getObjectHandle() | get object handle
+int handleDownload(QString;) | handle download
+int handleEvents(QIProgressReport;) | handle events
+int handleLocation(QString;ZI) | handle location
+int handlePostBidBuyPage(QCookieJar;QStringBuffer;QJHTML.Form;QAuctionEntry;) | handle post bid buy page
+int handleTransferRequest(QDHTTransportUDPContactImpl;J[B[B[BIIZZ) | handle transfer request
+int handleUpload(QString;) | handle upload
+int handleUpload(QString;QString;) | handle upload
+int pickHandle(I) | pick handle
+IpRange checkExternalHandlers([BQInetAddress;) | check external handlers
+IpRange checkExternalHandlers([BQString;) | check external handlers
+java.util.List<QHandle;> getSecondaryHandles() | get secondary handles
+java.util.List<QHandle;> getSelectionHandles() | get selection handles
+JDBCException handledNonSpecificException(QSQLException;QString;QString;) | handled non specific exception
+LinkedList<QHandle;> createHandles(I) | create handles
+List handleExtension(QPEPeerControl;QMap;) | handle extension
+Map handleChallengeFromSpeedTestService(QFile;QMap;) | handle challenge from speed test service
+MessageHandler getMessageHandler() | get message handler
+NetworkHandler getNetworkHandler() | get network handler
+Object[] handleAnnounceAndScrape(QString;QPRUDPPacketRequest;I) | handle announce and scrape
+Object handleGetObject(QString;) | handle get object
+OptionHandler getDefaultHandler() | get default handler
+OptionHandler getOptionHandler() | get option handler
+OutputStream _invoke(String opName, InputStream _is, ResponseHandler handler) | invoke
+OutputStream _OB_op_define_property(InputStream in, ResponseHandler handler) | ob op define property
+OutputStream _OB_op_get_constraints(InputStream in, ResponseHandler handler) | ob op get constraints
+OutputStream _OB_op_get_observations_by_time(InputStream in, ResponseHandler handler) | ob op get observations by time
+ParseErrorHandler getParseErrorHandler() | get parse error handler
+PreGameInputHandler getPreGameInputHandler() | get pre game input handler
+PRUDPPacket handleConnect(QString;QPRUDPPacketRequest;) | handle connect
+PRUDPPacketHandler getHandler() | get handler
+PRUDPPacketHandler getHandler(I) | get handler
+PRUDPPacketHandler getHandler(IQInetAddress;QPRUDPRequestHandler;) | get handler
+PRUDPPacketHandler getHandler(IQPRUDPRequestHandler;) | get handler
+PRUDPPacketHandler getPacketHandler() | get packet handler
+PRUDPReleasablePacketHandler getReleasableHandler(I) | get releasable handler
+PRUDPReleasablePacketHandler getReleasableHandler(IQPRUDPRequestHandler;) | get releasable handler
+PRUDPRequestHandler getRequestHandler() | get request handler
+SAXUnmarshallerHandler createUnmarshallerHandler(QLocator;) | create unmarshaller handler
+SQLDataHandler getDefaultHandler() | get default handler
+String fileMonitorHandle() | file monitor handle
+String getFileMonitorHandle() | get file monitor handle
+String handleUnit(QCalendar;QCalendar;QInteger;) | handle unit
+TabItemLoadHandler getTabItemLoadHandlerNewInstance() | get tab item load handler new instance
+TagHandler getDefaultTagHandler() | get default tag handler
+Tool createHandleTracker(QHandle;) | create handle tracker
+UnmarshallerHandler getUnmarshallerHandler() | get unmarshaller handler
+UnmarshallingEventHandler getCurrentHandler() | get current handler
+URLStreamHandler createURLStreamHandler(QString;) | create url stream handler
+URLStreamHandler getDefaultStreamHandler(QString;) | get default stream handler
+UserConnectionHandler getUserConnectionHandler() | get user connection handler
+ValidationEventHandler getEventHandler() | get event handler
+void addBoxHandles(QFigure;QCollection<QHandle;>;) | add box handles
+void addEdgeHandles(QFigure;QCollection<QHandle;>;) | add edge handles
+void addExceptionHandler(IIIQString;) | add exception handler
+void addExceptionHandler(IIIZII) | add exception handler
+void addExternalHandler(QIpFilterExternalHandler;) | add external handler
+void addFieldHandledInterface(QClassFile;) | add field handled interface
+void addFieldHandlerField(QClassFile;) | add field handler field
+void addGetFieldHandlerMethod(QClassFile;) | add get field handler method
+void addHandleListener(QHandleListener;) | add handle listener
+void addHandlerForMimeType(String mimetype, String className) | add handler for mime type
+void addHandler(IQEventHandler;) | add handler
+void addHandler(QString;QSQLDataHandler;) | add handler
+void addInvokeFieldHandlerMethod(QClassFile;QBytecode;QString;Z) | add invoke field handler method
+void addLeadHandles(QFigure;QCollection<QHandle;>;) | add lead handles
+void addLogHandlers(JTextPane traceWindow) | add log handlers
+void addMenuEventHandlers() | add menu event handlers
+void addMoveHandles(QFigure;QCollection<QHandle;>;) | add move handles
+void addPasswordHandler(QCryptoManagerPasswordHandler;) | add password handler
+void addSetFieldHandlerMethod(QClassFile;) | add set field handler method
+void addTagHandler(QTagHandler;) | add tag handler
+void addTransferHandler(QDistributedDatabaseTransferType;QDistributedDatabaseTransferHandler;) | add transfer handler
+void AimedShotHandler() | aimed shot handler
+void ChildHandler(QAbstractCompositeFigure;) | child handler
+void ChildHandler(QLabeledLineConnectionFigure;) | child handler
+void ColumnHandler(QResourceColumn;) | column handler
+void ConnectionHandler(QLineConnectionFigure;) | connection handler
+void createPacketHandler() | create packet handler
+void createTransferHandlers(QHome;QHomeController;) | create transfer handlers
+void deregisterHandler(QActionHandler;) | deregister handler
+void deRegisterMouseWheelEventHandler(QMouseWheelEventHandler;) | de register mouse wheel event handler
+void drawHandles(Qjava.awt.Graphics2D;) | draw handles
+void EastHandle(QFigure;) | east handle
+void eventHandlerError(QThrowable;) | event handler error
+void ExceptionHandler() | exception handler
+void FileListEditorTransferHandler() | file list editor transfer handler
+void FileTransferHandler(QOptionsTable;) | file transfer handler
+void FileTransferHandler(ZQOptionsTable;) | file transfer handler
+void fireHandleRequestRemove(QRectangle;) | fire handle request remove
+void fireHandleRequestSecondaryHandles() | fire handle request secondary handles
+void fragmentHandler(QGenericMessageConnection;QfragmentHandlerReceiver;) | fragment handler
+void getReservedFileHandles() | get reserved file handles
+void handleAbout() | handle about
+void handleAbout(QApplicationEvent;) | handle about
+void handleAlreadyOpenDocument(QOpenDefinitionsDocument;) | handle already open document
+void handleAndSendReply(QBufferedInputStream;) | handle and send reply
+void handleAnnounce(QDownload;QDownloadAnnounceResult;) | handle announce
+void handleAnnounceScrapeStatus(QDownload;QString;) | handle announce scrape status
+void handleArgs([QString;) | handle args
+void handle_bad_title(QString;) | handle bad title
+void _handleBreakpointEvent(QBreakpointEvent;) | handle breakpoint event
+void handleBreakpointHit(QStackFrame;QContext;) | handle breakpoint hit
+void handleBuddyInvites() | handle buddy invites
+void handleCancel() | handle cancel
+void _handleClassPrepareEvent(QClassPrepareEvent;) | handle class prepare event
+void handleClick(QMouseEvent;) | handle click
+void handleClose() | handle close
+void handleCompilationDone(QContext;QDebuggableScript;QString;) | handle compilation done
+void handleCompletedDownload([QDefaultRankCalculator;QDefaultRankCalculator;QProcessVars;QTotalsStats;) | handle completed download
+void handleConfigLoading() | handle config loading
+void handleConnection(QSocket;) | handle connection
+void handleConnect(QFigure;QFigure;) | handle connect
+void handleCrypto(QInetSocketAddress;QSocketChannel;QByteBuffer;IQConnectListener;) | handle crypto
+void handleCustomSQL(QElement;QCollection;) | handle custom sql
+void handleCustomSQL(QElement;QJoin;) | handle custom sql
+void handleCustomSQL(QElement;QPersistentClass;) | handle custom sql
+void handleDisconnectedException() | handle disconnected exception
+void handleDisconnect(QFigure;QFigure;) | handle disconnect
+void handleDotIdent() | handle dot ident
+void handleDotStructure(QAST;) | handle dot structure
+void handleDoubleClick(QMouseEvent;) | handle double click
+void handleDroppedfile(QString;QExternalFileType;ZQBibtexEntry;) | handle dropped file
+void handleDroppedfile(QString;QExternalFileType;ZQMainTable;I) | handle dropped file
+void handleDrop(QDropTargetDropEvent;QTransferable;) | handle drop
+void handleElements(QFromReferenceNode;QString;) | handle elements
+void handleEmailInvites() | handle email invites
+void handleEmptyCollections([QSerializable;QObject;QSessionImplementor;) | handle empty collections
+void handleEndTag(QTag;I) | handle end tag
+void handleEntityNotFound(QString;QSerializable;) | handle entity not found
+void handleEntity(QString;QString;QMappings;) | handle entity
+void handleEntry(QZipEntry;[B) | handle entry
+void handleEnumeratedAttribute(QInstances;) | handle enumerated attribute
+void handleEvent(QEvent;) | handle event
+void handleEvent(Qorg.eclipse.swt.widgets.Event;) | handle event
+void handleEvent(QPluginEvent;) | handle event
+void handleEvent(QValidationEvent;Z) | handle event
+void handleException(QException;) | handle exception
+void handleException(QString;QException;) | handle exception
+void handleException(QString;QThrowable;) | handle exception
+void handleExceptionThrown(QContext;QThrowable;QStackFrame;) | handle exception thrown
+void handleFile(QAzureusCore;QString;Z) | handle file
+void handleFiles([QVuzeFile;I) | handle files
+void handleGenericException(QException;) | handle generic exception
+void handleGrabAction(QKeyEvent;) | handle grab action
+void handleHover(QPoint;) | handle hover
+void handleInCompleteDownload(QDefaultRankCalculator;QProcessVars;QTotalsStats;) | handle in complete download
+void handleIncrementalEvent() | handle incremental event
+void handleIndentation(QStringBuffer;) | handle indentation
+void handleInviteConfirm() | handle invite confirm
+void handle(IQPacket;) | handle
+void handleJoinedSubclass(QPersistentClass;QMappings;QElement;Qjava.util.Map;) | handle joined subclass
+void handleLine(QString;) | handle line
+void handleListener() | handle listener
+void handleLoadingException(QException;) | handle loading exception
+void handleLockExpiry(QObject;) | handle lock expiry
+void handleLoginStatus() | handle login status
+void handleLoginUpdate() | handle login update
+void handleLowNoise(QUpdateCheckInstance;) | handle low noise
+void handleMessage(QBrowserMessage;) | handle message
+void handleNoFileExists(QDownloadManager;) | handle no file exists
+void handleNonTxnlMessage(QBrowserMessage;) | handle non tx nl message
+void handleNumericAttribute(QInstances;) | handle numeric attribute
+void handleOpenFile(QApplicationEvent;) | handle open file
+void handleOpenURL() | handle open url
+void handleOperand(QString;) | handle operand
+void handleOperator(QString;) | handle operator
+void handlePacket(QPacket;) | handle packet
+void handleParseConversionException(QException;) | handle parse conversion exception
+void handlePluginSelection(QPluginNode;) | handle plugin selection
+void handlePopupMenu(QMouseEvent;) | handle popup menu
+void handlePopup(QMouseEvent;) | handle popup
+void handlePopupTrigger(QMouseEvent;) | handle popup trigger
+void handlePreferences(QApplicationEvent;) | handle preferences
+void handlePrefs() | handle prefs
+void handlePrintConversionException(QObject;QException;QXMLSerializer;) | handle print conversion exception
+void handle(QConnection;QXMLStreamReader;QXMLStreamWriter;) | handle
+void handle(QDocumentEvent;) | handle
+void handleQuit() | handle quit
+void handleQuit(QApplicationEvent;) | handle quit
+void handleRedirects(QString;QString;Z) | handle redirects
+void handleRefresh() | handle refresh
+void _handleRemoteException(QRemoteException;) | handle remote exception
+void handleReOpenApplication(QApplicationEvent;) | handle re open application
+void handleReplicate(QWritableRaster;) | handle replicate
+void handleRequest(QHttpServletResponse;QString;) | handle request
+void handleRequestRemove(QHandleEvent;) | handle request remove
+void handleRequestSecondaryHandles(QHandleEvent;) | handle request secondary handles
+void handleResize() | handle resize
+void handleResize(Z) | handle resize
+void handleRestart() | handle restart
+void handleRightClick(QMouseEvent;II) | handle right click
+void handleRightNodeClick(QMouseEvent;) | handle right node click
+void handleSave(Z) | handle save
+void handleScrape(QDownload;QDownloadScrapeResult;) | handle scrape
+void handleShowResize(QEvent;) | handle show resize
+void handleSlaveQuit(I) | handle slave quit
+void handleSlaveWontStart(QException;) | handle slave wont start
+void handleSocket(QNetworkInterface;QInetAddress;QDatagramSocket;Z) | handle socket
+void handleStart(QMasterRemote;) | handle start
+void handleStartTag(QHTML.Tag;QMutableAttributeSet;I) | handle start tag
+void _handleStepEvent(QStepEvent;) | handle step event
+void handleSubclass(QPersistentClass;QMappings;QElement;Qjava.util.Map;) | handle subclass
+void handleTag(IQXMLElement;) | handle tag
+void handleText([CI) | handle text
+void handleText(Qjava.lang.String;) | handle text
+void handleText(QString;) | handle text
+void _handleThreadDeathEvent(QThreadDeathEvent;) | handle thread death event
+void _handleThreadStartEvent(QThreadStartEvent;) | handle thread start event
+void handleTorrentURL(QString;) | handle torrent url
+void handleTrackResult(QAZInstanceTracked;) | handle track result
+void handleTxnlMessage(QBrowserMessage;QBrowserTransaction;) | handle tx nl message
+void handleUnexpectedTextException(QString;QRuntimeException;) | handle unexpected text exception
+void handleUnionSubclass(QPersistentClass;QMappings;QElement;Qjava.util.Map;) | handle union subclass
+void handleValueResult(QString;) | handle value result
+void _handleVMDeathEvent(QVMDeathEvent;) | handle vm death event
+void _handleVMDisconnectEvent(QVMDisconnectEvent;) | handle vm disconnect event
+void handleWithFragment(QFromElement;QAST;) | handle with fragment
+void handleWrap(QWritableRaster;) | handle wrap
+void handleWrite(QDHTPluginContact;[B[B) | handle write
+void handleZero(QWritableRaster;) | handle zero
+void installFramePrefsHandler(QPreferences;QString;QWindow;) | install frame prefs handler
+void installInternalFramePrefsHandler(QPreferences;QString;QJInternalFrame;QJDesktopPane;) | install internal frame prefs handler
+void installPalettePrefsHandler(QPreferences;QString;QWindow;) | install palette prefs handler
+void installPalettePrefsHandler(QPreferences;QString;QWindow;I) | install palette prefs handler
+void installToolBarPrefsHandler(QPreferences;QString;QJToolBar;) | install tool bar prefs handler
+void invalidateHandles() | invalidate handles
+void lookupResultHandler(QDHTOperationListener;) | lookup result handler
+void markHandler(I) | mark handler
+void MyErrorHandler(QPrintWriter;) | my error handler
+void NorthEastHandle(QFigure;) | north east handle
+void NorthHandle(QFigure;) | north handle
+void NorthWestHandle(QFigure;) | north west handle
+void PassThroughHandler(QObject;QString;) | pass through handler
+void popContentHandler() | pop content handler
+void PresentationFigureHandler(QGraphicalCompositeFigure;) | presentation figure handler
+void pushContentHandler(QUnmarshallingEventHandler;I) | push content handler
+void reallyHandleEvent(QEvent;) | really handle event
+void refExceptionHandler(Token exTypeAndName, Token action) | ref exception handler
+void registerAlertHandler() | register alert handler
+void registerExtensionHandler(QString;QPEPeerTransportExtensionHandler;) | register extension handler
+void registerHandler([BQDHTPluginTransferHandler;) | register handler
+void registerHandler(QActionHandler;) | register handler
+void registerHandler(QNATTraversalHandler;) | register handler
+void registerMessageHandler() | register message handler
+void registerMouseWheelEventHandler(QMouseWheelEventHandler;) | register mouse wheel event handler
+void registerSmbURLHandler() | register smb url handler
+void registerTransferHandler([BQDHTTransportTransferHandler;) | register transfer handler
+void releaseReservedFileHandles() | release reserved file handles
+void removeExternalHandler(QIpFilterExternalHandler;) | remove external handler
+void removeHandleListener(QHandleListener;) | remove handle listener
+void removePasswordHandler(QCryptoManagerPasswordHandler;) | remove password handler
+void ResizeHandle(QFigure;QLocator;) | resize handle
+void setCertificateHandler(QURL;QSECertificateListener;) | set certificate handler
+void setConnectionHandler(QConnectionHandler;) | set connection handler
+void setContentHandler(ContentHandler handler) | set content handler
+void setCookieHandler() | set cookie handler
+void setDefaultPasswordHandlerType(I) | set default password handler type
+void setDirtyCheckHandledByInterceptor(Z) | set dirty check handled by interceptor
+void setDontHandleEvent(Z) | set dont handle event
+void setErrorHandler(ErrorHandler handler) | set error handler
+void setEventHandler(QValidationEventHandler;) | set event handler
+void setFieldHandler(QFieldHandler;) | set field handler
+void setFileHandler(QFileHandler;) | set file handler
+void setFileMonitorHandle(QString;) | set file monitor handle
+void setHandleDetailLevel(I) | set handle detail level
+void setHandleHTML(Z) | set handle html
+void setHandleRightClicks(Z) | set handle right clicks
+void setHandler(QCapabilitiesHandler;) | set handler
+void setHandler(QClientMessageHandler;) | set handler
+void setHandler(String handler) | set handler
+void setInputHandler(QInputHandler;) | set input handler
+void setMessageHandler(QMessageHandler;) | set message handler
+void setMessageHandlerToAllConnections(QMessageHandler;) | set message handler to all connections
+void setOptionHandler(QOptionHandler;) | set option handler
+void setOutgoingMessageHandler(QDummyConnection;) | set outgoing message handler
+void setOutgoingMessageHandler(QMessageHandler;) | set outgoing message handler
+void setPasswordHandler(QURL;QSEPasswordListener;) | set password handler
+void setPrimordialHandler(QPRUDPPrimordialHandler;) | set primordial handler
+void setRequestHandler(QDHTTransportRequestHandler;) | set request handler
+void setRequestHandler(QPRUDPRequestHandler;) | set request handler
+void setShowsRootHandles(boolean newValue) | set shows root handles
+void setSingleInstanceHandler(IQPluginManagerArgumentHandler;) | set single instance handler
+void setStatementHandler(StatementHandler sh) | set statement handler
+void setThreadPasswordHandler(QSEPasswordListener;) | set thread password handler
+void setTorrentURLHandler(QtorrentURLHandler;) | set torrent url handler
+void setURLStreamHandlerFactory(QURLStreamHandlerFactory;) | set url stream handler factory
+void SouthEastHandle(QFigure;) | south east handle
+void SouthHandle(QFigure;) | south handle
+void SouthWestHandle(QFigure;) | south west handle
+void spawnHandlerFromEnterAttribute(QUnmarshallingEventHandler;IQString;QString;QString;) | spawn handler from enter attribute
+void spawnHandlerFromEnterElement(QUnmarshallingEventHandler;IQString;QString;QString;QAttributes;) | spawn handler from enter element
+void spawnHandlerFromFromText(QUnmarshallingEventHandler;IQString;) | spawn handler from from text
+void spawnHandlerFromLeaveAttribute(QUnmarshallingEventHandler;IQString;QString;QString;) | spawn handler from leave attribute
+void spawnHandlerFromLeaveElement(QUnmarshallingEventHandler;IQString;QString;QString;) | spawn handler from leave element
+void spawnHandlerFromText(QUnmarshallingEventHandler;IQString;) | spawn handler from text
+void startHandler() | start handler
+void testSaveNullClassPropertyFilterHandler() | test save null class property filter handler
+void testSimpleExceptionMappingWithHandlerClassSpecifiedButWrongHandler() | test simple exception mapping with handler class specified but wrong handler
+void testTransferHandler() | test transfer handler
+void testVerifyErrorHandledCorrectly() | test verify error handled correctly
+void trailerHandler(Response resp, RoRequest req) | trailer handler
+void transferHandlerInterceptor(QDHTTransportTransferHandler;) | transfer handler interceptor
+void unsetThreadPasswordHandler() | unset thread password handler
+void updateMetaData_handleReply(QTOTorrent;QString;QString;QMap;) | update meta data handle reply
+void validateHandles() | validate handles
+void WestHandle(QFigure;) | west handle
+VuzeFile loadAndHandleVuzeFile(QString;I) | load and handle vu ze file

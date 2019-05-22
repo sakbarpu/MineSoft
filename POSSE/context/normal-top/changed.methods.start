@@ -1,0 +1,4 @@
+IBasicOption changedOption() | changed option
+void changedUpdate(QDocumentEvent;) | changed update
+void changedUpdate(QDocumentEvent;QShape;QViewFactory;) | changed update
+void changedUpdate(Qjavax.swing.event.DocumentEvent;) | changed update

@@ -1,0 +1,3 @@
+boolean DL_VITALITY_CONSTANT | dl vitality constant
+edu.rice.cs.drjava.config.VectorOption<java.io.File> _settingConfigConstant | setting config constant
+long FileHeaderConstant | file header constant

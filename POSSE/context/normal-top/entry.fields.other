@@ -1,0 +1,9 @@
+int MIN_CACHE_ENTRY_SIZE | min cache entry size
+java.lang.String APPLICATION_ENTRY_POINT | application entry point
+java.lang.String m_sEntryName | m s entry name
+java.lang.String resultsEntryPath | results entry path
+long last_entry_count | last entry count
+org.bouncycastle.asn1.x509.X509Extensions crlEntryExtensions | crl entry extensions
+org.mozilla.javascript.optimizer.DataFlowBitSet itsLiveOnEntrySet | its live on entry set
+short[] SLICE_ENTRY_ALLOC_SIZES | slice entry alloc sizes
+short[] SLICE_ENTRY_SIZES | slice entry sizes

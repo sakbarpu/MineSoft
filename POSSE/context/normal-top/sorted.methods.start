@@ -1,0 +1,6 @@
+CollectionType sortedMap(QString;QString;ZQComparator;) | sorted map
+CollectionType sortedSet(QString;QString;ZQComparator;) | sorted set
+Iterator sortedChildren(QNodeItem;) | sorted children
+void SortedListModel() | sorted list model
+void SortedSubMap(QSortedMap;) | sorted sub map
+void sortedTransportContactSet([BZ) | sorted transport contact set

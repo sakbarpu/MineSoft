@@ -1,0 +1,2 @@
+MiscType createVacuumProtection() | create vacuum protection
+void setReWriteProtection(Z) | set re write protection

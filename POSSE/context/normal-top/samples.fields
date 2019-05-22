@@ -1,0 +1,4 @@
+int LOCAL_DIVERSIFICATION_READS_PER_MIN_SAMPLES | local diversification reads per min samples
+int MEDIUM_ESTIMATE_SAMPLES | medium estimate samples
+int SHORT_ESTIMATE_SAMPLES | short estimate samples
+java.lang.String[] SAMPLES | samples

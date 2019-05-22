@@ -1,0 +1,11 @@
+AccessibleRole getAccessibleRole() | get accessible role
+AccessibleText getAccessibleText() | get accessible text
+boolean isAccessibleTable(QTable;) | is accessible table
+boolean setCurrentAccessibleValue(Number number) | set current accessible value
+int getAccessibleChildrenCount() | get accessible children count
+Iterator iterateAccessibleTriggerClassNames(QUser;) | iterate accessible trigger class names
+Iterator iterateAllAccessibleMethods(QSession;Z) | iterate all accessible methods
+Method searchAccessibleMethod(QMethod;[QClass;) | search accessible method
+String getAccessibleDescription() | get accessible description
+void clearAccessibleSelection() | clear accessible selection
+void _getAccessibleRowExtentAt() | get accessible row extent at

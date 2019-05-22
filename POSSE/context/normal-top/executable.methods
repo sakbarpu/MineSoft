@@ -1,0 +1,4 @@
+boolean executableByExtension(QString;) | executable by extension
+boolean isExecutable(DrawingView aView) | is executable
+Criteria getExecutableCriteria(QSession;) | get executable criteria
+void _setEnableExecutable(Z) | set enable executable

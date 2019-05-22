@@ -1,0 +1,53 @@
+BibtexEntry getBibtexEntryFromDocumentInformation(QPDDocumentInformation;) | get bibtex entry from document information
+boolean selectDocumentAt(II) | select document at
+DocumentCache getDocumentCache() | get document cache
+DocumentIterator getDocumentIterator() | get document iterator
+DocumentListener[] getDocumentListeners() | get document listeners
+DocumentManager getDocumentManager() | get document manager
+DocumentStructurePanel getDocumentStructurePanel() | get document structure panel
+IDocumentNavigator<QOpenDefinitionsDocument;> getDocumentNavigator() | get document navigator
+InputStream getDocumentStream() | get document stream
+int compareDocumentOrder(QTask;QTask;) | compare document order
+InteractionsDJDocument getDocumentAdapter() | get document adapter
+int getDocumentCount() | get document count
+int getDocumentLength() | get document length
+int getDocumentSelectedCount() | get document selected count
+java.util.List getOpenedNodesDocumentStructure() | get opened nodes document structure
+JPanel _mainDocumentSelector() | main document selector
+Locator getDocumentLocator() | get document locator
+OpenDefinitionsDocument getDocumentForFile(QFile;) | get document for file
+SimpleXMLParserDocumentFactory getSimpleXMLParserDocumentFactory() | get simple xml parser document factory
+T newDocumentRegion(QOpenDefinitionsDocument;II) | new document region
+void addDocumentClosedListener(QDocumentClosedListener;) | add document closed listener
+void addDocumentListener(QDocumentListener;) | add document listener
+void _addDocumentStyles() | add document styles
+void _assertDocumentContents(QDJDocument;QString;QString;) | assert document contents
+void _assertDocumentEmpty(QDJDocument;QString;) | assert document empty
+void changeDocumentText(QString;QOpenDefinitionsDocument;) | change document text
+void exportOpenDocumentSpreadsheet(QFile;QBibtexDatabase;QSet<QString;>;) | export open document spreadsheet
+void exportOpenDocumentSpreadsheetXML(QFile;QBibtexDatabase;QSet<QString;>;) | export open document spreadsheet xml
+void _installNewDocumentListener(QOpenDefinitionsDocument;) | install new document listener
+void loadDocument1(QNode;QFile;) | load document 1
+void loadDocument2(QNode;QPluginManager;) | load document 2
+void removeDocumentClosedListener(QDocumentClosedListener;) | remove document closed listener
+void removeDocumentListener(QDocumentListener;) | remove document listener
+void scrollToDocumentAndOffset(QOpenDefinitionsDocument;IZ) | scroll to document and offset
+void scrollToDocumentAndOffset(QOpenDefinitionsDocument;IZZ) | scroll to document and offset
+void setDocumentLocator(Locator locator) | set document locator
+void setDocumentLocator(QLocator;) | set document locator
+void setDocumentNavigator(QIDocumentNavigator<QOpenDefinitionsDocument;>;) | set document navigator
+void setDocumentStructurePanel(QDocumentStructurePanel;) | set document structure panel
+void setOpenedNodesDocumentStructure(Qjava.util.List;) | set opened nodes document structure
+void showDocumentWithSameNameExists(String title, File file) | show document with same name exists
+void SimpleXMLParserDocumentException(QString;) | simple xml parser document exception
+void SimpleXMLParserDocumentException(QThrowable;) | simple xml parser document exception
+void storeOpenDocumentSpreadsheetFile(QFile;QInputStream;) | store open document spreadsheet file
+void testBrowserDocumentRegion() | test browser document region
+void testDocumentPaneMemoryLeak() | test document pane memory leak
+void testDocumentSwitching() | test document switching
+void testDummyDocumentRegion() | test dummy document region
+void testGetDocumentForFile() | test get document for file
+void testSimpleDocumentRegion() | test simple document region
+void testTasksAreInDocumentOrder() | test tasks are in document order
+void updateDocumentStructureTree(QJReportFrame;) | update document structure tree
+void writeDocumentInformation(QPDDocument;QBibtexEntry;QBibtexDatabase;) | write document information

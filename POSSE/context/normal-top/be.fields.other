@@ -1,0 +1,7 @@
+boolean filesShouldBeDeletedAfterShutdown | files should be deleted after shutdown
+boolean _shouldBeTestAll | should be test all
+int ET_ATTRIBUTE_WILL_BE_READ | et attribute will be read
+int PT_TORRENT_ATTRIBUTE_WILL_BE_READ | pt torrent attribute will be read
+int WILL_BE_READ | will be read
+java.util.Map direct_originator_map_may_be_null | direct originator map may be null
+org.gudy.azureus2.pluginsimpl.local.download.DownloadEventNotifierImpl.DownloadWillBeRemovedNotifier download_will_be_removed_notifier | download will be removed notifier

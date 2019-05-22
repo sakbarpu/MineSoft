@@ -1,0 +1,6 @@
+String twoDigit(I) | two digit
+String twoDigits(I) | two digits
+void twoHex(QStringBuffer;I) | two hex
+void TwoWayNominalSplit(II) | two way nominal split
+void TwoWayNumericSplit(ID) | two way numeric split
+void TwoWayNumericSplit(IQInstances;) | two way numeric split

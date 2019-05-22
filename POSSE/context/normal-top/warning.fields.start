@@ -1,0 +1,3 @@
+boolean WarningShown | warning shown
+int warning_count | warning count
+org.gudy.azureus2.core3.util.AESemaphore warning_sem | warning sem

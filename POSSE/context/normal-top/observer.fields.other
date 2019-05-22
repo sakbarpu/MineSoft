@@ -1,0 +1,3 @@
+float oldObserverCameraFieldOfView | old observer camera field of view
+float oldObserverCameraZ | old observer camera z
+javax.swing.JToggleButton.ToggleButtonModel viewFromObserverToggleModel | view from observer toggle model

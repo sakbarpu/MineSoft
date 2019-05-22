@@ -1,0 +1,7 @@
+int actualHashForEqual() | actual hash for equal
+int actualNumBags() | actual num bags
+int actualNumClasses() | actual num classes
+int actualNumClasses(I) | actual num classes
+String actualName() | actual name
+void actualOpenProject(String fileName) | actual open project
+void actualUpdateClassifier(QInstance;) | actual update classifier

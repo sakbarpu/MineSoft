@@ -1,0 +1,14 @@
+byte AL_MSG_BT_HAVE | al msg bt have
+int BLOCKCOLOR_AVAIL_HAVE | block color avail have
+int BLOCKCOLOR_AVAIL_NOHAVE | block color avail no have
+int BLOCKCOLOR_HAVE | block color have
+int BLOCKCOLORL_NOHAVE | block colorl no have
+int BLOCKCOLOR_NOAVAIL_HAVE | block color noa va il have
+int BLOCKCOLOR_NOAVAIL_NOHAVE | block color noa va il no have
+int BLOCKCOLOR_NOHAVE | block color no have
+int next_have | next have
+int SUBID_BT_HAVE | subid bt have
+int SUBID_ID_AZ_HAVE | subid id az have
+java.lang.String ID_AZ_HAVE | id az have
+java.lang.String ID_AZ_SESSION_HAVE | id az session have
+java.lang.String ID_BT_HAVE | id bt have

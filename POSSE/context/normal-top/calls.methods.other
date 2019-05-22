@@ -1,0 +1,2 @@
+void reportCallsOnTerminal(String terminal, boolean flag) | report calls on terminal
+void testMultipleCallsToFindNext() | test multiple calls to find next

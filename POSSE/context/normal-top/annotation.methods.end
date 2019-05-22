@@ -1,0 +1,6 @@
+AnnotationVisitor visitAnnotation(QString;Z) | visit annotation
+AnnotationVisitor visitParameterAnnotation(int parameter, String desc, boolean visible) | visit parameter annotation
+int addAnnotation(AnnotationSet annotationSet, Set lookupSet, Region matchedRegion) | add annotation
+ParsedElementAnnotation makeElementAnnotation() | make element annotation
+startAndEndTimes getStartAndEndTimesForOnTheFlyAnnotation(startAndEndTimes times) | get start and end times for on the fly annotation
+void testMultipleAnnotation() | test multiple annotation

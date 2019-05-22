@@ -1,0 +1,7 @@
+int HANDLER_ECC | handler ecc
+int handlerLen | handler len
+int handler_type | handler type
+int HANDLER_TYPE_ALL | handler type all
+int HANDLER_TYPE_SYSTEM | handler type system
+int HANDLER_TYPE_UNKNOWN | handler type unknown
+int HANDLER_TYPE_USER | handler type user

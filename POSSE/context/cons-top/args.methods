@@ -1,0 +1,4 @@
+CONS AsyncCompletionArgs(QR;QException;Z) | async completion args
+CONS AsyncCompletionArgs(QR;Z) | async completion args
+CONS VarArgsSQLFunction(QString;QString;QString;) | var args sql function
+CONS VarArgsSQLFunction(QType;QString;QString;QString;) | var args sql function
