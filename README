@@ -4,7 +4,7 @@ Project description;;;
     The project deals with knowledge extraction from software repositories.
     There are two techniques implemented here to extract knowledge from the code:
 
-        (1) SWordNet: Inferring semantically related words from software context, ESE Journal 2014
+        (1) SWordNet: Inferring semantically related words from software context, EMSE Journal 2014
         (2) VerbNet: Automatically Mining Software-Based,Semantically-Similar Words from Comment-Code Mappings, MSR 2013
 
     Mainly you can extract pairs of semantically related words from the corpus (repositories)
@@ -52,7 +52,9 @@ Prerequisite;;;
 		regex
 		string
 
-	(4) nltk stanford pos tagger need nltk internals to be pointed to java 1.8
+	(4) Java 1.8
+
+	(5) nltk stanford pos tagger need nltk internals to be pointed to java 1.8
 	
 		Find the line in the verbnet.py that says:
 		os.environ['JAVAHOME'] = "/usr/lib/jvm/java-1.8.0-openjdk-amd64/bin/java"
